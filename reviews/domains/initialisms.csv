@@ -1,0 +1,101 @@
+word,verdict,note,marks
+adc,initialism,Analogue-to-Digital Converter.,initialism
+adp,initialism,Adenosine Diphosphate.,initialism
+aids,initialism,Acquired Immune Deficiency Syndrome.,initialism
+api,initialism,Application Programming Interface.,initialism
+ascii,initialism,American Standard Code for Information Interchange.,initialism
+asic,initialism,Application-Specific Integrated Circuit.,initialism
+atp,initialism,Adenosine Triphosphate.,initialism
+bjt,initialism,Bipolar Junction Transistor.,initialism
+ceo,initialism,Chief Executive Officer.,initialism
+cfo,initialism,Chief Financial Officer.,initialism
+cli,initialism,Command-Line Interface.,initialism
+cmos,initialism,Complementary Metal-Oxide-Semiconductor.,initialism
+cpld,initialism,Complex Programmable Logic Device.,initialism
+cpu,initialism,Central Processing Unit.,initialism
+css,initialism,Cascading Style Sheets.,initialism
+csv,initialism,Comma-Separated Values.,initialism
+cto,initialism,Chief Technology Officer.,initialism
+dac,initialism,Digital-to-Analogue Converter.,initialism
+diy,initialism,Do It Yourself.,initialism
+dma,initialism,Direct Memory Access.,initialism
+dna,initialism,Deoxyribonucleic Acid.,initialism
+dns,initialism,Domain Name System.,initialism
+dvd,initialism,Digital Versatile Disc.,initialism
+dvi,initialism,Digital Visual Interface.,initialism
+ecg,initialism,Electrocardiogram.,initialism
+eeg,initialism,Electroencephalogram.,initialism
+eeprom,initialism,Electrically Erasable Programmable Read-Only Memory.,initialism
+emc,initialism,Electromagnetic Compatibility.,initialism
+emg,initialism,Electromyogram.,initialism
+emi,initialism,Electromagnetic Interference.,initialism
+eprom,initialism,Erasable Programmable Read-Only Memory.,initialism
+esd,initialism,Electrostatic Discharge.,initialism
+faq,initialism,Frequently Asked Questions.,initialism
+fpga,initialism,Field-Programmable Gate Array.,initialism
+ftp,initialism,File Transfer Protocol.,initialism
+gmo,initialism,Genetically Modified Organism.,initialism
+gpio,initialism,General-Purpose Input/Output.,initialism
+gps,initialism,Global Positioning System.,initialism
+gpu,initialism,Graphics Processing Unit.,initialism
+gui,initialism,Graphical User Interface.,initialism
+hdd,initialism,Hard Disk Drive.,initialism
+hdmi,initialism,High-Definition Multimedia Interface.,initialism
+hiv,initialism,Human Immunodeficiency Virus.,initialism
+hr,initialism,Human Resources.,initialism
+html,initialism,HyperText Markup Language.,initialism
+http,initialism,HyperText Transfer Protocol.,initialism
+https,initialism,HyperText Transfer Protocol Secure.,initialism
+igbt,initialism,Insulated-Gate Bipolar Transistor.,initialism
+jfet,initialism,Junction Field-Effect Transistor.,initialism
+jpeg,initialism,Joint Photographic Experts Group.,initialism
+json,initialism,JavaScript Object Notation.,initialism
+jtag,initialism,Joint Test Action Group.,initialism
+lan,initialism,Local Area Network.,initialism
+lcd,initialism,Liquid Crystal Display.,initialism
+led,initialism,Light-Emitting Diode.,initialism
+mosfet,initialism,Metal-Oxide-Semiconductor Field-Effect Transistor.,initialism
+mri,initialism,Magnetic Resonance Imaging.,initialism
+nfc,initialism,Near-Field Communication.,initialism
+nmos,initialism,N-channel Metal-Oxide-Semiconductor.,initialism
+ocr,initialism,Optical Character Recognition.,initialism
+oled,initialism,Organic Light-Emitting Diode.,initialism
+pcb,initialism,Printed Circuit Board.,initialism
+pdf,initialism,Portable Document Format.,initialism
+plc,initialism,Programmable Logic Controller.,initialism
+pmos,initialism,P-channel Metal-Oxide-Semiconductor.,initialism
+png,initialism,Portable Network Graphics.,initialism
+pwm,initialism,Pulse-Width Modulation.,initialism
+rfid,initialism,Radio-Frequency Identification.,initialism
+rms,initialism,Root Mean Square.,initialism
+rna,initialism,Ribonucleic Acid.,initialism
+rom,initialism,Read-Only Memory.,initialism
+rsvp,initialism,Repondez S'il Vous Plait; please reply.,initialism
+scada,initialism,Supervisory Control And Data Acquisition.,initialism
+scr,initialism,Silicon-Controlled Rectifier.,initialism
+sdk,initialism,Software Development Kit.,initialism
+smd,initialism,Surface-Mount Device.,initialism
+sms,initialism,Short Message Service.,initialism
+smt,initialism,Surface-Mount Technology.,initialism
+soc,initialism,System On a Chip.,initialism
+spi,initialism,Serial Peripheral Interface.,initialism
+sql,initialism,Structured Query Language.,initialism
+sram,initialism,Static Random-Access Memory.,initialism
+ssd,initialism,Solid-State Drive.,initialism
+ssh,initialism,Secure Shell.,initialism
+suv,initialism,Sport Utility Vehicle.,initialism
+svg,initialism,Scalable Vector Graphics.,initialism
+tcp,initialism,Transmission Control Protocol.,initialism
+ttl,initialism,Transistor-Transistor Logic.,initialism
+uart,initialism,Universal Asynchronous Receiver-Transmitter.,initialism
+ufo,initialism,Unidentified Flying Object.,initialism
+uri,initialism,Uniform Resource Identifier.,initialism
+url,initialism,Uniform Resource Locator.,initialism
+usb,initialism,Universal Serial Bus.,initialism
+utf,initialism,Unicode Transformation Format.,initialism
+vga,initialism,Video Graphics Array.,initialism
+vpn,initialism,Virtual Private Network.,initialism
+vswr,initialism,Voltage Standing-Wave Ratio.,initialism
+wan,initialism,Wide Area Network.,initialism
+xml,initialism,Extensible Markup Language.,initialism
+crispr,initialism,Clustered Regularly Interspaced Short Palindromic Repeats.,initialism

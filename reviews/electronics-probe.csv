@@ -1,0 +1,286 @@
+word,group
+resistor,component
+capacitor,component
+inductor,component
+transformer,component
+diode,component
+transistor,component
+thyristor,component
+triac,component
+diac,component
+memristor,component
+varistor,component
+thermistor,component
+varactor,component
+potentiometer,component
+rheostat,component
+relay,component
+solenoid,component
+contactor,component
+fuse,component
+breaker,component
+jumper,component
+crystal,component
+oscillator,component
+resonator,component
+choke,component
+ferrite,component
+toroid,component
+coil,component
+buzzer,component
+transducer,component
+actuator,component
+sensor,component
+photodiode,component
+phototransistor,component
+photoresistor,component
+optocoupler,component
+optoisolator,component
+photocell,component
+thermocouple,component
+triode,component
+tetrode,component
+pentode,component
+thyratron,component
+klystron,component
+magnetron,component
+supercapacitor,component
+ultracapacitor,component
+heatsink,component
+silicon,semiconductor
+germanium,semiconductor
+gallium,semiconductor
+arsenide,semiconductor
+dopant,semiconductor
+doping,semiconductor
+wafer,semiconductor
+substrate,semiconductor
+die,semiconductor
+junction,semiconductor
+depletion,semiconductor
+anode,semiconductor
+cathode,semiconductor
+emitter,semiconductor
+collector,semiconductor
+gate,semiconductor
+drain,semiconductor
+channel,semiconductor
+oxide,semiconductor
+nitride,semiconductor
+polysilicon,semiconductor
+photoresist,semiconductor
+epitaxy,semiconductor
+lithography,semiconductor
+passivation,semiconductor
+encapsulation,semiconductor
+amplifier,circuit block
+preamplifier,circuit block
+comparator,circuit block
+inverter,circuit block
+rectifier,circuit block
+converter,circuit block
+regulator,circuit block
+multiplexer,circuit block
+demultiplexer,circuit block
+decoder,circuit block
+encoder,circuit block
+latch,circuit block
+flipflop,circuit block
+counter,circuit block
+divider,circuit block
+multiplier,circuit block
+adder,circuit block
+accumulator,circuit block
+buffer,circuit block
+driver,circuit block
+repeater,circuit block
+modulator,circuit block
+demodulator,circuit block
+mixer,circuit block
+attenuator,circuit block
+isolator,circuit block
+circulator,circuit block
+splitter,circuit block
+combiner,circuit block
+coupler,circuit block
+snubber,circuit block
+limiter,circuit block
+integrator,circuit block
+differentiator,circuit block
+oscilloscope,measurement
+multimeter,measurement
+ammeter,measurement
+voltmeter,measurement
+ohmmeter,measurement
+wattmeter,measurement
+galvanometer,measurement
+electrometer,measurement
+megohmmeter,measurement
+spectrometer,measurement
+reflectometer,measurement
+calibration,measurement
+tolerance,measurement
+resolution,measurement
+sensitivity,measurement
+linearity,measurement
+volt,unit
+ampere,unit
+ohm,unit
+farad,unit
+henry,unit
+watt,unit
+joule,unit
+coulomb,unit
+hertz,unit
+siemens,unit
+tesla,unit
+weber,unit
+decibel,unit
+milliamp,unit
+microfarad,unit
+picofarad,unit
+nanosecond,unit
+megahertz,unit
+gigahertz,unit
+kilowatt,unit
+milliwatt,unit
+impedance,phenomenon
+reactance,phenomenon
+resistance,phenomenon
+capacitance,phenomenon
+inductance,phenomenon
+conductance,phenomenon
+admittance,phenomenon
+susceptance,phenomenon
+permittivity,phenomenon
+permeability,phenomenon
+reluctance,phenomenon
+hysteresis,phenomenon
+jitter,phenomenon
+ripple,phenomenon
+distortion,phenomenon
+crosstalk,phenomenon
+attenuation,phenomenon
+transient,phenomenon
+brownout,phenomenon
+avalanche,phenomenon
+breakdown,phenomenon
+saturation,phenomenon
+biasing,phenomenon
+harmonic,phenomenon
+waveform,phenomenon
+duty,phenomenon
+overshoot,phenomenon
+undershoot,phenomenon
+battery,power
+alternator,power
+generator,power
+dynamo,power
+stator,power
+rotor,power
+commutator,power
+armature,power
+winding,power
+busbar,power
+grounding,power
+earthing,power
+switchgear,power
+insulator,power
+conductor,power
+semiconductor,power
+dielectric,power
+electrode,power
+electrolyte,power
+terminal,power
+lug,power
+ferrule,power
+solder,power
+wire,power
+cable,power
+harness,power
+conduit,power
+sheath,power
+braid,power
+insulation,power
+breadboard,pcb
+veroboard,pcb
+stripboard,pcb
+schematic,pcb
+netlist,pcb
+footprint,pcb
+silkscreen,pcb
+soldermask,pcb
+stencil,pcb
+reflow,pcb
+backplane,pcb
+motherboard,pcb
+daughterboard,pcb
+riser,pcb
+header,pcb
+socket,pcb
+connector,pcb
+receptacle,pcb
+antenna,rf
+dipole,rf
+monopole,rf
+waveguide,rf
+feedline,rf
+balun,rf
+transceiver,rf
+transmitter,rf
+receiver,rf
+modem,rf
+transponder,rf
+beacon,rf
+carrier,rf
+sideband,rf
+spectrum,rf
+propagation,rf
+polarization,rf
+directivity,rf
+beamwidth,rf
+sidelobe,rf
+microcontroller,digital
+microprocessor,digital
+firmware,digital
+bootloader,digital
+watchdog,digital
+interrupt,digital
+opcode,digital
+pipeline,digital
+latency,digital
+throughput,digital
+clock,digital
+crossbar,digital
+debouncing,digital
+led,abbreviation
+oled,abbreviation
+lcd,abbreviation
+mosfet,abbreviation
+jfet,abbreviation
+igbt,abbreviation
+bjt,abbreviation
+scr,abbreviation
+pwm,abbreviation
+adc,abbreviation
+dac,abbreviation
+fpga,abbreviation
+cpld,abbreviation
+asic,abbreviation
+soc,abbreviation
+gpio,abbreviation
+uart,abbreviation
+spi,abbreviation
+jtag,abbreviation
+dma,abbreviation
+eeprom,abbreviation
+sram,abbreviation
+dram,abbreviation
+rom,abbreviation
+ram,abbreviation
+emi,abbreviation
+esd,abbreviation
+emc,abbreviation
+smd,abbreviation
+smt,abbreviation
+pcb,abbreviation

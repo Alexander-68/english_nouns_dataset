@@ -1,0 +1,69 @@
+word,group,zipf,in_wordnet30_2024,in_oewn2025,status
+algorithm,computing & internet,4.02,True,True,present in both
+avatar,computing & internet,3.69,True,True,present in both
+bandwidth,computing & internet,3.62,True,True,present in both
+browser,computing & internet,3.89,True,True,present in both
+database,computing & internet,4.31,True,True,present in both
+firewall,computing & internet,3.24,True,True,present in both
+keyboard,computing & internet,4.11,True,True,present in both
+laptop,computing & internet,4.23,True,True,present in both
+pixel,computing & internet,3.72,True,True,present in both
+router,computing & internet,3.5,True,True,present in both
+server,computing & internet,4.46,True,True,present in both
+spreadsheet,computing & internet,3.31,True,True,present in both
+tablet,computing & internet,4.05,True,True,present in both
+webcam,computing & internet,3.49,True,True,present in both
+backpack,devices & gear,3.78,True,True,present in both
+charger,devices & gear,3.64,True,True,present in both
+drone,devices & gear,4.0,True,True,present in both
+headphone,devices & gear,3.3,True,True,present in both
+scooter,devices & gear,3.57,True,True,present in both
+sneaker,devices & gear,3.01,True,True,present in both
+wildfire,environment,3.36,True,True,present in both
+avocado,food & drink,3.45,True,True,present in both
+burrito,food & drink,3.26,True,True,present in both
+croissant,food & drink,2.78,True,True,present in both
+espresso,food & drink,3.39,True,True,present in both
+hummus,food & drink,3.0,True,True,present in both
+latte,food & drink,3.3,True,True,present in both
+smoothie,food & drink,3.25,True,True,present in both
+sushi,food & drink,3.68,True,True,present in both
+taco,food & drink,3.69,True,True,present in both
+lockdown,health & fitness,3.52,True,True,present in both
+marathon,health & fitness,4.16,True,True,present in both
+pandemic,health & fitness,3.68,True,True,present in both
+vaccine,health & fitness,4.0,True,True,present in both
+yoga,health & fitness,4.2,True,True,present in both
+blog,social & media,4.73,True,True,present in both
+meme,social & media,3.91,True,True,present in both
+playlist,social & media,3.61,True,True,present in both
+startup,social & media,3.83,True,True,present in both
+streamer,social & media,3.04,True,True,present in both
+malware,computing & internet,3.49,False,True,added by OEWN 2025
+vape,devices & gear,3.23,False,True,added by OEWN 2025
+cryptocurrency,finance & crypto,3.3,False,True,added by OEWN 2025
+quinoa,food & drink,3.01,False,True,added by OEWN 2025
+emoji,social & media,3.23,False,True,added by OEWN 2025
+hashtag,social & media,3.67,False,True,added by OEWN 2025
+influencer,social & media,2.95,False,True,added by OEWN 2025
+paywall,social & media,2.35,False,True,added by OEWN 2025
+podcast,social & media,4.15,False,True,added by OEWN 2025
+smartphone,social & media,4.06,False,True,added by OEWN 2025
+vlog,social & media,2.76,False,True,added by OEWN 2025
+app,computing & internet,4.86,False,False,missing from both
+broadband,computing & internet,3.69,False,False,missing from both
+chatbot,computing & internet,2.3,False,False,missing from both
+wifi,computing & internet,3.94,False,False,missing from both
+earbud,devices & gear,2.36,False,False,missing from both
+hoodie,devices & gear,3.4,False,False,missing from both
+smartwatch,devices & gear,3.0,False,False,missing from both
+heatwave,environment,2.85,False,False,missing from both
+microplastic,environment,1.61,False,False,missing from both
+bitcoin,finance & crypto,4.24,False,False,missing from both
+blockchain,finance & crypto,3.66,False,False,missing from both
+pilates,health & fitness,3.0,False,False,missing from both
+telehealth,health & fitness,2.33,False,False,missing from both
+triathlon,health & fitness,3.25,False,False,missing from both
+ecommerce,social & media,3.3,False,False,missing from both
+podcaster,social & media,2.24,False,False,missing from both
+selfie,social & media,3.75,False,False,missing from both

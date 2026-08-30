@@ -1,0 +1,184 @@
+# `reviews/` — the human rulings
+
+**These files are the authority. Nothing here is generated, and nothing here should ever be
+regenerated.** Every other file in the repo can be rebuilt from the dump in about twenty minutes;
+these took a person reading words one at a time.
+
+Every reader treats a missing file as "no rulings" rather than an error, so a deleted sheet does
+not crash anything — it just silently changes the output. Check the counts after a re-run.
+
+| file | rows | what it rules | read by |
+| --- | ---: | --- | --- |
+| `gaps_verdicts.csv` | 1,092 | `noun` / `name` / `verb` / `adj` / `noise`, for words **not** in the dataset | `wx_join.py`, `rank_gaps.py` |
+| `sen_word_verdicts.csv` | 63 | the same verdicts, for words that **are** in it | `wx_join.py` |
+| `variants-reviewed.csv` | 2,509 | `variant` / `reverse` / `plural` / `unrelated`, per spelling doublet | `wx_join.py` |
+| `variants_ing-reviewed.csv` | 99 | which side of an `-ing` doublet is British | `wx_join.py` |
+| `uk_reviewed.csv` | 157 | words wrongly flagged as British spellings; keep them | `wx_join.py` |
+| `name_suspect-reviewed.csv` | 462 | confirmed non-nouns from the name-suspect band | `wx_join.py` |
+| `modernvocabularyprobe.csv` | — | human-vetted modern vocabulary; exempt from the frequency cutoff | `wx_join.py`, `rank_gaps.py` |
+| `manual-entry.csv` | 145 | words typed in by hand: modern vocabulary no source has, plus four corrections to rows the build gets wrong | `wx_join.py` |
+| `domains/initialisms.csv` | 99 | lowercase initialisms, rejected as non-nouns, each with its expansion as the definition | `wx_join.py` |
+| `domains/bioinformatics.csv` | 85 | bioinformatics and molecular-biology nouns, plus four file-format names ruled `name` | `wx_join.py` |
+| `domains/electronics.csv` | 37 | electronics-engineering nouns no source had ruled | `wx_join.py` |
+| `bioinformatics-probe.csv` | 210 | not a ruling sheet: the domain word list `probe.py` found the hole with | `probe.py` |
+| `electronics-probe.csv` | 285 | not a ruling sheet: a domain word list to run against a release with `probe.py` | `probe.py` |
+| `abbreviation-expansions.csv` | 56 | the words where an abbreviation exclusion is right because the definition IS the expansion | `wx_join.py` |
+| `scowl-glosses.csv` | 168 | the SCOWL words no dictionary in the build could gloss: a verdict, and for the 112 ruled `noun`, a definition written by hand | `apply_scowl.py` |
+| `manual_reviews.csv` | 3,479 | the **log**: `date, sheet, item, verdict, note` — one line per ruling | nothing; it is the record |
+
+## `manual-entry.csv` is the strongest authority in the build
+
+The other sheets rule on words some queue put in front of a person. This one is the opposite
+direction: a person puts the word in. It exists because both sources are dated — OEWN 2025 and a
+Wiktionary dump have no `deepfake`, `kombucha`, `microplastic` or `sysadmin` — and no automatic
+rule can add a word nobody wrote down.
+
+Same three columns and the same verdict vocabulary. A `noun` here is **playable whatever the rules
+say**: it survives the OBSCURE cutoff (`wordfreq` scores `tokenomics` and `lootbox` at 0, being
+older than both words) and the missing-from-Wiktionary exclusion (`devops`, `youtuber`, `tiktoker`
+have no Wiktionary noun entry), and it overrides an earlier automatic reading — `gamer` was
+excluded as an adjective and `spork` as a proper noun. Every other verdict adds a rejected row with
+its reason, so a word ruled `noise` answers "not a usable common noun", not "not in the database".
+(`usb` and `api` are that case: ruled `noise` here, re-ruled `initialism` by `domains/initialisms.csv`, which is a better reason for the same rejection.)
+
+The `note` column doubles as the gloss: where Wiktionary has no entry to take a definition from,
+the sentence written here is what the game shows the player. Write it as a definition, not as an
+argument.
+
+It applies to words already in the dataset as well as new ones, which no other sheet does in the
+`noun` direction — `sen_word_verdicts.csv` can only exclude.
+
+## `scowl-glosses.csv` — where a definition had to be written, not found
+
+SCOWL contributed 12,148 words the dataset had never seen. 11,980 of them take their definition
+from Wiktionary's first sense, like every other row. 168 have no Wiktionary entry at all, and a
+word with no gloss cannot be put in front of a player — so each one was read and ruled:
+
+| verdict | rows | what it means |
+| --- | ---: | --- |
+| `noun` | 112 | a real, if obscure, common noun. The `definition` column is written for it |
+| `variant` | 22 | a nonstandard spelling; `suggest_instead` names the standard one |
+| `noise` | 22 | SCOWL's own misspellings (`prothalmion`, `hospholipase`, `dateset`), unnaturalised Latin and French (`haeres`, `avion`), function notation (`tanh`, `coth`), one dated slur |
+| `name` | 11 | taxonomic genera and proper nouns (`aedes`, `ciliophora`, `medicaid`) |
+| `verb` | 1 | `sulfatize` |
+
+Columns: `word, verdict, definition, suggest_instead, marks, note`. `marks` adds a mark to the
+resulting row (`possible name`); `note` records why a word was ruled out and is not published.
+Definitions are written as definitions — one sentence, no hedging, no argument — because the game
+shows them verbatim. A `noun` here is playable whatever the frequency says, the same authority
+`manual-entry.csv` has.
+
+## `abbreviation-expansions.csv` — the exception list to a protective rule
+
+`wx_join.py` will not let an abbreviation ruling exclude a word that carries a definition of its
+own; see the root README. This sheet is the "unless": the words where the exclusion is right because
+the gloss is the expansion rather than a separate sense.
+
+| kind | rows | examples |
+| --- | ---: | --- |
+| `unit` | 26 | `ft` (foot), `lb` (pound), `mm`, `sec`, `yr`, `mo` (moment), `ms` (manuscript) |
+| `letter` | 18 | `f`, `n`, `p`, `v`, `w`, `y`, `eth`, `eng`, `che`, `ge` |
+| `clipping` | 11 | `ep` (episode), `univ`, `txt`, `nic`, `tri`, `vt` |
+| `inflection` | 1 | `fishes` |
+
+Written by hand because nothing else can do it: `ft` glossed "a linear unit of length equal to 12
+inches" and `al` glossed "the Indian mulberry" are both short words with dictionary glosses, and
+only a reader knows the first gloss is *foot* and the second is a tree. Add a row here when a new
+abbreviation is wrongly rescued; leave it alone otherwise, because the default protects nouns.
+
+## `domains/` — one sheet per subject area
+
+`manual-entry.csv` is general vocabulary. `domains/*.csv` is the same mechanism split by field, so
+a specialist list can be added without touching a general one. `wx_join.py` globs the folder, reads
+the sheets in filename order **after** `manual-entry.csv`, and adding a field means adding a file —
+no code change, no new pipeline stage.
+
+Columns are `word,verdict,note` plus an optional `marks`, whose contents are appended to the row's
+marks verbatim.
+
+Two differences from `manual-entry.csv`, both deliberate:
+
+* **The note IS the definition, and it beats Wiktionary.** In `manual-entry.csv` the note is a
+  justification for the ruling ("the clipping is the ordinary form"), so Wiktionary's fuller gloss
+  is the better text and wins. In a domain sheet the note is written as the definition, so it wins.
+  Initialisms are why: Wiktionary glosses lowercase `dna` as "Alternative form of DNA." and `ufo` as
+  "A UFO.", which tells a player nothing, where the sheet says "Deoxyribonucleic Acid."
+* **A domain sheet overrides a general ruling on the same word.** `usb` and `api` were ruled `noise`
+  in `manual-entry.csv` before there was a policy for initialisms; `domains/initialisms.csv` now
+  rules them `initialism` and marks them, and the later, more specific sheet wins.
+
+### `domains/initialisms.csv`
+
+99 lowercase initialisms — `usb`, `led`, `pcb`, `dna`, `gps`, `html`, `mosfet`, `fpga`. **None is
+playable**: the verdict is `initialism`, the reason reads `initialism, not a common noun
+(reviewed)`, and each row carries the expansion as its definition so a game can say what the letters
+stand for instead of "not in the database". The `initialism` mark is there for a game that wants to
+allow them anyway. Initialisms that finished becoming words (`laser`, `radar`, `scuba`) are
+playable from their ordinary dictionary rows and are not in this sheet.
+
+Because the note is the expansion rather than a definition, an `initialism` verdict is also fed to
+`abbreviation_collision()` as an exception — otherwise the collision rule, which protects `ide` the
+fish, would rescue all 99 straight back to playable.
+
+The list is hand-written because no rule can draw the line. SEN is lowercase and the sources file
+these under capitals, so the join never saw them; but case-folding wholesale would drag in 8,751
+uppercase-only Wiktionary entries whose tail is `AABNCP` and `AACOMS`. `laser` and `radar` finished
+becoming words, `usb` is most of the way, `aabncp` never will be, and only a person can say which.
+
+Words already carrying a different real sense are deliberately **left out**: `ram` is a tool and an
+animal, `dram` a weight, `prom` a dance, `ide` a fish, `eta` a Greek letter. Adding an initialism
+row for those would replace a good definition with a worse one.
+
+### `domains/bioinformatics.csv`
+
+85 rows, from running `reviews/bioinformatics-probe.csv` (210 words, 8 groups) through
+`pipeline/probe.py`: 124 playable, 3 wrongly rejected, 83 absent. After the sheet, 205 playable and
+0 absent.
+
+Most rows leave `note` empty on purpose. 78 of the 83 absent words were already in Wiktionary with
+a usable gloss and were missing only because they fall under the frequency cutoff — `contig`,
+`exome`, `spliceosome`, `metagenomics`, `synapomorphy`. An empty note means the row takes
+Wiktionary's first sense, so the sheet does not retype 78 definitions to say the same thing. A note
+is written only where the source has nothing (`demultiplexing`), where its gloss is a pointer
+("Alternative form of side chain") or where it is the wrong sense (`protomer`).
+
+Three rows correct words the build already had and got wrong: `homolog` was excluded as the British
+side of the `homolog`/`homologue` doublet (it is the American one), `biostatistics` as an inflected
+form (the `-ics` is a field name), `backtracking` as a verb.
+
+Four file formats — `fasta`, `fastq`, `bedgraph`, `newick` — are ruled `name`, not `noun`. They are
+format names, so they are not playable, but a player who types one is told what it is rather than
+that it does not exist. `crispr` is an acronym and went to `domains/initialisms.csv` instead.
+
+### `domains/electronics.csv`
+
+37 electronics-engineering nouns — `triac`, `memristor`, `optocoupler`, `heatsink`, `snubber`,
+`switchgear`. Found by running `reviews/electronics-probe.csv` through `pipeline/probe.py`: 33 were
+words Wiktionary had and nothing had ruled, 4 no source had at all.
+
+## The two verdict sheets are not interchangeable
+
+`gaps_verdicts.csv` can only *add* rows — it rules on candidate words the dataset does not have. A
+ruling there on a word OEWN already ships does nothing at all. That is why
+`sen_word_verdicts.csv` exists: `y`, `t`, `here`, `wynn` and `cozier` are already in the dataset and
+needed their existing rows changed.
+
+## Precedence
+
+A ruling beats every automatic flag. Between rulings, **the later and more specific one wins**:
+`manual-entry.csv` is the latest sheet and beats all of them. Below it, `uk_reviewed.csv` answers
+one narrow question — *is this wrongly flagged as a British spelling?* —
+and it was written before the doublet review existed, so an explicit `variants-reviewed.csv` or
+verdict-sheet ruling now overrides it. Without that rule the old keep-list was resurrecting `gaol`,
+`kerb`, `annexe` and even `t` and `y`.
+
+## Verdict vocabulary
+
+`noun` — an ordinary common noun; add it, or keep it playable.
+`name` — a personal name, brand or place.
+`verb` / `adj` / `adv` — that part of speech; any noun sense is a nominalisation.
+`noise` — a letter name, abbreviation, interjection, foreign word or single obscure sense.
+
+For doublets: `variant` (the `variant` column is the nonstandard spelling), `reverse` (the
+`canonical` column is), `plural` (one side is a plural of the other — mark it, never exclude it),
+`unrelated` (not a pair at all; drop the link).

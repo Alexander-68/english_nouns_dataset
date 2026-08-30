@@ -1,0 +1,146 @@
+word,verdict,note
+dataset,noun,a named collection of data; an ordinary technical common noun
+codebase,noun,the body of source code of a project
+frontend,noun,the user-facing half of a system
+backend,noun,the server-side half of a system
+devops,noun,the practice joining development and operations
+microservice,noun,one small independently deployed service
+chatbot,noun,a program that converses in natural language
+captcha,noun,the challenge that tells a human from a bot; now a common noun
+passphrase,noun,a multi-word password
+plugin,noun,an add-on component for a host program
+addon,noun,a plugin; the same thing written solid
+middleware,noun,software sitting between an application and its platform
+bloatware,noun,unwanted preinstalled software
+adware,noun,software that serves advertising
+phishing,noun,fraud by impersonated message; a noun in its own right
+cyberattack,noun,an attack on a computer system
+cyberbullying,noun,bullying carried out online
+doxxing,noun,publishing someone's private details
+catfishing,noun,deceiving someone with a fake online identity
+screensaver,noun,the idle-screen program
+screencast,noun,a recording of a screen
+autocomplete,noun,the input-completion feature
+geolocation,noun,the determined location of a device
+geotag,noun,a location stamp attached to a file
+geotagging,noun,the act of attaching location stamps to files
+metaverse,noun,a persistent shared virtual world
+permalink,noun,a permanent link to one post
+subreddit,noun,one topic forum on Reddit; the word itself is a common noun
+newsfeed,noun,the scrolling feed of posts
+retweet,noun,a reposted message
+reblog,noun,a reposted blog entry
+downvote,noun,a vote against a post
+clickbait,noun,content written to be clicked
+livestream,noun,a broadcast sent as it happens
+livestreamer,noun,someone who broadcasts live video
+podcaster,noun,someone who makes a podcast
+youtuber,noun,someone whose work is a video channel
+tiktoker,noun,someone whose work is a TikTok video channel
+vlogging,noun,making video blogs
+unboxing,noun,the video genre of opening a package
+modding,noun,modifying a game or device
+speedrun,noun,a run of a game against the clock
+speedrunner,noun,a player who runs games against the clock
+esport,noun,one competitive video-game discipline
+sysadmin,noun,a system administrator
+repo,noun,a source repository; the clipping is the ordinary form
+gif,noun,the image format used as an ordinary noun
+netbook,noun,a small cheap laptop
+phablet,noun,a phone-sized tablet
+ereader,noun,a device for reading books
+ebook,noun,a book in electronic form
+earbud,noun,one in-ear headphone
+megapixel,noun,a unit of image resolution
+powerbank,noun,a portable battery
+quadcopter,noun,a four-rotor drone
+smartglasses,noun,glasses with a display
+multitool,noun,a folding tool with several implements
+whiteboard,noun,the wall-mounted writing surface
+videoconference,noun,a meeting held over video
+telepresence,noun,remote presence by video and robotics
+telehealth,noun,health care delivered remotely
+telemedicine,noun,medical care delivered remotely; the older name for telehealth
+telework,noun,work done away from the employer's site
+coworking,noun,shared office working
+onboarding,noun,bringing a new person into an organisation
+upskilling,noun,training a worker in new skills
+reskilling,noun,training a worker for different work
+crowdfunder,noun,a person or campaign raising money from many small backers
+fintech,noun,financial technology and a company in it
+adtech,noun,advertising technology
+nanotech,noun,nanotechnology in its ordinary clipped form
+freemium,noun,the free-with-paid-extras business model
+microloan,noun,a very small loan
+telemarketer,noun,someone who sells by telephone
+dropshipping,noun,retail where the supplier ships direct
+rideshare,noun,a shared journey booked by app
+carshare,noun,shared use of a car
+bikeshare,noun,a public bicycle scheme
+bikeway,noun,a route reserved for bicycles
+ebike,noun,a bicycle with electric assistance
+hyperloop,noun,the proposed vacuum-tube transport system
+crypto,noun,cryptocurrency in its ordinary clipped form
+stablecoin,noun,a cryptocurrency pegged to another asset
+tokenomics,noun,the economics of a crypto token
+kimchi,noun,fermented Korean vegetables
+bibimbap,noun,a Korean rice dish
+mukbang,noun,a meal eaten on camera
+matcha,noun,powdered green tea
+kombucha,noun,fermented tea
+macchiato,noun,an espresso with a little milk
+cortado,noun,an espresso cut with warm milk
+mocktail,noun,a cocktail without alcohol
+sriracha,noun,the chilli sauce; generic in ordinary use
+gastropub,noun,a pub serving serious food
+locavore,noun,someone who eats locally grown food
+pescatarian,noun,someone who eats fish but not meat
+flexitarian,noun,someone mostly but not strictly vegetarian
+prebiotic,noun,a food component feeding gut bacteria
+microbiome,noun,the microbial population of a body or place
+nootropic,noun,a substance taken to improve cognition
+adaptogen,noun,a substance claimed to help the body resist stress
+babymoon,noun,a holiday taken before a birth
+athleisure,noun,athletic clothing worn as everyday wear
+sanitizer,noun,a hand-cleaning preparation
+heatwave,noun,a prolonged spell of hot weather
+biofuel,noun,fuel made from living matter
+microgrid,noun,a small self-contained electricity network
+microplastic,noun,a plastic fragment under five millimetres
+upcycling,noun,reuse that raises the value of the material
+megacity,noun,a city of over ten million people
+megatrend,noun,a long-run large-scale trend
+nanobot,noun,a microscopic robot
+bioprinting,noun,printing tissue with a 3D printer
+biohacking,noun,self-experimentation on one's own biology
+deepfake,noun,a synthesised video of a real person
+slacktivism,noun,activism costing the activist nothing
+mansplaining,noun,explaining condescendingly on an assumption of ignorance
+manspreading,noun,sitting with the legs wide on public transport
+microaggression,noun,a small routine slight
+intersectionality,noun,the compounding of overlapping disadvantages
+staycation,noun,a holiday spent at home
+solopreneur,noun,someone running a business alone
+intrapreneur,noun,someone running a venture inside an employer
+carpool,noun,an arrangement to share car journeys
+twitcher,noun,a birdwatcher who chases rare sightings
+fanfic,noun,fiction written by fans in its ordinary clipped form
+stan,noun,"an obsessive fan; the common-noun sense, not the given name"
+lootbox,noun,a paid randomised reward in a game
+hotdesking,noun,sharing desks rather than assigning them
+usb,noise,"an initialism, not a playable common noun"
+api,noise,an initialism
+sdk,noise,an initialism
+bluetooth,name,a trade name however genericised
+kubernetes,name,a product name
+crossfit,name,a trade name
+segway,name,a trade name
+paleo,adj,an adjective; the diet sense is attributive
+photovoltaic,adj,an adjective
+serverless,adj,an adjective
+fullstack,adj,an adjective
+plantbased,adj,"an adjective, and normally hyphenated"
+gamer,noun,"a person who plays games; lemminflect ruled it an adjective, which is wrong"
+broadband,noun,"the connection itself is an ordinary noun, not only attributive"
+ghosting,noun,cutting off contact without explanation; the noun is the usual form
+spork,noun,"a spoon-fork utensil; an ordinary common noun, not a trade name"

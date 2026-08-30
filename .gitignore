@@ -1,0 +1,6 @@
+__pycache__/
+sources/wordchain2024/wikipedia-key.txt
+
+# The SCOWL master file, 14 MB. `pipeline/scowl_pos.py` downloads it from
+# en-wl/wordlist branch v2 on first run, so it never needs to live here.
+sources/scowl/scowl-pre.txt

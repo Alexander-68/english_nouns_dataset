@@ -1,0 +1,100 @@
+variant,canonical,verdict,note
+birthing,berthing,noise,unrelated words (birth vs berth)
+centring,centering,british,BrE spelling of centering
+coding,coding,noise,both sides are the same word
+colouring,coloring,british,BrE -our spelling
+combing,coaming,noise,"comb vs coaming (nautical), unrelated"
+counselling,counseling,british,BrE doubled consonant
+dubbing,dubbin,noise,"dubbin is a leather wax, unrelated to dubbing"
+earring,earing,noise,"earing is a nautical rope, unrelated"
+faggoting,fagoting,spelling_pair,"embroidery term, both spellings current, not regional"
+flavouring,flavoring,british,BrE -our spelling
+fledgeling,fledgling,spelling_pair,"older spelling, not regional"
+focussing,focusing,british,BrE doubled consonant
+gloam,gloaming,noise,"distinct word, not a variant of gloaming"
+highjacking,hijacking,spelling_pair,"dated variant spelling, not regional"
+lightening,lightning,noise,"making lighter, unrelated to lightning"
+lightning,lightening,noise,the reverse of the same bad pairing
+ling,linguistics,noise,regex artifact (linguistics)
+mg,meaning,noise,regex artifact (meaning)
+modelling,modeling,british,BrE doubled consonant
+moulding,molding,british,BrE -ou- spelling
+noggin,nogging,noise,"nogging is masonry, noggin is a head/measure"
+nurseling,nursling,spelling_pair,"older spelling, not regional"
+packing,meatpacking,noise,"meatpacking is a compound, not a variant"
+paneling,panelling,american,AmE side; panelling is the BrE spelling
+parceling,parcelling,american,AmE side; parcelling is BrE
+pargetting,pargeting,spelling_pair,"both spellings attested, not regional"
+plowing,ploughing,american,AmE side; ploughing is BrE
+rattling,ratline,noise,"ratline is a rope, unrelated"
+raveling,ravelling,american,AmE side; ravelling is BrE
+ridgling,ridgeling,spelling_pair,"both spellings attested, not regional"
+savouring,savoring,british,BrE -our spelling
+shilling,schilling,noise,"schilling was the Austrian currency, distinct"
+sniveling,snivelling,american,AmE side; snivelling is BrE
+socialising,socializing,british,BrE -ise spelling
+tat,tatting,noise,"tatting is lacemaking, tat is junk"
+thing,ting,noise,ting is a distinct word
+toweling,towelling,american,AmE side; towelling is BrE
+vaporing,vapouring,american,AmE side; vapouring is BrE
+wainscoting,wainscotting,spelling_pair,"both spellings attested, not regional"
+channeling,channelling,american,AmE side; channelling is BrE
+agonising,agonizing,british,BrE -ise spelling
+apologising,apologizing,british,BrE -ise spelling
+appraising,apprising,noise,appraise and apprise are different verbs
+apprizing,apprising,spelling_pair,"apprize/apprise doublet, not regional"
+attitudinising,attitudinizing,british,BrE -ise spelling
+backpedalling,backpedaling,british,BrE doubled consonant
+barrelling,barreling,british,BrE doubled consonant
+baulking,balking,british,BrE -au- spelling
+beveling,bevelling,american,AmE side; bevelling is BrE
+biassing,biasing,british,BrE doubled consonant
+binging,bingeing,spelling_pair,"binge inflection dispute, not regional"
+bussing,busing,spelling_pair,"bus inflection dispute, not regional"
+cataloging,cataloguing,american,AmE side; cataloguing is BrE
+checkering,chequering,american,AmE side; chequering is BrE
+chiseling,chiselling,american,AmE side; chiselling is BrE
+dialling,dialing,british,BrE doubled consonant
+duelling,dueling,british,BrE doubled consonant
+dyking,diking,spelling_pair,"dyke/dike doublet, not cleanly regional"
+endeavouring,endeavoring,british,BrE -our spelling
+fantasising,fantasizing,british,BrE -ise spelling
+faring,fairing,noise,"fare vs fairing (a cowling), unrelated"
+favouring,favoring,british,BrE -our spelling
+gamboling,gambolling,american,AmE side; gambolling is BrE
+gaoling,jailing,british,gaol is the BrE spelling of jail
+glueing,gluing,spelling_pair,"variant spelling of gluing, not regional"
+graveling,gravelling,american,AmE side; gravelling is BrE
+grueling,gruelling,american,AmE side; gruelling is BrE
+imperilling,imperiling,british,BrE doubled consonant
+licencing,licensing,british,licence is the BrE noun spelling
+marshaling,marshalling,american,AmE side; marshalling is BrE
+marveling,marvelling,american,AmE side; marvelling is BrE
+nickeling,nickelling,american,AmE side; nickelling is BrE
+ovaling,ovalling,american,AmE side; ovalling is BrE
+pedalling,pedaling,british,BrE doubled consonant
+penciling,pencilling,american,AmE side; pencilling is BrE
+plagiarising,plagiarizing,british,BrE -ise spelling
+quarreling,quarrelling,american,AmE side; quarrelling is BrE
+queueing,queuing,spelling_pair,"queue inflection dispute, not regional"
+raping,rapping,noise,rape and rap are different verbs
+reprograming,reprogramming,spelling_pair,"inflection dispute, not regional"
+romanticising,romanticizing,british,BrE -ise spelling
+roystering,roistering,spelling_pair,"royster/roister doublet, not regional"
+shoveling,shovelling,american,AmE side; shovelling is BrE
+smoldering,smouldering,american,AmE side; smouldering is BrE
+spiraling,spiralling,american,AmE side; spiralling is BrE
+stencilling,stenciling,british,BrE doubled consonant
+swiveling,swivelling,american,AmE side; swivelling is BrE
+swopping,swapping,british,swop is the BrE variant of swap
+sympathising,sympathizing,british,BrE -ise spelling
+syphoning,siphoning,british,BrE -y- spelling
+tabletting,tableting,british,BrE doubled consonant
+tantalising,tantalizing,british,BrE -ise spelling
+taxying,taxiing,british,BrE spelling of taxiing
+temporising,temporizing,british,BrE -ise spelling
+theorising,theorizing,british,BrE -ise spelling
+tunnelling,tunneling,british,BrE doubled consonant
+worshiping,worshipping,american,AmE side; worshipping is BrE
+imbedding,embedding,spelling_pair,"imbed/embed doublet, not regional"
+king,qing,noise,"king is an ordinary noun, not a variant of anything"

@@ -1,0 +1,2510 @@
+variant,canonical,verdict,note
+in,inch,unrelated,not a spelling pair
+at,att,unrelated,not a spelling pair
+do,hairdo,unrelated,not a spelling pair
+back,backstroke,unrelated,not a spelling pair
+year,here,unrelated,not a spelling pair
+why,wye,unrelated,not a spelling pair
+s,scruple,unrelated,not a spelling pair
+better,bettor,unrelated,not a spelling pair
+must,musth,unrelated,not a spelling pair
+set,sett,unrelated,not a spelling pair
+head,headline,unrelated,not a spelling pair
+car,cat,unrelated,not a spelling pair
+president,precedent,unrelated,not a spelling pair
+t,time,unrelated,not a spelling pair
+m,meter,unrelated,not a spelling pair
+win,wynn,unrelated,not a spelling pair
+police,policy,unrelated,not a spelling pair
+check,chick,unrelated,not a spelling pair
+field,fielder,unrelated,not a spelling pair
+board,blackboard,unrelated,not a spelling pair
+re,rematch,unrelated,not a spelling pair
+sex,sect,unrelated,not a spelling pair
+w,win,unrelated,not a spelling pair
+test,testosterone,unrelated,not a spelling pair
+dead,deadlift,unrelated,not a spelling pair
+sent,scent,unrelated,not a spelling pair
+n,north,unrelated,not a spelling pair
+p,p,unrelated,a row paired with itself
+key,quay,unrelated,not a spelling pair
+forward,foreword,unrelated,not a spelling pair
+science,scion,unrelated,not a spelling pair
+style,stile,unrelated,not a spelling pair
+kill,kiln,unrelated,not a spelling pair
+f,fuck,unrelated,not a spelling pair
+code,cod,unrelated,not a spelling pair
+super,superannuation,unrelated,not a spelling pair
+staff,staph,unrelated,not a spelling pair
+paper,newspaper,unrelated,not a spelling pair
+bed,bedroom,unrelated,not a spelling pair
+die,dye,unrelated,not a spelling pair
+h,hour,unrelated,not a spelling pair
+v,venturi,unrelated,not a spelling pair
+la,lane,unrelated,not a spelling pair
+base,bass,unrelated,not a spelling pair
+mine,mien,unrelated,not a spelling pair
+box,horsebox,unrelated,not a spelling pair
+y,year,unrelated,not a spelling pair
+rock,roc,unrelated,not a spelling pair
+g,gram,unrelated,not a spelling pair
+link,hyperlink,unrelated,not a spelling pair
+favorite,favourite,reverse,the canonical column is the nonstandard spelling
+reach,retch,unrelated,not a spelling pair
+ship,relationship,unrelated,not a spelling pair
+none,nones,unrelated,"nones is the Roman calendar term, not a plural of none"
+beach,bitch,unrelated,not a spelling pair
+wear,weir,unrelated,not a spelling pair
+lack,lakh,unrelated,not a spelling pair
+skin,skinhead,unrelated,not a spelling pair
+block,bloc,unrelated,not a spelling pair
+drug,drugstore,unrelated,not a spelling pair
+cent,century,unrelated,not a spelling pair
+throw,throe,unrelated,not a spelling pair
+click,klick,unrelated,not a spelling pair
+ex,exhibition,unrelated,not a spelling pair
+wild,weald,unrelated,not a spelling pair
+camp,campus,unrelated,not a spelling pair
+bet,beth,unrelated,not a spelling pair
+cast,caste,unrelated,not a spelling pair
+van,vanguard,unrelated,not a spelling pair
+labor,labour,reverse,the canonical column is the nonstandard spelling
+birth,berth,unrelated,not a spelling pair
+ad,advertisement,unrelated,not a spelling pair
+fellow,fella,reverse,the canonical column is the nonstandard spelling
+connection,connexion,reverse,the canonical column is the nonstandard spelling
+aid,aide,unrelated,not a spelling pair
+frank,franc,unrelated,not a spelling pair
+martin,marten,unrelated,not a spelling pair
+lee,li,unrelated,not a spelling pair
+stress,distress,unrelated,not a spelling pair
+ray,re,unrelated,not a spelling pair
+ben,bin,unrelated,not a spelling pair
+user,username,unrelated,not a spelling pair
+chair,chairperson,unrelated,not a spelling pair
+ms,manuscript,unrelated,not a spelling pair
+max,maximum,unrelated,not a spelling pair
+sub,submarine,unrelated,not a spelling pair
+mm,month,unrelated,not a spelling pair
+id,ide,unrelated,not a spelling pair
+prize,price,unrelated,not a spelling pair
+nick,nickname,unrelated,not a spelling pair
+programme,program,variant,the variant column is the nonstandard spelling
+matt,matte,variant,the variant column is the nonstandard spelling
+mate,checkmate,unrelated,not a spelling pair
+wet,wat,unrelated,not a spelling pair
+bike,bicycle,unrelated,not a spelling pair
+peak,peag,unrelated,not a spelling pair
+ft,foot,unrelated,not a spelling pair
+theatre,theater,variant,the variant column is the nonstandard spelling
+brief,briefs,plural,"one side is a plural of the other, not a spelling variant"
+pink,pinko,unrelated,not a spelling pair
+cap,capture,unrelated,not a spelling pair
+colour,color,variant,the variant column is the nonstandard spelling
+grey,gray,variant,the variant column is the nonstandard spelling
+auto,automobile,unrelated,not a spelling pair
+sharp,sharpie,unrelated,not a spelling pair
+bone,trombone,unrelated,not a spelling pair
+pet,petition,unrelated,not a spelling pair
+math,mathematics,unrelated,not a spelling pair
+mac,mackintosh,unrelated,not a spelling pair
+bath,bathroom,unrelated,not a spelling pair
+sand,sandpiper,unrelated,not a spelling pair
+mini,miniskirt,unrelated,not a spelling pair
+plain,plane,unrelated,not a spelling pair
+gym,gymnasium,unrelated,not a spelling pair
+min,minute,unrelated,not a spelling pair
+ghost,ghostwriter,unrelated,not a spelling pair
+sheet,shit,unrelated,not a spelling pair
+desert,dessert,unrelated,not a spelling pair
+crap,craps,unrelated,"craps is the dice game, not a plural"
+pot,potbelly,unrelated,not a spelling pair
+bye,boy,unrelated,not a spelling pair
+mo,moment,unrelated,not a spelling pair
+pope,pop,unrelated,not a spelling pair
+mill,mil,unrelated,not a spelling pair
+spin,spinnaker,unrelated,not a spelling pair
+behaviour,behavior,variant,the variant column is the nonstandard spelling
+doc,doctorate,unrelated,not a spelling pair
+rep,reputation,unrelated,not a spelling pair
+terrorist,tourist,unrelated,not a spelling pair
+principle,principal,unrelated,not a spelling pair
+bang,bhang,unrelated,not a spelling pair
+sec,second,unrelated,not a spelling pair
+favour,favor,variant,the variant column is the nonstandard spelling
+sauce,source,unrelated,not a spelling pair
+bat,baht,unrelated,not a spelling pair
+bow,bough,unrelated,not a spelling pair
+drag,dragon,unrelated,not a spelling pair
+dialogue,dialog,reverse,dialogue is standard everywhere; dialog is the computing/US clipping
+dec,decrement,unrelated,not a spelling pair
+tale,tael,unrelated,not a spelling pair
+slip,sideslip,unrelated,not a spelling pair
+corps,corpse,unrelated,not a spelling pair
+weed,duckweed,unrelated,not a spelling pair
+exam,examination,unrelated,not a spelling pair
+lover,louver,unrelated,not a spelling pair
+alpha,alphabet,unrelated,not a spelling pair
+habit,growth,unrelated,not a spelling pair
+terrorism,tourism,unrelated,not a spelling pair
+pat,patent,unrelated,not a spelling pair
+marshall,marshal,variant,the variant column is the nonstandard spelling
+pub,publication,unrelated,not a spelling pair
+shed,woodshed,unrelated,not a spelling pair
+skip,skipper,unrelated,not a spelling pair
+hr,hour,unrelated,not a spelling pair
+wrap,rap,unrelated,not a spelling pair
+dose,doze,unrelated,not a spelling pair
+lit,literature,unrelated,not a spelling pair
+mar,mere,unrelated,not a spelling pair
+humor,humour,reverse,the canonical column is the nonstandard spelling
+bacteria,bacterium,unrelated,not a spelling pair
+ram,rambo,unrelated,not a spelling pair
+cole,coal,unrelated,not a spelling pair
+lap,laparoscopy,unrelated,not a spelling pair
+jam,jamb,unrelated,not a spelling pair
+rat,muskrat,unrelated,not a spelling pair
+chuck,woodchuck,unrelated,not a spelling pair
+par,paragraph,unrelated,not a spelling pair
+soup,sup,unrelated,not a spelling pair
+lip,lipstick,unrelated,not a spelling pair
+ham,home,unrelated,not a spelling pair
+prof,professor,unrelated,not a spelling pair
+rev,revolution,unrelated,not a spelling pair
+jewelry,jewellery,reverse,the canonical column is the nonstandard spelling
+canon,cannon,unrelated,not a spelling pair
+neighbor,neighbour,reverse,the canonical column is the nonstandard spelling
+freeze,frieze,unrelated,not a spelling pair
+warner,warrener,unrelated,not a spelling pair
+fig,figure,unrelated,not a spelling pair
+ally,alley,unrelated,not a spelling pair
+cliff,clef,unrelated,not a spelling pair
+skull,school,unrelated,not a spelling pair
+meter,metre,reverse,the canonical column is the nonstandard spelling
+freak,fuck,unrelated,not a spelling pair
+burger,burgher,unrelated,not a spelling pair
+cheer,chair,unrelated,not a spelling pair
+chile,chili,variant,the variant column is the nonstandard spelling
+doll,dal,unrelated,not a spelling pair
+cos,coz,unrelated,not a spelling pair
+dot,dotty,unrelated,not a spelling pair
+hart,heart,unrelated,not a spelling pair
+blonde,blond,variant,the variant column is the nonstandard spelling
+marc,mark,unrelated,not a spelling pair
+eager,eagre,reverse,the canonical column is the nonstandard spelling
+cannon,canon,unrelated,not a spelling pair
+tire,tyre,reverse,the canonical column is the nonstandard spelling
+seller,cellar,unrelated,not a spelling pair
+pad,keypad,unrelated,not a spelling pair
+den,denier,unrelated,not a spelling pair
+buck,buckshot,unrelated,not a spelling pair
+flour,flower,unrelated,not a spelling pair
+dash,dashboard,unrelated,not a spelling pair
+feat,feature,unrelated,not a spelling pair
+cluster,clusterfuck,unrelated,not a spelling pair
+harbour,harbor,variant,the variant column is the nonstandard spelling
+cord,chord,unrelated,not a spelling pair
+gig,gigabyte,unrelated,not a spelling pair
+autism,autumn,unrelated,not a spelling pair
+manga,mango,unrelated,not a spelling pair
+curry,quarry,unrelated,not a spelling pair
+canvas,canvass,unrelated,cloth vs soliciting; different words
+melt,milt,unrelated,not a spelling pair
+col,column,unrelated,not a spelling pair
+ref,referee,unrelated,not a spelling pair
+critic,critique,unrelated,not a spelling pair
+chi,chihuahua,unrelated,not a spelling pair
+neighbourhood,neighborhood,variant,the variant column is the nonstandard spelling
+motive,motif,unrelated,not a spelling pair
+prep,preposition,unrelated,not a spelling pair
+lb,pound,unrelated,not a spelling pair
+coloured,colored,variant,the variant column is the nonstandard spelling
+heroin,heroine,unrelated,not a spelling pair
+crane,cran,unrelated,not a spelling pair
+catalog,catalogue,reverse,the canonical column is the nonstandard spelling
+compliment,complement,unrelated,not a spelling pair
+mod,modification,unrelated,not a spelling pair
+sack,sac,unrelated,not a spelling pair
+champ,champion,unrelated,not a spelling pair
+rack,arak,unrelated,not a spelling pair
+ng,newsgroup,unrelated,not a spelling pair
+ana,anna,unrelated,not a spelling pair
+ki,key,unrelated,not a spelling pair
+villain,villein,unrelated,not a spelling pair
+dug,dog,unrelated,not a spelling pair
+judgement,judgment,variant,the variant column is the nonstandard spelling
+coral,corral,unrelated,not a spelling pair
+fatigue,fatigues,plural,"one side is a plural of the other, not a spelling variant"
+dough,doughboy,unrelated,not a spelling pair
+bra,bro,unrelated,not a spelling pair
+para,paragraph,unrelated,not a spelling pair
+builder,bodybuilder,unrelated,not a spelling pair
+proposition,preposition,unrelated,not a spelling pair
+grill,girl,unrelated,not a spelling pair
+mat,material,unrelated,not a spelling pair
+ml,millilitre,unrelated,not a spelling pair
+critique,critic,unrelated,not a spelling pair
+isle,aisle,unrelated,not a spelling pair
+calif,caliph,variant,the variant column is the nonstandard spelling
+dye,die,unrelated,not a spelling pair
+mic,mike,reverse,mic is the modern standard spelling of the microphone sense
+promo,promotion,unrelated,not a spelling pair
+gal,gallon,unrelated,not a spelling pair
+lid,eyelid,unrelated,not a spelling pair
+ribbon,ribband,unrelated,not a spelling pair
+vent,ventilation,unrelated,not a spelling pair
+madame,madam,variant,the variant column is the nonstandard spelling
+lin,linn,variant,the variant column is the nonstandard spelling
+peel,peal,unrelated,not a spelling pair
+amp,ampere,unrelated,not a spelling pair
+yr,year,unrelated,not a spelling pair
+pitcher,picture,unrelated,not a spelling pair
+stab,establishment,unrelated,not a spelling pair
+drawer,drawers,plural,"one side is a plural of the other, not a spelling variant"
+tenant,tenet,unrelated,not a spelling pair
+somerset,somersault,variant,the variant column is the nonstandard spelling
+disco,discotheque,unrelated,not a spelling pair
+prop,propellant,unrelated,not a spelling pair
+literal,littoral,unrelated,not a spelling pair
+foil,hydrofoil,unrelated,not a spelling pair
+temp,temperature,unrelated,not a spelling pair
+maths,mathematics,unrelated,not a spelling pair
+armour,armor,variant,the variant column is the nonstandard spelling
+tray,trey,unrelated,not a spelling pair
+congo,congou,variant,the variant column is the nonstandard spelling
+stud,student,unrelated,not a spelling pair
+boxer,boxers,plural,"one side is a plural of the other, not a spelling variant"
+mil,milliliter,unrelated,not a spelling pair
+flavour,flavor,variant,the variant column is the nonstandard spelling
+stoke,stokes,plural,"one side is a plural of the other, not a spelling variant"
+dis,diss,variant,dis is the shorter spelling of diss
+retro,retrorocket,unrelated,not a spelling pair
+mayo,mayonnaise,unrelated,not a spelling pair
+mag,magazine,unrelated,not a spelling pair
+pod,podcast,unrelated,not a spelling pair
+beck,beak,unrelated,not a spelling pair
+slack,slacks,plural,"one side is a plural of the other, not a spelling variant"
+hooker,hookah,unrelated,not a spelling pair
+macro,macroeconomics,unrelated,not a spelling pair
+tore,torus,variant,the variant column is the nonstandard spelling
+peek,pique,unrelated,not a spelling pair
+grape,grapeshot,unrelated,not a spelling pair
+quad,quadruplet,unrelated,not a spelling pair
+sol,solidarity,unrelated,not a spelling pair
+brent,brant,variant,the variant column is the nonstandard spelling
+piper,pepper,unrelated,not a spelling pair
+pike,turnpike,unrelated,not a spelling pair
+tails,tailcoat,unrelated,not a spelling pair
+scarf,scurf,unrelated,not a spelling pair
+var,variable,unrelated,not a spelling pair
+salvage,savage,unrelated,not a spelling pair
+kin,qin,unrelated,not a spelling pair
+helm,haulm,unrelated,not a spelling pair
+sonny,address,unrelated,not a spelling pair
+cocoa,coco,unrelated,not a spelling pair
+cozy,cosy,reverse,the canonical column is the nonstandard spelling
+kat,khat,unrelated,not a spelling pair
+dread,dreadlock,unrelated,not a spelling pair
+rite,right,unrelated,not a spelling pair
+sis,sister,unrelated,not a spelling pair
+gee,grand,unrelated,not a spelling pair
+whisky,whiskey,variant,the variant column is the nonstandard spelling
+nigga,nigger,variant,the variant column is the nonstandard spelling
+condo,condominium,unrelated,not a spelling pair
+cache,cachet,unrelated,not a spelling pair
+mantle,mantel,unrelated,not a spelling pair
+savannah,savanna,variant,the variant column is the nonstandard spelling
+fuse,fuze,unrelated,not a spelling pair
+chap,chop,unrelated,not a spelling pair
+homo,homosexual,unrelated,not a spelling pair
+spectacle,spectacles,plural,"one side is a plural of the other, not a spelling variant"
+stint,stent,unrelated,not a spelling pair
+crank,crankshaft,unrelated,not a spelling pair
+mare,mayor,unrelated,not a spelling pair
+grad,graduate,unrelated,not a spelling pair
+ordinance,ordnance,unrelated,not a spelling pair
+repost,riposte,unrelated,not a spelling pair
+spec,specification,unrelated,not a spelling pair
+booty,bootee,unrelated,not a spelling pair
+tang,tongue,unrelated,not a spelling pair
+dorm,dormitory,unrelated,not a spelling pair
+traveler,traveller,reverse,the canonical column is the nonstandard spelling
+bun,bunny,unrelated,not a spelling pair
+cory,corey,unrelated,not a spelling pair
+pun,bun,unrelated,not a spelling pair
+meg,megabyte,unrelated,not a spelling pair
+kc,kilocycle,unrelated,not a spelling pair
+specs,spectacles,unrelated,not a spelling pair
+heroine,heroin,unrelated,not a spelling pair
+comb,combination,unrelated,not a spelling pair
+stool,stole,unrelated,not a spelling pair
+chilly,chili,variant,the variant column is the nonstandard spelling
+litre,litter,unrelated,not a spelling pair
+moth,mote,unrelated,not a spelling pair
+fella,fellow,variant,the variant column is the nonstandard spelling
+loot,lieutenant,unrelated,not a spelling pair
+wen,wynn,unrelated,not a spelling pair
+nan,naan,unrelated,not a spelling pair
+paw,pa,unrelated,not a spelling pair
+lama,llama,unrelated,not a spelling pair
+envoy,envoi,unrelated,not a spelling pair
+ox,oxygen,unrelated,not a spelling pair
+char,cha,unrelated,not a spelling pair
+dialog,dialogue,variant,dialogue is standard everywhere
+liter,litre,reverse,the canonical column is the nonstandard spelling
+swat,swot,unrelated,not a spelling pair
+sham,champagne,unrelated,not a spelling pair
+mould,mold,variant,the variant column is the nonstandard spelling
+endeavour,endeavor,variant,the variant column is the nonstandard spelling
+pong,pung,unrelated,not a spelling pair
+fulfillment,fulfilment,reverse,the canonical column is the nonstandard spelling
+saloon,salon,unrelated,not a spelling pair
+psyche,psychology,unrelated,not a spelling pair
+medic,medick,unrelated,not a spelling pair
+enquiry,inquiry,variant,the variant column is the nonstandard spelling
+momma,mama,variant,the variant column is the nonstandard spelling
+deco,decoration,unrelated,not a spelling pair
+mustache,moustache,reverse,the canonical column is the nonstandard spelling
+jacks,jakes,unrelated,not a spelling pair
+amir,emir,variant,the variant column is the nonstandard spelling
+tumour,tumor,variant,the variant column is the nonstandard spelling
+eta,ita,unrelated,not a spelling pair
+otter,attar,unrelated,not a spelling pair
+burr,bur,unrelated,not a spelling pair
+obi,obeah,unrelated,not a spelling pair
+mina,myna,variant,the variant column is the nonstandard spelling
+bog,bug,unrelated,not a spelling pair
+ax,axe,reverse,the canonical column is the nonstandard spelling
+slew,slough,unrelated,not a spelling pair
+mane,man,unrelated,not a spelling pair
+limo,limousine,unrelated,not a spelling pair
+dole,dhole,unrelated,not a spelling pair
+mamma,mama,unrelated,not a spelling pair
+eq,equation,unrelated,not a spelling pair
+counsellor,counselor,variant,the variant column is the nonstandard spelling
+fro,afro,unrelated,not a spelling pair
+melon,mellon,unrelated,not a spelling pair
+acknowledgement,acknowledgment,variant,the variant column is the nonstandard spelling
+crease,kris,unrelated,not a spelling pair
+lac,lakh,unrelated,not a spelling pair
+donut,doughnut,variant,the variant column is the nonstandard spelling
+raja,rajah,variant,the variant column is the nonstandard spelling
+qi,chi,unrelated,both are standard in their own right
+chilli,chili,variant,the variant column is the nonstandard spelling
+tau,taw,unrelated,not a spelling pair
+vantage,advantage,unrelated,not a spelling pair
+analogue,analog,variant,the variant column is the nonstandard spelling
+midget,midge,unrelated,not a spelling pair
+polio,poliomyelitis,unrelated,not a spelling pair
+bane,bone,unrelated,not a spelling pair
+fitch,vetch,unrelated,not a spelling pair
+groin,groyne,unrelated,not a spelling pair
+prod,production,unrelated,not a spelling pair
+hoe,ho,unrelated,not a spelling pair
+leach,leech,unrelated,not a spelling pair
+sens,sensitivity,unrelated,not a spelling pair
+jargon,jargoon,unrelated,not a spelling pair
+tester,testiere,unrelated,not a spelling pair
+lair,layer,unrelated,not a spelling pair
+hoard,horde,unrelated,not a spelling pair
+watercolor,watercolour,reverse,the canonical column is the nonstandard spelling
+valor,valour,reverse,the canonical column is the nonstandard spelling
+clegg,cleg,variant,the variant column is the nonstandard spelling
+gage,gauge,unrelated,not a spelling pair
+armory,armoury,reverse,the canonical column is the nonstandard spelling
+choral,chorale,variant,the variant column is the nonstandard spelling
+flake,fake,unrelated,not a spelling pair
+tic,ticket,unrelated,not a spelling pair
+calibre,caliber,variant,the variant column is the nonstandard spelling
+tramp,trampoline,unrelated,not a spelling pair
+plow,plough,reverse,the canonical column is the nonstandard spelling
+clutter,clowder,unrelated,not a spelling pair
+realisation,realization,variant,the variant column is the nonstandard spelling
+salah,salat,variant,the variant column is the nonstandard spelling
+staunch,stanch,reverse,the canonical column is the nonstandard spelling
+drier,dryer,variant,the variant column is the nonstandard spelling
+kilometer,kilometre,reverse,the canonical column is the nonstandard spelling
+cayman,caiman,variant,the variant column is the nonstandard spelling
+sulphur,sulfur,variant,the variant column is the nonstandard spelling
+nag,knack,unrelated,not a spelling pair
+castor,caster,unrelated,not a spelling pair
+saber,sabre,reverse,the canonical column is the nonstandard spelling
+mol,mole,variant,the variant column is the nonstandard spelling
+camo,camouflage,unrelated,not a spelling pair
+aunty,auntie,variant,the variant column is the nonstandard spelling
+kern,quern,unrelated,not a spelling pair
+lager,laager,unrelated,not a spelling pair
+pct,percent,unrelated,not a spelling pair
+masse,mass,variant,the variant column is the nonstandard spelling
+ply,plywood,unrelated,not a spelling pair
+gent,gentamicin,unrelated,not a spelling pair
+speciality,specialty,variant,the variant column is the nonstandard spelling
+parlour,parlor,variant,the variant column is the nonstandard spelling
+chime,chine,unrelated,not a spelling pair
+louvre,louver,variant,the variant column is the nonstandard spelling
+tung,tongue,variant,the variant column is the nonstandard spelling
+lat,latitude,unrelated,not a spelling pair
+preventative,preventive,variant,the variant column is the nonstandard spelling
+kilo,kilogram,unrelated,not a spelling pair
+wiz,whiz,unrelated,not a spelling pair
+millimeter,millimetre,reverse,the canonical column is the nonstandard spelling
+hippo,hippopotamus,unrelated,not a spelling pair
+pallet,palette,unrelated,not a spelling pair
+revel,reveal,unrelated,not a spelling pair
+organiser,organizer,variant,the variant column is the nonstandard spelling
+dahl,dal,variant,the variant column is the nonstandard spelling
+lister,leister,variant,the variant column is the nonstandard spelling
+counterpoint,counterpane,unrelated,not a spelling pair
+plat,platform,unrelated,not a spelling pair
+grille,grill,variant,the variant column is the nonstandard spelling
+sheik,sheikh,variant,the variant column is the nonstandard spelling
+dork,dirk,unrelated,not a spelling pair
+burrow,barrow,unrelated,not a spelling pair
+privatisation,privatization,variant,the variant column is the nonstandard spelling
+tort,tortoise,unrelated,not a spelling pair
+mow,mew,unrelated,not a spelling pair
+clit,clitoris,unrelated,not a spelling pair
+macintosh,mackintosh,variant,the variant column is the nonstandard spelling
+centerpiece,centrepiece,reverse,the canonical column is the nonstandard spelling
+skunk,skunkweed,unrelated,not a spelling pair
+yoke,yolk,unrelated,not a spelling pair
+pane,peen,unrelated,not a spelling pair
+plough,snowplough,unrelated,not a spelling pair
+tact,tactic,unrelated,not a spelling pair
+medallist,medalist,variant,the variant column is the nonstandard spelling
+marge,margarine,unrelated,not a spelling pair
+rigor,rigour,reverse,the canonical column is the nonstandard spelling
+fuzz,fuss,unrelated,not a spelling pair
+minion,minium,unrelated,not a spelling pair
+fiberglass,fibreglass,variant,the variant column is the nonstandard spelling
+kos,coss,variant,the variant column is the nonstandard spelling
+cob,cobnut,unrelated,not a spelling pair
+toon,town,unrelated,not a spelling pair
+authorisation,authorization,variant,the variant column is the nonstandard spelling
+manoeuvre,maneuver,variant,the variant column is the nonstandard spelling
+puss,pus,unrelated,a cat vs the discharge; unrelated
+vigor,vigour,reverse,the canonical column is the nonstandard spelling
+vapour,vapor,variant,the variant column is the nonstandard spelling
+diarrhoea,diarrhea,variant,the variant column is the nonstandard spelling
+tranquility,tranquillity,reverse,the canonical column is the nonstandard spelling
+yoghurt,yogurt,variant,the variant column is the nonstandard spelling
+gangsta,gangster,variant,the variant column is the nonstandard spelling
+hippy,hippie,variant,the variant column is the nonstandard spelling
+doggie,doggy,variant,the variant column is the nonstandard spelling
+czar,tsar,variant,the variant column is the nonstandard spelling
+looney,loony,variant,the variant column is the nonstandard spelling
+loon,balloon,unrelated,not a spelling pair
+calvary,cavalry,unrelated,not a spelling pair
+lira,lyra,unrelated,not a spelling pair
+grandad,granddad,variant,the variant column is the nonstandard spelling
+cask,casque,unrelated,not a spelling pair
+ley,lea,unrelated,not a spelling pair
+savor,savour,reverse,the canonical column is the nonstandard spelling
+tarp,tarpaulin,unrelated,not a spelling pair
+baritone,barytone,unrelated,not a spelling pair
+modernisation,modernization,variant,the variant column is the nonstandard spelling
+doge,doggy,unrelated,not a spelling pair
+lustre,luster,variant,the variant column is the nonstandard spelling
+caddy,caddie,unrelated,not a spelling pair
+naught,nought,unrelated,not a spelling pair
+luster,lusterware,unrelated,not a spelling pair
+vac,vacation,unrelated,not a spelling pair
+perky,percy,unrelated,perky is an adjective; percy is a name
+llama,lama,unrelated,not a spelling pair
+flack,flak,unrelated,not a spelling pair
+chimp,chimpanzee,unrelated,not a spelling pair
+honk,honky,unrelated,not a spelling pair
+adage,adagio,unrelated,not a spelling pair
+scepticism,skepticism,variant,the variant column is the nonstandard spelling
+dickie,dicky,variant,the variant column is the nonstandard spelling
+ambience,ambiance,variant,the variant column is the nonstandard spelling
+dram,drachm,unrelated,not a spelling pair
+anaesthetic,anesthetic,variant,the variant column is the nonstandard spelling
+pall,pawl,unrelated,not a spelling pair
+flier,flyer,variant,the variant column is the nonstandard spelling
+plumb,plum,unrelated,not a spelling pair
+argyll,argyle,variant,the variant column is the nonstandard spelling
+bogey,bogie,unrelated,not a spelling pair
+mem,memory,unrelated,not a spelling pair
+bannister,banister,variant,the variant column is the nonstandard spelling
+esophagus,oesophagus,reverse,the canonical column is the nonstandard spelling
+nance,nancy,unrelated,"both slang/name, not a spelling pair"
+guerilla,guerrilla,variant,the variant column is the nonstandard spelling
+valence,valance,unrelated,not a spelling pair
+epicenter,epicentre,reverse,the canonical column is the nonstandard spelling
+dag,dog,unrelated,not a spelling pair
+characterisation,characterization,variant,the variant column is the nonstandard spelling
+dickey,dicky,variant,the variant column is the nonstandard spelling
+centimeter,centimetre,reverse,the canonical column is the nonstandard spelling
+putty,puttee,unrelated,not a spelling pair
+reorganisation,reorganization,variant,the variant column is the nonstandard spelling
+imposter,impostor,variant,the variant column is the nonstandard spelling
+dishonor,dishonour,reverse,the canonical column is the nonstandard spelling
+prawn,porn,unrelated,not a spelling pair
+lx,linguistics,unrelated,not a spelling pair
+gopher,gofer,unrelated,not a spelling pair
+fertiliser,fertilizer,variant,the variant column is the nonstandard spelling
+pinkie,pinky,unrelated,not a spelling pair
+equaliser,equalizer,variant,the variant column is the nonstandard spelling
+geezer,geyser,unrelated,not a spelling pair
+dike,dyke,reverse,the canonical column is the nonstandard spelling
+paedophile,pedophile,variant,the variant column is the nonstandard spelling
+pollack,pollock,variant,the variant column is the nonstandard spelling
+hakeem,hakim,variant,the variant column is the nonstandard spelling
+gaol,jail,variant,the variant column is the nonstandard spelling
+holler,hollow,unrelated,not a spelling pair
+hock,hawk,unrelated,not a spelling pair
+buss,bus,unrelated,a kiss vs the vehicle; unrelated
+tux,tuxedo,unrelated,not a spelling pair
+enquirer,inquirer,variant,the variant column is the nonstandard spelling
+juke,jukebox,unrelated,not a spelling pair
+nim,neem,unrelated,not a spelling pair
+gat,khat,unrelated,not a spelling pair
+halter,haltere,unrelated,not a spelling pair
+gripe,grip,unrelated,not a spelling pair
+burg,burger,unrelated,not a spelling pair
+daemon,demon,variant,the variant column is the nonstandard spelling
+canvass,canvas,unrelated,cloth vs soliciting; different words
+encyclopaedia,encyclopedia,variant,the variant column is the nonstandard spelling
+savoury,savory,variant,the variant column is the nonstandard spelling
+brahman,brahmin,variant,the variant column is the nonstandard spelling
+girdle,griddle,unrelated,not a spelling pair
+haji,hajji,variant,the variant column is the nonstandard spelling
+crick,creek,unrelated,not a spelling pair
+cypher,cipher,variant,the variant column is the nonstandard spelling
+hearse,hearst,unrelated,not a spelling pair
+filet,fillet,variant,the variant column is the nonstandard spelling
+amphitheater,amphitheatre,reverse,the canonical column is the nonstandard spelling
+lido,lidocaine,unrelated,not a spelling pair
+wether,weather,unrelated,not a spelling pair
+mediaeval,medieval,variant,the variant column is the nonstandard spelling
+foetus,fetus,variant,the variant column is the nonstandard spelling
+kor,cor,variant,the variant column is the nonstandard spelling
+pamper,pampers,plural,"one side is a plural of the other, not a spelling variant"
+favoritism,favouritism,reverse,the canonical column is the nonstandard spelling
+archeology,archaeology,reverse,the canonical column is the nonstandard spelling
+lino,linoleum,unrelated,not a spelling pair
+neb,nebulizer,unrelated,not a spelling pair
+posit,position,unrelated,not a spelling pair
+leukaemia,leukemia,variant,the variant column is the nonstandard spelling
+ruck,roc,unrelated,not a spelling pair
+guile,gold,unrelated,not a spelling pair
+loin,lion,unrelated,not a spelling pair
+bur,burr,unrelated,not a spelling pair
+homey,homie,variant,the variant column is the nonstandard spelling
+fervour,fervor,variant,the variant column is the nonstandard spelling
+signor,signore,variant,the variant column is the nonstandard spelling
+pix,pyx,unrelated,not a spelling pair
+twit,twitter,unrelated,not a spelling pair
+soya,soy,variant,the variant column is the nonstandard spelling
+aether,ether,variant,the variant column is the nonstandard spelling
+haemorrhage,hemorrhage,variant,the variant column is the nonstandard spelling
+woollen,woolen,variant,the variant column is the nonstandard spelling
+feller,fellow,unrelated,not a spelling pair
+adaption,adaptation,variant,the variant column is the nonstandard spelling
+optimisation,optimization,variant,the variant column is the nonstandard spelling
+bennie,benny,variant,the variant column is the nonstandard spelling
+cay,quay,unrelated,not a spelling pair
+pretence,pretense,variant,the variant column is the nonstandard spelling
+scepter,sceptre,reverse,the canonical column is the nonstandard spelling
+boarder,skateboarder,unrelated,not a spelling pair
+lye,lie,unrelated,not a spelling pair
+mettle,metal,unrelated,not a spelling pair
+faerie,fairy,variant,the variant column is the nonstandard spelling
+colonisation,colonization,variant,the variant column is the nonstandard spelling
+roan,rowan,unrelated,not a spelling pair
+anaesthesia,anesthesia,variant,the variant column is the nonstandard spelling
+faeces,feces,variant,the variant column is the nonstandard spelling
+jak,jack,variant,the variant column is the nonstandard spelling
+barbeque,barbecue,variant,the variant column is the nonstandard spelling
+racquet,racket,variant,the variant column is the nonstandard spelling
+industrialisation,industrialization,variant,the variant column is the nonstandard spelling
+croquet,croquette,unrelated,not a spelling pair
+dateline,deadline,unrelated,not a spelling pair
+despatch,dispatch,variant,the variant column is the nonstandard spelling
+leger,ledger,unrelated,not a spelling pair
+phoney,phony,variant,the variant column is the nonstandard spelling
+stabilisation,stabilization,variant,the variant column is the nonstandard spelling
+dominos,dominoes,unrelated,not a spelling pair
+orang,orangutan,unrelated,not a spelling pair
+ochre,okra,unrelated,not a spelling pair
+liberalisation,liberalization,variant,the variant column is the nonstandard spelling
+ellipse,ellipsis,unrelated,not a spelling pair
+rigour,rigor,variant,the variant column is the nonstandard spelling
+roomy,roomie,variant,the variant column is the nonstandard spelling
+marten,martin,unrelated,not a spelling pair
+urbanisation,urbanization,variant,the variant column is the nonstandard spelling
+sanitarium,sanatorium,variant,the variant column is the nonstandard spelling
+bloomer,bloomers,plural,"one side is a plural of the other, not a spelling variant"
+gipsy,gypsy,variant,the variant column is the nonstandard spelling
+nob,knob,unrelated,not a spelling pair
+clench,clinch,unrelated,not a spelling pair
+jeweller,jeweler,variant,the variant column is the nonstandard spelling
+lah,la,variant,the variant column is the nonstandard spelling
+winder,window,unrelated,not a spelling pair
+gratuity,fee,unrelated,not a spelling pair
+choc,chocolate,unrelated,not a spelling pair
+adaptor,adapter,variant,the variant column is the nonstandard spelling
+aeon,eon,variant,the variant column is the nonstandard spelling
+maneuverability,manoeuvrability,reverse,the canonical column is the nonstandard spelling
+karat,carat,variant,the variant column is the nonstandard spelling
+saree,sari,variant,the variant column is the nonstandard spelling
+verandah,veranda,variant,the variant column is the nonstandard spelling
+omelet,omelette,reverse,the canonical column is the nonstandard spelling
+checkbook,chequebook,variant,the variant column is the nonstandard spelling
+masque,mask,unrelated,not a spelling pair
+broach,brooch,unrelated,not a spelling pair
+nog,noggin,unrelated,not a spelling pair
+glycerin,glycerine,variant,the variant column is the nonstandard spelling
+chamomile,camomile,reverse,the canonical column is the nonstandard spelling
+kerb,curb,variant,the variant column is the nonstandard spelling
+chink,kink,unrelated,not a spelling pair
+etiology,aetiology,reverse,the canonical column is the nonstandard spelling
+narc,nark,unrelated,not a spelling pair
+monger,whoremonger,unrelated,not a spelling pair
+louse,loose,unrelated,not a spelling pair
+cristal,crystal,variant,the variant column is the nonstandard spelling
+aum,om,variant,the variant column is the nonstandard spelling
+caddie,caddy,unrelated,not a spelling pair
+sulphate,sulfate,variant,the variant column is the nonstandard spelling
+confidante,confidant,unrelated,not a spelling pair
+burka,burqa,variant,the variant column is the nonstandard spelling
+jodhpur,jodhpurs,plural,"one side is a plural of the other, not a spelling variant"
+synchro,synchromesh,unrelated,not a spelling pair
+sone,son,unrelated,not a spelling pair
+specialisation,specialization,variant,the variant column is the nonstandard spelling
+bazar,bazaar,variant,the variant column is the nonstandard spelling
+lav,lavatory,unrelated,not a spelling pair
+crozier,crosier,variant,the variant column is the nonstandard spelling
+maxillary,maxilla,unrelated,adjective vs bone; not a spelling pair
+nosey,nosy,variant,the variant column is the nonstandard spelling
+juggler,jugular,unrelated,not a spelling pair
+glazer,glazier,unrelated,not a spelling pair
+kola,cola,unrelated,not a spelling pair
+fertilisation,fertilization,variant,the variant column is the nonstandard spelling
+draftsman,draughtsman,reverse,the canonical column is the nonstandard spelling
+visualisation,visualization,variant,the variant column is the nonstandard spelling
+lasagne,lasagna,unrelated,not a spelling pair
+haj,hajj,variant,the variant column is the nonstandard spelling
+polarisation,polarization,variant,the variant column is the nonstandard spelling
+boogeyman,bogeyman,variant,the variant column is the nonstandard spelling
+mongo,mongoloid,unrelated,not a spelling pair
+travail,travel,unrelated,not a spelling pair
+annexe,annex,variant,the variant column is the nonstandard spelling
+anaemia,anemia,variant,the variant column is the nonstandard spelling
+uke,ukulele,unrelated,not a spelling pair
+rime,rhyme,unrelated,not a spelling pair
+standardisation,standardization,variant,the variant column is the nonstandard spelling
+sceptic,skeptic,variant,the variant column is the nonstandard spelling
+pica,pika,unrelated,not a spelling pair
+canna,cannabis,unrelated,not a spelling pair
+cress,kris,unrelated,not a spelling pair
+minx,mink,unrelated,not a spelling pair
+whizz,whiz,variant,the variant column is the nonstandard spelling
+gynaecology,gynecology,variant,the variant column is the nonstandard spelling
+tricolor,tricolour,reverse,the canonical column is the nonstandard spelling
+torr,tor,unrelated,a pressure unit vs a rocky hill; unrelated
+ameer,emir,variant,the variant column is the nonstandard spelling
+duffle,duffel,variant,the variant column is the nonstandard spelling
+conceptualization,conceptualisation,reverse,the canonical column is the nonstandard spelling
+pud,pood,unrelated,not a spelling pair
+connexion,connection,variant,the variant column is the nonstandard spelling
+soph,sophomore,unrelated,not a spelling pair
+immunisation,immunization,variant,the variant column is the nonstandard spelling
+bogie,bogey,unrelated,not a spelling pair
+candour,candor,variant,the variant column is the nonstandard spelling
+cesium,caesium,reverse,the canonical column is the nonstandard spelling
+horsey,horsy,variant,the variant column is the nonstandard spelling
+localisation,localization,variant,the variant column is the nonstandard spelling
+lacklustre,lackluster,variant,the variant column is the nonstandard spelling
+kiddy,kiddie,unrelated,not a spelling pair
+weft,waif,unrelated,not a spelling pair
+ikon,icon,variant,the variant column is the nonstandard spelling
+paediatrics,pediatrics,variant,the variant column is the nonstandard spelling
+colter,coulter,reverse,the canonical column is the nonstandard spelling
+dray,drey,unrelated,not a spelling pair
+chon,jun,variant,the variant column is the nonstandard spelling
+gild,guild,variant,the variant column is the nonstandard spelling
+decentralisation,decentralization,variant,the variant column is the nonstandard spelling
+fosse,fossa,unrelated,not a spelling pair
+junky,junkie,variant,the variant column is the nonstandard spelling
+archeologist,archaeologist,reverse,the canonical column is the nonstandard spelling
+pitta,pita,variant,the variant column is the nonstandard spelling
+nitroglycerin,nitroglycerine,variant,the variant column is the nonstandard spelling
+fuze,fuse,unrelated,not a spelling pair
+pacha,pasha,variant,the variant column is the nonstandard spelling
+hemophilia,haemophilia,reverse,the canonical column is the nonstandard spelling
+avo,avocado,unrelated,not a spelling pair
+oestrogen,estrogen,variant,the variant column is the nonstandard spelling
+panto,pantomime,unrelated,not a spelling pair
+commercialisation,commercialization,variant,the variant column is the nonstandard spelling
+gynaecologist,gynecologist,variant,the variant column is the nonstandard spelling
+wain,wean,unrelated,not a spelling pair
+bole,boll,unrelated,not a spelling pair
+heckle,hackle,unrelated,heckle is the ordinary verb/noun; hackle is a separate word
+reticle,reticule,unrelated,not a spelling pair
+stile,style,unrelated,not a spelling pair
+serjeant,sergeant,variant,the variant column is the nonstandard spelling
+sedge,siege,unrelated,not a spelling pair
+sterilisation,sterilization,variant,the variant column is the nonstandard spelling
+dietician,dietitian,variant,the variant column is the nonstandard spelling
+miter,mitre,reverse,the canonical column is the nonstandard spelling
+nanometer,nanometre,reverse,the canonical column is the nonstandard spelling
+toilette,toilet,variant,the variant column is the nonstandard spelling
+bicyclist,cyclist,variant,the variant column is the nonstandard spelling
+descendent,descendant,variant,the variant column is the nonstandard spelling
+humus,hummus,unrelated,not a spelling pair
+rationalisation,rationalization,variant,the variant column is the nonstandard spelling
+gargle,gargoyle,unrelated,not a spelling pair
+griffon,griffin,variant,the variant column is the nonstandard spelling
+sulphide,sulfide,variant,the variant column is the nonstandard spelling
+molt,moult,reverse,the canonical column is the nonstandard spelling
+kiley,kylie,variant,the variant column is the nonstandard spelling
+centralisation,centralization,variant,the variant column is the nonstandard spelling
+furore,furor,variant,the variant column is the nonstandard spelling
+phantasy,fantasy,variant,the variant column is the nonstandard spelling
+brier,briar,variant,the variant column is the nonstandard spelling
+moolah,mullah,unrelated,money vs a Muslim cleric; unrelated
+britches,breeches,variant,the variant column is the nonstandard spelling
+softie,softy,unrelated,not a spelling pair
+weeb,weeaboo,unrelated,not a spelling pair
+cassino,casino,variant,the variant column is the nonstandard spelling
+partizan,partisan,variant,the variant column is the nonstandard spelling
+glamor,glamour,reverse,the canonical column is the nonstandard spelling
+tabu,taboo,variant,the variant column is the nonstandard spelling
+gelatine,gelatin,variant,the variant column is the nonstandard spelling
+gramma,grama,unrelated,not a spelling pair
+apse,apsis,unrelated,not a spelling pair
+punky,punkie,variant,the variant column is the nonstandard spelling
+sentience,sentence,unrelated,not a spelling pair
+antic,antique,unrelated,not a spelling pair
+tare,tara,unrelated,not a spelling pair
+eyeglass,eyeglasses,plural,"one side is a plural of the other, not a spelling variant"
+rigger,outrigger,unrelated,not a spelling pair
+bandanna,bandana,variant,the variant column is the nonstandard spelling
+ratan,rattan,variant,the variant column is the nonstandard spelling
+herm,hermaphrodite,unrelated,not a spelling pair
+orthopaedics,orthopedics,variant,the variant column is the nonstandard spelling
+atar,attar,variant,the variant column is the nonstandard spelling
+ern,erne,variant,the variant column is the nonstandard spelling
+micrometer,micrometre,reverse,the canonical column is the nonstandard spelling
+beano,bingo,unrelated,not a spelling pair
+normalisation,normalization,variant,the variant column is the nonstandard spelling
+schtick,shtick,variant,the variant column is the nonstandard spelling
+meany,meanie,variant,the variant column is the nonstandard spelling
+handmaiden,handmaid,variant,the variant column is the nonstandard spelling
+telfer,telpher,variant,the variant column is the nonstandard spelling
+palaeontology,paleontology,variant,the variant column is the nonstandard spelling
+mudder,mother,unrelated,not a spelling pair
+scull,skull,unrelated,not a spelling pair
+synchronisation,synchronization,variant,the variant column is the nonstandard spelling
+swathe,swath,unrelated,not a spelling pair
+arak,arrack,unrelated,not a spelling pair
+caulk,calk,unrelated,not a spelling pair
+thruway,throughway,variant,the variant column is the nonstandard spelling
+lense,lens,variant,the variant column is the nonstandard spelling
+fount,font,unrelated,not a spelling pair
+haemoglobin,hemoglobin,variant,the variant column is the nonstandard spelling
+maharajah,maharaja,variant,the variant column is the nonstandard spelling
+mollusk,mollusc,reverse,the canonical column is the nonstandard spelling
+consignor,consigner,variant,the variant column is the nonstandard spelling
+sett,set,unrelated,not a spelling pair
+manilla,manila,unrelated,not a spelling pair
+challis,chalice,unrelated,not a spelling pair
+waggoner,wagoner,variant,the variant column is the nonstandard spelling
+lats,lat,plural,lats is the plural of the muscle sense
+categorisation,categorization,variant,the variant column is the nonstandard spelling
+umma,ummah,variant,the variant column is the nonstandard spelling
+nuna,noona,variant,the variant column is the nonstandard spelling
+soh,so,variant,the variant column is the nonstandard spelling
+blather,bladder,unrelated,not a spelling pair
+paediatrician,pediatrician,variant,the variant column is the nonstandard spelling
+democratisation,democratization,variant,the variant column is the nonstandard spelling
+ulama,ulema,unrelated,not a spelling pair
+synesthesia,synaesthesia,reverse,the canonical column is the nonstandard spelling
+dolor,dolour,reverse,the canonical column is the nonstandard spelling
+bootie,bootee,variant,the variant column is the nonstandard spelling
+fug,fuck,unrelated,not a spelling pair
+diam,diameter,unrelated,not a spelling pair
+racoon,raccoon,variant,the variant column is the nonstandard spelling
+repellant,repellent,variant,the variant column is the nonstandard spelling
+socialisation,socialization,variant,the variant column is the nonstandard spelling
+hadji,hajji,variant,the variant column is the nonstandard spelling
+anaesthetist,anesthetist,variant,the variant column is the nonstandard spelling
+quire,choir,unrelated,not a spelling pair
+kail,kale,variant,the variant column is the nonstandard spelling
+hospitalisation,hospitalization,variant,the variant column is the nonstandard spelling
+haft,heft,unrelated,not a spelling pair
+affaire,affair,variant,the variant column is the nonstandard spelling
+misdemeanour,misdemeanor,variant,the variant column is the nonstandard spelling
+victimisation,victimization,variant,the variant column is the nonstandard spelling
+eonni,unnie,variant,the variant column is the nonstandard spelling
+khadi,khaddar,variant,the variant column is the nonstandard spelling
+pappa,papa,variant,the variant column is the nonstandard spelling
+gryphon,griffin,variant,the variant column is the nonstandard spelling
+lupine,lupin,unrelated,not a spelling pair
+misbehaviour,misbehavior,variant,the variant column is the nonstandard spelling
+mezcal,mescal,variant,the variant column is the nonstandard spelling
+analyser,analyzer,variant,the variant column is the nonstandard spelling
+confectionary,confectionery,unrelated,not a spelling pair
+marginalisation,marginalization,variant,the variant column is the nonstandard spelling
+digitisation,digitization,variant,the variant column is the nonstandard spelling
+gilder,guilder,unrelated,not a spelling pair
+esthetics,aesthetics,reverse,the canonical column is the nonstandard spelling
+transexual,transsexual,variant,the variant column is the nonstandard spelling
+gonorrhoea,gonorrhea,variant,the variant column is the nonstandard spelling
+equalisation,equalization,variant,the variant column is the nonstandard spelling
+worshiper,worshipper,variant,the variant column is the nonstandard spelling
+brigantine,brigandine,unrelated,not a spelling pair
+encumbrance,incumbrance,reverse,the canonical column is the nonstandard spelling
+marihuana,marijuana,variant,the variant column is the nonstandard spelling
+sunglass,sunglasses,plural,"one side is a plural of the other, not a spelling variant"
+criterium,criterion,unrelated,not a spelling pair
+aneurism,aneurysm,variant,the variant column is the nonstandard spelling
+colouration,coloration,variant,the variant column is the nonstandard spelling
+stabiliser,stabilizer,variant,the variant column is the nonstandard spelling
+aerie,eyrie,reverse,the canonical column is the nonstandard spelling
+tipi,teepee,variant,the variant column is the nonstandard spelling
+buncombe,bunkum,variant,the variant column is the nonstandard spelling
+pasteurization,pasteurisation,reverse,the canonical column is the nonstandard spelling
+bourn,bourne,variant,the variant column is the nonstandard spelling
+oedema,edema,variant,the variant column is the nonstandard spelling
+carburettor,carburetor,variant,the variant column is the nonstandard spelling
+rozelle,roselle,variant,the variant column is the nonstandard spelling
+lath,lat,unrelated,not a spelling pair
+rouble,ruble,variant,the variant column is the nonstandard spelling
+internationalisation,internationalization,variant,the variant column is the nonstandard spelling
+rancour,rancor,variant,the variant column is the nonstandard spelling
+succor,succour,reverse,the canonical column is the nonstandard spelling
+salwar,shalwar,variant,the variant column is the nonstandard spelling
+milliliter,millilitre,reverse,the canonical column is the nonstandard spelling
+hame,home,unrelated,not a spelling pair
+sympathiser,sympathizer,variant,the variant column is the nonstandard spelling
+septicaemia,septicemia,variant,the variant column is the nonstandard spelling
+atheneum,athenaeum,reverse,the canonical column is the nonstandard spelling
+peavey,peavy,variant,the variant column is the nonstandard spelling
+tendonitis,tendinitis,variant,the variant column is the nonstandard spelling
+boule,buhl,unrelated,not a spelling pair
+maser,mazer,unrelated,not a spelling pair
+hooman,human,unrelated,not a spelling pair
+palaeontologist,paleontologist,variant,the variant column is the nonstandard spelling
+tach,tachometer,unrelated,not a spelling pair
+demonetisation,demonetization,variant,the variant column is the nonstandard spelling
+kine,kinescope,unrelated,not a spelling pair
+gamedev,game,unrelated,"a compound clipping, not a spelling of ""game"""
+piquet,picket,unrelated,not a spelling pair
+tawney,tawny,variant,the variant column is the nonstandard spelling
+baulk,balk,variant,the variant column is the nonstandard spelling
+minimisation,minimization,variant,the variant column is the nonstandard spelling
+damascene,damson,unrelated,damascene metalwork vs the plum; unrelated
+flutist,flautist,variant,the variant column is the nonstandard spelling
+saltpeter,saltpetre,reverse,the canonical column is the nonstandard spelling
+chukka,chukker,unrelated,not a spelling pair
+mumma,mama,variant,the variant column is the nonstandard spelling
+waggon,wagon,variant,the variant column is the nonstandard spelling
+riband,ribbon,variant,the variant column is the nonstandard spelling
+sylva,silva,variant,the variant column is the nonstandard spelling
+derma,dermatologist,unrelated,not a spelling pair
+naturalisation,naturalization,variant,the variant column is the nonstandard spelling
+kasbah,casbah,variant,the variant column is the nonstandard spelling
+wog,polliwog,unrelated,not a spelling pair
+pendent,pendant,variant,the variant column is the nonstandard spelling
+revitalisation,revitalization,variant,the variant column is the nonstandard spelling
+decriminalisation,decriminalization,variant,the variant column is the nonstandard spelling
+mechanisation,mechanization,variant,the variant column is the nonstandard spelling
+carrell,carrel,variant,the variant column is the nonstandard spelling
+cyclopedia,cyclopaedia,reverse,the canonical column is the nonstandard spelling
+finalization,finalisation,reverse,the canonical column is the nonstandard spelling
+disfavor,disfavour,reverse,the canonical column is the nonstandard spelling
+discolouration,discoloration,variant,the variant column is the nonstandard spelling
+loonie,loony,unrelated,not a spelling pair
+jailor,jailer,variant,the variant column is the nonstandard spelling
+salable,saleable,variant,the variant column is the nonstandard spelling
+briony,bryony,variant,the variant column is the nonstandard spelling
+goiter,goitre,reverse,the canonical column is the nonstandard spelling
+hullo,hello,variant,the variant column is the nonstandard spelling
+carrel,carol,unrelated,a study desk and a song; not spellings of each other
+amuck,amok,variant,the variant column is the nonstandard spelling
+macaroon,macaron,unrelated,not a spelling pair
+curtsy,curtsey,variant,the variant column is the nonstandard spelling
+darter,daughter,unrelated,not a spelling pair
+syphon,siphon,variant,the variant column is the nonstandard spelling
+ocher,ochre,reverse,the canonical column is the nonstandard spelling
+whir,whirr,variant,the variant column is the nonstandard spelling
+extraversion,extroversion,variant,the variant column is the nonstandard spelling
+faery,fairy,variant,the variant column is the nonstandard spelling
+conveyer,conveyor,variant,the variant column is the nonstandard spelling
+criminalisation,criminalization,variant,the variant column is the nonstandard spelling
+tepee,teepee,variant,the variant column is the nonstandard spelling
+modeller,modeler,variant,the variant column is the nonstandard spelling
+hybridisation,hybridization,variant,the variant column is the nonstandard spelling
+sonography,ultrasonography,unrelated,not a spelling pair
+guilder,gilder,unrelated,not a spelling pair
+cozier,cosier,variant,the variant column is the nonstandard spelling
+pavan,pavane,variant,the variant column is the nonstandard spelling
+chaw,cha,unrelated,not a spelling pair
+saman,zaman,unrelated,not a spelling pair
+tiro,tyro,variant,the variant column is the nonstandard spelling
+forbear,forebear,variant,the variant column is the nonstandard spelling
+estrus,oestrus,reverse,the canonical column is the nonstandard spelling
+floatation,flotation,variant,the variant column is the nonstandard spelling
+ionisation,ionization,variant,the variant column is the nonstandard spelling
+ascendency,ascendancy,variant,the variant column is the nonstandard spelling
+lynchpin,linchpin,variant,the variant column is the nonstandard spelling
+archaeopteryx,archeopteryx,variant,the variant column is the nonstandard spelling
+tole,toll,unrelated,not a spelling pair
+jujutsu,jujitsu,variant,the variant column is the nonstandard spelling
+jessamine,jasmine,variant,the variant column is the nonstandard spelling
+fagot,faggot,variant,the variant column is the nonstandard spelling
+merl,merle,variant,the variant column is the nonstandard spelling
+khalif,caliph,variant,the variant column is the nonstandard spelling
+tatu,tattoo,variant,the variant column is the nonstandard spelling
+khi,chi,variant,the variant column is the nonstandard spelling
+soja,soya,variant,the variant column is the nonstandard spelling
+hypoglycaemia,hypoglycemia,variant,the variant column is the nonstandard spelling
+confab,confabulation,unrelated,not a spelling pair
+baldrick,baldric,variant,the variant column is the nonstandard spelling
+paramedical,paramedic,unrelated,adjective vs person; not a spelling pair
+monetisation,monetization,variant,the variant column is the nonstandard spelling
+sepulcher,sepulchre,reverse,the canonical column is the nonstandard spelling
+rubel,ruble,variant,the variant column is the nonstandard spelling
+cooly,coolie,variant,the variant column is the nonstandard spelling
+flunky,flunkey,unrelated,not a spelling pair
+grannie,granny,variant,the variant column is the nonstandard spelling
+decolonisation,decolonization,variant,the variant column is the nonstandard spelling
+caplin,capelin,variant,the variant column is the nonstandard spelling
+royster,roister,variant,the variant column is the nonstandard spelling
+jemmy,jimmy,unrelated,not a spelling pair
+clime,climb,unrelated,not a spelling pair
+cocoanut,coconut,variant,the variant column is the nonstandard spelling
+carrousel,carousel,variant,the variant column is the nonstandard spelling
+womaniser,womanizer,variant,the variant column is the nonstandard spelling
+camelia,camellia,variant,the variant column is the nonstandard spelling
+dramatisation,dramatization,variant,the variant column is the nonstandard spelling
+caftan,kaftan,variant,the variant column is the nonstandard spelling
+abridgement,abridgment,variant,the variant column is the nonstandard spelling
+kauri,cowrie,unrelated,not a spelling pair
+esthetician,aesthetician,reverse,the canonical column is the nonstandard spelling
+burthen,burden,variant,the variant column is the nonstandard spelling
+cooky,cookie,variant,the variant column is the nonstandard spelling
+pallette,palette,variant,the variant column is the nonstandard spelling
+stanch,staunch,variant,the variant column is the nonstandard spelling
+virtu,vertu,variant,the variant column is the nonstandard spelling
+baptistery,baptistry,variant,the variant column is the nonstandard spelling
+amortisation,amortization,variant,the variant column is the nonstandard spelling
+missis,missus,variant,the variant column is the nonstandard spelling
+canonisation,canonization,variant,the variant column is the nonstandard spelling
+dentine,dentin,variant,the variant column is the nonstandard spelling
+spick,spic,variant,the variant column is the nonstandard spelling
+inflator,inflater,variant,the variant column is the nonstandard spelling
+charr,char,variant,the variant column is the nonstandard spelling
+resister,resistor,variant,the variant column is the nonstandard spelling
+synthesiser,synthesizer,variant,the variant column is the nonstandard spelling
+largess,largesse,variant,the variant column is the nonstandard spelling
+veldt,veld,variant,the variant column is the nonstandard spelling
+coziness,cosiness,reverse,the canonical column is the nonstandard spelling
+taira,tayra,variant,the variant column is the nonstandard spelling
+manikin,mannequin,unrelated,not a spelling pair
+homoeopathy,homeopathy,variant,the variant column is the nonstandard spelling
+mujahedin,mujahideen,variant,the variant column is the nonstandard spelling
+sherbert,sherbet,variant,the variant column is the nonstandard spelling
+matzah,matzo,variant,the variant column is the nonstandard spelling
+leveler,leveller,variant,the variant column is the nonstandard spelling
+klick,click,unrelated,not a spelling pair
+goodby,goodbye,variant,the variant column is the nonstandard spelling
+conk,conch,unrelated,not a spelling pair
+pedlar,peddler,variant,the variant column is the nonstandard spelling
+demobilisation,demobilization,variant,the variant column is the nonstandard spelling
+bosun,boatswain,variant,the variant column is the nonstandard spelling
+pouf,puff,unrelated,not a spelling pair
+kabob,kebab,reverse,the canonical column is the nonstandard spelling
+dowse,douse,variant,the variant column is the nonstandard spelling
+doxy,doxycycline,unrelated,not a spelling pair
+frangipani,frangipane,unrelated,not a spelling pair
+valse,waltz,variant,the variant column is the nonstandard spelling
+hadj,hajj,variant,the variant column is the nonstandard spelling
+fiord,fjord,variant,the variant column is the nonstandard spelling
+fice,feist,variant,the variant column is the nonstandard spelling
+linguini,linguine,variant,the variant column is the nonstandard spelling
+selvedge,selvage,variant,the variant column is the nonstandard spelling
+sampan,jampan,unrelated,not a spelling pair
+vender,vendor,variant,the variant column is the nonstandard spelling
+interne,intern,variant,the variant column is the nonstandard spelling
+catsup,ketchup,variant,the variant column is the nonstandard spelling
+qat,khat,variant,the variant column is the nonstandard spelling
+tympani,timpani,variant,the variant column is the nonstandard spelling
+amenorrhea,amenorrhoea,reverse,the canonical column is the nonstandard spelling
+clew,clue,unrelated,not a spelling pair
+tzar,tsar,variant,the variant column is the nonstandard spelling
+spiff,spliff,unrelated,not a spelling pair
+lodgement,lodgment,variant,the variant column is the nonstandard spelling
+meq,milliequivalent,unrelated,not a spelling pair
+spirt,spurt,variant,the variant column is the nonstandard spelling
+stye,sty,unrelated,not a spelling pair
+litchi,lychee,variant,the variant column is the nonstandard spelling
+jiujitsu,jujitsu,variant,the variant column is the nonstandard spelling
+ploughman,plowman,variant,the variant column is the nonstandard spelling
+darkie,darkey,variant,the variant column is the nonstandard spelling
+nones,noon,unrelated,not a spelling pair
+yack,yak,variant,the variant column is the nonstandard spelling
+valency,valence,variant,the variant column is the nonstandard spelling
+crape,crepe,variant,the variant column is the nonstandard spelling
+thiamin,thiamine,variant,the variant column is the nonstandard spelling
+medivac,medevac,variant,the variant column is the nonstandard spelling
+ghillie,gillie,unrelated,not a spelling pair
+kindergartener,kindergartner,variant,the variant column is the nonstandard spelling
+dhal,dal,variant,the variant column is the nonstandard spelling
+crystallisation,crystallization,variant,the variant column is the nonstandard spelling
+whacko,wacko,variant,the variant column is the nonstandard spelling
+quaff,coif,unrelated,not a spelling pair
+reflexion,reflection,variant,the variant column is the nonstandard spelling
+broncho,bronco,variant,the variant column is the nonstandard spelling
+militarisation,militarization,variant,the variant column is the nonstandard spelling
+straightjacket,straitjacket,variant,the variant column is the nonstandard spelling
+behaviourist,behaviorist,variant,the variant column is the nonstandard spelling
+skullduggery,skulduggery,reverse,the canonical column is the nonstandard spelling
+cecum,caecum,reverse,the canonical column is the nonstandard spelling
+floozy,floozie,variant,the variant column is the nonstandard spelling
+cocain,cocaine,variant,the variant column is the nonstandard spelling
+czarina,tsarina,variant,the variant column is the nonstandard spelling
+pixy,pixie,variant,the variant column is the nonstandard spelling
+quicky,quickie,variant,the variant column is the nonstandard spelling
+destabilisation,destabilization,variant,the variant column is the nonstandard spelling
+secularisation,secularization,variant,the variant column is the nonstandard spelling
+pharmacopeia,pharmacopoeia,reverse,the canonical column is the nonstandard spelling
+rheum,rheumatologist,unrelated,not a spelling pair
+distention,distension,variant,the variant column is the nonstandard spelling
+swop,swap,variant,the variant column is the nonstandard spelling
+chimaera,chimera,variant,the variant column is the nonstandard spelling
+gingko,ginkgo,variant,the variant column is the nonstandard spelling
+hankie,hanky,variant,the variant column is the nonstandard spelling
+mizen,mizzen,variant,the variant column is the nonstandard spelling
+belieber,believer,unrelated,"fandom coinage, not a spelling of believer"
+aerofoil,airfoil,variant,the variant column is the nonstandard spelling
+benni,benne,variant,the variant column is the nonstandard spelling
+disfunction,dysfunction,variant,the variant column is the nonstandard spelling
+caldron,cauldron,variant,the variant column is the nonstandard spelling
+hinderance,hindrance,variant,the variant column is the nonstandard spelling
+frier,fryer,variant,the variant column is the nonstandard spelling
+rhumba,rumba,variant,the variant column is the nonstandard spelling
+frangipane,frangipani,unrelated,not a spelling pair
+bunko,bunco,variant,the variant column is the nonstandard spelling
+yobo,yobbo,variant,the variant column is the nonstandard spelling
+mortgagor,mortgager,variant,the variant column is the nonstandard spelling
+inclosure,enclosure,variant,the variant column is the nonstandard spelling
+carcase,carcass,variant,the variant column is the nonstandard spelling
+serialisation,serialization,variant,the variant column is the nonstandard spelling
+boulle,buhl,variant,the variant column is the nonstandard spelling
+shirtsleeves,shirt,unrelated,not a spelling pair
+distributer,distributor,variant,the variant column is the nonstandard spelling
+scaup,scalp,unrelated,not a spelling pair
+facia,fascia,variant,the variant column is the nonstandard spelling
+signior,signore,variant,the variant column is the nonstandard spelling
+teetotaller,teetotaler,variant,the variant column is the nonstandard spelling
+axilla,axil,unrelated,not a spelling pair
+souse,source,unrelated,not a spelling pair
+milage,mileage,variant,the variant column is the nonstandard spelling
+polymerisation,polymerization,variant,the variant column is the nonstandard spelling
+summerset,somersault,variant,the variant column is the nonstandard spelling
+molder,moulder,reverse,the canonical column is the nonstandard spelling
+papaw,pawpaw,variant,the variant column is the nonstandard spelling
+smoulder,smolder,unrelated,not a spelling pair
+darky,darkey,variant,the variant column is the nonstandard spelling
+zombi,zombie,variant,the variant column is the nonstandard spelling
+dependance,dependence,variant,the variant column is the nonstandard spelling
+propellor,propeller,variant,the variant column is the nonstandard spelling
+pigmy,pygmy,variant,the variant column is the nonstandard spelling
+mujahedeen,mujahideen,variant,the variant column is the nonstandard spelling
+madrasah,madrasa,variant,the variant column is the nonstandard spelling
+aggrandisement,aggrandizement,variant,the variant column is the nonstandard spelling
+armourer,armorer,variant,the variant column is the nonstandard spelling
+adz,adze,variant,the variant column is the nonstandard spelling
+fellah,fella,unrelated,not a spelling pair
+baboo,babu,variant,the variant column is the nonstandard spelling
+dreadnaught,dreadnought,variant,the variant column is the nonstandard spelling
+tike,tyke,variant,the variant column is the nonstandard spelling
+widgeon,wigeon,variant,the variant column is the nonstandard spelling
+khalifah,caliph,variant,the variant column is the nonstandard spelling
+yeshivah,yeshiva,variant,the variant column is the nonstandard spelling
+tranquilliser,tranquilizer,unrelated,not a spelling pair
+disorganisation,disorganization,variant,the variant column is the nonstandard spelling
+quat,khat,unrelated,not a spelling pair
+desalinization,desalinisation,reverse,the canonical column is the nonstandard spelling
+polychaete,polychete,variant,the variant column is the nonstandard spelling
+jook,juke,unrelated,not a spelling pair
+sensitisation,sensitization,variant,the variant column is the nonstandard spelling
+moong,mung,variant,the variant column is the nonstandard spelling
+conjuror,conjurer,variant,the variant column is the nonstandard spelling
+digitalisation,digitalization,variant,the variant column is the nonstandard spelling
+professionalisation,professionalization,variant,the variant column is the nonstandard spelling
+chiasm,chiasma,variant,the variant column is the nonstandard spelling
+demonisation,demonization,variant,the variant column is the nonstandard spelling
+crocket,croquette,unrelated,not a spelling pair
+stockinette,stockinet,variant,the variant column is the nonstandard spelling
+plier,pliers,plural,"one side is a plural of the other, not a spelling variant"
+mavin,maven,variant,the variant column is the nonstandard spelling
+maximisation,maximization,variant,the variant column is the nonstandard spelling
+internalisation,internalization,variant,the variant column is the nonstandard spelling
+collectivisation,collectivization,variant,the variant column is the nonstandard spelling
+nonsuch,nonesuch,variant,the variant column is the nonstandard spelling
+inflexion,inflection,variant,the variant column is the nonstandard spelling
+gaoler,jailer,variant,the variant column is the nonstandard spelling
+nark,narc,unrelated,not a spelling pair
+stigmatisation,stigmatization,variant,the variant column is the nonstandard spelling
+familiarisation,familiarization,variant,the variant column is the nonstandard spelling
+tercel,tiercel,variant,the variant column is the nonstandard spelling
+gramme,gram,variant,the variant column is the nonstandard spelling
+convertor,converter,variant,the variant column is the nonstandard spelling
+mynah,myna,variant,the variant column is the nonstandard spelling
+salade,sallet,variant,the variant column is the nonstandard spelling
+deciliter,decilitre,reverse,the canonical column is the nonstandard spelling
+conservativism,conservatism,variant,the variant column is the nonstandard spelling
+letch,leach,unrelated,not a spelling pair
+chequer,checker,unrelated,not a spelling pair
+memorisation,memorization,variant,the variant column is the nonstandard spelling
+tamal,tamale,variant,the variant column is the nonstandard spelling
+arrack,arak,unrelated,not a spelling pair
+immobilisation,immobilization,variant,the variant column is the nonstandard spelling
+popularisation,popularization,variant,the variant column is the nonstandard spelling
+numberplate,plate,unrelated,not a spelling pair
+hyaena,hyena,variant,the variant column is the nonstandard spelling
+delf,delft,unrelated,not a spelling pair
+hotchpotch,hodgepodge,unrelated,not a spelling pair
+calk,caulk,unrelated,not a spelling pair
+hoagy,hoagie,variant,the variant column is the nonstandard spelling
+willfulness,wilfulness,variant,the variant column is the nonstandard spelling
+halm,haulm,variant,the variant column is the nonstandard spelling
+cannister,canister,variant,the variant column is the nonstandard spelling
+appetiser,appetizer,variant,the variant column is the nonstandard spelling
+actualisation,actualization,variant,the variant column is the nonstandard spelling
+borsch,borscht,variant,the variant column is the nonstandard spelling
+ampule,ampoule,variant,the variant column is the nonstandard spelling
+centerboard,centreboard,variant,the variant column is the nonstandard spelling
+brasier,brazier,variant,the variant column is the nonstandard spelling
+breathalyser,breathalyzer,variant,the variant column is the nonstandard spelling
+shaytan,shaitan,variant,the variant column is the nonstandard spelling
+marabout,marabou,unrelated,not a spelling pair
+enology,oenology,reverse,the canonical column is the nonstandard spelling
+quartette,quartet,variant,the variant column is the nonstandard spelling
+jehad,jihad,variant,the variant column is the nonstandard spelling
+ischaemia,ischemia,variant,the variant column is the nonstandard spelling
+smoothy,smoothie,variant,the variant column is the nonstandard spelling
+ameba,amoeba,reverse,the canonical column is the nonstandard spelling
+ignitor,igniter,variant,the variant column is the nonstandard spelling
+pilau,pilaf,variant,the variant column is the nonstandard spelling
+spiraea,spirea,variant,the variant column is the nonstandard spelling
+praetorium,pretorium,variant,the variant column is the nonstandard spelling
+gelly,jelly,variant,the variant column is the nonstandard spelling
+scrummage,scrimmage,unrelated,not a spelling pair
+chitlins,chitterlings,variant,the variant column is the nonstandard spelling
+sweetbriar,sweetbrier,variant,the variant column is the nonstandard spelling
+resistent,resistant,variant,the variant column is the nonstandard spelling
+ranee,rani,variant,the variant column is the nonstandard spelling
+pantie,panty,variant,the variant column is the nonstandard spelling
+honkey,honky,variant,the variant column is the nonstandard spelling
+shmuck,schmuck,variant,the variant column is the nonstandard spelling
+vaporiser,vaporizer,variant,the variant column is the nonstandard spelling
+dehumanisation,dehumanization,variant,the variant column is the nonstandard spelling
+regularisation,regularization,variant,the variant column is the nonstandard spelling
+cognisance,cognizance,variant,the variant column is the nonstandard spelling
+dyspnoea,dyspnea,variant,the variant column is the nonstandard spelling
+arcsec,arcsecond,unrelated,not a spelling pair
+aegir,eagre,variant,the variant column is the nonstandard spelling
+humourist,humorist,variant,the variant column is the nonstandard spelling
+pickax,pickaxe,variant,the variant column is the nonstandard spelling
+ninjitsu,ninjutsu,variant,the variant column is the nonstandard spelling
+clarinettist,clarinetist,variant,the variant column is the nonstandard spelling
+skag,skeg,variant,the variant column is the nonstandard spelling
+homogenisation,homogenization,variant,the variant column is the nonstandard spelling
+matzoh,matzo,variant,the variant column is the nonstandard spelling
+formalisation,formalization,variant,the variant column is the nonstandard spelling
+malarky,malarkey,variant,the variant column is the nonstandard spelling
+smidgeon,smidgen,variant,the variant column is the nonstandard spelling
+minah,myna,variant,the variant column is the nonstandard spelling
+palestra,palaestra,reverse,the canonical column is the nonstandard spelling
+diagonalization,diagonalisation,reverse,the canonical column is the nonstandard spelling
+leukocytosis,leucocytosis,variant,the variant column is the nonstandard spelling
+unionisation,unionization,variant,the variant column is the nonstandard spelling
+initialisation,initialization,variant,the variant column is the nonstandard spelling
+mantlepiece,mantelpiece,variant,the variant column is the nonstandard spelling
+monocot,monocotyledon,variant,the variant column is the nonstandard spelling
+resid,resident,unrelated,not a spelling pair
+airdrome,aerodrome,variant,the variant column is the nonstandard spelling
+haematite,hematite,variant,the variant column is the nonstandard spelling
+djinni,djinn,variant,the variant column is the nonstandard spelling
+atomiser,atomizer,variant,the variant column is the nonstandard spelling
+feminisation,feminization,variant,the variant column is the nonstandard spelling
+coloniser,colonizer,variant,the variant column is the nonstandard spelling
+premie,preemie,variant,the variant column is the nonstandard spelling
+tricorne,tricorn,variant,the variant column is the nonstandard spelling
+rachet,ratchet,variant,the variant column is the nonstandard spelling
+cyme,senna,unrelated,not a spelling pair
+energiser,energizer,variant,the variant column is the nonstandard spelling
+miniaturisation,miniaturization,variant,the variant column is the nonstandard spelling
+schmalz,schmaltz,variant,the variant column is the nonstandard spelling
+novelisation,novelization,variant,the variant column is the nonstandard spelling
+idealisation,idealization,variant,the variant column is the nonstandard spelling
+gunnel,gunwale,variant,the variant column is the nonstandard spelling
+vocalisation,vocalization,variant,the variant column is the nonstandard spelling
+thalassaemia,thalassemia,variant,the variant column is the nonstandard spelling
+salaah,salat,variant,the variant column is the nonstandard spelling
+demoralisation,demoralization,variant,the variant column is the nonstandard spelling
+mimeo,mimeograph,unrelated,not a spelling pair
+appanage,apanage,variant,the variant column is the nonstandard spelling
+arquebus,harquebus,variant,the variant column is the nonstandard spelling
+embassador,ambassador,variant,the variant column is the nonstandard spelling
+praesidium,presidium,variant,the variant column is the nonstandard spelling
+paleogeography,palaeogeography,reverse,the canonical column is the nonstandard spelling
+randomisation,randomization,variant,the variant column is the nonstandard spelling
+centrefold,centerfold,variant,the variant column is the nonstandard spelling
+loofa,loofah,variant,the variant column is the nonstandard spelling
+tenia,taenia,reverse,the canonical column is the nonstandard spelling
+plowshare,ploughshare,variant,the variant column is the nonstandard spelling
+reveler,reveller,variant,the variant column is the nonstandard spelling
+extravert,extrovert,variant,the variant column is the nonstandard spelling
+viremia,viraemia,reverse,the canonical column is the nonstandard spelling
+creese,kris,variant,the variant column is the nonstandard spelling
+pastille,pastel,unrelated,not a spelling pair
+creatin,creatine,variant,the variant column is the nonstandard spelling
+perve,perv,variant,the variant column is the nonstandard spelling
+titbit,tidbit,variant,the variant column is the nonstandard spelling
+pean,paean,reverse,the canonical column is the nonstandard spelling
+cornelian,carnelian,variant,the variant column is the nonstandard spelling
+tappa,tapa,variant,the variant column is the nonstandard spelling
+soubriquet,sobriquet,variant,the variant column is the nonstandard spelling
+radicle,radical,unrelated,not a spelling pair
+maffia,mafia,variant,the variant column is the nonstandard spelling
+clon,clone,variant,the variant column is the nonstandard spelling
+sherd,shard,variant,the variant column is the nonstandard spelling
+cardamon,cardamom,variant,the variant column is the nonstandard spelling
+hyperglycaemia,hyperglycemia,variant,the variant column is the nonstandard spelling
+mortice,mortise,variant,the variant column is the nonstandard spelling
+duellist,duelist,variant,the variant column is the nonstandard spelling
+cowry,cowrie,variant,the variant column is the nonstandard spelling
+epilog,epilogue,reverse,the canonical column is the nonstandard spelling
+kalif,caliph,variant,the variant column is the nonstandard spelling
+adjustor,adjuster,variant,the variant column is the nonstandard spelling
+tippler,tipple,unrelated,not a spelling pair
+aery,eyrie,variant,the variant column is the nonstandard spelling
+kinsfolk,kinfolk,variant,the variant column is the nonstandard spelling
+federalisation,federalization,variant,the variant column is the nonstandard spelling
+fontanel,fontanelle,variant,the variant column is the nonstandard spelling
+ascendent,ascendant,variant,the variant column is the nonstandard spelling
+scaley,scaly,variant,the variant column is the nonstandard spelling
+cupper,cuppa,unrelated,not a spelling pair
+behaviourism,behaviorism,variant,the variant column is the nonstandard spelling
+luffa,loofah,variant,the variant column is the nonstandard spelling
+subsidisation,subsidization,variant,the variant column is the nonstandard spelling
+mackle,macule,variant,the variant column is the nonstandard spelling
+belligerency,belligerence,variant,the variant column is the nonstandard spelling
+kopeck,kopek,variant,the variant column is the nonstandard spelling
+goony,gooney,unrelated,not a spelling pair
+barcarolle,barcarole,variant,the variant column is the nonstandard spelling
+curbstone,kerbstone,reverse,the canonical column is the nonstandard spelling
+chyle,chile,unrelated,not a spelling pair
+cigaret,cigarette,variant,the variant column is the nonstandard spelling
+rabbet,rabbit,unrelated,not a spelling pair
+linage,lineage,variant,the variant column is the nonstandard spelling
+wannabee,wannabe,variant,the variant column is the nonstandard spelling
+highjack,hijack,variant,the variant column is the nonstandard spelling
+faqir,fakir,variant,the variant column is the nonstandard spelling
+snowplough,snowplow,variant,the variant column is the nonstandard spelling
+manakin,manikin,unrelated,not a spelling pair
+grayness,greyness,variant,the variant column is the nonstandard spelling
+bolshy,bolshie,variant,the variant column is the nonstandard spelling
+sanyasi,sannyasi,variant,the variant column is the nonstandard spelling
+blether,blather,variant,the variant column is the nonstandard spelling
+epaulet,epaulette,variant,the variant column is the nonstandard spelling
+cyder,cider,variant,the variant column is the nonstandard spelling
+litoral,littoral,variant,the variant column is the nonstandard spelling
+sheesha,shisha,variant,the variant column is the nonstandard spelling
+cataloger,cataloguer,variant,the variant column is the nonstandard spelling
+arctan,arctangent,unrelated,not a spelling pair
+chanty,shanty,variant,the variant column is the nonstandard spelling
+sharpy,sharpie,variant,the variant column is the nonstandard spelling
+idyl,idyll,variant,the variant column is the nonstandard spelling
+towny,townie,variant,the variant column is the nonstandard spelling
+leitmotiv,leitmotif,variant,the variant column is the nonstandard spelling
+beldam,beldame,variant,the variant column is the nonstandard spelling
+theorization,theorisation,reverse,the canonical column is the nonstandard spelling
+hareem,harem,variant,the variant column is the nonstandard spelling
+magnetisation,magnetization,variant,the variant column is the nonstandard spelling
+sanitisation,sanitization,variant,the variant column is the nonstandard spelling
+pipal,peepul,variant,the variant column is the nonstandard spelling
+paleoclimatology,palaeoclimatology,reverse,the canonical column is the nonstandard spelling
+prevue,preview,variant,the variant column is the nonstandard spelling
+caffein,caffeine,variant,the variant column is the nonstandard spelling
+bogy,bogey,variant,the variant column is the nonstandard spelling
+mujahadeen,mujahideen,variant,the variant column is the nonstandard spelling
+chadar,chador,variant,the variant column is the nonstandard spelling
+congeneric,congener,unrelated,adjective vs noun; not a spelling pair
+encrustation,incrustation,variant,the variant column is the nonstandard spelling
+autogiro,autogyro,variant,the variant column is the nonstandard spelling
+fitspo,fitspiration,unrelated,not a spelling pair
+bocci,bocce,variant,the variant column is the nonstandard spelling
+atomisation,atomization,variant,the variant column is the nonstandard spelling
+materialisation,materialization,variant,the variant column is the nonstandard spelling
+syph,syphilis,unrelated,not a spelling pair
+factorisation,factorization,variant,the variant column is the nonstandard spelling
+vaporisation,vaporization,variant,the variant column is the nonstandard spelling
+garrotte,garrote,variant,the variant column is the nonstandard spelling
+caravansary,caravanserai,variant,the variant column is the nonstandard spelling
+beigel,bagel,variant,the variant column is the nonstandard spelling
+gantlet,gauntlet,variant,the variant column is the nonstandard spelling
+egis,aegis,reverse,the canonical column is the nonstandard spelling
+kerosine,kerosene,variant,the variant column is the nonstandard spelling
+visualiser,visualizer,variant,the variant column is the nonstandard spelling
+canalization,canalisation,reverse,the canonical column is the nonstandard spelling
+aglet,aiglet,variant,the variant column is the nonstandard spelling
+billhook,bill,unrelated,not a spelling pair
+freebee,freebie,variant,the variant column is the nonstandard spelling
+phantasma,phantasm,variant,the variant column is the nonstandard spelling
+chapatti,chapati,variant,the variant column is the nonstandard spelling
+sirup,syrup,variant,the variant column is the nonstandard spelling
+propellent,propellant,variant,the variant column is the nonstandard spelling
+fraternisation,fraternization,variant,the variant column is the nonstandard spelling
+glister,clyster,unrelated,not a spelling pair
+gismo,gizmo,variant,the variant column is the nonstandard spelling
+fondu,fondue,unrelated,not a spelling pair
+compartmentalisation,compartmentalization,variant,the variant column is the nonstandard spelling
+haemostasis,hemostasis,variant,the variant column is the nonstandard spelling
+monopolisation,monopolization,variant,the variant column is the nonstandard spelling
+bastardisation,bastardization,variant,the variant column is the nonstandard spelling
+salpa,salp,variant,the variant column is the nonstandard spelling
+cyanamid,cyanamide,variant,the variant column is the nonstandard spelling
+styrax,storax,variant,the variant column is the nonstandard spelling
+archil,orchil,variant,the variant column is the nonstandard spelling
+calliper,caliper,variant,the variant column is the nonstandard spelling
+tormenter,tormentor,variant,the variant column is the nonstandard spelling
+rigamarole,rigmarole,variant,the variant column is the nonstandard spelling
+hemianopia,hemianopsia,variant,the variant column is the nonstandard spelling
+bicorne,bicorn,variant,the variant column is the nonstandard spelling
+fesse,fess,variant,the variant column is the nonstandard spelling
+karabiner,carabiner,variant,the variant column is the nonstandard spelling
+individualisation,individualization,variant,the variant column is the nonstandard spelling
+sallet,salad,unrelated,not a spelling pair
+absinth,absinthe,variant,the variant column is the nonstandard spelling
+catheterisation,catheterization,variant,the variant column is the nonstandard spelling
+oxidiser,oxidizer,variant,the variant column is the nonstandard spelling
+sahuaro,saguaro,variant,the variant column is the nonstandard spelling
+maiolica,majolica,variant,the variant column is the nonstandard spelling
+ramee,ramie,variant,the variant column is the nonstandard spelling
+coprophagia,coprophagy,variant,the variant column is the nonstandard spelling
+synapsis,synapse,unrelated,not a spelling pair
+hootch,hooch,variant,the variant column is the nonstandard spelling
+hyperlipidaemia,hyperlipidemia,variant,the variant column is the nonstandard spelling
+dissimilation,dissimulation,unrelated,not a spelling pair
+ichthyosaurus,ichthyosaur,variant,the variant column is the nonstandard spelling
+doura,durra,variant,the variant column is the nonstandard spelling
+siliqua,silique,variant,the variant column is the nonstandard spelling
+haemorrhoid,hemorrhoid,variant,the variant column is the nonstandard spelling
+schnaps,schnapps,variant,the variant column is the nonstandard spelling
+steriliser,sterilizer,variant,the variant column is the nonstandard spelling
+fogy,fogey,variant,the variant column is the nonstandard spelling
+ottar,attar,variant,the variant column is the nonstandard spelling
+depersonalisation,depersonalization,variant,the variant column is the nonstandard spelling
+raphia,raffia,variant,the variant column is the nonstandard spelling
+guestimate,guesstimate,variant,the variant column is the nonstandard spelling
+stylisation,stylization,variant,the variant column is the nonstandard spelling
+connecter,connector,variant,the variant column is the nonstandard spelling
+damozel,damsel,variant,the variant column is the nonstandard spelling
+whimsey,whimsy,variant,the variant column is the nonstandard spelling
+recognisance,recognizance,variant,the variant column is the nonstandard spelling
+nebuliser,nebulizer,variant,the variant column is the nonstandard spelling
+summersault,somersault,variant,the variant column is the nonstandard spelling
+chequerboard,checkerboard,variant,the variant column is the nonstandard spelling
+narwal,narwhal,variant,the variant column is the nonstandard spelling
+mannikin,manikin,unrelated,not a spelling pair
+panoche,panocha,variant,the variant column is the nonstandard spelling
+decimeter,decimetre,reverse,the canonical column is the nonstandard spelling
+haler,heller,variant,the variant column is the nonstandard spelling
+premiss,premise,variant,the variant column is the nonstandard spelling
+oxidisation,oxidization,variant,the variant column is the nonstandard spelling
+abetter,abettor,variant,the variant column is the nonstandard spelling
+clangor,clangour,reverse,the canonical column is the nonstandard spelling
+arccos,arccosine,unrelated,not a spelling pair
+shivah,shiva,variant,the variant column is the nonstandard spelling
+callisthenics,calisthenics,variant,the variant column is the nonstandard spelling
+leucocyte,leukocyte,variant,the variant column is the nonstandard spelling
+spik,spic,variant,the variant column is the nonstandard spelling
+claxon,klaxon,variant,the variant column is the nonstandard spelling
+melioration,amelioration,variant,the variant column is the nonstandard spelling
+loadstar,lodestar,variant,the variant column is the nonstandard spelling
+pouffe,pouf,variant,the variant column is the nonstandard spelling
+bandoleer,bandolier,variant,the variant column is the nonstandard spelling
+superstrate,superstratum,unrelated,not a spelling pair
+hasheesh,hashish,variant,the variant column is the nonstandard spelling
+informercial,infomercial,variant,the variant column is the nonstandard spelling
+tranquillizer,tranquilizer,variant,the variant column is the nonstandard spelling
+pipet,pipette,variant,the variant column is the nonstandard spelling
+shoveller,shoveler,variant,the variant column is the nonstandard spelling
+highflyer,highflier,variant,the variant column is the nonstandard spelling
+subtractor,subtracter,variant,the variant column is the nonstandard spelling
+tompion,tampion,variant,the variant column is the nonstandard spelling
+vizor,visor,variant,the variant column is the nonstandard spelling
+felafel,falafel,variant,the variant column is the nonstandard spelling
+doyley,doily,variant,the variant column is the nonstandard spelling
+loadstone,lodestone,variant,the variant column is the nonstandard spelling
+autarchy,autarky,unrelated,not a spelling pair
+paraesthesia,paresthesia,variant,the variant column is the nonstandard spelling
+asafetida,asafoetida,reverse,the canonical column is the nonstandard spelling
+koppie,kopje,variant,the variant column is the nonstandard spelling
+choky,chokey,variant,the variant column is the nonstandard spelling
+arcsin,arcsine,unrelated,not a spelling pair
+haemolysis,hemolysis,variant,the variant column is the nonstandard spelling
+berretta,biretta,variant,the variant column is the nonstandard spelling
+philtre,philter,variant,the variant column is the nonstandard spelling
+buret,burette,variant,the variant column is the nonstandard spelling
+syneresis,synaeresis,reverse,the canonical column is the nonstandard spelling
+merlon,merlin,unrelated,not a spelling pair
+hiccough,hiccup,variant,the variant column is the nonstandard spelling
+quantisation,quantization,variant,the variant column is the nonstandard spelling
+cive,chive,variant,the variant column is the nonstandard spelling
+twirp,twerp,variant,the variant column is the nonstandard spelling
+fascicule,fascicle,unrelated,not a spelling pair
+obligato,obbligato,variant,the variant column is the nonstandard spelling
+turnround,turnaround,variant,the variant column is the nonstandard spelling
+kismat,kismet,variant,the variant column is the nonstandard spelling
+motorisation,motorization,variant,the variant column is the nonstandard spelling
+czardas,csardas,variant,the variant column is the nonstandard spelling
+centile,percentile,unrelated,not a spelling pair
+scarabaeus,scarab,variant,the variant column is the nonstandard spelling
+gaberdine,gabardine,variant,the variant column is the nonstandard spelling
+hudood,hudud,variant,the variant column is the nonstandard spelling
+hejira,hegira,variant,the variant column is the nonstandard spelling
+plowboy,ploughboy,variant,the variant column is the nonstandard spelling
+oxyhemoglobin,oxyhaemoglobin,reverse,the canonical column is the nonstandard spelling
+chantey,shanty,variant,the variant column is the nonstandard spelling
+sumach,sumac,variant,the variant column is the nonstandard spelling
+haematocrit,hematocrit,variant,the variant column is the nonstandard spelling
+curet,curette,variant,the variant column is the nonstandard spelling
+solemnisation,solemnization,variant,the variant column is the nonstandard spelling
+shivaree,charivari,variant,the variant column is the nonstandard spelling
+garotte,garrotte,variant,the variant column is the nonstandard spelling
+revery,reverie,variant,the variant column is the nonstandard spelling
+shwa,schwa,variant,the variant column is the nonstandard spelling
+decimalization,decimalisation,reverse,the canonical column is the nonstandard spelling
+ribband,ribbon,unrelated,not a spelling pair
+plyers,pliers,unrelated,not a spelling pair
+digitiser,digitizer,variant,the variant column is the nonstandard spelling
+shlock,schlock,variant,the variant column is the nonstandard spelling
+nooky,nookie,variant,the variant column is the nonstandard spelling
+sheika,sheikha,variant,the variant column is the nonstandard spelling
+lavaliere,lavalier,unrelated,not a spelling pair
+oestradiol,estradiol,variant,the variant column is the nonstandard spelling
+iglu,igloo,variant,the variant column is the nonstandard spelling
+filagree,filigree,variant,the variant column is the nonstandard spelling
+miaou,miaow,variant,the variant column is the nonstandard spelling
+bullrush,bulrush,variant,the variant column is the nonstandard spelling
+graybeard,greybeard,variant,the variant column is the nonstandard spelling
+palaeobotany,paleobotany,variant,the variant column is the nonstandard spelling
+diffusor,diffuser,variant,the variant column is the nonstandard spelling
+pretor,praetor,reverse,the canonical column is the nonstandard spelling
+depolarisation,depolarization,variant,the variant column is the nonstandard spelling
+amebiasis,amoebiasis,reverse,the canonical column is the nonstandard spelling
+vacuolization,vacuolation,variant,the variant column is the nonstandard spelling
+hectoliter,hectolitre,reverse,the canonical column is the nonstandard spelling
+sepulture,sepulchre,unrelated,not a spelling pair
+katharsis,catharsis,variant,the variant column is the nonstandard spelling
+kelter,kilter,variant,the variant column is the nonstandard spelling
+stigmatism,astigmatism,unrelated,not a spelling pair
+civies,civvies,unrelated,not a spelling pair
+externalisation,externalization,variant,the variant column is the nonstandard spelling
+theatregoer,theatergoer,variant,the variant column is the nonstandard spelling
+romanticisation,romanticization,variant,the variant column is the nonstandard spelling
+dyarchy,diarchy,variant,the variant column is the nonstandard spelling
+lagune,lagoon,variant,the variant column is the nonstandard spelling
+banian,banyan,variant,the variant column is the nonstandard spelling
+travelog,travelogue,reverse,the canonical column is the nonstandard spelling
+haemoptysis,hemoptysis,variant,the variant column is the nonstandard spelling
+lazarette,lazaret,variant,the variant column is the nonstandard spelling
+thyroxin,thyroxine,variant,the variant column is the nonstandard spelling
+hypercalcaemia,hypercalcemia,variant,the variant column is the nonstandard spelling
+tramontane,tramontana,unrelated,not a spelling pair
+kumis,koumiss,variant,the variant column is the nonstandard spelling
+muzhik,mujik,variant,the variant column is the nonstandard spelling
+sheikhdom,sheikdom,variant,the variant column is the nonstandard spelling
+barytone,baritone,unrelated,not a spelling pair
+fatwah,fatwa,variant,the variant column is the nonstandard spelling
+preterit,preterite,variant,the variant column is the nonstandard spelling
+discant,descant,variant,the variant column is the nonstandard spelling
+mandril,mandrel,variant,the variant column is the nonstandard spelling
+ascendence,ascendance,variant,the variant column is the nonstandard spelling
+carbonisation,carbonization,variant,the variant column is the nonstandard spelling
+akvavit,aquavit,variant,the variant column is the nonstandard spelling
+sacculus,saccule,unrelated,not a spelling pair
+weirdy,weirdie,variant,the variant column is the nonstandard spelling
+chapiter,chapter,unrelated,the capital of a column; a distinct architectural noun
+rente,rent,unrelated,not a spelling pair
+algorism,algorithm,variant,the variant column is the nonstandard spelling
+launce,lance,variant,the variant column is the nonstandard spelling
+sacque,sack,variant,the variant column is the nonstandard spelling
+drouth,drought,variant,the variant column is the nonstandard spelling
+gasolene,gasoline,variant,the variant column is the nonstandard spelling
+advertizement,advertisement,reverse,the canonical column is the nonstandard spelling
+alinement,alignment,variant,the variant column is the nonstandard spelling
+indorsement,endorsement,variant,the variant column is the nonstandard spelling
+cholesterin,cholesterol,variant,the variant column is the nonstandard spelling
+bowlder,boulder,variant,the variant column is the nonstandard spelling
+templet,template,variant,the variant column is the nonstandard spelling
+yoghourt,yogurt,variant,the variant column is the nonstandard spelling
+fetich,fetish,variant,the variant column is the nonstandard spelling
+turbulency,turbulence,variant,the variant column is the nonstandard spelling
+bilingualist,bilingual,unrelated,"bilingual is an adjective, not the same word"
+imaum,imam,variant,the variant column is the nonstandard spelling
+convergency,convergence,variant,the variant column is the nonstandard spelling
+leucaemia,leukemia,variant,the variant column is the nonstandard spelling
+dossal,dorsal,unrelated,an altar cloth vs the anatomical adjective
+dossel,dorsal,unrelated,same as dossal; not a spelling of dorsal
+secretariate,secretariat,variant,the variant column is the nonstandard spelling
+reenforcement,reinforcement,variant,the variant column is the nonstandard spelling
+vodoun,voodoo,variant,the variant column is the nonstandard spelling
+shibah,shiva,variant,the variant column is the nonstandard spelling
+lipide,lipid,variant,the variant column is the nonstandard spelling
+boloney,bologna,variant,the variant column is the nonstandard spelling
+deflexion,deflection,variant,the variant column is the nonstandard spelling
+chetah,cheetah,variant,the variant column is the nonstandard spelling
+disforestation,deforestation,variant,the variant column is the nonstandard spelling
+puttee,patti,unrelated,not a spelling pair
+iodin,iodine,variant,the variant column is the nonstandard spelling
+caviare,caviar,variant,the variant column is the nonstandard spelling
+pyxie,pixie,variant,the variant column is the nonstandard spelling
+preventible,preventable,variant,the variant column is the nonstandard spelling
+dowery,dowry,variant,the variant column is the nonstandard spelling
+cadency,cadence,variant,the variant column is the nonstandard spelling
+deodourant,deodorant,variant,the variant column is the nonstandard spelling
+chamaeleon,chameleon,variant,the variant column is the nonstandard spelling
+pacificist,pacifist,variant,the variant column is the nonstandard spelling
+aquiculture,aquaculture,variant,the variant column is the nonstandard spelling
+emeer,emir,variant,the variant column is the nonstandard spelling
+narcism,narcissism,variant,the variant column is the nonstandard spelling
+gaolbreak,jailbreak,variant,the variant column is the nonstandard spelling
+hommos,hummus,variant,the variant column is the nonstandard spelling
+hoummos,hummus,variant,the variant column is the nonstandard spelling
+tannia,tania,variant,the variant column is the nonstandard spelling
+methadon,methadone,variant,the variant column is the nonstandard spelling
+pollenation,pollination,variant,the variant column is the nonstandard spelling
+suppresser,suppressor,variant,the variant column is the nonstandard spelling
+tunnage,tonnage,variant,the variant column is the nonstandard spelling
+euphuism,euphemism,unrelated,not a spelling pair
+kaliph,caliph,variant,the variant column is the nonstandard spelling
+musjid,masjid,variant,the variant column is the nonstandard spelling
+damoiselle,damsel,variant,the variant column is the nonstandard spelling
+damosel,damsel,variant,the variant column is the nonstandard spelling
+tampion,tampon,unrelated,not a spelling pair
+toffy,toffee,variant,the variant column is the nonstandard spelling
+theine,thane,unrelated,not a spelling pair
+mitsvah,mitzvah,variant,the variant column is the nonstandard spelling
+nybble,nibble,variant,the variant column is the nonstandard spelling
+ricksha,rickshaw,variant,the variant column is the nonstandard spelling
+margarin,margarine,variant,the variant column is the nonstandard spelling
+swob,swab,variant,the variant column is the nonstandard spelling
+baguet,baguette,variant,the variant column is the nonstandard spelling
+banshie,banshee,variant,the variant column is the nonstandard spelling
+jumbal,jumble,variant,the variant column is the nonstandard spelling
+casava,cassava,variant,the variant column is the nonstandard spelling
+orangutang,orangutan,variant,the variant column is the nonstandard spelling
+cottar,cotter,variant,the variant column is the nonstandard spelling
+honkie,honky,variant,the variant column is the nonstandard spelling
+tabour,tabor,variant,the variant column is the nonstandard spelling
+kidnaper,kidnapper,variant,the variant column is the nonstandard spelling
+punchayet,panchayat,variant,the variant column is the nonstandard spelling
+chlorophyl,chlorophyll,variant,the variant column is the nonstandard spelling
+mandibula,mandible,variant,the variant column is the nonstandard spelling
+pirana,piranha,variant,the variant column is the nonstandard spelling
+scollop,scallop,variant,the variant column is the nonstandard spelling
+mesquit,mesquite,variant,the variant column is the nonstandard spelling
+cardamum,cardamom,variant,the variant column is the nonstandard spelling
+epinephrin,epinephrine,variant,the variant column is the nonstandard spelling
+holibut,halibut,variant,the variant column is the nonstandard spelling
+gildhall,guildhall,variant,the variant column is the nonstandard spelling
+intifadah,intifada,variant,the variant column is the nonstandard spelling
+polypropene,polypropylene,variant,the variant column is the nonstandard spelling
+schnorkel,snorkel,variant,the variant column is the nonstandard spelling
+phrenetic,frenetic,variant,the variant column is the nonstandard spelling
+axone,axon,variant,the variant column is the nonstandard spelling
+sanatarium,sanitarium,unrelated,not a spelling pair
+barbacan,barbican,variant,the variant column is the nonstandard spelling
+cirrhus,cirrus,variant,the variant column is the nonstandard spelling
+laniard,lanyard,variant,the variant column is the nonstandard spelling
+seriph,serif,variant,the variant column is the nonstandard spelling
+gauntry,gantry,variant,the variant column is the nonstandard spelling
+haschisch,hashish,variant,the variant column is the nonstandard spelling
+effecter,effector,variant,the variant column is the nonstandard spelling
+virulency,virulence,variant,the variant column is the nonstandard spelling
+cutlas,cutlass,variant,cutlass is the usual spelling
+flection,flexion,variant,the variant column is the nonstandard spelling
+tryptophane,tryptophan,variant,the variant column is the nonstandard spelling
+ceratin,keratin,variant,the variant column is the nonstandard spelling
+durion,durian,variant,the variant column is the nonstandard spelling
+paeony,peony,variant,the variant column is the nonstandard spelling
+wistaria,wisteria,variant,the variant column is the nonstandard spelling
+cattie,catty,variant,the variant column is the nonstandard spelling
+fillagree,filigree,variant,the variant column is the nonstandard spelling
+highjacker,hijacker,variant,the variant column is the nonstandard spelling
+mensh,mensch,variant,the variant column is the nonstandard spelling
+springbuck,springbok,variant,the variant column is the nonstandard spelling
+mastodont,mastodon,variant,the variant column is the nonstandard spelling
+prolapsus,prolapse,variant,the variant column is the nonstandard spelling
+cantaloup,cantaloupe,variant,the variant column is the nonstandard spelling
+zamang,zaman,variant,the variant column is the nonstandard spelling
+schtik,shtick,variant,the variant column is the nonstandard spelling
+shtik,shtick,variant,the variant column is the nonstandard spelling
+myeline,myelin,variant,the variant column is the nonstandard spelling
+biriani,biryani,variant,the variant column is the nonstandard spelling
+fellation,fellatio,variant,the variant column is the nonstandard spelling
+mierkat,meerkat,variant,the variant column is the nonstandard spelling
+demagog,demagogue,reverse,the canonical column is the nonstandard spelling
+paraquet,parakeet,variant,the variant column is the nonstandard spelling
+paroquet,parakeet,variant,the variant column is the nonstandard spelling
+parrakeet,parakeet,variant,the variant column is the nonstandard spelling
+parroket,parakeet,variant,the variant column is the nonstandard spelling
+parroquet,parakeet,variant,the variant column is the nonstandard spelling
+marchpane,marzipan,variant,the variant column is the nonstandard spelling
+felspar,feldspar,variant,the variant column is the nonstandard spelling
+hodometer,odometer,variant,the variant column is the nonstandard spelling
+gerbille,gerbil,variant,the variant column is the nonstandard spelling
+pachouli,patchouli,variant,the variant column is the nonstandard spelling
+patchouly,patchouli,variant,the variant column is the nonstandard spelling
+fetichism,fetishism,variant,the variant column is the nonstandard spelling
+isomorphy,isomorphism,variant,the variant column is the nonstandard spelling
+gendarmery,gendarmerie,variant,the variant column is the nonstandard spelling
+kaoline,kaolin,variant,the variant column is the nonstandard spelling
+cullender,colander,variant,the variant column is the nonstandard spelling
+botulinus,botulinum,variant,the variant column is the nonstandard spelling
+eschalot,shallot,variant,the variant column is the nonstandard spelling
+cohoe,coho,variant,the variant column is the nonstandard spelling
+comeupance,comeuppance,variant,the variant column is the nonstandard spelling
+indorser,endorser,variant,the variant column is the nonstandard spelling
+shumac,sumac,variant,the variant column is the nonstandard spelling
+chutzpa,chutzpah,variant,the variant column is the nonstandard spelling
+fantasm,phantasm,variant,the variant column is the nonstandard spelling
+hutzpah,chutzpah,variant,the variant column is the nonstandard spelling
+impermanency,impermanence,variant,the variant column is the nonstandard spelling
+caffer,kaffir,variant,the variant column is the nonstandard spelling
+caffre,kaffir,variant,the variant column is the nonstandard spelling
+wivern,wyvern,variant,the variant column is the nonstandard spelling
+accompanyist,accompanist,variant,the variant column is the nonstandard spelling
+baisa,paisa,variant,the variant column is the nonstandard spelling
+baiza,paisa,variant,the variant column is the nonstandard spelling
+buckeroo,buckaroo,variant,the variant column is the nonstandard spelling
+cunnilinctus,cunnilingus,variant,the variant column is the nonstandard spelling
+mocassin,moccasin,variant,the variant column is the nonstandard spelling
+neuralgy,neuralgia,variant,the variant column is the nonstandard spelling
+smidgin,smidgen,variant,the variant column is the nonstandard spelling
+escarp,scarp,variant,the variant column is the nonstandard spelling
+narwhale,narwhal,variant,the variant column is the nonstandard spelling
+phenylamine,aniline,unrelated,not a spelling pair
+androgeny,androgyny,unrelated,not a spelling pair
+sextette,sextet,variant,the variant column is the nonstandard spelling
+boccie,bocce,variant,the variant column is the nonstandard spelling
+borsh,borscht,variant,the variant column is the nonstandard spelling
+borshch,borscht,variant,the variant column is the nonstandard spelling
+borsht,borscht,variant,the variant column is the nonstandard spelling
+bortsch,borscht,variant,the variant column is the nonstandard spelling
+tzetze,tsetse,variant,the variant column is the nonstandard spelling
+eyry,eyrie,variant,the variant column is the nonstandard spelling
+hyalin,hyaline,variant,the variant column is the nonstandard spelling
+lichee,lychee,variant,the variant column is the nonstandard spelling
+lichi,lychee,variant,the variant column is the nonstandard spelling
+litchee,lychee,variant,the variant column is the nonstandard spelling
+manticora,manticore,variant,the variant column is the nonstandard spelling
+cartouch,cartouche,variant,the variant column is the nonstandard spelling
+octette,octet,variant,the variant column is the nonstandard spelling
+thrombopenia,thrombocytopenia,variant,the variant column is the nonstandard spelling
+croupe,croup,variant,the variant column is the nonstandard spelling
+groundkeeper,groundskeeper,variant,the variant column is the nonstandard spelling
+cytol,cytology,unrelated,not a spelling pair
+recission,rescission,variant,the variant column is the nonstandard spelling
+spawl,spall,unrelated,not a spelling pair
+saddhu,sadhu,variant,the variant column is the nonstandard spelling
+shmaltz,schmaltz,variant,the variant column is the nonstandard spelling
+townee,townie,variant,the variant column is the nonstandard spelling
+ablism,ableism,variant,the variant column is the nonstandard spelling
+undiscipline,indiscipline,variant,the variant column is the nonstandard spelling
+incumbrance,encumbrance,variant,the variant column is the nonstandard spelling
+fakeer,fakir,variant,the variant column is the nonstandard spelling
+faquir,fakir,variant,the variant column is the nonstandard spelling
+pilaff,pilaf,variant,the variant column is the nonstandard spelling
+pilaw,pilaf,variant,the variant column is the nonstandard spelling
+scampo,scampi,variant,the variant column is the nonstandard spelling
+kotow,kowtow,variant,the variant column is the nonstandard spelling
+olefine,olefin,variant,the variant column is the nonstandard spelling
+stymy,stymie,variant,the variant column is the nonstandard spelling
+capibara,capybara,variant,the variant column is the nonstandard spelling
+coalescency,coalescence,variant,the variant column is the nonstandard spelling
+varment,varmint,variant,the variant column is the nonstandard spelling
+camass,camas,variant,camas is the usual spelling
+jaggary,jaggery,variant,the variant column is the nonstandard spelling
+jagghery,jaggery,variant,the variant column is the nonstandard spelling
+lagend,lagan,variant,the variant column is the nonstandard spelling
+ligan,lagan,variant,the variant column is the nonstandard spelling
+quamash,camas,variant,the variant column is the nonstandard spelling
+shovelboard,shuffleboard,variant,the variant column is the nonstandard spelling
+intrenchment,entrenchment,variant,the variant column is the nonstandard spelling
+koodoo,kudu,variant,the variant column is the nonstandard spelling
+koudou,kudu,variant,the variant column is the nonstandard spelling
+noviciate,novitiate,variant,the variant column is the nonstandard spelling
+palankeen,palanquin,variant,the variant column is the nonstandard spelling
+doyly,doily,variant,the variant column is the nonstandard spelling
+continency,continence,variant,the variant column is the nonstandard spelling
+eurhythmics,eurythmics,variant,the variant column is the nonstandard spelling
+grummet,grommet,variant,the variant column is the nonstandard spelling
+calcedony,chalcedony,variant,the variant column is the nonstandard spelling
+rivetter,riveter,variant,the variant column is the nonstandard spelling
+sambur,sambar,variant,the variant column is the nonstandard spelling
+shophar,shofar,variant,the variant column is the nonstandard spelling
+trebucket,trebuchet,variant,the variant column is the nonstandard spelling
+pappoose,papoose,variant,the variant column is the nonstandard spelling
+hallah,challah,variant,the variant column is the nonstandard spelling
+katabolism,catabolism,variant,the variant column is the nonstandard spelling
+mandioc,manioc,variant,the variant column is the nonstandard spelling
+manioca,manioc,variant,the variant column is the nonstandard spelling
+marqueterie,marquetry,variant,the variant column is the nonstandard spelling
+ampul,ampoule,variant,the variant column is the nonstandard spelling
+summarisation,summarization,variant,the variant column is the nonstandard spelling
+zikkurat,ziggurat,variant,the variant column is the nonstandard spelling
+zikurat,ziggurat,variant,the variant column is the nonstandard spelling
+fluoresceine,fluorescein,variant,the variant column is the nonstandard spelling
+pedagog,pedagogue,reverse,the canonical column is the nonstandard spelling
+bulghur,bulgur,variant,the variant column is the nonstandard spelling
+carack,carrack,variant,the variant column is the nonstandard spelling
+clearstory,clerestory,variant,the variant column is the nonstandard spelling
+cazique,cacique,variant,the variant column is the nonstandard spelling
+gaolbird,jailbird,variant,the variant column is the nonstandard spelling
+halliard,halyard,variant,the variant column is the nonstandard spelling
+dammar,damar,variant,the variant column is the nonstandard spelling
+orthopaedist,orthopedist,variant,the variant column is the nonstandard spelling
+paederasty,pederasty,variant,the variant column is the nonstandard spelling
+quahaug,quahog,variant,the variant column is the nonstandard spelling
+esthete,aesthete,reverse,the canonical column is the nonstandard spelling
+hyperlipemia,hyperlipidemia,variant,the variant column is the nonstandard spelling
+maisonnette,maisonette,variant,the variant column is the nonstandard spelling
+ragee,ragi,variant,the variant column is the nonstandard spelling
+shlep,schlep,variant,the variant column is the nonstandard spelling
+anomy,anomie,variant,the variant column is the nonstandard spelling
+kelpy,kelpie,variant,the variant column is the nonstandard spelling
+souvlakia,souvlaki,variant,the variant column is the nonstandard spelling
+tzarina,tsarina,variant,the variant column is the nonstandard spelling
+lungyi,lungi,variant,the variant column is the nonstandard spelling
+immanency,immanence,variant,the variant column is the nonstandard spelling
+malemute,malamute,variant,the variant column is the nonstandard spelling
+cyanite,kyanite,variant,the variant column is the nonstandard spelling
+entoderm,endoderm,variant,the variant column is the nonstandard spelling
+maharanee,maharani,variant,the variant column is the nonstandard spelling
+cheloid,keloid,variant,the variant column is the nonstandard spelling
+cockateel,cockatiel,variant,the variant column is the nonstandard spelling
+yarmelke,yarmulke,variant,the variant column is the nonstandard spelling
+yarmulka,yarmulke,variant,the variant column is the nonstandard spelling
+plasticiser,plasticizer,variant,the variant column is the nonstandard spelling
+wolfbane,wolfsbane,variant,the variant column is the nonstandard spelling
+cadaster,cadastre,reverse,the canonical column is the nonstandard spelling
+cumfrey,comfrey,variant,the variant column is the nonstandard spelling
+dosemeter,dosimeter,variant,the variant column is the nonstandard spelling
+frangipanni,frangipani,variant,the variant column is the nonstandard spelling
+hyperidrosis,hyperhidrosis,variant,the variant column is the nonstandard spelling
+millepede,millipede,variant,the variant column is the nonstandard spelling
+milliped,millipede,variant,the variant column is the nonstandard spelling
+thyrocalcitonin,calcitonin,variant,the variant column is the nonstandard spelling
+carrageenin,carrageenan,variant,the variant column is the nonstandard spelling
+iminazole,imidazole,variant,the variant column is the nonstandard spelling
+plectron,plectrum,variant,the variant column is the nonstandard spelling
+chinchona,cinchona,variant,the variant column is the nonstandard spelling
+cumquat,kumquat,variant,the variant column is the nonstandard spelling
+muazzin,muezzin,variant,the variant column is the nonstandard spelling
+oestrone,estrone,variant,the variant column is the nonstandard spelling
+shillalah,shillelagh,variant,the variant column is the nonstandard spelling
+systematisation,systematization,variant,the variant column is the nonstandard spelling
+gondoliere,gondolier,variant,the variant column is the nonstandard spelling
+leechee,litchi,variant,the variant column is the nonstandard spelling
+lingenberry,lingonberry,variant,the variant column is the nonstandard spelling
+oesophagitis,esophagitis,variant,the variant column is the nonstandard spelling
+razmataz,razzmatazz,variant,the variant column is the nonstandard spelling
+synchroniser,synchronizer,variant,the variant column is the nonstandard spelling
+syntagm,syntagma,variant,the variant column is the nonstandard spelling
+acromegalia,acromegaly,variant,the variant column is the nonstandard spelling
+humanisation,humanization,variant,the variant column is the nonstandard spelling
+rhaphe,raphe,variant,the variant column is the nonstandard spelling
+vulcanisation,vulcanization,variant,the variant column is the nonstandard spelling
+lathee,lathi,variant,the variant column is the nonstandard spelling
+nucleole,nucleolus,variant,the variant column is the nonstandard spelling
+phaeochromocytoma,pheochromocytoma,variant,the variant column is the nonstandard spelling
+vaccina,vaccinia,variant,the variant column is the nonstandard spelling
+eucaryote,eukaryote,variant,the variant column is the nonstandard spelling
+itemisation,itemization,variant,the variant column is the nonstandard spelling
+shmo,schmo,variant,the variant column is the nonstandard spelling
+ballock,bollock,variant,the variant column is the nonstandard spelling
+dioptre,diopter,variant,the variant column is the nonstandard spelling
+pummelo,pomelo,variant,the variant column is the nonstandard spelling
+tularaemia,tularemia,variant,the variant column is the nonstandard spelling
+astringence,astringency,unrelated,not a spelling pair
+biodefence,biodefense,variant,the variant column is the nonstandard spelling
+chantarelle,chanterelle,variant,the variant column is the nonstandard spelling
+haemangioma,hemangioma,variant,the variant column is the nonstandard spelling
+hawkbill,hawksbill,variant,the variant column is the nonstandard spelling
+complin,compline,variant,the variant column is the nonstandard spelling
+pemican,pemmican,variant,the variant column is the nonstandard spelling
+rambotan,rambutan,variant,the variant column is the nonstandard spelling
+seedman,seedsman,variant,the variant column is the nonstandard spelling
+furane,furan,variant,the variant column is the nonstandard spelling
+grossbeak,grosbeak,variant,the variant column is the nonstandard spelling
+daishiki,dashiki,variant,the variant column is the nonstandard spelling
+eosinophile,eosinophil,variant,the variant column is the nonstandard spelling
+vascularisation,vascularization,variant,the variant column is the nonstandard spelling
+generalisability,generalizability,unrelated,not a spelling pair
+haematopoiesis,hematopoiesis,variant,the variant column is the nonstandard spelling
+hemopoiesis,hematopoiesis,variant,the variant column is the nonstandard spelling
+homoeopath,homeopath,variant,the variant column is the nonstandard spelling
+hoopoo,hoopoe,variant,the variant column is the nonstandard spelling
+melaena,melena,variant,the variant column is the nonstandard spelling
+incasement,encasement,variant,the variant column is the nonstandard spelling
+anthelminthic,anthelmintic,variant,the variant column is the nonstandard spelling
+crewet,cruet,variant,the variant column is the nonstandard spelling
+dakoit,dacoit,variant,the variant column is the nonstandard spelling
+dibbuk,dybbuk,variant,the variant column is the nonstandard spelling
+capercailzie,capercaillie,variant,the variant column is the nonstandard spelling
+cauterisation,cauterization,variant,the variant column is the nonstandard spelling
+galingale,galangal,variant,the variant column is the nonstandard spelling
+holloa,hollo,variant,the variant column is the nonstandard spelling
+kildeer,killdeer,variant,the variant column is the nonstandard spelling
+lamedh,lamed,variant,the variant column is the nonstandard spelling
+masculinisation,masculinization,variant,the variant column is the nonstandard spelling
+samisen,shamisen,variant,the variant column is the nonstandard spelling
+spoondrift,spindrift,variant,the variant column is the nonstandard spelling
+chaddar,chador,variant,the variant column is the nonstandard spelling
+chuddar,chador,variant,the variant column is the nonstandard spelling
+poenology,penology,variant,the variant column is the nonstandard spelling
+spandril,spandrel,variant,the variant column is the nonstandard spelling
+stogy,stogie,variant,the variant column is the nonstandard spelling
+fluegelhorn,flugelhorn,variant,the variant column is the nonstandard spelling
+oxalacetate,oxaloacetate,variant,the variant column is the nonstandard spelling
+penuchle,pinochle,variant,the variant column is the nonstandard spelling
+pinocle,pinochle,variant,the variant column is the nonstandard spelling
+pneumonoconiosis,pneumoconiosis,variant,the variant column is the nonstandard spelling
+uraemia,uremia,variant,the variant column is the nonstandard spelling
+jinnee,jinni,variant,the variant column is the nonstandard spelling
+plyer,plier,unrelated,not a spelling pair
+backsheesh,baksheesh,variant,the variant column is the nonstandard spelling
+bakshish,baksheesh,variant,the variant column is the nonstandard spelling
+ramequin,ramekin,variant,the variant column is the nonstandard spelling
+aphaeresis,apheresis,variant,the variant column is the nonstandard spelling
+hermaphrodism,hermaphroditism,variant,the variant column is the nonstandard spelling
+thingmajig,thingamajig,variant,the variant column is the nonstandard spelling
+thingumajig,thingamajig,variant,the variant column is the nonstandard spelling
+leucopenia,leukopenia,variant,the variant column is the nonstandard spelling
+lutfisk,lutefisk,variant,the variant column is the nonstandard spelling
+mezuza,mezuzah,variant,the variant column is the nonstandard spelling
+oestriol,estriol,variant,the variant column is the nonstandard spelling
+tabooli,tabbouleh,variant,the variant column is the nonstandard spelling
+welsher,welcher,variant,the variant column is the nonstandard spelling
+corticotrophin,corticotropin,variant,the variant column is the nonstandard spelling
+lateralisation,lateralization,variant,the variant column is the nonstandard spelling
+haemothorax,hemothorax,variant,the variant column is the nonstandard spelling
+memorialisation,memorialization,variant,the variant column is the nonstandard spelling
+accouterment,accoutrement,reverse,the canonical column is the nonstandard spelling
+akee,ackee,variant,the variant column is the nonstandard spelling
+demineralisation,demineralization,variant,the variant column is the nonstandard spelling
+diethylstilbesterol,diethylstilbestrol,variant,the variant column is the nonstandard spelling
+alizarine,alizarin,variant,the variant column is the nonstandard spelling
+populariser,popularizer,variant,the variant column is the nonstandard spelling
+prejudgement,prejudgment,variant,the variant column is the nonstandard spelling
+astheny,asthenia,variant,the variant column is the nonstandard spelling
+capelan,capelin,variant,the variant column is the nonstandard spelling
+psilocyn,psilocin,variant,the variant column is the nonstandard spelling
+tenderiser,tenderizer,variant,the variant column is the nonstandard spelling
+gothite,goethite,variant,the variant column is the nonstandard spelling
+pluralisation,pluralization,variant,the variant column is the nonstandard spelling
+soochong,souchong,variant,the variant column is the nonstandard spelling
+brutalisation,brutalization,variant,the variant column is the nonstandard spelling
+revetement,revetment,variant,the variant column is the nonstandard spelling
+sarape,serape,variant,the variant column is the nonstandard spelling
+solarisation,solarization,variant,the variant column is the nonstandard spelling
+chammy,shammy,variant,the variant column is the nonstandard spelling
+hypovolaemia,hypovolemia,variant,the variant column is the nonstandard spelling
+sensitiser,sensitizer,variant,the variant column is the nonstandard spelling
+spirochaete,spirochete,variant,the variant column is the nonstandard spelling
+hypocalcaemia,hypocalcemia,variant,the variant column is the nonstandard spelling
+bliny,blini,variant,the variant column is the nonstandard spelling
+canulation,cannulation,variant,the variant column is the nonstandard spelling
+succulency,succulence,variant,the variant column is the nonstandard spelling
+djinny,djinni,variant,the variant column is the nonstandard spelling
+marlinespike,marlinspike,variant,the variant column is the nonstandard spelling
+marlingspike,marlinspike,variant,the variant column is the nonstandard spelling
+symbolisation,symbolization,variant,the variant column is the nonstandard spelling
+corpulency,corpulence,variant,the variant column is the nonstandard spelling
+channelisation,channelization,variant,the variant column is the nonstandard spelling
+golliwogg,golliwog,variant,the variant column is the nonstandard spelling
+hackbut,arquebus,variant,the variant column is the nonstandard spelling
+haick,haik,variant,the variant column is the nonstandard spelling
+penalisation,penalization,variant,the variant column is the nonstandard spelling
+pipistrel,pipistrelle,variant,the variant column is the nonstandard spelling
+archaicism,archaism,variant,the variant column is the nonstandard spelling
+fohn,foehn,variant,the variant column is the nonstandard spelling
+fuzee,fusee,variant,the variant column is the nonstandard spelling
+momot,motmot,variant,the variant column is the nonstandard spelling
+protology,proctology,unrelated,not a spelling pair
+basophile,basophil,variant,the variant column is the nonstandard spelling
+budgereegah,budgerigar,variant,the variant column is the nonstandard spelling
+economiser,economizer,variant,the variant column is the nonstandard spelling
+idolisation,idolization,variant,the variant column is the nonstandard spelling
+mantelet,mantlet,variant,the variant column is the nonstandard spelling
+ousel,ouzel,variant,the variant column is the nonstandard spelling
+warragal,warrigal,variant,the variant column is the nonstandard spelling
+organdie,organdy,variant,the variant column is the nonstandard spelling
+pastil,pastille,variant,the variant column is the nonstandard spelling
+peneplane,peneplain,variant,the variant column is the nonstandard spelling
+procaryote,prokaryote,variant,the variant column is the nonstandard spelling
+epha,ephah,variant,the variant column is the nonstandard spelling
+muscadel,muscatel,variant,the variant column is the nonstandard spelling
+omphalus,omphalos,variant,the variant column is the nonstandard spelling
+parallelopiped,parallelepiped,variant,the variant column is the nonstandard spelling
+verbalisation,verbalization,variant,the variant column is the nonstandard spelling
+victimiser,victimizer,variant,the variant column is the nonstandard spelling
+chitlings,chitterlings,variant,the variant column is the nonstandard spelling
+crampoon,crampon,variant,the variant column is the nonstandard spelling
+protoactinium,protactinium,variant,the variant column is the nonstandard spelling
+shikse,shiksa,variant,the variant column is the nonstandard spelling
+videodisk,videodisc,variant,the variant column is the nonstandard spelling
+celom,coelom,reverse,the canonical column is the nonstandard spelling
+chincapin,chinquapin,variant,the variant column is the nonstandard spelling
+chinkapin,chinquapin,variant,the variant column is the nonstandard spelling
+houdah,howdah,variant,the variant column is the nonstandard spelling
+normaliser,normalizer,variant,the variant column is the nonstandard spelling
+thyrotrophin,thyrotropin,variant,the variant column is the nonstandard spelling
+copeck,kopek,variant,the variant column is the nonstandard spelling
+haemagglutination,hemagglutination,variant,the variant column is the nonstandard spelling
+lutecium,lutetium,variant,the variant column is the nonstandard spelling
+pulverisation,pulverization,variant,the variant column is the nonstandard spelling
+nasalisation,nasalization,variant,the variant column is the nonstandard spelling
+caracul,karakul,variant,the variant column is the nonstandard spelling
+teasle,teasel,variant,the variant column is the nonstandard spelling
+teazel,teasel,variant,the variant column is the nonstandard spelling
+virilisation,virilization,variant,the variant column is the nonstandard spelling
+whidah,whydah,variant,the variant column is the nonstandard spelling
+birretta,biretta,variant,the variant column is the nonstandard spelling
+gemsbuck,gemsbok,variant,the variant column is the nonstandard spelling
+genuflexion,genuflection,variant,the variant column is the nonstandard spelling
+grayback,greyback,variant,the variant column is the nonstandard spelling
+denationalisation,denationalization,variant,the variant column is the nonstandard spelling
+gerfalcon,gyrfalcon,variant,the variant column is the nonstandard spelling
+graylag,greylag,variant,the variant column is the nonstandard spelling
+haemoglobinuria,hemoglobinuria,variant,the variant column is the nonstandard spelling
+demagnetisation,demagnetization,variant,the variant column is the nonstandard spelling
+ladanum,labdanum,variant,the variant column is the nonstandard spelling
+prodroma,prodrome,variant,the variant column is the nonstandard spelling
+remilitarisation,remilitarization,variant,the variant column is the nonstandard spelling
+dakoity,dacoity,variant,the variant column is the nonstandard spelling
+utriculus,utricle,variant,the variant column is the nonstandard spelling
+victualer,victualler,variant,the variant column is the nonstandard spelling
+desynchronisation,desynchronization,variant,the variant column is the nonstandard spelling
+hyperaemia,hyperemia,variant,the variant column is the nonstandard spelling
+myosis,miosis,variant,the variant column is the nonstandard spelling
+ptomain,ptomaine,variant,the variant column is the nonstandard spelling
+ruggelach,rugelach,variant,the variant column is the nonstandard spelling
+abattis,abatis,variant,the variant column is the nonstandard spelling
+anchylosis,ankylosis,variant,the variant column is the nonstandard spelling
+coenobite,cenobite,variant,the variant column is the nonstandard spelling
+gymel,gimel,variant,the variant column is the nonstandard spelling
+lyophilisation,lyophilization,variant,the variant column is the nonstandard spelling
+arytaenoid,arytenoid,variant,the variant column is the nonstandard spelling
+coccidiomycosis,coccidioidomycosis,variant,the variant column is the nonstandard spelling
+foetoprotein,fetoprotein,variant,the variant column is the nonstandard spelling
+grotesquery,grotesquerie,variant,the variant column is the nonstandard spelling
+mastabah,mastaba,variant,the variant column is the nonstandard spelling
+piperin,piperine,variant,the variant column is the nonstandard spelling
+arborvirus,arbovirus,variant,the variant column is the nonstandard spelling
+kanaf,kenaf,variant,the variant column is the nonstandard spelling
+markhoor,markhor,variant,the variant column is the nonstandard spelling
+picaninny,pickaninny,variant,the variant column is the nonstandard spelling
+piccaninny,pickaninny,variant,the variant column is the nonstandard spelling
+schmeer,schmear,variant,the variant column is the nonstandard spelling
+shmear,schmear,variant,the variant column is the nonstandard spelling
+tetrachlorethylene,tetrachloroethylene,reverse,the canonical column is the nonstandard spelling
+assagai,assegai,variant,the variant column is the nonstandard spelling
+galvanisation,galvanization,variant,the variant column is the nonstandard spelling
+academism,academicism,variant,the variant column is the nonstandard spelling
+cylix,kylix,variant,the variant column is the nonstandard spelling
+fictionalisation,fictionalization,variant,the variant column is the nonstandard spelling
+moufflon,mouflon,variant,the variant column is the nonstandard spelling
+palaeopathology,paleopathology,variant,the variant column is the nonstandard spelling
+sequella,sequela,variant,the variant column is the nonstandard spelling
+vitalisation,vitalization,variant,the variant column is the nonstandard spelling
+bacteriacide,bactericide,variant,the variant column is the nonstandard spelling
+larvacide,larvicide,variant,the variant column is the nonstandard spelling
+circularisation,circularization,variant,the variant column is the nonstandard spelling
+currajong,kurrajong,variant,the variant column is the nonstandard spelling
+lutanist,lutenist,variant,the variant column is the nonstandard spelling
+monaul,monal,variant,the variant column is the nonstandard spelling
+piaster,piastre,reverse,the canonical column is the nonstandard spelling
+myxoedema,myxedema,variant,the variant column is the nonstandard spelling
+toxaemia,toxemia,variant,the variant column is the nonstandard spelling
+falderol,folderol,variant,the variant column is the nonstandard spelling
+folderal,folderol,variant,the variant column is the nonstandard spelling
+padouk,padauk,variant,the variant column is the nonstandard spelling
+shlemiel,schlemiel,variant,the variant column is the nonstandard spelling
+tendosynovitis,tenosynovitis,variant,the variant column is the nonstandard spelling
+communisation,communization,variant,the variant column is the nonstandard spelling
+dieresis,diaeresis,reverse,the canonical column is the nonstandard spelling
+glamorisation,glamorization,variant,the variant column is the nonstandard spelling
+glamourisation,glamorization,variant,the variant column is the nonstandard spelling
+glamourization,glamorization,variant,the variant column is the nonstandard spelling
+parasitaemia,parasitemia,variant,the variant column is the nonstandard spelling
+toponomy,toponymy,variant,the variant column is the nonstandard spelling
+corslet,corselet,variant,the variant column is the nonstandard spelling
+simoon,simoom,variant,the variant column is the nonstandard spelling
+tamandu,tamandua,variant,the variant column is the nonstandard spelling
+estivation,aestivation,reverse,the canonical column is the nonstandard spelling
+haemosiderin,hemosiderin,variant,the variant column is the nonstandard spelling
+lachrymation,lacrimation,variant,the variant column is the nonstandard spelling
+mizenmast,mizzenmast,variant,the variant column is the nonstandard spelling
+piroshki,pirozhki,variant,the variant column is the nonstandard spelling
+bumph,bumf,variant,the variant column is the nonstandard spelling
+dislodgment,dislodgement,variant,the variant column is the nonstandard spelling
+eurhythmy,eurythmy,variant,the variant column is the nonstandard spelling
+hoactzin,hoatzin,variant,the variant column is the nonstandard spelling
+kerugma,kerygma,variant,the variant column is the nonstandard spelling
+thoracocentesis,thoracentesis,variant,the variant column is the nonstandard spelling
+dideoxyinosine,didanosine,variant,the variant column is the nonstandard spelling
+keratinisation,keratinization,variant,the variant column is the nonstandard spelling
+bathyscape,bathyscaphe,variant,the variant column is the nonstandard spelling
+bathyscaph,bathyscaphe,variant,the variant column is the nonstandard spelling
+signalisation,signalization,variant,the variant column is the nonstandard spelling
+tacheometer,tachymeter,variant,the variant column is the nonstandard spelling
+chachka,tchotchke,variant,the variant column is the nonstandard spelling
+dourah,durra,variant,the variant column is the nonstandard spelling
+enjambement,enjambment,variant,the variant column is the nonstandard spelling
+haematemesis,hematemesis,variant,the variant column is the nonstandard spelling
+harbourage,harborage,variant,the variant column is the nonstandard spelling
+tsatske,tchotchke,variant,the variant column is the nonstandard spelling
+tshatshke,tchotchke,variant,the variant column is the nonstandard spelling
+haemolysin,hemolysin,variant,the variant column is the nonstandard spelling
+pipul,peepul,variant,the variant column is the nonstandard spelling
+thingmabob,thingamabob,variant,the variant column is the nonstandard spelling
+thingumabob,thingamabob,variant,the variant column is the nonstandard spelling
+schrod,scrod,variant,the variant column is the nonstandard spelling
+tympanist,timpanist,variant,the variant column is the nonstandard spelling
+wikiup,wickiup,variant,the variant column is the nonstandard spelling
+orache,orach,variant,the variant column is the nonstandard spelling
+secreter,secretor,variant,the variant column is the nonstandard spelling
+whizzbang,whizbang,variant,the variant column is the nonstandard spelling
+alphabetisation,alphabetization,variant,the variant column is the nonstandard spelling
+blintze,blintz,variant,the variant column is the nonstandard spelling
+czaritza,tsaritsa,variant,the variant column is the nonstandard spelling
+enophile,oenophile,reverse,the canonical column is the nonstandard spelling
+hoosgow,hoosegow,variant,the variant column is the nonstandard spelling
+leukotomy,leucotomy,variant,the variant column is the nonstandard spelling
+moustachio,mustachio,variant,the variant column is the nonstandard spelling
+pavise,pavis,variant,the variant column is the nonstandard spelling
+poleax,poleaxe,variant,the variant column is the nonstandard spelling
+sanfoin,sainfoin,variant,the variant column is the nonstandard spelling
+sillabub,syllabub,variant,the variant column is the nonstandard spelling
+arbalist,arbalest,variant,the variant column is the nonstandard spelling
+celebrater,celebrator,variant,the variant column is the nonstandard spelling
+overutilisation,overutilization,variant,the variant column is the nonstandard spelling
+anhydrosis,anhidrosis,variant,the variant column is the nonstandard spelling
+cither,cittern,variant,the variant column is the nonstandard spelling
+cithern,cittern,variant,the variant column is the nonstandard spelling
+dogy,dogie,variant,the variant column is the nonstandard spelling
+polliwog,pollywog,variant,the variant column is the nonstandard spelling
+spelaeology,speleology,variant,the variant column is the nonstandard spelling
+chivaree,shivaree,variant,the variant column is the nonstandard spelling
+xanthophyl,xanthophyll,variant,the variant column is the nonstandard spelling
+bister,bistre,reverse,the canonical column is the nonstandard spelling
+enologist,oenologist,reverse,the canonical column is the nonstandard spelling
+lammergeyer,lammergeier,variant,the variant column is the nonstandard spelling
+particularisation,particularization,variant,the variant column is the nonstandard spelling
+shote,shoat,variant,the variant column is the nonstandard spelling
+azotaemia,azotemia,variant,the variant column is the nonstandard spelling
+lavalliere,lavaliere,variant,the variant column is the nonstandard spelling
+neuropile,neuropil,variant,the variant column is the nonstandard spelling
+peripetia,peripeteia,variant,the variant column is the nonstandard spelling
+peripety,peripeteia,variant,the variant column is the nonstandard spelling
+podsol,podzol,variant,the variant column is the nonstandard spelling
+alidad,alidade,variant,the variant column is the nonstandard spelling
+noreaster,northeaster,variant,the variant column is the nonstandard spelling
+rigourousness,rigorousness,variant,the variant column is the nonstandard spelling
+moulter,molter,variant,the variant column is the nonstandard spelling
+somatotrophin,somatotropin,variant,the variant column is the nonstandard spelling
+vacuolisation,vacuolization,variant,the variant column is the nonstandard spelling
+vulgarisation,vulgarization,variant,the variant column is the nonstandard spelling
+alcahest,alkahest,variant,the variant column is the nonstandard spelling
+dueller,dueler,variant,the variant column is the nonstandard spelling
+postillion,postilion,variant,the variant column is the nonstandard spelling
+schematisation,schematization,variant,the variant column is the nonstandard spelling
+babiroussa,babirusa,variant,the variant column is the nonstandard spelling
+pauperisation,pauperization,variant,the variant column is the nonstandard spelling
+sombreness,somberness,variant,the variant column is the nonstandard spelling
+thralldom,thraldom,variant,the variant column is the nonstandard spelling
+aigret,aigrette,variant,the variant column is the nonstandard spelling
+cicatrice,cicatrix,variant,the variant column is the nonstandard spelling
+crepuscle,crepuscule,variant,the variant column is the nonstandard spelling
+shnook,schnook,variant,the variant column is the nonstandard spelling
+encyclopaedist,encyclopedist,variant,the variant column is the nonstandard spelling
+haemorrhoidectomy,hemorrhoidectomy,variant,the variant column is the nonstandard spelling
+abamp,abampere,variant,the variant column is the nonstandard spelling
+aboulia,abulia,variant,the variant column is the nonstandard spelling
+absolutisation,absolutization,variant,the variant column is the nonstandard spelling
+abstractor,abstracter,variant,the variant column is the nonstandard spelling
+acariosis,acariasis,variant,the variant column is the nonstandard spelling
+acetanilid,acetanilide,variant,the variant column is the nonstandard spelling
+acroanesthesia,acroanaesthesia,reverse,the canonical column is the nonstandard spelling
+acromikria,acromicria,variant,the variant column is the nonstandard spelling
+adactylia,adactyly,variant,the variant column is the nonstandard spelling
+aerogramme,aerogram,variant,the variant column is the nonstandard spelling
+aesthesis,esthesis,variant,the variant column is the nonstandard spelling
+aiguillette,aiglet,unrelated,not a spelling pair
+alcapton,alkapton,variant,the variant column is the nonstandard spelling
+alcaptonuria,alkaptonuria,variant,the variant column is the nonstandard spelling
+alfileria,alfilaria,variant,the variant column is the nonstandard spelling
+allegoriser,allegorizer,variant,the variant column is the nonstandard spelling
+alphabetiser,alphabetizer,variant,the variant column is the nonstandard spelling
+amyotrophia,amyotrophy,variant,the variant column is the nonstandard spelling
+anapaest,anapest,variant,the variant column is the nonstandard spelling
+anathematisation,anathematization,variant,the variant column is the nonstandard spelling
+animalisation,animalization,variant,the variant column is the nonstandard spelling
+anoestrus,anestrus,variant,the variant column is the nonstandard spelling
+apophthegm,apothegm,variant,the variant column is the nonstandard spelling
+arbitrement,arbitrament,variant,the variant column is the nonstandard spelling
+ateleiosis,ateliosis,variant,the variant column is the nonstandard spelling
+audad,aoudad,variant,the variant column is the nonstandard spelling
+authoriser,authorizer,variant,the variant column is the nonstandard spelling
+autocoid,autacoid,variant,the variant column is the nonstandard spelling
+azederach,azedarach,variant,the variant column is the nonstandard spelling
+babirussa,babiroussa,variant,the variant column is the nonstandard spelling
+bandlet,bandelet,variant,the variant column is the nonstandard spelling
+barbarization,barbarisation,reverse,the canonical column is the nonstandard spelling
+barrater,barrator,variant,the variant column is the nonstandard spelling
+basonym,basionym,variant,the variant column is the nonstandard spelling
+bastnasite,bastnaesite,variant,the variant column is the nonstandard spelling
+bathymeter,bathometer,variant,the variant column is the nonstandard spelling
+bedesman,beadsman,variant,the variant column is the nonstandard spelling
+bedeswoman,beadswoman,variant,the variant column is the nonstandard spelling
+bezzant,bezant,variant,the variant column is the nonstandard spelling
+blastocele,blastocoele,reverse,the canonical column is the nonstandard spelling
+blastocoele,blastocoel,variant,the variant column is the nonstandard spelling
+bonyness,boniness,variant,the variant column is the nonstandard spelling
+bowdleriser,bowdlerizer,variant,the variant column is the nonstandard spelling
+brachycephalism,brachycephaly,variant,the variant column is the nonstandard spelling
+broadax,broadaxe,variant,the variant column is the nonstandard spelling
+burnous,burnoose,variant,the variant column is the nonstandard spelling
+burnouse,burnoose,variant,the variant column is the nonstandard spelling
+byzant,bezant,variant,the variant column is the nonstandard spelling
+cainogenesis,caenogenesis,variant,the variant column is the nonstandard spelling
+caliculus,calyculus,variant,the variant column is the nonstandard spelling
+callathump,callithump,variant,the variant column is the nonstandard spelling
+calorizator,calorisator,variant,the variant column is the nonstandard spelling
+calpac,calpack,variant,the variant column is the nonstandard spelling
+carabinier,carabineer,variant,the variant column is the nonstandard spelling
+carageen,carrageen,variant,the variant column is the nonstandard spelling
+carragheen,carrageen,variant,the variant column is the nonstandard spelling
+caviller,caviler,variant,the variant column is the nonstandard spelling
+cenogenesis,caenogenesis,reverse,the canonical column is the nonstandard spelling
+centiliter,centilitre,reverse,the canonical column is the nonstandard spelling
+cephalhematoma,cephalohematoma,variant,the variant column is the nonstandard spelling
+chabasite,chabazite,variant,the variant column is the nonstandard spelling
+chanfron,chamfron,variant,the variant column is the nonstandard spelling
+chaulmugra,chaulmoogra,variant,the variant column is the nonstandard spelling
+cheewink,chewink,variant,the variant column is the nonstandard spelling
+chigetai,dziggetai,variant,the variant column is the nonstandard spelling
+chiseller,chiseler,variant,the variant column is the nonstandard spelling
+chromaesthesia,chromesthesia,variant,the variant column is the nonstandard spelling
+cirripede,cirriped,variant,the variant column is the nonstandard spelling
+clayiness,clayeyness,variant,the variant column is the nonstandard spelling
+cockleburr,cocklebur,variant,the variant column is the nonstandard spelling
+cocoswood,cocuswood,variant,the variant column is the nonstandard spelling
+coigne,coign,variant,the variant column is the nonstandard spelling
+colorlessness,colourlessness,reverse,the canonical column is the nonstandard spelling
+colourcast,colorcast,variant,the variant column is the nonstandard spelling
+conventionalisation,conventionalization,variant,the variant column is the nonstandard spelling
+councilorship,councillorship,variant,the variant column is the nonstandard spelling
+counsellorship,counselorship,variant,the variant column is the nonstandard spelling
+covalency,covalence,variant,the variant column is the nonstandard spelling
+crenelation,crenellation,variant,the variant column is the nonstandard spelling
+crenelle,crenel,variant,the variant column is the nonstandard spelling
+crotal,crottle,unrelated,not a spelling pair
+cryoanaesthesia,cryoanesthesia,variant,the variant column is the nonstandard spelling
+decaliter,decalitre,reverse,the canonical column is the nonstandard spelling
+decameter,decametre,reverse,the canonical column is the nonstandard spelling
+dekagram,decagram,variant,the variant column is the nonstandard spelling
+dekaliter,decalitre,variant,the variant column is the nonstandard spelling
+dekalitre,decalitre,variant,the variant column is the nonstandard spelling
+dekameter,decametre,variant,the variant column is the nonstandard spelling
+dekametre,decametre,variant,the variant column is the nonstandard spelling
+demythologisation,demythologization,variant,the variant column is the nonstandard spelling
+detribalisation,detribalization,variant,the variant column is the nonstandard spelling
+devitalisation,devitalization,variant,the variant column is the nonstandard spelling
+dichotomisation,dichotomization,variant,the variant column is the nonstandard spelling
+dichromasy,dichromacy,variant,the variant column is the nonstandard spelling
+dicumarol,dicoumarol,variant,the variant column is the nonstandard spelling
+dissyllable,disyllable,variant,the variant column is the nonstandard spelling
+dkg,dekagram,unrelated,not a spelling pair
+draughtswoman,draftswoman,variant,the variant column is the nonstandard spelling
+drosky,droshky,variant,the variant column is the nonstandard spelling
+enanthema,enanthem,variant,the variant column is the nonstandard spelling
+encyclopaedism,encyclopedism,variant,the variant column is the nonstandard spelling
+entoparasite,endoparasite,variant,the variant column is the nonstandard spelling
+epigon,epigone,variant,the variant column is the nonstandard spelling
+eringo,eryngo,variant,the variant column is the nonstandard spelling
+essonite,hessonite,variant,the variant column is the nonstandard spelling
+esthesia,aesthesia,reverse,the canonical column is the nonstandard spelling
+etamin,etamine,variant,the variant column is the nonstandard spelling
+eudemon,eudaemon,reverse,the canonical column is the nonstandard spelling
+euglenoid,euglenid,variant,the variant column is the nonstandard spelling
+eupnoea,eupnea,variant,the variant column is the nonstandard spelling
+exanthema,exanthem,variant,the variant column is the nonstandard spelling
+extemporisation,extemporization,variant,the variant column is the nonstandard spelling
+fasciolosis,fascioliasis,variant,the variant column is the nonstandard spelling
+fatism,fattism,variant,the variant column is the nonstandard spelling
+favorableness,favourableness,reverse,the canonical column is the nonstandard spelling
+femtometer,femtometre,reverse,the canonical column is the nonstandard spelling
+fizgig,fishgig,unrelated,not a spelling pair
+flavourer,flavorer,variant,the variant column is the nonstandard spelling
+flavourlessness,flavorlessness,variant,the variant column is the nonstandard spelling
+flavoursomeness,flavorsomeness,variant,the variant column is the nonstandard spelling
+flindosa,flindosy,variant,the variant column is the nonstandard spelling
+focalisation,focalization,variant,the variant column is the nonstandard spelling
+foetology,fetology,variant,the variant column is the nonstandard spelling
+foetometry,fetometry,variant,the variant column is the nonstandard spelling
+foetoscope,fetoscope,variant,the variant column is the nonstandard spelling
+foetoscopy,fetoscopy,variant,the variant column is the nonstandard spelling
+foulmart,foumart,variant,the variant column is the nonstandard spelling
+framboesia,frambesia,variant,the variant column is the nonstandard spelling
+frijole,frijol,variant,the variant column is the nonstandard spelling
+galvaniser,galvanizer,variant,the variant column is the nonstandard spelling
+ganof,ganef,variant,the variant column is the nonstandard spelling
+ganoin,ganoine,variant,the variant column is the nonstandard spelling
+garrotter,garroter,variant,the variant column is the nonstandard spelling
+girandola,girandole,variant,the variant column is the nonstandard spelling
+gluiness,glueyness,variant,the variant column is the nonstandard spelling
+golosh,galosh,variant,the variant column is the nonstandard spelling
+gonif,ganef,variant,the variant column is the nonstandard spelling
+goniff,ganef,variant,the variant column is the nonstandard spelling
+gospeller,gospeler,variant,the variant column is the nonstandard spelling
+groveller,groveler,variant,the variant column is the nonstandard spelling
+gyrostabiliser,gyrostabilizer,variant,the variant column is the nonstandard spelling
+haematin,hematin,variant,the variant column is the nonstandard spelling
+haematinic,hematinic,variant,the variant column is the nonstandard spelling
+haematocele,hematocele,variant,the variant column is the nonstandard spelling
+haematochezia,hematochezia,variant,the variant column is the nonstandard spelling
+haematocolpos,hematocolpos,variant,the variant column is the nonstandard spelling
+haematoidin,hematoidin,variant,the variant column is the nonstandard spelling
+haemoprotein,hemoprotein,variant,the variant column is the nonstandard spelling
+haemosiderosis,hemosiderosis,variant,the variant column is the nonstandard spelling
+haemostasia,hemostasia,variant,the variant column is the nonstandard spelling
+hectometer,hectometre,reverse,the canonical column is the nonstandard spelling
+hemipteron,hemipteran,variant,the variant column is the nonstandard spelling
+hesitator,hesitater,variant,the variant column is the nonstandard spelling
+hierarchisation,hierarchization,variant,the variant column is the nonstandard spelling
+holloware,hollowware,variant,the variant column is the nonstandard spelling
+homoiotherm,homeotherm,variant,the variant column is the nonstandard spelling
+homotherm,homeotherm,variant,the variant column is the nonstandard spelling
+honourableness,honorableness,variant,the variant column is the nonstandard spelling
+hoodmold,hoodmould,reverse,the canonical column is the nonstandard spelling
+hyalinisation,hyalinization,variant,the variant column is the nonstandard spelling
+hypercalciuria,hypercalcinuria,variant,the variant column is the nonstandard spelling
+hyperlipaemia,hyperlipemia,variant,the variant column is the nonstandard spelling
+hyperlipoidaemia,hyperlipoidemia,variant,the variant column is the nonstandard spelling
+hypermetropy,hypermetropia,variant,the variant column is the nonstandard spelling
+hypervolaemia,hypervolemia,variant,the variant column is the nonstandard spelling
+hypesthesia,hypoesthesia,reverse,the canonical column is the nonstandard spelling
+hypnotiser,hypnotizer,variant,the variant column is the nonstandard spelling
+hypostatisation,hypostatization,variant,the variant column is the nonstandard spelling
+idoliser,idolizer,variant,the variant column is the nonstandard spelling
+impendence,impendency,variant,the variant column is the nonstandard spelling
+impenitency,impenitence,variant,the variant column is the nonstandard spelling
+jaguarondi,jaguarundi,variant,the variant column is the nonstandard spelling
+kabbalism,cabalism,variant,the variant column is the nonstandard spelling
+kainogenesis,caenogenesis,variant,the variant column is the nonstandard spelling
+kaluresis,kaliuresis,variant,the variant column is the nonstandard spelling
+kenogenesis,caenogenesis,variant,the variant column is the nonstandard spelling
+kinaesthesia,kinesthesia,variant,the variant column is the nonstandard spelling
+kinaesthesis,kinesthesis,variant,the variant column is the nonstandard spelling
+kitambilla,ketembilla,variant,the variant column is the nonstandard spelling
+knobkerrie,knobkerry,variant,the variant column is the nonstandard spelling
+knockwurst,knackwurst,variant,the variant column is the nonstandard spelling
+laconicism,laconism,variant,the variant column is the nonstandard spelling
+lacrimator,lachrymator,variant,the variant column is the nonstandard spelling
+laevulose,levulose,variant,the variant column is the nonstandard spelling
+lansat,langsat,variant,the variant column is the nonstandard spelling
+lanseh,langsat,variant,the variant column is the nonstandard spelling
+leucorrhea,leukorrhea,variant,the variant column is the nonstandard spelling
+leukoma,leucoma,variant,the variant column is the nonstandard spelling
+lexicalisation,lexicalization,variant,the variant column is the nonstandard spelling
+lipaemia,lipemia,variant,the variant column is the nonstandard spelling
+lipidaemia,lipidemia,variant,the variant column is the nonstandard spelling
+liquidiser,liquidizer,variant,the variant column is the nonstandard spelling
+logginess,loginess,variant,the variant column is the nonstandard spelling
+lymphangiectasis,lymphangiectasia,variant,the variant column is the nonstandard spelling
+lysogenisation,lysogenization,variant,the variant column is the nonstandard spelling
+magilp,megilp,variant,the variant column is the nonstandard spelling
+mahlstick,maulstick,variant,the variant column is the nonstandard spelling
+malodour,malodor,variant,the variant column is the nonstandard spelling
+manoeuvrer,maneuverer,variant,the variant column is the nonstandard spelling
+memoriser,memorizer,variant,the variant column is the nonstandard spelling
+meshugaas,mishegoss,variant,the variant column is the nonstandard spelling
+meshuggeneh,meshuggener,variant,the variant column is the nonstandard spelling
+metacenter,metacentre,reverse,the canonical column is the nonstandard spelling
+metronymic,matronymic,variant,the variant column is the nonstandard spelling
+micromillimeter,micromillimetre,reverse,the canonical column is the nonstandard spelling
+mileometer,milometer,variant,the variant column is the nonstandard spelling
+mishegaas,mishegoss,variant,the variant column is the nonstandard spelling
+mishpachah,mishpocha,variant,the variant column is the nonstandard spelling
+mitrewort,miterwort,variant,the variant column is the nonstandard spelling
+moneron,moneran,variant,the variant column is the nonstandard spelling
+monochromasy,monochromacy,variant,the variant column is the nonstandard spelling
+monopoliser,monopolizer,variant,the variant column is the nonstandard spelling
+moujik,mujik,variant,the variant column is the nonstandard spelling
+munj,munja,variant,the variant column is the nonstandard spelling
+muzjik,mujik,variant,the variant column is the nonstandard spelling
+myelinisation,myelinization,variant,the variant column is the nonstandard spelling
+myotic,miotic,variant,the variant column is the nonstandard spelling
+myriameter,myriametre,reverse,the canonical column is the nonstandard spelling
+mythologisation,mythologization,variant,the variant column is the nonstandard spelling
+nargileh,narghile,variant,the variant column is the nonstandard spelling
+nudnick,nudnik,variant,the variant column is the nonstandard spelling
+obstructor,obstructer,variant,the variant column is the nonstandard spelling
+oesophagoscope,esophagoscope,variant,the variant column is the nonstandard spelling
+opsonisation,opsonization,variant,the variant column is the nonstandard spelling
+oreide,oroide,variant,the variant column is the nonstandard spelling
+orpin,orpine,variant,the variant column is the nonstandard spelling
+orthopteron,orthopteran,variant,the variant column is the nonstandard spelling
+overcapitalisation,overcapitalization,variant,the variant column is the nonstandard spelling
+ozokerite,ozocerite,variant,the variant column is the nonstandard spelling
+paddymelon,pademelon,unrelated,not a spelling pair
+pademelon,paddymelon,unrelated,not a spelling pair
+palaeogeology,paleogeology,variant,the variant column is the nonstandard spelling
+palaeology,paleology,variant,the variant column is the nonstandard spelling
+palaeozoology,paleozoology,variant,the variant column is the nonstandard spelling
+paleencephalon,paleoencephalon,reverse,the canonical column is the nonstandard spelling
+panetela,panatela,variant,the variant column is the nonstandard spelling
+paraleipsis,paralipsis,variant,the variant column is the nonstandard spelling
+paralepsis,paraleipsis,variant,the variant column is the nonstandard spelling
+parchesi,pachisi,variant,the variant column is the nonstandard spelling
+parchisi,pachisi,variant,the variant column is the nonstandard spelling
+pasteuriser,pasteurizer,variant,the variant column is the nonstandard spelling
+paviour,pavior,variant,the variant column is the nonstandard spelling
+pedaler,pedaller,reverse,the canonical column is the nonstandard spelling
+pennoncelle,pennoncel,variant,the variant column is the nonstandard spelling
+penoche,penuche,variant,the variant column is the nonstandard spelling
+penoncel,pennoncel,variant,the variant column is the nonstandard spelling
+peptisation,peptization,variant,the variant column is the nonstandard spelling
+perigon,perigone,unrelated,not a spelling pair
+pewit,peewit,variant,the variant column is the nonstandard spelling
+philosophiser,philosophizer,variant,the variant column is the nonstandard spelling
+pichiciago,pichiciego,variant,the variant column is the nonstandard spelling
+picknicker,picnicker,variant,the variant column is the nonstandard spelling
+picometer,picometre,reverse,the canonical column is the nonstandard spelling
+plagiarisation,plagiarization,variant,the variant column is the nonstandard spelling
+plagiariser,plagiarizer,variant,the variant column is the nonstandard spelling
+plessimeter,pleximeter,variant,the variant column is the nonstandard spelling
+ploughwoman,plowwoman,variant,the variant column is the nonstandard spelling
+ploughwright,plowwright,variant,the variant column is the nonstandard spelling
+plowland,ploughland,variant,the variant column is the nonstandard spelling
+poetiser,poetizer,variant,the variant column is the nonstandard spelling
+predaceousness,predaciousness,variant,the variant column is the nonstandard spelling
+proboscidian,proboscidean,variant,the variant column is the nonstandard spelling
+prothalamium,prothalamion,variant,the variant column is the nonstandard spelling
+punkey,punkie,variant,the variant column is the nonstandard spelling
+pussly,pussley,variant,the variant column is the nonstandard spelling
+pycnosis,pyknosis,variant,the variant column is the nonstandard spelling
+pyemia,pyaemia,reverse,the canonical column is the nonstandard spelling
+pyroxyline,pyroxylin,variant,the variant column is the nonstandard spelling
+quandang,quandong,variant,the variant column is the nonstandard spelling
+quantong,quandong,variant,the variant column is the nonstandard spelling
+quarreller,quarreler,variant,the variant column is the nonstandard spelling
+quatercentennial,quatercentenary,variant,the variant column is the nonstandard spelling
+raetam,retem,variant,the variant column is the nonstandard spelling
+ratafee,ratafia,variant,the variant column is the nonstandard spelling
+rateability,ratability,variant,the variant column is the nonstandard spelling
+ratlin,ratline,variant,the variant column is the nonstandard spelling
+rebato,rabato,variant,the variant column is the nonstandard spelling
+relativisation,relativization,variant,the variant column is the nonstandard spelling
+rhodomontade,rodomontade,variant,the variant column is the nonstandard spelling
+ricrac,rickrack,variant,the variant column is the nonstandard spelling
+ridgil,ridgel,variant,the variant column is the nonstandard spelling
+rijstafel,rijsttafel,variant,the variant column is the nonstandard spelling
+ringhals,rinkhals,variant,the variant column is the nonstandard spelling
+ruggedisation,ruggedization,variant,the variant column is the nonstandard spelling
+rumourmonger,rumormonger,variant,the variant column is the nonstandard spelling
+saffranine,safranin,variant,the variant column is the nonstandard spelling
+sandarach,sandarac,variant,the variant column is the nonstandard spelling
+sapremia,sapraemia,reverse,the canonical column is the nonstandard spelling
+sarcenet,sarsenet,variant,the variant column is the nonstandard spelling
+sarcodinian,sarcodine,variant,the variant column is the nonstandard spelling
+savorlessness,savourlessness,reverse,the canonical column is the nonstandard spelling
+scandalisation,scandalization,variant,the variant column is the nonstandard spelling
+schemozzle,shemozzle,variant,the variant column is the nonstandard spelling
+scorper,scauper,variant,the variant column is the nonstandard spelling
+scramaseax,scramasax,variant,the variant column is the nonstandard spelling
+scrutiniser,scrutinizer,variant,the variant column is the nonstandard spelling
+sectionalisation,sectionalization,variant,the variant column is the nonstandard spelling
+sentimentalisation,sentimentalization,variant,the variant column is the nonstandard spelling
+sermoniser,sermonizer,variant,the variant column is the nonstandard spelling
+shlepper,schlepper,variant,the variant column is the nonstandard spelling
+shlimazel,schlimazel,variant,the variant column is the nonstandard spelling
+shlockmeister,schlockmeister,variant,the variant column is the nonstandard spelling
+sniveller,sniveler,variant,the variant column is the nonstandard spelling
+socialiser,socializer,variant,the variant column is the nonstandard spelling
+solmization,solmisation,reverse,the canonical column is the nonstandard spelling
+souslik,suslik,variant,the variant column is the nonstandard spelling
+specialiser,specializer,variant,the variant column is the nonstandard spelling
+spelaeologist,speleologist,variant,the variant column is the nonstandard spelling
+spiritualisation,spiritualization,variant,the variant column is the nonstandard spelling
+sporophyl,sporophyll,variant,the variant column is the nonstandard spelling
+standardiser,standardizer,variant,the variant column is the nonstandard spelling
+steinbok,steenbok,variant,the variant column is the nonstandard spelling
+subsidiser,subsidizer,variant,the variant column is the nonstandard spelling
+succourer,succorer,variant,the variant column is the nonstandard spelling
+syllogiser,syllogizer,variant,the variant column is the nonstandard spelling
+symboliser,symbolizer,variant,the variant column is the nonstandard spelling
+synezesis,synizesis,variant,the variant column is the nonstandard spelling
+systematiser,systematizer,variant,the variant column is the nonstandard spelling
+systemiser,systemizer,variant,the variant column is the nonstandard spelling
+tabouret,taboret,variant,the variant column is the nonstandard spelling
+tambac,tombak,variant,the variant column is the nonstandard spelling
+tantaliser,tantalizer,variant,the variant column is the nonstandard spelling
+taradiddle,tarradiddle,variant,the variant column is the nonstandard spelling
+telferage,telpherage,variant,the variant column is the nonstandard spelling
+temporiser,temporizer,variant,the variant column is the nonstandard spelling
+tenderisation,tenderization,variant,the variant column is the nonstandard spelling
+tendrac,tenrec,variant,the variant column is the nonstandard spelling
+territorialisation,territorialization,variant,the variant column is the nonstandard spelling
+terrorisation,terrorization,variant,the variant column is the nonstandard spelling
+tetraskele,tetraskelion,variant,the variant column is the nonstandard spelling
+theologiser,theologizer,variant,the variant column is the nonstandard spelling
+theoriser,theorizer,variant,the variant column is the nonstandard spelling
+tittivation,titivation,variant,the variant column is the nonstandard spelling
+toitoi,toetoe,variant,the variant column is the nonstandard spelling
+tombac,tombak,variant,the variant column is the nonstandard spelling
+totaliser,totalizer,variant,the variant column is the nonstandard spelling
+touraco,turaco,variant,the variant column is the nonstandard spelling
+trenail,treenail,variant,the variant column is the nonstandard spelling
+tribalisation,tribalization,variant,the variant column is the nonstandard spelling
+troponomy,troponymy,variant,the variant column is the nonstandard spelling
+trunnel,treenail,variant,the variant column is the nonstandard spelling
+tsoris,tsuris,variant,the variant column is the nonstandard spelling
+tughrik,tugrik,variant,the variant column is the nonstandard spelling
+tumbrel,tumbril,variant,the variant column is the nonstandard spelling
+tupek,tupik,variant,the variant column is the nonstandard spelling
+turacou,turaco,variant,the variant column is the nonstandard spelling
+turakoo,turaco,variant,the variant column is the nonstandard spelling
+tyrocidin,tyrocidine,variant,the variant column is the nonstandard spelling
+unfavourableness,unfavorableness,variant,the variant column is the nonstandard spelling
+unitisation,unitization,variant,the variant column is the nonstandard spelling
+unraveller,unraveler,variant,the variant column is the nonstandard spelling
+useableness,usableness,variant,the variant column is the nonstandard spelling
+vapourousness,vaporousness,variant,the variant column is the nonstandard spelling
+verbaliser,verbalizer,variant,the variant column is the nonstandard spelling
+villainage,villeinage,variant,the variant column is the nonstandard spelling
+virucide,viricide,variant,the variant column is the nonstandard spelling
+viscosimetry,viscometry,variant,the variant column is the nonstandard spelling
+vitaliser,vitalizer,variant,the variant column is the nonstandard spelling
+vocaliser,vocalizer,variant,the variant column is the nonstandard spelling
+vulcaniser,vulcanizer,variant,the variant column is the nonstandard spelling
+vulgariser,vulgarizer,variant,the variant column is the nonstandard spelling
+waggonwright,wagonwright,variant,the variant column is the nonstandard spelling
+weisenheimer,wisenheimer,variant,the variant column is the nonstandard spelling
+xerophthalmus,xerophthalmia,variant,the variant column is the nonstandard spelling
+yashmac,yashmak,variant,the variant column is the nonstandard spelling
+zumbooruck,zamburak,variant,the variant column is the nonstandard spelling
+zumbooruk,zamburak,variant,the variant column is the nonstandard spelling
