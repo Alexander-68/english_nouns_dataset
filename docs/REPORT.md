@@ -1461,3 +1461,34 @@ definition on an existing row for a `noun` verdict too, not only for a rejection
 `aliasing`, `quench`, `shimming`, `thresholding` -- show the definition the sheet wrote for them
 rather than the general one.
 
+## Two letters the game kept running out of
+
+`x_words.csv` (193 rows) and `y_words.csv` (47 rows) are not subject areas. They answer a supply
+problem: a word-chain game hands off on the last letter, and the dataset had **58 playable words
+beginning with `x`** and 156 beginning with `y` — so a player who ended on one of those letters was
+often stuck, and the words they reached for (`yoyo`, `xylitol`, `yuzu`, `xenophile`) were not
+there.
+
+Both sheets were written across nine passes without a build, so this run is also the first check
+RULES asks for: the printed per-sheet count must equal the row count, since a misspelt verdict is
+dropped in silence. Both matched — `domain:x_words:193`, `domain:y_words:47` — and every one of the
+561 domain rows was verified in the release: verdict honoured, playability as ruled, and the note
+showing as the definition.
+
+| | before | after |
+| --- | ---: | ---: |
+| rows | 61,075 | **61,313** |
+| playable | 51,474 | **51,701** |
+| playable words starting `x` | 58 | **239** |
+| playable words starting `y` | 156 | **202** |
+
+Three rows in the two sheets are corrections rather than additions: `yammer` was read as a verb
+form, and `yuletide` was ruled a proper noun defined as "Alternative letter-case form of Yuletide"
+— the same reading `yule` had before `everyday.csv` fixed it.
+
+**What is thin about the x sheet.** Around thirty of its rows have no entry in Wiktionary, SCOWL or
+OEWN — `xenoform`, `xylozyme`, `xanthopolycyst`, `xeroorganism` and the rest of the transparent
+`xeno-`/`xylo-` compounds. They are in on the sheet's own authority, which is what a hand sheet is
+for, but they are the rows to look at first if the x supply ever needs trimming rather than
+extending.
+

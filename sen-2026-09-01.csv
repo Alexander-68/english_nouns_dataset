@@ -60609,75 +60609,269 @@ wynd,w,d,4,1.95,RARE,True,,,,,,False,,"A narrow lane, alley or path, especially 
 wynn,w,n,4,3.11,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"A letter of the Old English alphabet, ƿ, borrowed from the futhark and used to represent the sound of w; replaced in Middle English times by the digraph uu, which later developed into the letter w.",gaps-review
 wyvern,w,n,6,2.31,UNCOMMON,True,,,,,,False,noun.person,a fire-breathing dragon used in medieval heraldry; had the head of a dragon and the tail of a snake and a body with wings and two legs,oewn2025
 x,x,x,1,5.2,CORE,False,not in Wiktionary,"possible name; manual - not in Wiktionary, is it a real noun?",,,,False,noun.communication,the 24th letter of the Roman alphabet,oewn2025
+xanthamide,x,e,10,0.0,OBSCURE,True,,,,,,False,,the amide of xanthic acid,domain:x_words
+xanthan,x,n,7,1.92,RARE,True,,,,,,False,,a polysaccharide made by bacterial fermentation and used as a thickener and stabiliser,domain:x_words
 xanthate,x,e,8,1.14,RARE,True,,,,,,False,noun.substance,a salt or ester of xanthic acid,oewn2025
+xanthatin,x,n,9,0.0,OBSCURE,True,,,,,,False,,"a plant compound of the xanthanolide group, active against microbes",domain:x_words
+xanthation,x,n,10,0.0,OBSCURE,True,,,,,,False,,the conversion of cellulose into a xanthate in the making of rayon,domain:x_words
 xanthein,x,n,8,0.0,OBSCURE,True,,obscure,,,,False,,The water-soluble part of the yellow carotenoid pigment present in the cell sap of some plants.,scowl
 xanthelasma,x,a,11,0.0,OBSCURE,True,,obscure,,,,False,noun.state,xanthoma of the eyelids; occurs chiefly in the elderly,oewn2025
 xanthemia,x,a,9,0.0,OBSCURE,True,,obscure,,,,False,noun.state,excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color,oewn2025
 xanthene,x,e,8,0.0,OBSCURE,True,,obscure,,,,False,,Any of a group of tricyclic heterocycles (dibenzopyrans) that are the basis for a range of dyes such as fluorescein and eosin.,scowl
 xanthin,x,n,7,0.0,OBSCURE,True,,obscure,,,,False,,Alternative spelling of xanthine.,scowl
 xanthine,x,e,8,1.78,RARE,True,,,,,,False,noun.substance,crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine,oewn2025
+xanthium,x,m,8,1.33,RARE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"the cockleburs, a genus of coarse prickly plants",domain:x_words
+xanthoceratitis,x,s,15,0.0,OBSCURE,True,,,,,,False,,inflammation of the cornea with a yellow discoloration,domain:x_words
+xanthochroia,x,a,12,0.0,OBSCURE,True,,,,,,False,,a yellow patching of the skin or mucous membranes,domain:x_words
 xanthochroid,x,d,12,0.0,OBSCURE,True,,obscure,,,,False,,A member of the Xanthochroi.,scowl
 xanthochroism,x,m,13,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of xanthochromism.,scowl
+xanthochromia,x,a,13,0.0,OBSCURE,True,,,,,,False,,a yellow discoloration of the cerebrospinal fluid caused by broken-down blood,domain:x_words
+xanthocobalt,x,t,12,0.0,OBSCURE,True,,,,,,False,,a yellow cobalt ammine complex,domain:x_words
+xanthocone,x,e,10,0.0,OBSCURE,True,,,,,,False,,"a rare mineral of silver, arsenic and sulfur",domain:x_words
+xanthoconite,x,e,12,0.0,OBSCURE,True,,,,,,False,,"a rare mineral of silver, arsenic and sulfur",domain:x_words
+xanthocreatinine,x,e,16,0.0,OBSCURE,True,,,,,,False,,a toxic crystalline compound obtained from muscle tissue,domain:x_words
+xanthocroite,x,e,12,0.0,OBSCURE,True,,,,,,False,,an orange-yellow cadmium sulfide mineral,domain:x_words
+xanthocyanopia,x,a,14,0.0,OBSCURE,True,,,,,,False,,a colour blindness in which only yellow and blue are seen,domain:x_words
+xanthocyanopsy,x,y,14,0.0,OBSCURE,True,,,,,,False,,a colour blindness in which yellow and blue cannot be told apart,domain:x_words
+xanthoderma,x,a,11,0.0,OBSCURE,True,,,,,,False,,a yellow colouring of the skin,domain:x_words
+xanthodont,x,t,10,0.0,OBSCURE,True,,,,,,False,,a person or animal with yellow teeth,domain:x_words
+xanthogen,x,n,9,0.0,OBSCURE,True,,,,,,False,,the radical that takes part in the reactions of xanthic acid,domain:x_words
+xantholeucophore,x,e,16,0.0,OBSCURE,True,,,,,,False,,a pigment cell holding both yellow and white crystals,domain:x_words
 xanthoma,x,a,8,0.0,OBSCURE,True,,obscure,,,,False,noun.state,a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism,oewn2025
 xanthomatosis,x,s,13,0.0,OBSCURE,True,,obscure,,,,False,noun.state,widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism,oewn2025
+xanthomelania,x,a,13,0.0,OBSCURE,True,,,,,,False,,an abnormal yellow and dark pigmentation of the tissues,domain:x_words
 xanthomonad,x,d,11,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,bacteria producing yellow non-water-soluble pigments; some pathogenic for plants,oewn2025
+xanthone,x,e,8,0.0,OBSCURE,True,,,,,,False,,an organic compound used in dyes and pharmaceuticals,domain:x_words
+xanthopathy,x,y,11,0.0,OBSCURE,True,,,,,,False,,a disease marked by a yellow discoloration of the tissues,domain:x_words
+xanthophore,x,e,11,0.0,OBSCURE,True,,,,,,False,,a yellow pigment-bearing cell in the skin of some cold-blooded animals,domain:x_words
 xanthophyl,x,l,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of xanthophyll,xanthophyll,,,False,noun.substance,yellow carotenoid pigments in plants and animal fats and egg yolks,oewn2025
 xanthophyll,x,l,11,1.11,RARE,True,,,,,,False,noun.substance,yellow carotenoid pigments in plants and animal fats and egg yolks,oewn2025
+xanthophyllite,x,e,14,0.0,OBSCURE,True,,,,,,False,,a brittle yellowish mineral of the mica group,domain:x_words
+xanthopicrite,x,e,13,0.0,OBSCURE,True,,,,,,False,,a bitter yellow alkaloid taken from the bark of the prickly ash,domain:x_words
+xanthoplast,x,t,11,0.0,OBSCURE,True,,,,,,False,,a yellow pigment body in a plant cell,domain:x_words
+xanthopolycyst,x,t,14,0.0,OBSCURE,True,,,,,,False,,a cyst holding yellow cellular material,domain:x_words
+xanthoprotein,x,n,13,0.0,OBSCURE,True,,,,,,False,,the yellow substance formed when a protein reacts with nitric acid,domain:x_words
 xanthopsia,x,a,10,0.0,OBSCURE,True,,obscure,,,,False,noun.state,visual defect in which objects appear to have a yellowish hue; sometimes occurs in cases of jaundice,oewn2025
+xanthopsin,x,n,10,0.0,OBSCURE,True,,,,,,False,,the yellow pigment formed in the retina during vision,domain:x_words
+xanthopterin,x,n,12,0.0,OBSCURE,True,,,,,,False,,a yellow crystalline pigment found in butterfly wings and in mammal urine,domain:x_words
+xanthopurpurin,x,n,14,0.0,OBSCURE,True,,,,,,False,,a yellow crystalline dye obtained from madder root,domain:x_words
+xanthosiderite,x,e,14,0.0,OBSCURE,True,,,,,,False,,a yellow hydrous iron oxide mineral,domain:x_words
 xanthosis,x,s,9,0.0,OBSCURE,True,,obscure,,,,False,noun.state,an abnormal yellow discoloration of the skin,oewn2025
+xanthotoxin,x,n,11,0.0,OBSCURE,True,,,,,,False,,a plant compound used to treat vitiligo and other skin disorders,domain:x_words
 xebec,x,c,5,1.16,RARE,True,,,,,,False,,"A small two-masted, and later three-masted, Mediterranean transport ship with an overhanging bow and stern.",scowl
+xenagogue,x,e,9,0.0,OBSCURE,True,,,,,,False,,a guide who conducts strangers or visitors,domain:x_words
+xenagogy,x,y,8,0.0,OBSCURE,True,,,,,,False,,the guiding of foreign visitors,domain:x_words
+xenarthran,x,n,10,0.0,OBSCURE,True,,,,,,False,,"a placental mammal of the group containing sloths, armadillos and anteaters",domain:x_words
 xenia,x,a,5,2.47,UNCOMMON,False,inflected form (Wiktionary),,,,,False,,The concept of hospitality to strangers.,scowl
+xenoaggressor,x,r,13,0.0,OBSCURE,True,,,,,,False,,an invading agent that comes from outside the system it attacks,domain:x_words
+xenoantibody,x,y,12,0.0,OBSCURE,True,,,,,,False,,an antibody raised against an antigen from another species,domain:x_words
+xenoantigen,x,n,11,0.0,OBSCURE,True,,,,,,False,,an antigen from another species that provokes an immune response,domain:x_words
+xenobiologist,x,t,13,0.0,OBSCURE,True,,,,,,False,,a scientist who studies life beyond the Earth,domain:x_words
+xenobiology,x,y,11,1.05,RARE,True,,,,,,False,,the study of alien or non-terrestrial biological systems,domain:x_words
+xenobiotic,x,c,10,1.67,RARE,True,,,,,,False,,a chemical compound foreign to a living organism or an ecosystem,domain:x_words
+xenoblast,x,t,9,0.0,OBSCURE,True,,,,,,False,,a crystal grown within a metamorphic rock without developed external faces,domain:x_words
+xenocentrism,x,m,12,0.0,OBSCURE,True,,,,,,False,,"a preference for the products, styles and ideas of another culture over one's own",domain:x_words
+xenoceratite,x,e,12,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,an extinct cephalopod of the ceratite group,domain:x_words
+xenoceratopsian,x,n,15,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,a horned dinosaur of the genus Xenoceratops,domain:x_words
+xenocide,x,e,8,1.04,RARE,True,,,,,,False,,the extermination of an entire alien species or foreign population,domain:x_words
+xenocline,x,e,9,0.0,OBSCURE,True,,,,,,False,,a gradient in a population produced by the presence of a foreign species,domain:x_words
+xenocracy,x,y,9,0.0,OBSCURE,True,,,,,,False,,government or rule by foreigners,domain:x_words
+xenocrat,x,t,8,0.0,OBSCURE,True,,,,,,False,,an official of a government run by foreigners,domain:x_words
+xenocrypt,x,t,9,0.0,OBSCURE,True,,,,,,False,,a cryptogram written in a language other than the solver's own,domain:x_words
+xenocryptography,x,y,16,0.0,OBSCURE,True,,,,,,False,,the deciphering of ciphers written in a foreign language,domain:x_words
 xenocryst,x,t,9,0.0,OBSCURE,True,,obscure,,,,False,,An isolated crystal having a different origin than the igneous rock in which it is found; the mineralogical equivalent of a xenolith.,scowl
+xenocurrency,x,y,12,0.0,OBSCURE,True,,,,,,False,,money deposited in a bank outside the country that issued it,domain:x_words
+xenoderm,x,m,8,0.0,OBSCURE,True,,,,,,False,,an abnormal or foreign layer of skin,domain:x_words
+xenodiagnosis,x,s,13,0.0,OBSCURE,True,,,,,,False,,diagnosis of a parasitic infection by feeding uninfected vector organisms on the patient,domain:x_words
+xenodiagnostician,x,n,17,0.0,OBSCURE,True,,,,,,False,,a specialist who uses xenodiagnosis to identify an infection,domain:x_words
+xenodocheionology,x,y,17,0.0,OBSCURE,True,,,,,,False,,the study and lore of inns and hotels,domain:x_words
+xenodochium,x,m,11,0.0,OBSCURE,True,,,,,,False,,a building set aside to receive strangers and pilgrims,domain:x_words
+xenodochy,x,y,9,0.0,OBSCURE,True,,,,,,False,,hospitality shown to strangers,domain:x_words
+xenodrug,x,g,8,0.0,OBSCURE,True,,,,,,False,,a drug foreign to the body that takes it,domain:x_words
+xenoepigenetics,x,s,15,0.0,OBSCURE,True,,,,,,False,,the study of how foreign or environmental agents alter gene expression,domain:x_words
+xenoestrogen,x,n,12,0.0,OBSCURE,True,,,,,,False,,a compound that mimics the effects of estrogen in the body,domain:x_words
+xenoform,x,m,8,0.0,OBSCURE,True,,,,,,False,,a lifeform or structure of foreign origin,domain:x_words
+xenogam,x,m,7,0.0,OBSCURE,True,,,,,,False,,a plant raised by cross-fertilisation with a separate individual,domain:x_words
 xenogamy,x,y,8,0.0,OBSCURE,True,,obscure,,,,False,,The transfer of pollen from the anthers of one plant to the stigma of another; cross-pollination.,scowl
+xenogen,x,n,7,0.0,OBSCURE,True,,,,,,False,,a substance or agent that originates outside the organism,domain:x_words
 xenogenesis,x,s,11,0.0,OBSCURE,True,,obscure,,,,False,noun.phenomenon,the alternation of two or more different forms in the life cycle of a plant or animal,oewn2025
+xenogenote,x,e,10,0.0,OBSCURE,True,,,,,,False,,a host cell carrying a fragment of foreign genetic material,domain:x_words
+xenoglossy,x,y,10,0.0,OBSCURE,True,,,,,,False,,the claimed ability to speak or write a language the speaker has never learnt,domain:x_words
 xenograft,x,t,9,1.68,RARE,True,,,,,,False,noun.body,tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species,oewn2025
+xenografting,x,g,12,0.0,OBSCURE,True,,,,,,False,,the grafting of tissue from one species onto another,domain:x_words
+xenohormone,x,e,11,0.0,OBSCURE,True,,,,,,False,,a compound from outside the body that acts like a hormone,domain:x_words
+xenohypnosis,x,s,12,0.0,OBSCURE,True,,,,,,False,,hypnosis brought on by an outside agent,domain:x_words
+xenoimmunity,x,y,12,0.0,OBSCURE,True,,,,,,False,,an immune response raised against tissue or cells of another species,domain:x_words
+xenolalia,x,a,9,0.0,OBSCURE,True,,,,,,False,,the speaking of a language the speaker has never learnt,domain:x_words
 xenolith,x,h,8,0.0,OBSCURE,True,,obscure,,,,False,noun.object,(geology) a piece of rock of different origin from the igneous rock in which it is embedded,oewn2025
+xenolithology,x,y,13,0.0,OBSCURE,True,,,,,,False,,the study of the rock fragments carried in magma or igneous rock,domain:x_words
+xenologist,x,t,10,0.0,OBSCURE,True,,,,,,False,,a scientist whose field is the study of extraterrestrial life,domain:x_words
+xenology,x,y,8,0.0,OBSCURE,True,,,,,,False,,"the study of extraterrestrial life, biology and materials",domain:x_words
+xenomania,x,a,9,0.0,OBSCURE,True,,,,,,False,,"an extreme enthusiasm for foreign customs, people or objects",domain:x_words
+xenomaterial,x,l,12,0.0,OBSCURE,True,,,,,,False,,a synthetic material with no natural counterpart,domain:x_words
+xenomelanite,x,e,12,0.0,OBSCURE,True,,,,,,False,,a dark mineral carrying inclusions of foreign minerals,domain:x_words
+xenomenia,x,a,9,0.0,OBSCURE,True,,,,,,False,,menstrual bleeding from a part of the body other than the uterus,domain:x_words
+xenometer,x,r,9,0.0,OBSCURE,True,,,,,,False,,an instrument for detecting foreign gases or radiation,domain:x_words
+xenomorph,x,h,9,1.94,RARE,True,,,,,,False,,"a form or entity that is abnormal, foreign or unlike its surroundings",domain:x_words
+xenomorphy,x,y,10,0.0,OBSCURE,True,,,,,,False,,the state of having an abnormal or foreign form,domain:x_words
 xenon,x,n,5,2.9,UNCOMMON,True,,,,,,False,noun.substance,a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts,oewn2025
+xenoorganism,x,m,12,0.0,OBSCURE,True,,,,,,False,,an organism of foreign or engineered origin,domain:x_words
+xenoparasite,x,e,12,0.0,OBSCURE,True,,,,,,False,,a parasite living on a host it does not normally infest,domain:x_words
+xenopath,x,h,8,0.0,OBSCURE,True,,,,,,False,,a person with an illness brought on by a foreign agent,domain:x_words
+xenopeltid,x,d,10,0.0,OBSCURE,True,,,,,,False,,a burrowing sunbeam snake of the family Xenopeltidae,domain:x_words
+xenophile,x,e,9,0.0,OBSCURE,True,,,,,,False,,"a person who is drawn to foreign peoples, cultures or things",domain:x_words
+xenophilia,x,a,10,0.0,OBSCURE,True,,,,,,False,,"a liking for foreign peoples, cultures or customs",domain:x_words
 xenophobe,x,e,9,1.91,RARE,True,,,,,,False,,One who hates or fears strangers or foreigners.,scowl
 xenophobia,x,a,10,3.06,FAMILIAR,True,,,,,,False,noun.state,a fear of foreigners or strangers,oewn2025
 xenophobic,x,c,10,3.06,FAMILIAR,False,adjective (not a noun),adjective (not a noun),,ADJ,,False,,A xenophobe.,pos-auto
+xenophthalmia,x,a,13,0.0,OBSCURE,True,,,,,,False,,inflammation of the eye caused by foreign matter in it,domain:x_words
+xenophytism,x,m,11,0.0,OBSCURE,True,,,,,,False,,the establishment of plant species brought in from elsewhere,domain:x_words
+xenoplast,x,t,9,0.0,OBSCURE,True,,,,,,False,,a foreign cell structure embedded in host tissue,domain:x_words
+xenoplasty,x,y,10,0.0,OBSCURE,True,,,,,,False,,the transplanting of tissue between different species,domain:x_words
+xenops,x,s,6,0.0,OBSCURE,True,,,,,,False,,a small tropical bird of the American rainforests that pries bark for insects,domain:x_words
+xenoreaction,x,n,12,0.0,OBSCURE,True,,,,,,False,,the rejection reaction of a body to tissue from another species,domain:x_words
+xenoreceptor,x,r,12,0.0,OBSCURE,True,,,,,,False,,a receptor that binds foreign molecules,domain:x_words
 xenotime,x,e,8,1.08,RARE,True,,,,,,False,noun.substance,a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form,oewn2025
 xenotransplant,x,t,14,0.0,OBSCURE,True,,obscure,,,,False,noun.act,a surgical procedure in which tissue or whole organs are transferred from one species to another species,oewn2025
 xenotransplantation,x,n,19,1.53,RARE,True,,,,,,False,noun.act,a surgical procedure in which tissue or whole organs are transferred from one species to another species,oewn2025
+xenozoonosis,x,s,12,0.0,OBSCURE,True,,,,,,False,,an infection passed from an animal to a human by a transplanted organ,domain:x_words
 xeranthemum,x,m,11,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,any plant of the genus Xeranthemum native to southern Europe having chaffy or silvery flower heads with purplish tubular flowers,oewn2025
+xerarch,x,h,7,0.0,OBSCURE,False,adjective (reviewed),adjective (reviewed),,,,False,,of an ecological succession that begins in a very dry habitat,domain:x_words
+xeriscape,x,e,9,1.08,RARE,True,,,,,,False,,a garden or landscape planned to need very little water,domain:x_words
+xerobasia,x,a,9,0.0,OBSCURE,True,,,,,,False,,abnormal dryness and brittleness of the hair,domain:x_words
+xerobiont,x,t,9,0.0,OBSCURE,True,,,,,,False,,an organism adapted to life in very dry surroundings,domain:x_words
+xerochasia,x,a,10,0.0,OBSCURE,True,,,,,,False,,the opening of seed capsules brought on by dry air,domain:x_words
+xerochasium,x,m,11,0.0,OBSCURE,True,,,,,,False,,the opening of a seed capsule brought on by drying,domain:x_words
+xerochasma,x,a,10,0.0,OBSCURE,True,,,,,,False,,a crack in the skin caused by severe dryness,domain:x_words
+xerocheilia,x,a,11,0.0,OBSCURE,True,,,,,,False,,dryness and chapping of the lips,domain:x_words
+xerochory,x,y,9,0.0,OBSCURE,True,,,,,,False,,the dispersal of seeds brought on by dry weather,domain:x_words
+xeroclime,x,e,9,0.0,OBSCURE,True,,,,,,False,,a local climate marked by severe dryness,domain:x_words
+xerocopy,x,y,8,0.0,OBSCURE,True,,,,,,False,,a copy of printed matter made by xerography,domain:x_words
 xeroderma,x,a,9,1.48,RARE,True,,,,,,False,noun.state,a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin,oewn2025
+xerodermatosis,x,s,14,0.0,OBSCURE,True,,,,,,False,,"a skin disease marked by extreme dryness, cracking and scaling",domain:x_words
 xerodermia,x,a,10,0.0,OBSCURE,True,,obscure,,,,False,noun.state,a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin,oewn2025
+xerogel,x,l,7,0.0,OBSCURE,True,,,,,,False,,"a solid gel formed by drying with unhindered shrinkage, such as silica gel",domain:x_words
+xerogram,x,m,8,0.0,OBSCURE,True,,,,,,False,,an image produced by xeroradiography,domain:x_words
+xerograph,x,h,9,0.0,OBSCURE,True,,,,,,False,,a copy produced by xerography,domain:x_words
 xerography,x,y,10,1.36,RARE,True,,,,,,False,noun.act,forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas,oewn2025
 xeroma,x,a,6,0.0,OBSCURE,True,,obscure,,,,False,noun.state,abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A,oewn2025
+xeromammography,x,y,15,0.0,OBSCURE,True,,,,,,False,,mammography that records the X-ray image by a xerographic plate,domain:x_words
+xeromorphism,x,m,12,0.0,OBSCURE,True,,,,,,False,,the structural adaptation of a plant to withstand drought,domain:x_words
+xeromorphy,x,y,10,0.0,OBSCURE,True,,,,,,False,,the possession of anatomical features that resist drought,domain:x_words
+xeromucin,x,n,9,0.0,OBSCURE,True,,,,,,False,,a dried mucous secretion,domain:x_words
+xeroorganism,x,m,12,0.0,OBSCURE,True,,,,,,False,,an organism able to function on very little water,domain:x_words
 xerophagy,x,y,9,0.0,OBSCURE,True,,obscure,,,,False,,"A restrictive diet (of bread and water, for example) as a punishment or religious form of discipline.",scowl
 xerophile,x,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte,oewn2025
+xerophilism,x,m,11,0.0,OBSCURE,True,,,,,,False,,the adaptation of an organism to life in dry conditions,domain:x_words
+xerophilist,x,t,11,0.0,OBSCURE,True,,,,,,False,,an organism that prefers dry surroundings,domain:x_words
+xerophily,x,y,9,0.0,OBSCURE,True,,,,,,False,,the capacity of an organism to thrive in very dry conditions,domain:x_words
+xerophobicity,x,y,13,0.0,OBSCURE,True,,,,,,False,,the tendency of an organism or material to avoid dry conditions,domain:x_words
 xerophthalmia,x,a,13,0.0,OBSCURE,True,,obscure,,,,False,noun.state,abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A,oewn2025
 xerophthalmus,x,s,13,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of xerophthalmia,xerophthalmia,,,False,noun.state,abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A,oewn2025
 xerophyte,x,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte,oewn2025
+xeropoiesis,x,s,11,0.0,OBSCURE,True,,,,,,False,,the making of an arid environment,domain:x_words
+xeropolium,x,m,10,0.0,OBSCURE,True,,,,,,False,,a dry heathland or grassland plant community,domain:x_words
 xeroradiography,x,y,15,0.0,OBSCURE,True,,obscure,,,,False,noun.act,radiography using X-rays and xerographic (rather than roentgenographic) techniques,oewn2025
 xerosere,x,e,8,0.0,OBSCURE,True,,obscure,,,,False,,The succession of ecological communities which originated in an extremely dry habitat such as a desert or sand dunes.,scowl
 xerosis,x,s,7,1.1,RARE,True,,,,,,False,,Dryness.,scowl
 xerostomia,x,a,10,1.63,RARE,True,,,,,,False,noun.state,abnormal dryness of the mouth resulting from decreased secretion of saliva,oewn2025
 xerotes,x,s,7,0.0,OBSCURE,True,,obscure,,,,False,noun.state,the condition of not containing or being covered by a liquid (especially water),oewn2025
+xerotripsis,x,s,11,0.0,OBSCURE,True,,,,,,False,,the rubbing of the skin without a lubricant,domain:x_words
 xerox,x,x,5,3.01,FAMILIAR,True,,possible name,,,,False,noun.artifact,a copy made by a xerographic copier,oewn2025
 xi,x,i,2,4.12,COMMON,True,,,,,,False,noun.communication,the 14th letter of the Greek alphabet,oewn2025
 xian,x,n,4,2.8,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"An administrative subdivision of imperial, republican, and communist China roughly equivalent to counties, now distinguished from the more urban ""districts"" (qu). (Alternative form of hsien for Taiwan",gaps-review
 xiao,x,o,4,3.3,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A type of Chinese flute.,gaps-review
+xiphias,x,s,7,1.01,RARE,True,,,,,,False,,the swordfish,domain:x_words
+xiphiid,x,d,7,0.0,OBSCURE,True,,,,,,False,,a fish of the swordfish family,domain:x_words
+xiphiplastron,x,n,13,0.0,OBSCURE,True,,,,,,False,,the rearmost pair of bony plates in the lower shell of a turtle,domain:x_words
 xiphisternum,x,m,12,0.0,OBSCURE,True,,obscure,,,,False,,Synonym of xiphoid process.,scowl
+xiphodynia,x,a,10,0.0,OBSCURE,True,,,,,,False,,pain in the region of the xiphoid process,domain:x_words
+xiphoid,x,d,7,1.45,RARE,True,,,,,,False,,the cartilaginous lower portion of the human sternum,domain:x_words
+xiphoiditis,x,s,11,0.0,OBSCURE,True,,,,,,False,,inflammation of the xiphoid process,domain:x_words
+xiphopagus,x,s,10,0.0,OBSCURE,True,,,,,,False,,conjoined twins joined at the xiphoid cartilage,domain:x_words
+xiphophyll,x,l,10,0.0,OBSCURE,True,,,,,,False,,a leaf shaped like a sword blade,domain:x_words
+xiphosuran,x,n,10,0.0,OBSCURE,True,,,,,,False,,an aquatic arthropod of the order that contains the horseshoe crabs,domain:x_words
+xiphosurida,x,a,11,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,the order of aquatic arthropods that contains the horseshoe crabs,domain:x_words
 xmas,x,s,4,3.25,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative form of Xmas.,gaps-review
 xml,x,l,3,3.29,FAMILIAR,False,"initialism, not a common noun (reviewed)",initialism,,,,False,,Extensible Markup Language.,domain:initialisms
 xray,x,y,4,2.42,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative form of X-ray (“a ray of X radiation”).,gaps-review
 xu,x,u,2,3.33,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"A former unit of currency in Vietnam, equivalent to a hundredth of a dong.",gaps-review
+xylan,x,n,5,1.45,RARE,True,,,,,,False,,a carbohydrate polymer found in the cell walls of plants,domain:x_words
+xylanase,x,e,8,1.39,RARE,True,,,,,,False,,an enzyme that breaks down the plant carbohydrate xylan,domain:x_words
+xylaria,x,a,7,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"a genus of wood-rotting fungi, the dead man's fingers",domain:x_words
+xylase,x,e,6,0.0,OBSCURE,True,,,,,,False,,an enzyme that breaks down the wood sugars of xylan,domain:x_words
+xyleborus,x,s,9,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,a genus of ambrosia beetles that bore into timber,domain:x_words
 xylem,x,m,5,2.21,UNCOMMON,True,,,,,,False,noun.plant,"the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",oewn2025
 xylene,x,e,6,2.02,UNCOMMON,True,,,,,,False,noun.substance,a colorless flammable volatile liquid hydrocarbon used as a solvent,oewn2025
+xylenol,x,l,7,0.0,OBSCURE,True,,,,,,False,,a crystalline phenol derived from xylene and used in disinfectants,domain:x_words
+xyletinus,x,s,9,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,a genus of wood-boring beetles of the family Ptinidae,domain:x_words
 xylidine,x,e,8,0.0,OBSCURE,True,,obscure,,,,False,,Any of six isomeric aromatic amines (CH₃)₂C₆H₃NH₂ derived from the xylenes,scowl
+xylite,x,e,6,0.0,OBSCURE,True,,,,,,False,,a fibrous lignite that keeps the texture of the wood it formed from,domain:x_words
+xylitol,x,l,7,2.0,UNCOMMON,True,,,,,,False,,"a sugar alcohol used as a low-calorie sweetener in food, chewing gum and dental products",domain:x_words
+xylobius,x,s,8,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,an extinct genus of wood-dwelling arthropods,domain:x_words
+xylocarp,x,p,8,0.0,OBSCURE,True,,,,,,False,,"a hard woody fruit, such as a coconut",domain:x_words
+xylochlorin,x,n,11,0.0,OBSCURE,True,,,,,,False,,a green chlorophyll-like pigment obtained from wood,domain:x_words
+xylochlorite,x,e,12,0.0,OBSCURE,True,,,,,,False,,a fibrous green mineral with a grain resembling wood,domain:x_words
+xylocopa,x,a,8,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"the carpenter bees, a genus that nests in dead wood",domain:x_words
+xylocore,x,e,8,0.0,OBSCURE,True,,,,,,False,,the central wood of a trunk or stem,domain:x_words
+xylogen,x,n,7,0.0,OBSCURE,True,,,,,,False,,"forming wood tissue, or the lignin laid down in it",domain:x_words
+xyloglucan,x,n,10,0.0,OBSCURE,True,,,,,,False,,the chief hemicellulose of the primary cell wall of plants,domain:x_words
+xyloglyphy,x,y,10,0.0,OBSCURE,True,,,,,,False,,the art of carving in wood,domain:x_words
 xylograph,x,h,9,0.0,OBSCURE,True,,obscure; also a verb (SCOWL),,,,False,,"An engraving in wood or woodcut, especially one used in printing predating the Western tradition (14th c.).",scowl
+xylographer,x,r,11,0.0,OBSCURE,True,,,,,,False,,an engraver or printmaker who cuts blocks of wood,domain:x_words
+xylographist,x,t,12,0.0,OBSCURE,True,,,,,,False,,an artist or printmaker who engraves on wood,domain:x_words
 xylography,x,y,10,0.0,OBSCURE,True,,obscure,,,,False,,The art of making xylographs.,scowl
+xyloid,x,d,6,0.0,OBSCURE,False,adjective (reviewed),adjective (reviewed),,,,False,,resembling wood in structure,domain:x_words
+xyloidin,x,n,8,0.0,OBSCURE,True,,,,,,False,,an explosive made by treating starch or wood with nitric acid,domain:x_words
 xylol,x,l,5,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a colorless flammable volatile liquid hydrocarbon used as a solvent,oewn2025
+xylolith,x,h,8,0.0,OBSCURE,True,,,,,,False,,"a building material made from wood fibre, magnesium oxide and cement",domain:x_words
+xylology,x,y,8,0.0,OBSCURE,True,,,,,,False,,"the study of the structure, growth and properties of wood",domain:x_words
+xyloma,x,a,6,0.0,OBSCURE,True,,,,,,False,,a hard woody tumour or fungal crust on a plant,domain:x_words
+xylomancy,x,y,9,0.0,OBSCURE,True,,,,,,False,,divination by examining pieces of wood,domain:x_words
+xylometazoline,x,e,14,0.0,OBSCURE,True,,,,,,False,,a drug used as a nasal decongestant,domain:x_words
 xylometer,x,r,9,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,an instrument used to determine the specific gravity of wood,oewn2025
+xylomorph,x,h,9,0.0,OBSCURE,True,,,,,,False,,a fossil or structure that has the form of wood,domain:x_words
+xylon,x,n,5,0.0,OBSCURE,True,,,,,,False,,wood as a raw material,domain:x_words
+xylonite,x,e,8,0.0,OBSCURE,True,,,,,,False,,an early celluloid plastic used as a substitute for ivory,domain:x_words
+xylonium,x,m,8,0.0,OBSCURE,True,,,,,,False,,a vessel or structure made of timber,domain:x_words
+xylophaea,x,a,9,0.0,OBSCURE,True,,,,,,False,,a dark brown resinous pigment found in rotting wood,domain:x_words
+xylophaga,x,a,9,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),possible name,,,,False,,a genus of deep-sea bivalve molluscs that bore into sunken wood,domain:x_words
+xylophagid,x,d,10,0.0,OBSCURE,True,,,,,,False,,a fly of the wood-boring family Xylophagidae,domain:x_words
+xylophagist,x,t,11,0.0,OBSCURE,True,,,,,,False,,an animal that feeds mainly on wood,domain:x_words
+xylophagy,x,y,9,0.0,OBSCURE,True,,,,,,False,,"the eating of wood, as by termites",domain:x_words
+xylophil,x,l,8,0.0,OBSCURE,True,,,,,,False,,an organism that lives on or feeds on wood,domain:x_words
+xylophile,x,e,9,0.0,OBSCURE,True,,,,,,False,,an organism that lives on or feeds on wood,domain:x_words
+xylophilist,x,t,11,0.0,OBSCURE,True,,,,,,False,,a person with a strong liking for wood and wooden things,domain:x_words
+xylophobia,x,a,10,0.0,OBSCURE,True,,,,,,False,,a fear of forests or of wooden objects,domain:x_words
 xylophone,x,e,9,2.37,UNCOMMON,True,,,,,,False,noun.artifact,a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets,oewn2025
 xylophonist,x,t,11,0.0,OBSCURE,True,,obscure,,,,False,noun.person,someone who plays a xylophone,oewn2025
+xylophytia,x,a,10,0.0,OBSCURE,True,,,,,,False,,woody vegetation characteristic of dry country,domain:x_words
+xylopolist,x,t,10,0.0,OBSCURE,True,,,,,,False,,a dealer in timber and wood products,domain:x_words
+xyloprotein,x,n,11,0.0,OBSCURE,True,,,,,,False,,a protein bound to the hemicellulose of wood,domain:x_words
+xylopyrography,x,y,14,0.0,OBSCURE,True,,,,,,False,,the art of burning pictures or patterns into wood,domain:x_words
+xyloquinone,x,e,11,0.0,OBSCURE,True,,,,,,False,,a crystalline quinone obtained from xylene,domain:x_words
+xylorimba,x,a,9,0.0,OBSCURE,True,,,,,,False,,a percussion instrument combining the ranges of a xylophone and a marimba,domain:x_words
+xylosazone,x,e,10,0.0,OBSCURE,True,,,,,,False,,a crystalline derivative formed from the sugar xylose,domain:x_words
 xylose,x,e,6,2.01,UNCOMMON,True,,,,,,False,noun.substance,a sugar extracted from wood or straw; used in foods for diabetics,oewn2025
+xylosis,x,s,7,0.0,OBSCURE,True,,,,,,False,,the hardening of tissue into wood,domain:x_words
 xylosma,x,a,7,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China,oewn2025
+xylostein,x,n,9,0.0,OBSCURE,True,,,,,,False,,a bitter poisonous glucoside from the berries of the honeysuckle,domain:x_words
+xylostroma,x,a,10,0.0,OBSCURE,True,,,,,,False,,a felted mass of fungal tissue formed between layers of rotting wood,domain:x_words
+xylotherapy,x,y,11,0.0,OBSCURE,True,,,,,,False,,the treatment of disease by applying particular woods to the body,domain:x_words
+xylotomist,x,t,10,0.0,OBSCURE,True,,,,,,False,,a person who cuts thin sections of wood for study under a microscope,domain:x_words
 xylotomy,x,y,8,0.0,OBSCURE,True,,obscure,,,,False,,The art of preparing sections of wood (as by means of a microtome) for microscopic examination.,scowl
+xylozyme,x,e,8,0.0,OBSCURE,True,,,,,,False,,an enzyme that breaks down the fibres of wood,domain:x_words
+xylulose,x,e,8,1.01,RARE,True,,,,,,False,,a ketose sugar taking part in carbohydrate metabolism,domain:x_words
+xylyl,x,l,5,0.0,OBSCURE,True,,,,,,False,,a univalent radical derived from xylene,domain:x_words
+xylylchloride,x,e,13,0.0,OBSCURE,True,,,,,,False,,an organic compound derived from xylene and used in synthesis,domain:x_words
+xylylene,x,e,8,0.0,OBSCURE,True,,,,,,False,,a hydrocarbon radical derived from xylene,domain:x_words
+xyst,x,t,4,0.0,OBSCURE,True,,,,,,False,,a covered walk where athletes of ancient Greece trained,domain:x_words
 xyster,x,r,6,0.0,OBSCURE,True,,obscure,,,,False,,A surgical instrument used to scrape bones.,scowl
+xyston,x,n,6,0.0,OBSCURE,True,,,,,,False,,a long thrusting spear carried by ancient Greek cavalry,domain:x_words
+xystus,x,s,6,0.0,OBSCURE,True,,,,,,False,,a covered portico or garden walk in classical Greek and Roman architecture,domain:x_words
 y,y,y,1,5.03,CORE,False,not a usable common noun (reviewed),possible name; possible abbreviation or clipping,,,,False,noun.communication,the 25th letter of the Roman alphabet,oewn2025
 yaar,y,r,4,2.3,UNCOMMON,True,,,,,,False,,"A friend, pal, or buddy.",scowl
+yabbie,y,e,6,0.0,OBSCURE,True,,,,,,False,,a freshwater crayfish of Australia,domain:y_words
 yacca,y,a,5,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,West Indian evergreen with medium to long leaves,oewn2025
 yacht,y,t,5,3.82,FAMILIAR,True,,,,,,False,noun.artifact,an expensive vessel propelled by sail or power and used for cruising or racing,oewn2025
 yachting,y,g,8,2.72,UNCOMMON,True,,,,,,False,noun.act,water travel for pleasure,oewn2025
@@ -60685,16 +60879,24 @@ yachtsman,y,n,9,2.11,UNCOMMON,True,,,,,,False,noun.person,a male person who owns
 yachtsperson,y,n,12,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who owns or sails a yacht,oewn2025
 yachtswoman,y,n,11,1.06,RARE,True,,,,,,False,noun.person,a female person who owns or sails a yacht,oewn2025
 yack,y,k,4,1.83,RARE,False,british/commonwealth spelling variant,spelling variant of yak; UK/Commonwealth spelling,yak,,,False,noun.communication,noisy talk,oewn2025
+yaffle,y,e,6,0.0,OBSCURE,True,,,,,,False,,"the European green woodpecker, named for its laughing call",domain:y_words
 yagi,y,i,4,2.15,UNCOMMON,True,,,,,,False,noun.artifact,a sharply directional antenna,oewn2025
 yah,y,h,3,3.54,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"An upper-class person, especially a Sloane Ranger.",gaps-review
 yahoo,y,o,5,3.86,FAMILIAR,True,,possible name,,,,False,noun.person,a person who is not very intelligent or interested in culture,oewn2025
+yahrzeit,y,t,8,0.0,OBSCURE,True,,,,,,False,,"the yearly anniversary of a death, kept in Jewish observance",domain:y_words
+yair,y,r,4,2.37,UNCOMMON,True,,,,,,False,,An enclosure for catching salmon as the tide ebbs.,domain:y_words
+yaji,y,i,4,1.36,RARE,True,,,,,,False,,"a West African spice blend of ground peanuts, chilli and spices",domain:y_words
 yak,y,k,3,3.12,FAMILIAR,True,,,,,,False,noun.communication,noisy talk,oewn2025
+yakiniku,y,u,8,1.63,RARE,True,,,,,,False,,Meat grilled on a barbecue Japanese-style.,domain:y_words
 yakitori,y,i,8,1.8,RARE,True,,,,,,False,,"A Japanese shish kebab-type dish made with small pieces of chicken or other ingredients cooked on skewers, often marinated in soy sauce or seasoned with salt.",scowl
+yakka,y,a,5,1.43,RARE,True,,,,,,False,,hard physical work,domain:y_words
+yaksha,y,a,6,1.4,RARE,True,,,,,,False,,A kind of supernatural being; can be a malevolent demon or a beneficent tutelary deity.,domain:y_words
+yakshi,y,i,6,1.08,RARE,True,,,,,,False,,A female yaksha.,domain:y_words
 yakuza,y,a,6,3.06,FAMILIAR,True,,,,,,False,noun.person,a Japanese gangster,oewn2025
 yale,y,e,4,3.88,FAMILIAR,False,proper noun or other non-noun (reviewed),usually a name (corpus); possible name,,,,False,,"A mythical beast in European mythology and heraldry, usually portrayed as an antelope- or goatlike four-legged creature with large horns that it can swivel in any direction.",gaps-review
 yam,y,m,3,3.04,FAMILIAR,True,,,,,,False,noun.plant,edible tuber of any of several yams,oewn2025
 yamen,y,n,5,1.77,RARE,True,,,,,,False,,A residence of an official of the Chinese Empire.,scowl
-yammer,y,r,6,2.04,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,,False,,The act or noise of yammering.,pos-auto
+yammer,y,r,6,2.04,UNCOMMON,True,,,,,,False,,a loud repetitive noise or complaint,domain:y_words
 yammerer,y,r,8,0.0,OBSCURE,True,,obscure,,,,False,,One who complains or whines peevishly or whimperingly.,scowl
 yammering,y,g,9,1.92,RARE,False,verb (not a noun),verb (not a noun),,VERB,yammer,False,,"Loud, incoherent, repetitive speech.",pos-auto
 yang,y,g,4,3.91,FAMILIAR,True,,usually a name (corpus),,,,False,noun.cognition,the bright positive masculine principle in Chinese dualistic cosmology,oewn2025
@@ -60703,32 +60905,42 @@ yankee,y,e,6,3.6,FAMILIAR,False,proper noun or other non-noun (reviewed),usually
 yanker,y,r,6,0.0,OBSCURE,True,,obscure,,,,False,noun.person,someone who gives a strong sudden pull,oewn2025
 yanquapin,y,n,9,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.plant,water lily of eastern North America having pale yellow blossoms and edible globular nutlike seeds,oewn2025
 yanqui,y,i,6,1.32,RARE,True,,,,,,False,,"A citizen of the United States of America, as opposed to a Latin American.",scowl
+yantra,y,a,6,1.98,RARE,True,,,,,,False,,A geometrical diagram used as a meditation aid in tantric worship.,domain:y_words
 yap,y,p,3,2.94,UNCOMMON,True,,,,,,False,noun.body,informal terms for the mouth,oewn2025
 yapok,y,k,5,0.0,OBSCURE,True,,obscure,,,,False,,The water opossum (Chironectes minimus).,scowl
 yapon,y,n,5,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of yaupon.,scowl
 yapper,y,r,6,1.44,RARE,True,,,,,,False,,"A person's mouth, especially one that gossips or talks too much.",scowl
 yapping,y,g,7,2.34,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,yap,False,,"A sound that yaps, especially the continued barking of a small dog.",pos-auto
+yarchagumba,y,a,11,0.0,OBSCURE,True,,,,,,False,,a caterpillar fungus gathered in the Himalayas for medicine,domain:y_words
 yard,y,d,4,4.57,COMMON,True,,possible abbreviation or clipping,,,,False,noun.quantity,a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride,oewn2025
 yardage,y,e,7,2.78,UNCOMMON,True,,,,,,False,noun.attribute,distance measured in the aggregate number of yards,oewn2025
+yardang,y,g,7,0.0,OBSCURE,True,,,,,,False,,a sharp ridge of rock carved by the wind and lying along its path,domain:y_words
 yardarm,y,m,7,1.59,RARE,True,,,,,,False,noun.artifact,either end of the yard of a square-rigged ship,oewn2025
 yardbird,y,d,8,1.46,RARE,True,,,,,,False,noun.person,a military recruit who is assigned menial tasks,oewn2025
 yarder,y,r,6,2.43,UNCOMMON,True,,,,,,False,noun.quantity,(used only in combinations) the height or length of something in yards,oewn2025
 yardgrass,y,s,9,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,coarse annual grass having fingerlike spikes of flowers; native to Old World tropics; a naturalized weed elsewhere,oewn2025
 yardie,y,e,6,1.42,RARE,True,,,,,,False,noun.person,member of an international gang of Jamaican criminals who sell drugs and violence,oewn2025
+yardland,y,d,8,0.0,OBSCURE,True,,,,,,False,,"an obsolete English measure of land, about thirty acres",domain:y_words
 yardman,y,n,7,1.31,RARE,True,,,,,,False,noun.person,a male worker in a railway yard,oewn2025
 yardmaster,y,r,10,1.39,RARE,True,,,,,,False,noun.person,a railroad employer who is in charge of a railway yard,oewn2025
 yardstick,y,k,9,2.69,UNCOMMON,True,,,,,,False,noun.communication,a measure or standard used for comparison,oewn2025
 yardwoman,y,n,9,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.person,a female worker in a railway yard,oewn2025
 yardwork,y,k,8,1.63,RARE,True,,,,,,False,,"Work done in maintaining a lawn, and related landscaping activities",scowl
+yarg,y,g,4,1.08,RARE,True,,,,,,False,,a semi-hard Cornish cheese wrapped in nettle leaves,domain:y_words
 yarmelke,y,e,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yarmulke,yarmulke,,,False,noun.artifact,a skullcap worn by religious Jews (especially at prayer),oewn2025
 yarmulka,y,a,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yarmulke,yarmulke,,,False,noun.artifact,a skullcap worn by religious Jews (especially at prayer),oewn2025
 yarmulke,y,e,8,1.9,RARE,True,,,,,,False,noun.artifact,a skullcap worn by religious Jews (especially at prayer),oewn2025
 yarn,y,n,4,3.6,FAMILIAR,True,,,,,,False,noun.communication,the act of giving an account describing incidents or a course of events,oewn2025
+yarner,y,r,6,0.0,OBSCURE,True,,,,,,False,,a teller of tall stories,domain:y_words
+yarovization,y,n,12,0.0,OBSCURE,True,,,,,,False,,the chilling of seed to bring forward flowering,domain:y_words
 yarrow,y,w,6,2.53,UNCOMMON,True,,,,,,False,noun.plant,"ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets; widely naturalized in North America",oewn2025
 yashmac,y,c,7,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yashmak,yashmak,,,False,noun.artifact,the face veil worn by Muslim women,oewn2025
 yashmak,y,k,7,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,the face veil worn by Muslim women,oewn2025
+yatagan,y,n,7,0.0,OBSCURE,True,,,,,,False,,a short curved single-edged Turkish sword,domain:y_words
 yataghan,y,n,8,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a long Turkish knife with a curved blade having a single edge,oewn2025
+yate,y,e,4,1.87,RARE,True,,,,,,False,,a hard-timbered eucalyptus of Western Australia,domain:y_words
 yatobyo,y,o,7,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.state,a highly infectious disease of rodents (especially rabbits and squirrels) and sometimes transmitted to humans by ticks or flies or by handling infected animals,oewn2025
+yatter,y,r,6,0.0,OBSCURE,True,,,,,,False,,trivial incessant chatter,domain:y_words
 yaupon,y,n,6,1.25,RARE,True,,,,,,False,,"The yaupon holly, Ilex vomitoria, an evergreen holly shrub with white flowers and red or yellow berries, found in the south-eastern United States.",scowl
 yautia,y,a,6,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes,oewn2025
 yaw,y,w,3,2.87,UNCOMMON,True,,,,,,False,noun.event,an erratic deflection from an intended course,oewn2025
@@ -60737,12 +60949,15 @@ yawmeter,y,r,8,0.0,OBSCURE,True,,obscure,,,,False,,An instrument that measures a
 yawn,y,n,4,3.07,FAMILIAR,True,,,,,,False,noun.act,an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom,oewn2025
 yawner,y,r,6,1.07,RARE,True,,,,,,False,noun.person,a person who yawns,oewn2025
 yawning,y,g,7,3.04,FAMILIAR,True,,,,,,False,noun.act,an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom,oewn2025
+yawp,y,p,4,1.57,RARE,True,,,,,,False,,a loud harsh cry,domain:y_words
 yawper,y,r,6,0.0,OBSCURE,True,,obscure,,,,False,,A person who yawps; one who cries vigorously.,scowl
 yaws,y,s,4,1.63,RARE,False,plural of listed word,possible plural,,,,True,noun.state,an infectious tropical disease resembling syphilis in its early stages; marked by red skin eruptions and ulcerating lesions,oewn2025
 yaya,y,a,4,3.0,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A nanny; female caregiver; nursemaid,gaps-review
+yazata,y,a,6,0.0,OBSCURE,True,,,,,,False,,a divine being worthy of worship in Zoroastrianism,domain:y_words
 yazoo,y,o,5,2.41,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A tributary that runs parallel to a river (especially when separated by a natural levee).,gaps-review
 yea,y,a,3,4.26,COMMON,True,,,,,,False,noun.communication,yes,oewn2025
 yeah,y,h,4,5.37,CORE,True,,,,,,False,,Pronunciation spelling of year.,scowl
+yeaning,y,g,7,0.0,OBSCURE,False,verb form (reviewed),verb (reviewed),,,,False,,the bearing of young by a ewe or a goat,domain:y_words
 yeanling,y,g,8,0.0,OBSCURE,True,,obscure,,,,False,,The newly born offspring of a goat or sheep.,scowl
 year,y,r,4,5.96,CORE,True,,,,,,False,noun.time,a period of time containing 365 (or 366) days,oewn2025
 yearbook,y,k,8,3.44,FAMILIAR,True,,,,,,False,noun.communication,a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students,oewn2025
@@ -60754,10 +60969,12 @@ yearning,y,g,8,3.24,FAMILIAR,True,,,,,,False,noun.feeling,prolonged unfulfilled 
 years,y,s,5,5.96,CORE,False,plural-only (Wiktionary),possible plural,,,,True,noun.time,a late time of life,oewn2025
 yeast,y,t,5,3.67,FAMILIAR,True,,,,,,False,noun.substance,a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey,oewn2025
 yegg,y,g,4,0.0,OBSCURE,True,,obscure,,,,False,,A person who breaks open safes; a burglar.,scowl
+yelek,y,k,5,0.0,OBSCURE,True,,,,,,False,,a sleeveless long vest worn in Turkey and the Levant,domain:y_words
 yell,y,l,4,3.85,FAMILIAR,True,,,,,,False,noun.communication,a loud utterance; often in protest or opposition,oewn2025
 yeller,y,r,6,2.11,UNCOMMON,True,,,,,,False,noun.person,someone who communicates vocally in a very loud voice,oewn2025
 yelling,y,g,7,4.04,COMMON,True,,usually a verb (corpus),,,,False,noun.communication,uttering a loud inarticulate cry as of pain or excitement,oewn2025
 yellow,y,w,6,4.69,COMMON,True,,usually an adjective (corpus),,,,False,noun.attribute,yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons,oewn2025
+yellowbark,y,k,10,0.0,OBSCURE,True,,,,,,False,,"a tree with yellow bark, especially the cinchona yielding quinine",domain:y_words
 yellowbird,y,d,10,1.32,RARE,True,,,,,,False,noun.animal,yellow-throated American wood warbler,oewn2025
 yellowcake,y,e,10,1.89,RARE,True,,,,,,False,noun.substance,an impure mixture of uranium oxides obtained during the processing of uranium ore,oewn2025
 yellowfin,y,n,9,2.23,UNCOMMON,True,,,,,,False,noun.animal,may reach 400 pounds; worldwide in tropics,oewn2025
@@ -60768,16 +60985,22 @@ yellowlegs,y,s,10,1.38,RARE,True,,,,,,False,noun.animal,either of two North Amer
 yellowness,y,s,10,1.38,RARE,True,,,,,,False,noun.attribute,yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons,oewn2025
 yellowtail,y,l,10,2.22,UNCOMMON,True,,,,,,False,noun.animal,superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail,oewn2025
 yellowthroat,y,t,12,1.07,RARE,True,,,,,,False,noun.animal,small olive-colored American warblers with yellow breast and throat,oewn2025
+yellowtop,y,p,9,0.0,OBSCURE,True,,,,,,False,,"Any of the genus Flaveria of plants with yellow flowers, related to the sunflower.",domain:y_words
+yellowware,y,e,10,0.0,OBSCURE,True,,,,,,False,,A type of earthenware made from yellow clay.,domain:y_words
 yellowweed,y,d,10,0.0,OBSCURE,True,,obscure,,,,False,,Any of several plants with yellow flowers.,scowl
 yellowwood,y,d,10,1.2,RARE,True,,,,,,False,noun.plant,the yellow wood of any of various yellowwood trees,oewn2025
 yelp,y,p,4,3.25,FAMILIAR,True,,,,,,False,noun.event,a sharp high-pitched cry (especially by a dog),oewn2025
+yelper,y,r,6,1.2,RARE,True,,,,,,False,,"a person, animal or device that yelps",domain:y_words
 yelping,y,g,7,2.14,UNCOMMON,True,,,,,,False,noun.event,a sharp high-pitched cry (especially by a dog),oewn2025
+yelt,y,t,4,0.0,OBSCURE,True,,,,,,False,,a young sow that has not yet had a litter,domain:y_words
 yen,y,n,3,3.73,FAMILIAR,True,,,,,,False,noun.feeling,a yearning for something or to do something,oewn2025
 yenta,y,a,5,1.21,RARE,True,,,,,,False,noun.person,(Yiddish) a vulgar shrew; a shallow coarse termagant,oewn2025
 yeoman,y,n,6,2.71,UNCOMMON,True,,,,,,False,noun.person,officer in the (ceremonial) bodyguard of the British monarch,oewn2025
 yeomanry,y,y,8,2.34,UNCOMMON,True,,,,,,False,noun.group,class of small freeholders who cultivated their own land,oewn2025
 yep,y,p,3,4.39,COMMON,False,adverb (not a noun),adverb (not a noun); usually a name (corpus),,ADV,,False,,Yes.,pos-auto
 yer,y,r,3,3.36,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.communication,"Either of two letters in Cyrillic alphabets, which originally represented phonemically the ultra-short vowels in Slavic languages.",oewn2025
+yerba,y,a,5,2.34,UNCOMMON,True,,,,,,False,,"the mate plant, whose leaves are brewed as a tea",domain:y_words
+yersiniosis,y,s,11,0.0,OBSCURE,True,,,,,,False,,"A disease caused by infection by a bacterium of the genus Yersinia, especially Yersinia enterocolitica.",domain:y_words
 yes,y,s,3,5.5,CORE,True,,,,,,False,noun.communication,an affirmative,oewn2025
 yeshiva,y,a,7,2.67,UNCOMMON,True,,,,,,False,noun.group,an academy for the advanced study of Jewish texts (primarily the Talmud),oewn2025
 yeshivah,y,h,8,1.69,RARE,False,spelling variant of another word (reviewed),spelling variant of yeshiva,yeshiva,,,False,noun.group,an academy for the advanced study of Jewish texts (primarily the Talmud),oewn2025
@@ -60787,6 +61010,7 @@ yestreen,y,n,8,0.0,OBSCURE,True,,obscure,,,,False,,The night before; last night.
 yet,y,t,3,5.54,CORE,False,adverb (not a noun),adverb (not a noun); usually an adverb (corpus),,ADV,,False,,A metal pan or boiler; yetling.,pos-auto
 yeti,y,i,4,3.01,FAMILIAR,True,,,,,,False,noun.person,a large hairy humanoid creature said to live in the Himalayas,oewn2025
 yew,y,w,3,3.03,FAMILIAR,True,,,,,,False,noun.plant,wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows,oewn2025
+yewberry,y,y,8,0.0,OBSCURE,True,,,,,,False,,the red fleshy fruit of the yew,domain:y_words
 yid,y,d,3,2.08,UNCOMMON,True,,,,,,False,noun.person,(ethnic slur) offensive term for a Jew,oewn2025
 yield,y,d,5,4.16,COMMON,True,,,,,,False,noun.act,production of a certain amount,oewn2025
 yielder,y,r,7,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who yields or surrenders,oewn2025
@@ -60798,10 +61022,13 @@ yipping,y,g,7,1.47,RARE,False,verb (not a noun),verb (not a noun),,VERB,yip,Fals
 yips,y,s,4,2.15,UNCOMMON,False,plural of listed word,possible plural,,,,True,noun.state,nervous tension that causes an athlete to fail (especially causes golfers to miss short putts),oewn2025
 ylem,y,m,4,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,(cosmology) the original matter that (according to the big bang theory) existed before the formation of the chemical elements,oewn2025
 yob,y,b,3,1.96,RARE,True,,,,,,False,noun.person,a cruel and brutal fellow,oewn2025
+yobbery,y,y,7,0.0,OBSCURE,True,,,,,,False,,Yobbish behaviour.,domain:y_words
 yobbo,y,o,5,1.14,RARE,True,,,,,,False,noun.person,a cruel and brutal fellow,oewn2025
 yobibit,y,t,7,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.quantity,a unit of information equal to 1024 zebibits or 2^80 bits,oewn2025
 yobibyte,y,e,8,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,a unit of information equal to 1024 zebibytes or 2^80 bytes,oewn2025
 yobo,y,o,4,1.76,RARE,False,spelling variant of another word (reviewed),spelling variant of yobbo,yobbo,,,False,noun.person,a cruel and brutal fellow,oewn2025
+yock,y,k,4,1.09,RARE,True,,,,,,False,,"A laugh, especially a loud or hearty one.",domain:y_words
+yoctosecond,y,d,11,0.0,OBSCURE,True,,,,,,False,,a unit of time equal to one septillionth of a second,domain:y_words
 yod,y,d,3,2.06,UNCOMMON,True,,,,,,False,,Alternative form of yodh.,scowl
 yodel,y,l,5,2.34,UNCOMMON,True,,,,,,False,noun.communication,a songlike cry in which the voice fluctuates rapidly between the normal voice and falsetto,oewn2025
 yodeler,y,r,7,1.29,RARE,True,,,,,,False,,"One who sings so that their voice fluctuates rapidly between their normal chest voice and a falsetto, one who yodels.",scowl
@@ -60813,13 +61040,16 @@ yogh,y,h,4,0.0,OBSCURE,True,,obscure,,,,False,,"A letter of the Middle English a
 yoghourt,y,t,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yogurt,yogurt,,,False,noun.food,a custard-like food made from curdled milk,oewn2025
 yoghurt,y,t,7,3.01,FAMILIAR,False,british/commonwealth spelling variant,spelling variant of yogurt; UK/Commonwealth spelling,yogurt,,,False,noun.food,a custard-like food made from curdled milk,oewn2025
 yogi,y,i,4,3.16,FAMILIAR,True,,possible name,,,,False,noun.person,one who practices yoga and has achieved a high level of spiritual insight,oewn2025
+yogin,y,n,5,1.33,RARE,True,,,,,,False,,a male practitioner of yoga,domain:y_words
 yogini,y,i,6,1.7,RARE,True,,,,,,False,,A female yogi.,scowl
 yogourt,y,t,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,False,,Alternative spelling of yogurt.,scowl
 yogurt,y,t,6,3.63,FAMILIAR,True,,,,,,False,noun.food,a custard-like food made from curdled milk,oewn2025
+yohimbine,y,e,9,1.63,RARE,True,,,,,,False,,"an alkaloid from the bark of a West African tree, used in medicine",domain:y_words
 yokai,y,i,5,2.22,UNCOMMON,True,,,,,,False,noun.person,"Any of various supernatural monsters, sometimes shapeshifters, in Japanese folklore",oewn2025
 yoke,y,e,4,3.09,FAMILIAR,True,,,,,,False,noun.artifact,fabric comprising a fitted part at the top of a garment,oewn2025
 yokefellow,y,w,10,0.0,OBSCURE,True,,obscure,,,,False,,"A companion; a fellow labourer, a person who works at the same task as another.",scowl
 yokel,y,l,5,1.91,RARE,True,,,,,,False,noun.person,a person who is not very intelligent or interested in culture,oewn2025
+yokemate,y,e,8,0.0,OBSCURE,True,,,,,,False,,a companion or partner in work,domain:y_words
 yoking,y,g,6,1.4,RARE,False,verb (not a noun),verb (not a noun),,VERB,yoke,False,,The act or period of something being yoked.,pos-auto
 yolk,y,k,4,3.04,FAMILIAR,True,,,,,,False,noun.food,the yellow spherical part of an egg that is surrounded by the albumen,oewn2025
 yonder,y,r,6,2.97,UNCOMMON,False,adjective/adverb (not a noun),adjective/adverb (not a noun),,ADJ;ADV,,False,,"The vast distance, particularly the sky or trackless forest.",pos-auto
@@ -60831,6 +61061,8 @@ yore,y,e,4,2.64,UNCOMMON,True,,,,,,False,noun.time,time long past,oewn2025
 yottabit,y,t,8,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,a unit of information equal to 1000 zettabits or 10^24 bits,oewn2025
 yottabyte,y,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,a unit of information equal to 1000 zettabytes or 10^24 bytes,oewn2025
 yottaflop,y,p,9,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,"(computer science) a unit for measuring the speed of a computer system, equal to one septillion floating-point operations a second.",oewn2025
+yottaliter,y,r,10,0.0,OBSCURE,True,,,,,,False,,a unit of volume equal to a septillion litres,domain:y_words
+yottameter,y,r,10,0.0,OBSCURE,True,,,,,,False,,a unit of length equal to a septillion metres,domain:y_words
 you,y,u,3,6.98,CORE,False,function word (not a noun),,,,,False,,The name of the Latin script letter U/u.,scowl
 young,y,g,5,5.43,CORE,True,,usually an adjective (corpus); possible name,,,,False,noun.animal,any immature animal,oewn2025
 younger,y,r,7,4.69,COMMON,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,ADJ,young,False,,One who is younger than another.,pos-auto
@@ -60846,21 +61078,26 @@ yowl,y,l,4,1.56,RARE,True,,,,,,False,noun.communication,a very loud utterance (l
 yowling,y,g,7,1.72,RARE,False,verb (not a noun),verb (not a noun),,VERB,yowl,False,,A sound that yowls.,pos-auto
 yoyo,y,o,4,2.59,UNCOMMON,True,,,,,,False,,a toy spool wound with string that rises and falls as the string unwinds,domain:everyday
 yp,y,p,2,2.57,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative form of Yp.,gaps-review
+yperite,y,e,7,0.0,OBSCURE,True,,,,,,False,,"mustard gas, a blistering agent used in chemical warfare",domain:y_words
 yr,y,r,2,3.79,FAMILIAR,False,not a usable common noun (reviewed),possible abbreviation or clipping,,,,False,noun.time,a period of time containing 365 (or 366) days,oewn2025
 ytterbia,y,a,8,0.0,OBSCURE,True,,obscure,,,,False,,Ytterbium oxide.,scowl
 ytterbite,y,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a mineral that is a source of rare earths; consists of silicates of iron and beryllium and cerium and yttrium and erbium,oewn2025
 ytterbium,y,m,9,1.79,RARE,True,,,,,,False,noun.substance,a soft silvery metallic element; a rare earth of the lanthanide series; it occurs in gadolinite and monazite and xenotime,oewn2025
 yttria,y,a,6,1.13,RARE,True,,,,,,False,,yttrium oxide,scowl
+yttrialite,y,e,10,0.0,OBSCURE,True,,,,,,False,,a rare radioactive silicate mineral of yttrium and thorium,domain:y_words
 yttrium,y,m,7,2.14,UNCOMMON,True,,,,,,False,noun.substance,a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys,oewn2025
+yttrocerite,y,e,11,0.0,OBSCURE,True,,,,,,False,,"a violet-blue fluoride mineral of cerium, yttrium and calcium",domain:y_words
 yu,y,u,2,3.92,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"An ancient Chinese wine-bucket, often having a decorative cover.",gaps-review
 yuan,y,n,4,3.7,FAMILIAR,True,,possible name,,,,False,noun.quantity,the basic unit of money in China,oewn2025
 yucca,y,a,5,2.65,UNCOMMON,True,,,,,,False,noun.plant,any of several evergreen plants of the genus Yucca having usually tall stout stems and a terminal cluster of white flowers; warmer regions of North America,oewn2025
 yuck,y,k,4,3.06,FAMILIAR,True,,,,,,False,,Something disgusting.,gaps-review
 yuga,y,a,4,2.15,UNCOMMON,True,,,,,,False,noun.time,the name of an epoch or era within a four age cycle in Hindu philosophy.,oewn2025
 yuk,y,k,3,2.71,UNCOMMON,True,,also a verb (SCOWL),,,,False,,"Something, such as a joke, that causes such a laugh.",scowl
+yukata,y,a,6,1.88,RARE,True,,,,,,False,,a light unlined cotton kimono worn in summer,domain:y_words
+yuko,y,o,4,2.46,UNCOMMON,True,,,,,,False,,The score for a throw that lands the opponent on his or her side.,domain:y_words
 yulan,y,n,5,1.25,RARE,True,,,,,,False,,"Magnolia denudata, a species of magnolia with large white blossoms that open before the leaves.",scowl
 yule,y,e,4,2.71,UNCOMMON,True,,,,,,False,,the historical midwinter festival of the Germanic peoples,domain:everyday
-yuletide,y,e,8,2.38,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative letter-case form of Yuletide (“Christmas or the Christmas season”).,gaps-review
+yuletide,y,e,8,2.38,UNCOMMON,True,,,,,,False,,the Christmas season,domain:y_words
 yummy,y,y,5,3.54,FAMILIAR,False,adjective (reviewed),adjective (reviewed); possible abbreviation or clipping,,,,False,,Ellipsis of yummy mummy.,gaps-review
 yup,y,p,3,4.06,COMMON,True,,,,,,False,,A yes; an affirmative answer.,scowl
 yuppie,y,e,6,2.4,UNCOMMON,True,,,,,,False,noun.person,a young upwardly mobile professional individual; a well-paid middle-class professional who works in a city and has a luxurious life style,oewn2025
@@ -60870,6 +61107,7 @@ yuppify,y,y,7,0.0,OBSCURE,False,verb (not a noun),"noun in SCOWL, not in Wiktion
 yuppy,y,y,5,1.5,RARE,True,,,,,,False,,Alternative spelling of yuppie.,scowl
 yurt,y,t,4,2.43,UNCOMMON,True,,,,,,False,noun.artifact,a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing,oewn2025
 yus,y,s,3,1.8,RARE,True,,,,,,False,noun.communication,a Common Slavonic nasal vowel in the early Cyrillic and Glagolitic alphabets.,oewn2025
+yuzu,y,u,4,2.39,UNCOMMON,True,,,,,,False,,a sour aromatic East Asian citrus fruit,domain:y_words
 z,z,z,1,4.47,COMMON,False,not in Wiktionary,"usually a name (corpus); possible name; manual - not in Wiktionary, is it a real noun?",,,,False,noun.communication,the 26th letter of the Roman alphabet,oewn2025
 za,z,a,2,3.09,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,Pizza.,gaps-review
 zaatar,z,r,6,1.35,RARE,True,,,,,,False,noun.food,"a famous Middle Eastern condiment made from dried hyssop leaves, mixed with sesame seeds, dried sumac, and often salt, as well as other spices.",oewn2025
