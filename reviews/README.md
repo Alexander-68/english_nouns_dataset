@@ -210,15 +210,16 @@ festival, and the sheet gives it both the ruling and the sentence.
 
 ### `domains/x_words.csv`
 
-96 rows, 92 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
+114 rows, 109 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
 `xeriscape`, `xylocarp`, `xystus`, `xanthopterin`, `xenocurrency`, `xiphopagus`, `xylotomist`,
 `xenocracy`, `xylanase`, `xylopolist`. Four are ruled `name` — `xanthium`,
-`xylocopa`, `xylophaga` and `xylaria` are taxonomic genera, so they are not playable, and the sheet says what
+`xylocopa`, `xylophaga` and `xylaria` are taxonomic genera, and `xyloid` is an adjective, so they are not playable, and the sheet says what
 they are rather than leaving a player unanswered. Not a subject area but a supply problem: a word-chain game
 needs words starting with the letter it most often has to hand off to, and none of these was in the
 dataset in any form. Words proposed for the sheet that the dataset already had — `xenotransplant`,
 `xerophile`, `xeroradiography`, `xylophonist`, `xerophagy`, `xeranthemum`, `xeroma`, `xerosere`,
-`xanthochroism`, `xenogenesis` — were left out rather than re-ruled. Every row carries a written definition.
+`xanthochroism`, `xenogenesis`, `xanthomonad`, `xiphisternum` — were left out rather than
+re-ruled. Every row carries a written definition.
 
 The sheet is **not yet in a release** — it was added for the next build, not applied by re-running
 the pipeline.
