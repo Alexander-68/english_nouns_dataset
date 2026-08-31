@@ -228,13 +228,21 @@ the pipeline.
 
 ### `domains/y_words.csv`
 
-24 rows, 23 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+47 rows, 46 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
 other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
 `yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
 `yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
 
-The 18th, `yammer`, is a correction: the build read it as a verb form, and the noun — a loud
-repetitive noise or complaint — is the ordinary sense.
+Two rows are corrections. `yammer`: the build read it as a verb form, and the noun — a loud
+repetitive noise or complaint — is the ordinary sense. `yuletide` was ruled a proper noun and
+defined as "Alternative letter-case form of Yuletide"; it is the ordinary word for the Christmas
+season, and it follows `yule`, which `domains/everyday.csv` corrected the same way.
+
+Eleven rows leave `note` empty and take Wiktionary's gloss, which is already a usable definition
+— `yantra`, `yakiniku`, `yaksha`, `yellowware`, `yersiniosis`, `yuko`, `yair`. The rest are
+written, either because no source has the word (`yaji`, `yarchagumba`, `yellowbark`) or because
+the gloss is a pointer: "Alternative form of jelick" for `yelek`, "US spelling of yottalitre" for
+`yottaliter`, "Work." for `yakka`.
 
 Three rows override a source gloss that points at the wrong thing for a player: Wiktionary makes
 `yelper` "a user of Yelp", `yate` an obsolete form of `gate`, and `yatagan` an alternative
