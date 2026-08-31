@@ -208,6 +208,16 @@ The 56th row is `yule` — an existing row the build had ruled a proper noun, an
 read "Alternative letter-case form of Yule." It is an ordinary common noun for the midwinter
 festival, and the sheet gives it both the ruling and the sentence.
 
+### `domains/x_words.csv`
+
+26 rows, all `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
+`xeriscape`, `xylocarp`, `xystus`. Not a subject area but a supply problem: a word-chain game
+needs words starting with the letter it most often has to hand off to, and none of these 26 was in
+the dataset in any form. Every row carries a written definition.
+
+The sheet is **not yet in a release** — it was added for the next build, not applied by re-running
+the pipeline.
+
 ## The two verdict sheets are not interchangeable
 
 A hand-entry sheet applies both ways: it adds a row for a word the dataset does not have, and it
