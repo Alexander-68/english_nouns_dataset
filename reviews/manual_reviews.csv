@@ -4030,3 +4030,23 @@ date,sheet,item,verdict,note
 2026-09-01,gaps_verdicts.csv,wizarding,verb,"the bare gerund of an ordinary verb: the act, not a thing"
 2026-09-01,gaps_verdicts.csv,youngblood,noun,an ordinary compound noun
 2026-09-01,gaps_verdicts.csv,zorro,noun,the ordinary name of the animal
+2026-09-01,domains/typography.csv,antiqua,noun,a roman typeface as distinct from a blackletter one
+2026-09-01,domains/typography.csv,ascender,noun,the part of a letter that rises above the x-height
+2026-09-01,domains/typography.csv,caron,noun,"a diacritical mark shaped like a small v, placed above a letter"
+2026-09-01,domains/typography.csv,descender,noun,the part of a letter that falls below the baseline
+2026-09-01,domains/typography.csv,glyph,noun,a single character or symbol as it is drawn in a typeface
+2026-09-01,domains/typography.csv,guillemet,noun,an angled quotation mark used in French and other languages
+2026-09-01,domains/typography.csv,hinting,noun,the instructions in a font that fit its outlines to a pixel grid
+2026-09-01,domains/typography.csv,interpunct,noun,a small raised dot used to separate words or parts of a word
+2026-09-01,domains/typography.csv,kerning,noun,the adjustment of the space between two particular letters
+2026-09-01,domains/typography.csv,letterform,noun,the shape of a letter as it is drawn or cut
+2026-09-01,domains/typography.csv,ligature,noun,two or more letters joined into a single character
+2026-09-01,domains/typography.csv,manicule,noun,a pointing hand drawn in a margin to mark a passage
+2026-09-01,domains/typography.csv,monospace,noun,a typeface in which every character occupies the same width
+2026-09-01,domains/typography.csv,octothorpe,noun,the hash sign
+2026-09-01,domains/typography.csv,ogonek,noun,a hook-shaped diacritical mark attached below a letter
+2026-09-01,domains/typography.csv,oldstyle,noun,"a set of numerals with ascenders and descenders, sitting unevenly on the line"
+2026-09-01,domains/typography.csv,pilcrow,noun,the mark used to show where a paragraph begins
+2026-09-01,domains/typography.csv,sans,noun,a typeface without serifs
+2026-09-01,domains/typography.csv,smallcaps,noun,capital letters cut at the height of the lowercase
+2026-09-01,domains/typography.csv,tittle,noun,the dot above a lowercase i or j

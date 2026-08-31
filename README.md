@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-01.csv` — 61,524 rows, 51,881 of them playable.**
+**`sen-2026-09-01.csv` — 61,537 rows, 51,895 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -9,7 +9,7 @@ source had them.
 
 Its one unusual design decision: **rejected words stay in the file.** A game that only ships the
 playable words can say "not in the database" and nothing more. This one can say *why* a word is not
-allowed and *what to play instead* — 9,643 rejected rows, every one with a reason, 2,089 of them
+allowed and *what to play instead* — 9,642 rejected rows, every one with a reason, 2,089 of them
 naming a replacement.
 
     allowed=False  reason="british/commonwealth spelling variant"   suggest_instead="plow"

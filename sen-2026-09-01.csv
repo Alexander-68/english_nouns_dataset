@@ -2475,6 +2475,7 @@ antipsychotic,a,c,13,2.57,UNCOMMON,True,,,,,,False,noun.artifact,tranquilizer us
 antipyresis,a,s,11,0.0,OBSCURE,True,,obscure,,,,False,noun.act,medication with antipyretics to treat a fever,oewn2025
 antipyretic,a,c,11,1.67,RARE,True,,,,,,False,noun.artifact,any medicine that lowers body temperature to prevent or alleviate fever,oewn2025
 antipyrine,a,e,10,1.04,RARE,True,,,,,,False,,The drug phenazone.,scowl
+antiqua,a,a,7,1.92,RARE,True,,,,,,False,,a roman typeface as distinct from a blackletter one,domain:typography
 antiquarian,a,n,11,2.81,UNCOMMON,True,,,,,,False,noun.person,an expert or collector of antiquities,oewn2025
 antiquarianism,a,m,14,1.23,RARE,True,,,,,,False,,Study or love of antiques.,scowl
 antiquark,a,k,9,1.43,RARE,True,,,,,,False,noun.object,the antiparticle of a quark,oewn2025
@@ -3203,7 +3204,7 @@ ascendant,a,t,9,2.87,UNCOMMON,True,,,,,,False,noun.state,position or state of be
 ascendence,a,e,10,1.01,RARE,False,spelling variant of another word (reviewed),spelling variant of ascendance,ascendance,,,False,noun.state,the state that exists when one person or group has power over another,oewn2025
 ascendency,a,y,10,2.0,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of ascendancy,ascendancy,,,False,noun.state,the state that exists when one person or group has power over another,oewn2025
 ascendent,a,t,9,1.42,RARE,False,spelling variant of another word (reviewed),spelling variant of ascendant,ascendant,,,False,noun.state,position or state of being dominant or in control,oewn2025
-ascender,a,r,8,1.58,RARE,True,,,,,,False,noun.person,someone who ascends,oewn2025
+ascender,a,r,8,1.58,RARE,True,,,,,,False,noun.person,the part of a letter that rises above the x-height,oewn2025
 ascending,a,g,9,3.31,FAMILIAR,True,,usually a verb (corpus),,,,False,noun.act,the act of changing location in an upward direction,oewn2025
 ascension,a,n,9,3.34,FAMILIAR,True,,possible name,,,,False,noun.event,a movement upward; rise above the ground,oewn2025
 ascent,a,t,6,3.42,FAMILIAR,True,,,,,,False,noun.object,an upward slope or grade (as in a road),oewn2025
@@ -8367,7 +8368,7 @@ caroller,c,r,8,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a singer of carols
 carolling,c,g,9,1.42,RARE,False,verb (not a noun),verb (not a noun),,VERB,carol,False,,A singing of carols.,pos-auto
 carolus,c,s,7,1.95,RARE,True,,"possible name; not in Wiktionary, glossed by hand",,,,False,,An English gold coin struck in the reign of Charles I.,scowl
 carom,c,m,5,1.97,RARE,True,,,,,,False,noun.event,a glancing rebound,oewn2025
-caron,c,n,5,2.65,UNCOMMON,True,,,,,,False,,háček,gaps-review
+caron,c,n,5,2.65,UNCOMMON,True,,,,,,False,,"a diacritical mark shaped like a small v, placed above a letter",domain:typography
 carotene,c,e,8,2.59,UNCOMMON,True,,,,,,False,noun.substance,an orange isomer of an unsaturated hydrocarbon found in many plants; is converted into vitamin A in the liver,oewn2025
 carotenemia,c,a,11,0.0,OBSCURE,True,,obscure,,,,False,noun.state,excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color,oewn2025
 carotenoid,c,d,10,2.06,UNCOMMON,True,,,,,,False,noun.substance,any of a class of highly unsaturated yellow to red pigments occurring in plants and animals,oewn2025
@@ -14821,7 +14822,7 @@ descend,d,d,7,3.51,FAMILIAR,False,verb (not a noun),verb (not a noun),,VERB,,Fal
 descendant,d,t,10,3.3,FAMILIAR,True,,,,,,False,noun.person,a person considered as descended from some ancestor,oewn2025
 descendants,d,s,11,3.71,FAMILIAR,False,inflected form (Wiktionary),possible plural,,,,True,noun.group,all of the offspring of a given progenitor,oewn2025
 descendent,d,t,10,2.38,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of descendant,descendant,,,False,noun.person,a person considered as descended from some ancestor,oewn2025
-descender,d,r,9,1.69,RARE,True,,,,,,False,noun.person,someone who descends,oewn2025
+descender,d,r,9,1.69,RARE,True,,,,,,False,noun.person,the part of a letter that falls below the baseline,oewn2025
 descending,d,g,10,3.51,FAMILIAR,False,verb (not a noun),verb (not a noun); usually a verb (corpus),,VERB,descend,False,,A descent.,pos-auto
 descensus,d,s,9,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.state,the slipping or falling out of place of an organ (as the uterus),oewn2025
 descent,d,t,7,3.93,FAMILIAR,True,,,,,,False,noun.event,a movement downward,oewn2025
@@ -22996,7 +22997,7 @@ glycoside,g,e,9,1.92,RARE,True,,,,,,False,noun.substance,a group of compounds de
 glycosuria,g,a,10,1.16,RARE,True,,,,,,False,noun.state,the presence of abnormally high levels of sugar in the urine,oewn2025
 glycosylation,g,n,13,2.29,UNCOMMON,True,,,,,,False,,The reaction of a saccharide with a hydroxy or amino functional group to form a glycoside; especially the reaction with a protein or lipid to form a glycoprotein or glycolipid.,domain:bioinformatics
 glyoxaline,g,e,10,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,an organic base C3H4N2; a histamine inhibitor,oewn2025
-glyph,g,h,5,2.7,UNCOMMON,True,,,,,,False,noun.artifact,glyptic art in the form of a symbolic figure carved or incised in relief,oewn2025
+glyph,g,h,5,2.7,UNCOMMON,True,,,,,,False,noun.artifact,a single character or symbol as it is drawn in a typeface,oewn2025
 glyphography,g,y,12,0.0,OBSCURE,True,,obscure,,,,False,,"A process similar to etching in which, by means of voltaic electricity, a raised copy of a drawing is made, so that it can be used to print from; cerography.",scowl
 glyphosate,g,e,10,2.69,UNCOMMON,True,,,,,,False,,"N-phosphonomethyl glycine, the active ingredient of several herbicides that inhibit a plant growth enzyme.",gaps-review
 glyptic,g,c,7,0.0,OBSCURE,False,adjective (not a noun),"noun in SCOWL, not in Wiktionary; obscure",,,,False,,,scowl
@@ -23876,6 +23877,7 @@ guildhall,g,l,9,2.69,UNCOMMON,True,,,,,,False,noun.artifact,the hall of a guild 
 guildsman,g,n,9,0.0,OBSCURE,True,,obscure,,,,False,,A male member of a guild.,scowl
 guile,g,e,5,2.75,UNCOMMON,True,,,,,,False,noun.cognition,shrewdness as demonstrated by being skilled in deception,oewn2025
 guilelessness,g,s,13,1.09,RARE,True,,,,,,False,,The characteristic of being guileless; honesty.,scowl
+guillemet,g,t,9,0.0,OBSCURE,True,,,,,,False,,an angled quotation mark used in French and other languages,domain:typography
 guillemot,g,t,9,1.79,RARE,True,,,,,,False,noun.animal,small black or brown speckled auks of northern seas,oewn2025
 guilloche,g,e,9,1.5,RARE,True,,,,,,False,noun.artifact,an architectural decoration formed by two intersecting wavy bands,oewn2025
 guillotine,g,e,10,3.0,FAMILIAR,True,,,,,,False,noun.communication,closure imposed on the debate of specific sections of a bill,oewn2025
@@ -25437,7 +25439,7 @@ hinny,h,y,5,1.43,RARE,True,,,,,,False,noun.animal,hybrid offspring of a male hor
 hint,h,t,4,4.07,COMMON,True,,,,,,False,noun.communication,an indirect suggestion,oewn2025
 hinter,h,r,6,1.49,RARE,False,inflected form (Wiktionary),,,,,False,,Agent noun of hint: someone who hints.,scowl
 hinterland,h,d,10,2.9,UNCOMMON,True,,,,,,False,noun.location,a remote and undeveloped area,oewn2025
-hinting,h,g,7,3.1,FAMILIAR,False,verb (not a noun),verb (not a noun),,VERB,hint,False,,The act of giving a hint or suggestion.,pos-auto
+hinting,h,g,7,3.1,FAMILIAR,True,,,,,,False,,the instructions in a font that fit its outlines to a pixel grid,domain:typography
 hip,h,p,3,4.46,COMMON,True,,,,,,False,noun.body,either side of the body below the waist and above the thigh,oewn2025
 hipbath,h,h,7,0.0,OBSCURE,True,,"obscure; not in Wiktionary, glossed by hand",,,,False,,A bath shaped so that the bather sits rather than lies down.,scowl
 hipbone,h,e,7,1.41,RARE,True,,,,,,False,noun.body,large flaring bone forming one half of the pelvis; made up of the ilium and ischium and pubis,oewn2025
@@ -28301,6 +28303,7 @@ interposition,i,n,13,1.88,RARE,True,,,,,,False,noun.act,the action of interjecti
 interpretation,i,n,14,4.22,COMMON,True,,possible abbreviation or clipping,,,,False,noun.cognition,a mental representation of the meaning or significance of something,oewn2025
 interpreter,i,r,11,3.54,FAMILIAR,True,,,,,,False,noun.person,someone who mediates between speakers of different languages,oewn2025
 interpreting,i,g,12,3.45,FAMILIAR,True,,,,,,False,noun.cognition,an explanation of something that is not immediately obvious,oewn2025
+interpunct,i,t,10,0.0,OBSCURE,True,,,,,,False,,a small raised dot used to separate words or parts of a word,domain:typography
 interreflection,i,n,15,0.0,OBSCURE,True,,obscure,,,,False,noun.phenomenon,reciprocal reflection between two reflecting surfaces,oewn2025
 interregnum,i,m,11,2.21,UNCOMMON,True,,,,,,False,noun.time,"the time between two reigns, governments, etc.",oewn2025
 interrelatedness,i,s,16,1.35,RARE,True,,,,,,False,noun.relation,mutual or reciprocal relation or relatedness,oewn2025
@@ -29578,6 +29581,7 @@ kern,k,n,4,3.16,FAMILIAR,True,,possible name,,,,False,noun.artifact,the part of 
 kerne,k,e,5,1.22,RARE,True,,,,,,False,,Alternative spelling of kern.,scowl
 kernel,k,l,6,3.58,FAMILIAR,True,,,,,,False,noun.plant,the inner and usually edible part of a seed or grain or nut or fruit stone,oewn2025
 kernicterus,k,s,11,1.03,RARE,True,,,,,,False,noun.state,an abnormal accumulation of bile pigment in the brain and other nerve tissue; causes yellow staining and tissue damage,oewn2025
+kerning,k,g,7,1.83,RARE,True,,,,,,False,,the adjustment of the space between two particular letters,domain:typography
 kernite,k,e,7,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a light soft mineral consisting of hydrated sodium borate in crystalline form; an important source of boron,oewn2025
 kerosene,k,e,8,3.02,FAMILIAR,True,,,,,,False,noun.substance,a flammable hydrocarbon oil used as fuel in lamps and heaters,oewn2025
 kerosine,k,e,8,1.32,RARE,False,spelling variant of another word (reviewed),spelling variant of kerosene,kerosene,,,False,noun.substance,a flammable hydrocarbon oil used as fuel in lamps and heaters,oewn2025
@@ -30995,6 +30999,7 @@ letter,l,r,6,4.95,COMMON,True,,possible abbreviation or clipping,,,,False,noun.c
 letterbox,l,x,9,2.53,UNCOMMON,True,,,,,,False,,A box into which mail is put.,scowl
 lettercard,l,d,10,0.0,OBSCURE,True,,obscure,,,,False,noun.communication,a postcard that folds so the message is inside,oewn2025
 letterer,l,r,8,1.49,RARE,True,,,,,,False,noun.person,a painter of letters,oewn2025
+letterform,l,m,10,1.14,RARE,True,,,,,,False,,the shape of a letter as it is drawn or cut,domain:typography
 letterhead,l,d,10,2.6,UNCOMMON,True,,,,,,False,noun.communication,a sheet of stationery with name and address of the organization printed at the top,oewn2025
 lettering,l,g,9,3.19,FAMILIAR,True,,,,,,False,noun.communication,letters inscribed (especially words engraved or carved) on something,oewn2025
 letterman,l,n,9,3.16,FAMILIAR,True,,,,,,False,noun.person,an athlete who has earned a letter in a school sport,oewn2025
@@ -31198,7 +31203,7 @@ ligan,l,n,5,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelli
 ligand,l,d,6,3.05,FAMILIAR,True,,,,,,False,noun.substance,a substance (an atom or molecule or radical or ion) that forms a complex around a central atom,oewn2025
 ligation,l,n,8,2.51,UNCOMMON,True,,,,,,False,noun.act,(surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery),oewn2025
 ligative,l,e,8,0.0,OBSCURE,False,adjective (not a noun),"noun in SCOWL, not in Wiktionary; obscure",,,,False,,,scowl
-ligature,l,e,8,2.78,UNCOMMON,True,,,,,,False,noun.communication,(music) a group of notes connected by a slur,oewn2025
+ligature,l,e,8,2.78,UNCOMMON,True,,,,,,False,noun.communication,two or more letters joined into a single character,oewn2025
 liger,l,r,5,2.23,UNCOMMON,True,,,,,,False,noun.animal,offspring of a male lion and a female tiger,oewn2025
 ligger,l,r,6,1.08,RARE,True,,,,,,False,,The horizontal timber of a scaffolding; a ledger.,scowl
 light,l,t,5,5.33,CORE,True,,possible name,,,,False,noun.phenomenon,(physics) electromagnetic radiation that can produce a visual sensation,oewn2025
@@ -32671,6 +32676,7 @@ mania,m,a,5,3.44,FAMILIAR,True,,,,,,False,noun.motive,an irrational but irresist
 maniac,m,c,6,3.22,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.person,an insane person,oewn2025
 manic,m,c,5,3.32,FAMILIAR,False,adjective (reviewed),adjective (reviewed),,,,False,,A person exhibiting mania.,gaps-review
 manicotti,m,i,9,1.42,RARE,False,plural-only (Wiktionary),possible plural,,,,False,noun.food,large pasta tubes stuffed with chopped meat or mild cheese and baked in tomato sauce,oewn2025
+manicule,m,e,8,0.0,OBSCURE,True,,,,,,False,,a pointing hand drawn in a margin to mark a passage,domain:typography
 manicure,m,e,8,2.99,UNCOMMON,True,,,,,,False,noun.act,professional care for the hands and fingernails,oewn2025
 manicurist,m,t,10,1.97,RARE,True,,,,,,False,noun.person,a beautician who cleans and trims and polishes the fingernails,oewn2025
 manifest,m,t,8,3.68,FAMILIAR,True,,usually an adjective (corpus),,,,False,noun.communication,a customs document listing the contents put on a ship or plane,oewn2025
@@ -34964,6 +34970,7 @@ monosaccharose,m,e,14,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a sugar 
 monosemy,m,y,8,0.0,OBSCURE,True,,obscure,,,,False,noun.attribute,having a single meaning (absence of ambiguity) usually of individual words or phrases,oewn2025
 monosome,m,e,8,0.0,OBSCURE,True,,obscure,,,,False,,The chromosome whose homologous counterpart is missing in monosomy,scowl
 monosomy,m,y,8,1.34,RARE,True,,,,,,False,noun.state,chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number,oewn2025
+monospace,m,e,9,1.31,RARE,True,,,,,,False,,a typeface in which every character occupies the same width,domain:typography
 monostich,m,h,9,0.0,OBSCURE,True,,obscure,,,,False,,A poem having only one line.,scowl
 monostome,m,e,9,0.0,OBSCURE,True,,obscure,,,,False,,A nematode of the genus Monostoma,scowl
 monostrophe,m,e,11,0.0,OBSCURE,True,,obscure,,,,False,,A metrical composition having a single strophe,scowl
@@ -37439,6 +37446,7 @@ octopod,o,d,7,1.19,RARE,True,,,,,,False,noun.animal,a cephalopod with eight arms
 octopus,o,s,7,3.46,FAMILIAR,True,,,,,,False,noun.food,tentacles of octopus prepared as food,oewn2025
 octoroon,o,n,8,1.33,RARE,True,,,,,,False,noun.person,an offspring of a quadroon and a white parent; a person who is one-eighth black,oewn2025
 octosyllable,o,e,12,0.0,OBSCURE,True,,obscure,,,,False,noun.communication,a verse line having eight syllables or a poem of octosyllabic lines,oewn2025
+octothorpe,o,e,10,0.0,OBSCURE,True,,,,,,False,,the hash sign,domain:typography
 octroi,o,i,6,1.38,RARE,True,,,,,,False,noun.possession,a tax on various goods brought into a town,oewn2025
 octuplet,o,t,8,0.0,OBSCURE,True,,obscure,,,,False,,"A group of eight things, particularly",scowl
 ocular,o,r,6,2.94,UNCOMMON,True,,,,,,False,noun.artifact,combination of lenses at the viewing end of optical instruments,oewn2025
@@ -37559,6 +37567,7 @@ ogive,o,e,5,1.62,RARE,True,,,,,,False,noun.artifact,front consisting of the coni
 ogle,o,e,4,2.69,UNCOMMON,True,,also a verb (SCOWL),,,,False,,"An impertinent, flirtatious, amorous or covetous stare.",scowl
 ogler,o,r,5,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a viewer who gives a flirtatious or lewd look at another person,oewn2025
 ogling,o,g,6,2.3,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,ogle,False,,Action of the verb to ogle.,pos-auto
+ogonek,o,k,6,0.0,OBSCURE,True,,,,,,False,,a hook-shaped diacritical mark attached below a letter,domain:typography
 ogre,o,e,4,3.1,FAMILIAR,True,,,,,,False,noun.person,a cruel wicked and inhuman person,oewn2025
 ogress,o,s,6,1.43,RARE,True,,,,,,False,noun.person,(folklore) a female ogre,oewn2025
 oh,o,h,2,5.43,CORE,True,,,,,,False,,"An utterance of oh; a spoken expression of surprise, acknowledgement, etc.",scowl
@@ -37604,6 +37613,7 @@ oldie,o,e,5,2.65,UNCOMMON,True,,,,,,False,noun.communication,a song that was for
 oldness,o,s,7,1.39,RARE,True,,,,,,False,noun.attribute,the opposite of youngness,oewn2025
 olds,o,s,4,3.98,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,One's parents.,gaps-review
 oldster,o,r,7,1.22,RARE,True,,,,,,False,noun.person,an elderly person,oewn2025
+oldstyle,o,e,8,1.32,RARE,True,,,,,,False,,"a set of numerals with ascenders and descenders, sitting unevenly on the line",domain:typography
 oldtimer,o,r,8,1.56,RARE,True,,,,,,False,noun.person,an experienced person who has been through many battles; someone who has given long service,oewn2025
 oldwench,o,h,8,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.animal,tropical Atlantic fish,oewn2025
 oldwife,o,e,7,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,tropical Atlantic fish,oewn2025
@@ -40961,6 +40971,7 @@ pilau,p,u,5,1.58,RARE,False,spelling variant of another word (reviewed),spelling
 pilaw,p,w,5,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of pilaf,pilaf,,,False,noun.food,rice cooked in well-seasoned broth with onions or celery and usually poultry or game or shellfish and sometimes tomatoes,oewn2025
 pilch,p,h,5,1.57,RARE,True,,,,,,False,,"A gown or case of skin, or one trimmed or lined with fur.",scowl
 pilchard,p,d,8,1.88,RARE,True,,,,,,False,noun.food,small fatty fish usually canned,oewn2025
+pilcrow,p,w,7,0.0,OBSCURE,True,,,,,,False,,the mark used to show where a paragraph begins,domain:typography
 pile,p,e,4,4.14,COMMON,True,,,,,,False,noun.group,a collection of objects laid on top of each other,oewn2025
 piles,p,s,5,3.59,FAMILIAR,False,plural-only (Wiktionary),possible plural,,,,True,noun.state,venous swelling external or internal to the anal sphincter,oewn2025
 pileum,p,m,6,0.0,OBSCURE,True,,obscure,,,,False,,"The top of a bird's head, from the base of the bill to the nape.",scowl
@@ -47537,6 +47548,7 @@ sanjak,s,k,6,1.31,RARE,True,,,,,,False,,"A district, a prefecture, particularly 
 sannup,s,p,6,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a married male American Indian,oewn2025
 sannyasi,s,i,8,1.43,RARE,True,,,,,,False,noun.person,a Hindu religious mendicant,oewn2025
 sannyasin,s,n,9,1.19,RARE,True,,,,,,False,noun.person,a Hindu religious mendicant,oewn2025
+sans,s,s,4,3.58,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,a typeface without serifs,domain:typography
 sansa,s,a,5,2.95,UNCOMMON,True,,,,,,False,,Alternative spelling of zanza..,scowl
 sansei,s,i,6,1.43,RARE,True,,,,,,False,,A grandchild of a Japanese immigrant to the Americas.,scowl
 sanserif,s,f,8,0.0,OBSCURE,True,,obscure,,,,False,,Alternative spelling of sans serif.,scowl
@@ -50434,6 +50446,7 @@ smacker,s,r,7,1.45,RARE,True,,,,,,False,noun.act,a loud kiss,oewn2025
 smacking,s,g,8,3.02,FAMILIAR,True,,,,,,False,noun.act,the act of smacking something; a blow delivered with an open hand,oewn2025
 small,s,l,5,5.51,CORE,True,,usually an adjective (corpus),,,,False,noun.body,the slender part of the back,oewn2025
 smallage,s,e,8,0.0,OBSCURE,True,,obscure,,,,False,,Celery in its wild uncultivated form.,scowl
+smallcaps,s,s,9,0.0,OBSCURE,True,,,,,,False,,capital letters cut at the height of the lowercase,domain:typography
 smallclothes,s,s,12,0.0,OBSCURE,False,plural-only (Wiktionary),obscure,,,,False,,"Knee-length breeches, worn especially in the 18th century.",scowl
 smallholder,s,r,11,2.29,UNCOMMON,True,,,,,,False,noun.person,a person owning or renting a smallholding,oewn2025
 smallholding,s,g,12,1.97,RARE,True,,,,,,False,noun.possession,a piece of land under 50 acres that is sold or let to someone for cultivation,oewn2025
@@ -55878,7 +55891,7 @@ titter,t,r,6,1.86,RARE,True,,,,,,False,noun.communication,a nervous restrained l
 titterer,t,r,8,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who laughs nervously,oewn2025
 tittering,t,g,9,1.65,RARE,False,verb (not a noun),verb (not a noun),,VERB,titter,False,,The act of one who titters.,pos-auto
 tittivation,t,n,11,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of titivation,titivation,,,False,noun.act,sprucing up; making decorative additions to,oewn2025
-tittle,t,e,6,2.55,UNCOMMON,True,,,,,,False,noun.quantity,a tiny or scarcely detectable amount,oewn2025
+tittle,t,e,6,2.55,UNCOMMON,True,,,,,,False,noun.quantity,the dot above a lowercase i or j,oewn2025
 titty,t,y,5,3.01,FAMILIAR,True,,,,,,False,noun.body,either of two soft fleshy milk-secreting glandular organs on the chest of a woman,oewn2025
 tix,t,x,3,2.49,UNCOMMON,False,plural-only (Wiktionary),,,,,False,,Tickets (passes entitling the holder to admission).,scowl
 tiyin,t,n,5,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,100 tiyin equal 1 som in Uzbekistan,oewn2025

@@ -253,6 +253,22 @@ thing, so it is ruled `verb` and rejected with a reason rather than left unexpla
 
 The sheet is **not yet in a release**.
 
+### `domains/typography.csv`
+
+20 rows, all `noun`. 15 are words no source had — `ogonek`, `kerning`, `interpunct`, `pilcrow`,
+`octothorpe`, `monospace`, `manicule`, `guillemet`, `letterform`, `smallcaps`, `sans`, `antiqua`,
+`oldstyle`, `caron`.
+
+Five are corrections, and they are why the sheet exists: the dataset had the word with a definition
+from another field, which reads as nonsense to anyone who means the typographic sense. `glyph` was
+"glyptic art in the form of a symbolic figure", `ligature` "a group of notes connected by a slur",
+`ascender` "someone who ascends", `descender` "someone who descends", and `tittle` "a tiny or
+scarcely detectable amount". `hinting` was rejected outright as a verb form; font hinting is a
+thing, not an act.
+
+`caron` came in from the gaps queue with Wiktionary's gloss, which is the single word "háček" — a
+true synonym and a useless definition for a player. That is the case the sheet's note is for.
+
 ## The two verdict sheets are not interchangeable
 
 A hand-entry sheet applies both ways: it adds a row for a word the dataset does not have, and it
