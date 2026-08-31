@@ -106,8 +106,8 @@ REGION_TAGS = {'UK','US','British','American','Australia','Canada','Ireland',
                'New-Zealand','India','South-Africa','Scotland','Commonwealth'}
 
 COLUMNS = ['word','countable','uncountable','plural_only','is_inflected_form',
-           'form_of','variant_of','variant_kind','variant_sense','variant_gloss',
-           'regions','n_senses','first_gloss']
+           'n_form_senses','form_sense','lead_form','form_of','variant_of','variant_kind',
+           'variant_sense','variant_gloss','regions','n_senses','first_gloss']
 
 
 def open_maybe_gz(path):
@@ -129,6 +129,8 @@ def extract(entry):
 
     countable = uncountable = plural_only = False
     is_form = False
+    n_form_senses = 0
+    form_sense = ''
     form_of = ''
     variant_of = ''
     variant_kind = ''
@@ -152,6 +154,9 @@ def extract(entry):
         fo = s.get('form_of')
         if fo:
             is_form = True
+            n_form_senses += 1
+            if form_sense == '':
+                form_sense = si
             if not form_of:
                 w = fo[0].get('word') if isinstance(fo[0], dict) else fo[0]
                 form_of = w or ''
@@ -194,6 +199,13 @@ def extract(entry):
         'uncountable': int(uncountable),
         'plural_only': int(plural_only),
         'is_inflected_form': int(is_form),
+        'n_form_senses': n_form_senses,
+        'form_sense': form_sense,
+        # this etymology section says nothing but "form of X": its very first
+        # sense is the form-of one. A word is an inflected form only when every
+        # section of it reads that way -- `pen` has a section that is a form of
+        # `pan` and fifteen senses that are not.
+        'lead_form': int(form_sense == 0),
         'form_of': form_of,
         'variant_of': variant_of,
         'variant_kind': variant_kind,
@@ -232,10 +244,15 @@ def main(src, dst):
                 p = seen[w]
                 for k in ('countable','uncountable','plural_only','is_inflected_form'):
                     p[k] = max(p[k], row[k])
-                for k in ('form_of','variant_of','variant_kind','variant_sense',
-                          'variant_gloss'):
+                p['lead_form'] = min(p['lead_form'], row['lead_form'])
+                for k in ('form_of','variant_of','variant_kind',
+                          'variant_sense','variant_gloss'):
                     p[k] = p[k] or row[k]
+                # 0 is a meaningful sense index, so `or` would drop it
+                if p['form_sense'] == '':
+                    p['form_sense'] = row['form_sense']
                 p['n_senses'] += row['n_senses']
+                p['n_form_senses'] += row['n_form_senses']
                 p['regions'] = ';'.join(sorted(set(filter(None,
                     (p['regions'] + ';' + row['regions']).split(';')))))
                 p['first_gloss'] = p['first_gloss'] or row['first_gloss']

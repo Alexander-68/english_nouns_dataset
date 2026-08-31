@@ -1368,3 +1368,96 @@ exactly the doubt-written-down behaviour the dataset is built on.
 The sheet is a list, not a system. The next time the sources are rebuilt it will still be the only
 place a 2024-and-later word can enter, and it will need extending by hand again. That is the
 intended cost: it is 145 lines of judgement, and nothing derived can replace it.
+
+
+## The inflected-form flag rejected 166 ordinary nouns, `pen` among them
+
+`pen` came back from the game as *"a writing implement with a point from which ink flows —
+[common] Not playable: inflected form (Wiktionary)."* The definition and the reason disagree, and
+the reason was wrong.
+
+**Cause.** `wx_extract.py` set `is_inflected_form` if **any** sense of an entry carried a
+`form_of`. Wiktionary's `pen` has sixteen noun senses; one of them, a dialect sense, is a form of
+`pan`. One sense out of sixteen rejected the word. The same OR rejected `sheet` (a sense is a form
+of `shit`), `circle` (of `words`), `chicken`, `opera`, `news`, `thanks`, `offer`, `species`,
+`economics`, `ethics`, `measles`, `gallows`, `molasses`, `dice`, `sweep` and 150 more.
+
+**Fix.** The extractor now also writes `lead_form`: whether the etymology section's **first** sense
+is the form-of one, merged across sections with `min`. That is how Wiktionary writes a word that
+exists only as an inflection — `cats` leads with "plural of cat" and has nothing else to say, where
+`pen` leads with the enclosure. `wx_join.py` requires `is_inflected_form` **and** `lead_form`
+before it rejects. Two intermediate rules were tried and thrown away: counting form senses against
+total senses let irregular plurals in beside their own singulars, and taking the first form sense's
+index poisoned `pen` again, because that index is per-etymology-section and the minor section is
+still one of the sections.
+
+The extractor also writes `n_form_senses` and `form_sense`, which are what the two discarded rules
+used. They stay in the file as evidence, unused by the join.
+
+**Effect.** Inflected-form rejections fall from 914 to 329. **166 words become playable and none
+becomes rejected** — `news`, `offer`, `thanks` (CORE), `pen`, `chicken`, `circle`, `sheet`,
+`opera`, `agenda`, `species`, `economics`, `ethics`, `propaganda`, `habit`, `corps`, `crap`,
+`freak`, `dive`, `trainer`, `sheep`.
+
+**Latin plurals, deliberately kept.** A handful of irregular plurals ride in on the same change,
+because they have a second sense that is not an inflection: `bacteria`, `algae`, `cocci`, `kine`,
+`pleura`, `meninges`, `trivia`, `insignia`, `timpani`. Their singulars are playable too, so
+`bacterium`/`bacteria` is now both. **This is a decision, not an oversight** (2026-08-31): the
+words are too common to refuse, and a player typing `bacteria` does not know they have typed a
+plural. `plural_of_listed` would not have caught them anyway — it reads `lemminflect`, which does
+not know the Latin plurals.
+
+## A hand ruling on a word the dataset already had did nothing
+
+Found while ruling `cgs` an initialism and watching it stay playable, defined as "system of
+measurement based on centimeters and grams".
+
+**Cause.** `load_manual_entries()` is read into `tags`, and `tags` is used to write rows for
+`suspects` — words *not* already in `sen`. For a word OEWN already ships, only two things applied:
+`sen_word_verdicts.csv`, and a hand `noun`, which is forced playable further down. Every other
+verdict on an existing word — `name`, `verb`, `adj`, `adv`, `noise`, `initialism` — was read,
+counted in the sheet total and silently dropped. `reviews/RULES.md` and `reviews/README.md` both
+describe the override as working; the code only implemented half of it.
+
+**Fix.** `wx_join.py` now applies hand verdicts in place as well, the same way
+`sen_word_verdicts.csv` is applied, and a domain sheet's note replaces the definition on an
+existing row too — an initialism is shown as its expansion, which is the whole reason the sheet
+carries one.
+
+**Effect.** Four rows, all from `domains/initialisms.csv`: `cgs`, `emf` and `rpm` stop being
+playable nouns, and `hr` keeps its rejection but gains "Human Resources." as its text. Playable
+count 51,434 -> 51,431. `si` stays playable on purpose — it is also the seventh note of the scale,
+the "different real sense" exception the initialisms sheet is built around.
+
+## `yoyo` had no row at all: the hyphen gap
+
+Asked whether `yoyo` is playable. It was not in the release in any form.
+
+**Cause.** Two rules that are each right on their own. SEN carries no hyphenated entries, so
+Wiktionary's headword `yo-yo` can never be a row. The unhyphenated `yoyo` exists in Wiktionary only
+as "Alternative spelling of yo-yo", so the spelling-variant filter sent it to the gaps queue,
+pointing at a target that is not in the dataset and never will be. The canonical form is excluded
+by format and the writable form by rule.
+
+**Scope.** 55 words, found by taking every gaps row whose `variant_of` is its own spelling with a
+hyphen: `standalone`, `offseason`, `signup`, `warmup`, `shoutout`, `faceoff`, `hiphop`, `scifi`,
+`todo`, `writeup`, `knowhow`, `halfpipe`, `byelection`, `timelapse`, `powerup`, `tipoff`. Several
+are now the dominant spelling — `standalone` and `signup` are written solid far more often than
+hyphenated.
+
+**Fix.** `reviews/domains/everyday.csv`, 56 rows, hand-ruled: 43 `noun`, 11 `adj`, one `name`
+(`autotune`), one `noise` (`tata`), plus `yule`. Every row carries a written definition because the
+inherited one is "Alternative form of X" — a sentence naming a spelling the player cannot play.
+The rule was left alone deliberately: dropping the variant filter for hyphenated targets would fix
+all 55 at once and sweep in `fatass`, `popo` and `gaga` unread.
+
+**Effect.** 43 newly playable, 0 newly rejected, playable count 51,431 -> 51,474. `yule` stops
+being a proper noun and reads "the historical midwinter festival of the Germanic peoples" instead
+of "Alternative letter-case form of Yule."
+
+The same change extends the in-place hand ruling above: a domain sheet's note now replaces the
+definition on an existing row for a `noun` verdict too, not only for a rejection. That is what
+`yule` needed, and it also lets the four corrections in `domains/medical_imaging.csv` --
+`aliasing`, `quench`, `shimming`, `thresholding` -- show the definition the sheet wrote for them
+rather than the general one.
+

@@ -109,8 +109,9 @@ Two differences from `manual-entry.csv`, both deliberate:
 
 ### `domains/initialisms.csv`
 
-99 lowercase initialisms — `usb`, `led`, `pcb`, `dna`, `gps`, `html`, `mosfet`, `fpga`. **None is
-playable**: the verdict is `initialism`, the reason reads `initialism, not a common noun
+102 lowercase initialisms — `usb`, `led`, `pcb`, `dna`, `gps`, `html`, `mosfet`, `fpga`, and
+`cgs`, `emf`, `rpm`, which OEWN ships as ordinary rows and the game was offering as playable words.
+**None is playable**: the verdict is `initialism`, the reason reads `initialism, not a common noun
 (reviewed)`, and each row carries the expansion as its definition so a game can say what the letters
 stand for instead of "not in the database". The `initialism` mark is there for a game that wants to
 allow them anyway. Initialisms that finished becoming words (`laser`, `radar`, `scuba`) are
@@ -156,7 +157,65 @@ that it does not exist. `crispr` is an acronym and went to `domains/initialisms.
 `switchgear`. Found by running `reviews/electronics-probe.csv` through `pipeline/probe.py`: 33 were
 words Wiktionary had and nothing had ruled, 4 no source had at all.
 
+### `domains/medical_imaging.csv`
+
+45 rows, from running `reviews/medical_imaging-probe.csv` (184 words, 8 groups) through
+`pipeline/probe.py`: 135 playable, 8 rejected, 41 absent. After the sheet, 178 playable and 0
+absent.
+
+Twenty-two rows leave `note` empty: those words were in Wiktionary with a usable gloss and were
+missing only because of the frequency cutoff — `tomosynthesis`, `urography`, `cystography`,
+`voxel`, `microbubble`, `echogenicity`, `nephrogram`. A note is written where the source has
+nothing (`anechoicity`), where its gloss is a pointer (`backprojection` — "Alternative form of back
+projection."; `sonographer` — "Synonym of ultrasonographer"; `volumetry` — "volumetric analysis"),
+where it is the wrong sense for the field (`fluence` glossed as "Fluency", `radiopharmacy` as the
+administration rather than the preparation of the drugs, `scintigraphy` narrowed to bone injuries)
+and where a pair needs telling apart (`hyperdensity`/`hypodensity`, `hyperintensity`/
+`hypointensity`, `dephasing`/`rephasing`, `radiolucent`/`radiopaque`).
+
+Four rows correct words the build read as verbs, all of them count nouns in imaging: `aliasing`
+(an artifact), `quench` (the boil-off of a magnet's cryogen), `shimming` and `thresholding`
+(named techniques), on the same ground as `backtracking` in the bioinformatics sheet. `smoothing`
+and `streaking` were left rejected — both are ordinary gerunds outside the field.
+
+`radiolucent` and `radiopaque` are ruled `adj`, so a player who types one is told what it is rather
+than that it does not exist. `bucky` and `doppler` were already correctly rejected as proper nouns
+and are not re-ruled. `kerma` is an acronym by origin (kinetic energy released per unit mass) but,
+like `laser` and `radar`, is written lowercase and used as an ordinary noun, so it is `noun` here
+rather than a row in `domains/initialisms.csv`.
+
+### `domains/everyday.csv`
+
+56 rows for a gap that is not a subject area but a **format collision**. The dataset carries no
+hyphenated rows at all, and Wiktionary files a good many everyday compounds under the hyphenated
+headword: `yo-yo`, `stand-alone`, `sign-up`, `hip-hop`, `sci-fi`, `write-up`. The unhyphenated
+spelling a player would type exists in Wiktionary only as "Alternative spelling of yo-yo", so the
+variant filter sent it to the gaps queue. Canonical form excluded by format, variant excluded by
+rule, and the word fell between them: `yoyo` had no row at all and the game answered "not in the
+database".
+
+55 of the rows are the words found that way — every unhyphenated form whose Wiktionary headword is
+the hyphenated one. **43 are `noun`** (`yoyo`, `offseason`, `signup`, `warmup`, `shoutout`,
+`faceoff`, `hiphop`, `scifi`, `writeup`, `knowhow`, `halfpipe`, `byelection`, `preamp`), **11 are
+`adj`** (`standalone`, `midsize`, `freeform`, `braindead`, `nonbinary`, `kneejerk`), `autotune` is
+a `name` and `tata` is `noise` — so a player who types one is told what it is.
+
+Every row carries a written definition, which is not optional here: the inherited gloss is
+"Alternative form of X" for all 55, which tells a player nothing and names a spelling they cannot
+play.
+
+The 56th row is `yule` — an existing row the build had ruled a proper noun, and whose definition
+read "Alternative letter-case form of Yule." It is an ordinary common noun for the midwinter
+festival, and the sheet gives it both the ruling and the sentence.
+
 ## The two verdict sheets are not interchangeable
+
+A hand-entry sheet applies both ways: it adds a row for a word the dataset does not have, and it
+rules in place on one it does. The second half was missing until 2026-08-31 — a `name`, `adj` or
+`initialism` verdict on a word OEWN already ships was read, counted and dropped, which is why `cgs`
+stayed playable as "system of measurement based on centimeters and grams" however it was ruled. On
+an existing row a domain sheet's note replaces the definition too, so `cgs` now reads
+"Centimetre-Gram-Second."
 
 `gaps_verdicts.csv` can only *add* rows — it rules on candidate words the dataset does not have. A
 ruling there on a word OEWN already ships does nothing at all. That is why

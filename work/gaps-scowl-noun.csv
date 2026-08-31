@@ -1365,7 +1365,6 @@ ductwork,2.06,1,1,1,The system of ducts in a particular building.,,,noun:1,noun,
 formate,2.06,0,0,1,Any salt or ester of formic acid.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 giftedness,2.06,1,1,1,The property of being gifted.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 gluconeogenesis,2.06,0,1,1,"The metabolic process in which glucose is formed, mostly in the liver, from non-carbohydrate precursors",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-homolog,2.06,0,0,4,"Something homologous; a homologous organ or part, chemical compound, chromosome, gene, or cultural element.",,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,False
 isolator,2.06,0,0,3,An electrical device that detects short circuits and isolates them.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 knotweed,2.06,0,0,1,"Any of several plants of the genus Polygonum, with jointed stems and inconspicuous flowers",,,noun:1,noun,False,0,,,,False,True,False,,,"verb form (-ed, morphology)",,,noun,70,n:1,True
 pinta,2.06,0,1,3,A pint of milk.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True

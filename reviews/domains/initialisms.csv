@@ -9,10 +9,12 @@ atp,initialism,Adenosine Triphosphate.,initialism
 bjt,initialism,Bipolar Junction Transistor.,initialism
 ceo,initialism,Chief Executive Officer.,initialism
 cfo,initialism,Chief Financial Officer.,initialism
+cgs,initialism,Centimetre-Gram-Second.,initialism
 cli,initialism,Command-Line Interface.,initialism
 cmos,initialism,Complementary Metal-Oxide-Semiconductor.,initialism
 cpld,initialism,Complex Programmable Logic Device.,initialism
 cpu,initialism,Central Processing Unit.,initialism
+crispr,initialism,Clustered Regularly Interspaced Short Palindromic Repeats.,initialism
 css,initialism,Cascading Style Sheets.,initialism
 csv,initialism,Comma-Separated Values.,initialism
 cto,initialism,Chief Technology Officer.,initialism
@@ -27,6 +29,7 @@ ecg,initialism,Electrocardiogram.,initialism
 eeg,initialism,Electroencephalogram.,initialism
 eeprom,initialism,Electrically Erasable Programmable Read-Only Memory.,initialism
 emc,initialism,Electromagnetic Compatibility.,initialism
+emf,initialism,Electromotive Force.,initialism
 emg,initialism,Electromyogram.,initialism
 emi,initialism,Electromagnetic Interference.,initialism
 eprom,initialism,Erasable Programmable Read-Only Memory.,initialism
@@ -70,6 +73,7 @@ rfid,initialism,Radio-Frequency Identification.,initialism
 rms,initialism,Root Mean Square.,initialism
 rna,initialism,Ribonucleic Acid.,initialism
 rom,initialism,Read-Only Memory.,initialism
+rpm,initialism,Revolutions Per Minute.,initialism
 rsvp,initialism,Repondez S'il Vous Plait; please reply.,initialism
 scada,initialism,Supervisory Control And Data Acquisition.,initialism
 scr,initialism,Silicon-Controlled Rectifier.,initialism
@@ -98,4 +102,3 @@ vpn,initialism,Virtual Private Network.,initialism
 vswr,initialism,Voltage Standing-Wave Ratio.,initialism
 wan,initialism,Wide Area Network.,initialism
 xml,initialism,Extensible Markup Language.,initialism
-crispr,initialism,Clustered Regularly Interspaced Short Palindromic Repeats.,initialism

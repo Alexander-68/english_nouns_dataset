@@ -607,7 +607,20 @@ def main(sen_path, wikt_path, out_path):
     sen['wikt_countable']     = col('countable', 0).astype(int).astype(bool)
     sen['wikt_uncountable']   = col('uncountable', 0).astype(int).astype(bool)
     sen['wikt_plural_only']   = col('plural_only', 0).astype(int).astype(bool)
+    # `is_inflected_form` is true when ANY sense of the entry is a form-of
+    # sense, which on its own rejects good words: `pen` carries one dialect
+    # sense that is a form of `pan`, `sheet` one of `shit`, `circle` one of
+    # `words`, and 301 rows -- `chicken`, `opera`, `scissors`, `economics` --
+    # were excluded as inflected forms while their first and main sense is an
+    # ordinary noun. The word is an inflected form only when every etymology
+    # section of it LEADS with the form-of sense (`lead_form`), which is how
+    # Wiktionary writes a word that exists only as an inflection. That keeps
+    # irregular plurals out: `bacteria`, `algae`, `cocci`, `kine`, `sands` and
+    # `people` all lead with `plural of ...` and stay rejected, where a count of
+    # form senses would have let them in alongside their own singulars.
     sen['wikt_inflected']     = col('is_inflected_form', 0).astype(int).astype(bool)
+    if 'lead_form' in w.columns:          # older extracts do not carry it
+        sen['wikt_inflected'] &= col('lead_form', 1).astype(int).astype(bool)
     sen['wikt_form_of']       = col('form_of', '')
     sen['wikt_variant_of']    = col('variant_of', '')
     sen['wikt_variant_kind']  = col('variant_kind', '')
@@ -734,6 +747,39 @@ def main(sen_path, wikt_path, out_path):
                 'name_suspect'] = True
         print(f'rulings on existing rows ({SEN_VERDICTS_PATH}): '
               f'{int(hit.sum())} of {len(ruled)}')
+
+    # The hand-entry sheets apply in place too. Their rows are written above
+    # only for words the dataset does not have, so before this a `name`, `adj`
+    # or `initialism` ruling on a word OEWN already ships was read, counted and
+    # silently dropped -- `cgs` stayed playable as "system of measurement based
+    # on centimeters and grams" however many times it was ruled an initialism.
+    # A `noun` is not applied here: it is forced playable further down, which
+    # is the same answer by a different route.
+    manual_existing = {w: v for w, v in manual.items() if v != 'noun'}
+    if manual_existing:
+        why = sen['noun'].map({w: VERDICT_REASON[v][0]
+                               for w, v in manual_existing.items()}).fillna('')
+        mark = sen['noun'].map({w: VERDICT_REASON[v][1]
+                                for w, v in manual_existing.items()}).fillna('')
+        hit = (why != '') & sen['noun'].isin(existing)
+        sen.loc[hit, 'verdict_reason'] = why[hit]
+        sen.loc[(mark != '') & hit, 'pos_overlap'] = mark[(mark != '') & hit]
+        sen.loc[hit & sen['noun'].isin(
+            [w for w, v in manual_existing.items() if v == 'name']),
+            'name_suspect'] = True
+        # A domain sheet's note is the definition, on an existing row as much
+        # as on an added one: `cgs` is shown as "Centimetre-Gram-Second." and
+        # not as OEWN's "system of measurement based on centimeters and grams",
+        # which reads like a playable word.
+        # `hit` is only the rows this ruling rejects; the gloss applies to a
+        # hand `noun` on an existing row as well -- `yule` was carrying
+        # "Alternative letter-case form of Yule." as its definition.
+        gloss = sen['noun'].map({w: manual_notes[w] for w in manual
+                                 if manual_source.get(w, '').startswith('domain:')
+                                 and manual_notes.get(w)}).fillna('')
+        on_row = (gloss != '') & sen['noun'].isin(existing)
+        sen.loc[on_row, 'definition'] = gloss[on_row]
+        print(f'hand-entry rulings on existing rows: {int(hit.sum())}')
 
     # ---- verdict -------------------------------------------------------
     # `~wikt_known` is a project decision (2026-08-29), not a derived rule: a

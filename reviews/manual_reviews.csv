@@ -3478,3 +3478,104 @@ date,sheet,item,verdict,note
 2026-08-29,variants.csv (side ruling),wynn,name,"a personal name, not a common noun"
 2026-08-29,variants.csv (side ruling),y,noise,"a letter name or abbreviation, not a playable common noun"
 2026-08-29,variants.csv (side ruling),yr,noise,"a letter name or abbreviation, not a playable common noun"
+2026-08-31,domains/medical_imaging.csv,aliasing,noun,the artifact produced when a signal is sampled too coarsely to represent it
+2026-08-31,domains/medical_imaging.csv,anechoicity,noun,the property of returning no ultrasound echo
+2026-08-31,domains/medical_imaging.csv,backprojection,noun,the reconstruction of an image by smearing each projection back across the image plane
+2026-08-31,domains/medical_imaging.csv,cholangiogram,noun,
+2026-08-31,domains/medical_imaging.csv,cystogram,noun,
+2026-08-31,domains/medical_imaging.csv,cystography,noun,
+2026-08-31,domains/medical_imaging.csv,dephasing,noun,the loss of phase coherence among precessing spins
+2026-08-31,domains/medical_imaging.csv,dosimetrist,noun,
+2026-08-31,domains/medical_imaging.csv,echogenicity,noun,
+2026-08-31,domains/medical_imaging.csv,elastography,noun,
+2026-08-31,domains/medical_imaging.csv,fluence,noun,the number of particles or amount of radiant energy crossing unit area
+2026-08-31,domains/medical_imaging.csv,fluorodeoxyglucose,noun,
+2026-08-31,domains/medical_imaging.csv,hyperdensity,noun,a region appearing brighter than its surroundings on a computed tomography image
+2026-08-31,domains/medical_imaging.csv,hyperintensity,noun,a region appearing brighter than its surroundings on a magnetic resonance image
+2026-08-31,domains/medical_imaging.csv,hypodensity,noun,a region appearing darker than its surroundings on a computed tomography image
+2026-08-31,domains/medical_imaging.csv,hypointensity,noun,a region appearing darker than its surroundings on a magnetic resonance image
+2026-08-31,domains/medical_imaging.csv,hysterosalpingography,noun,
+2026-08-31,domains/medical_imaging.csv,insonation,noun,the exposure of tissue to an ultrasound beam
+2026-08-31,domains/medical_imaging.csv,isocenter,noun,the fixed point about which a scanner's gantry rotates
+2026-08-31,domains/medical_imaging.csv,isosurface,noun,
+2026-08-31,domains/medical_imaging.csv,kerma,noun,the kinetic energy released per unit mass in matter by ionising radiation
+2026-08-31,domains/medical_imaging.csv,microbubble,noun,
+2026-08-31,domains/medical_imaging.csv,nephrogram,noun,
+2026-08-31,domains/medical_imaging.csv,photopeak,noun,
+2026-08-31,domains/medical_imaging.csv,quench,noun,"the sudden loss of superconductivity in a magnet, boiling off its cryogen"
+2026-08-31,domains/medical_imaging.csv,radiolucency,noun,
+2026-08-31,domains/medical_imaging.csv,radiolucent,adj,"letting X-rays pass, so appearing dark on a radiograph"
+2026-08-31,domains/medical_imaging.csv,radiopaque,adj,"blocking X-rays, so appearing bright on a radiograph"
+2026-08-31,domains/medical_imaging.csv,radiopharmacy,noun,the preparation and dispensing of radioactive drugs for diagnosis and treatment
+2026-08-31,domains/medical_imaging.csv,radiotracer,noun,
+2026-08-31,domains/medical_imaging.csv,rephasing,noun,the restoration of phase coherence among precessing spins
+2026-08-31,domains/medical_imaging.csv,scintigraphy,noun,imaging that maps the gamma rays emitted by a radiotracer taken up by the body
+2026-08-31,domains/medical_imaging.csv,sensitometry,noun,
+2026-08-31,domains/medical_imaging.csv,shimming,noun,the adjustment of a magnet's field to make it uniform
+2026-08-31,domains/medical_imaging.csv,sialography,noun,
+2026-08-31,domains/medical_imaging.csv,sinogram,noun,the raw projection data of a scan plotted against angle and position
+2026-08-31,domains/medical_imaging.csv,sonographer,noun,a person trained to perform ultrasound examinations
+2026-08-31,domains/medical_imaging.csv,thresholding,noun,the separation of an image into regions by comparing each value with a threshold
+2026-08-31,domains/medical_imaging.csv,tomosynthesis,noun,
+2026-08-31,domains/medical_imaging.csv,urogram,noun,
+2026-08-31,domains/medical_imaging.csv,urography,noun,
+2026-08-31,domains/medical_imaging.csv,ventriculography,noun,
+2026-08-31,domains/medical_imaging.csv,volumetry,noun,the measurement of the volume of a structure from an image
+2026-08-31,domains/medical_imaging.csv,voxel,noun,
+2026-08-31,domains/medical_imaging.csv,windowing,noun,the range of values mapped to the displayed grey scale
+2026-08-31,domains/everyday.csv,afterparty,noun,a party held after a main event
+2026-08-31,domains/everyday.csv,aircon,noun,"air conditioning, or the equipment that provides it"
+2026-08-31,domains/everyday.csv,allover,adj,covering the whole surface of something
+2026-08-31,domains/everyday.csv,autotune,name,a trade name for pitch-correction software
+2026-08-31,domains/everyday.csv,bellend,noun,the glans of the penis; in British slang a contemptible person
+2026-08-31,domains/everyday.csv,booboo,noun,"a minor injury, or a foolish mistake"
+2026-08-31,domains/everyday.csv,braindead,adj,having irreversibly lost all brain function
+2026-08-31,domains/everyday.csv,byelection,noun,an election held between general elections to fill a single seat
+2026-08-31,domains/everyday.csv,crossdresser,noun,a person who wears clothing typical of another gender
+2026-08-31,domains/everyday.csv,crossdressing,noun,the wearing of clothing typical of another gender
+2026-08-31,domains/everyday.csv,diecast,adj,made by forcing molten metal into a mould under pressure
+2026-08-31,domains/everyday.csv,dropoff,noun,"a steep descent, or a sharp decline in amount"
+2026-08-31,domains/everyday.csv,ezine,noun,a magazine published in electronic form
+2026-08-31,domains/everyday.csv,facedown,adj,lying with the face towards the ground
+2026-08-31,domains/everyday.csv,faceoff,noun,a confrontation; in ice hockey the drop of the puck that starts play
+2026-08-31,domains/everyday.csv,failsafe,noun,a device or design that returns to a safe state when it fails
+2026-08-31,domains/everyday.csv,fatass,noun,a fat person
+2026-08-31,domains/everyday.csv,freeform,adj,not following a regular shape or a set structure
+2026-08-31,domains/everyday.csv,froyo,noun,frozen yogurt
+2026-08-31,domains/everyday.csv,gaga,adj,"foolishly enthusiastic, or senile"
+2026-08-31,domains/everyday.csv,halfpipe,noun,a U-shaped ramp used in skateboarding and snowboarding
+2026-08-31,domains/everyday.csv,hawkeye,noun,a person with very keen eyesight
+2026-08-31,domains/everyday.csv,hifi,noun,equipment for high-quality sound reproduction
+2026-08-31,domains/everyday.csv,hiphop,noun,"a musical genre and culture built on rapping, DJing and breakdancing"
+2026-08-31,domains/everyday.csv,howto,noun,a set of instructions for performing a task
+2026-08-31,domains/everyday.csv,kickstarter,noun,the pedal lever that starts a motorcycle engine
+2026-08-31,domains/everyday.csv,kneejerk,adj,made automatically and without thought
+2026-08-31,domains/everyday.csv,knowhow,noun,practical knowledge of how to do something
+2026-08-31,domains/everyday.csv,layin,noun,a close-range shot in basketball played off the backboard
+2026-08-31,domains/everyday.csv,midsize,adj,of medium size
+2026-08-31,domains/everyday.csv,nonbinary,adj,not identifying as exclusively male or female
+2026-08-31,domains/everyday.csv,nonlethal,adj,not capable of causing death
+2026-08-31,domains/everyday.csv,nono,noun,something that is not allowed
+2026-08-31,domains/everyday.csv,offseason,noun,the part of the year outside a sport's or a trade's busy season
+2026-08-31,domains/everyday.csv,peepee,noun,a childish word for the penis
+2026-08-31,domains/everyday.csv,popo,noun,a slang name for the police
+2026-08-31,domains/everyday.csv,powerup,noun,an item in a video game giving a player a temporary advantage
+2026-08-31,domains/everyday.csv,preamp,noun,an amplifier that boosts a weak signal before the main amplifier
+2026-08-31,domains/everyday.csv,readymade,noun,an everyday manufactured object presented as a work of art
+2026-08-31,domains/everyday.csv,scifi,noun,science fiction
+2026-08-31,domains/everyday.csv,seaview,noun,a view of the sea from a building
+2026-08-31,domains/everyday.csv,shoutout,noun,a brief public mention of someone in appreciation
+2026-08-31,domains/everyday.csv,signup,noun,the act of registering for something
+2026-08-31,domains/everyday.csv,standalone,adj,"working on its own, without needing anything else"
+2026-08-31,domains/everyday.csv,strapon,noun,a dildo worn in a harness
+2026-08-31,domains/everyday.csv,tata,noise,a childish or informal way of saying goodbye
+2026-08-31,domains/everyday.csv,thankyou,noun,an expression of gratitude
+2026-08-31,domains/everyday.csv,timelapse,noun,a film made from frames captured at long intervals and played at normal speed
+2026-08-31,domains/everyday.csv,tipoff,noun,a piece of warning information; in basketball the jump ball that starts play
+2026-08-31,domains/everyday.csv,todo,noun,a task still to be done
+2026-08-31,domains/everyday.csv,tomtom,noun,a drum beaten with the hands
+2026-08-31,domains/everyday.csv,warmup,noun,light exercise done in preparation for activity
+2026-08-31,domains/everyday.csv,widowmaker,noun,"something notoriously likely to kill, such as a hanging branch or a blocked artery"
+2026-08-31,domains/everyday.csv,writeup,noun,a written account or review
+2026-08-31,domains/everyday.csv,yoyo,noun,a toy spool wound with string that rises and falls as the string unwinds
+2026-08-31,domains/everyday.csv,yule,noun,the historical midwinter festival of the Germanic peoples
