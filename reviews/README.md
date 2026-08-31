@@ -228,7 +228,7 @@ the pipeline.
 
 ### `domains/y_words.csv`
 
-18 rows, all `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+24 rows, 23 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
 other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
 `yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
 `yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
@@ -239,6 +239,9 @@ repetitive noise or complaint — is the ordinary sense.
 Three rows override a source gloss that points at the wrong thing for a player: Wiktionary makes
 `yelper` "a user of Yelp", `yate` an obsolete form of `gate`, and `yatagan` an alternative
 spelling of `yataghan` (which the dataset already has playable, so both spellings now work).
+
+`yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
+thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.
 
 The sheet is **not yet in a release**.
 
