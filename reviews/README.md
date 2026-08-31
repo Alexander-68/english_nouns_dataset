@@ -210,7 +210,7 @@ festival, and the sheet gives it both the ruling and the sentence.
 
 ### `domains/x_words.csv`
 
-173 rows, 161 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
+193 rows, 181 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
 `xeriscape`, `xylocarp`, `xystus`, `xanthopterin`, `xenocurrency`, `xiphopagus`, `xylotomist`,
 `xenocracy`, `xylanase`, `xylopolist`. Four are ruled `name` — `xanthium`,
 `xylocopa`, `xylophaga`, `xylaria`, `xiphosurida`, `xyletinus`, `xyleborus` and
