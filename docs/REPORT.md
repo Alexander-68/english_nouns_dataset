@@ -1536,6 +1536,22 @@ argues for the ruling and does not replace the gloss: `gaslighting` is defined i
 "Illumination by burning gas", `lycra` as "Letter case form of Lycra". Those need a domain-sheet row
 with a written note, not a queue ruling.
 
-Rows 61,375 -> 61,460; playable 51,762 -> 51,838. `work/queue-misses.csv` keeps the ranked remainder
--- 1,716 rows that pass the same filters and are still unread.
+Rows 61,375 -> 61,460; playable 51,762 -> 51,838.
+
+**A third pass, 64 more, and the yield has turned.** Reading the same band again after the first two
+passes had taken the obvious words, only 43 of the 64 are `noun`: `webcomic`, `homeownership`,
+`homeworld`, `unitarian`, `billiard`, `indica`, `sauvignon`, `paloma`, `amicus`, `dewar`, `pulaski`,
+`kimura`, `shaka`, `bodhi`, `sheng`, `shiro`, `zorro`, `shaheen`, `caron`. The other 21 are
+rejections: six trade names (`tylenol`, `winnebago`, `lycra`, `coinbase`, `fenty`, `petro`), two
+words that exist only inside a phrase (`absentia`, `habeas` -- `in absentia`, `habeas corpus`), and
+thirteen more bare gerunds (`resetting`, `rewatching`, `reposting`, `panning`, `clamping`).
+
+That ratio is the signal to stop sweeping. What is left in the band is dominated by three kinds of
+row a general pass cannot use: surnames carrying an obscure common-noun sense (`crowder`, `razer`,
+`tillman`, `winkler` -- agent nouns no one says), franchise words (`starfleet`, `catwoman`,
+`robocop`, `megatron`), and foreign words that never naturalised. Each needs a person who knows the
+field, which is what a domain sheet is, not a frequency sort.
+
+Rows 61,460 -> 61,524; playable 51,838 -> 51,881. `work/queue-misses.csv` keeps the ranked remainder
+-- 1,652 rows.
 

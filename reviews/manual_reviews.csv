@@ -3966,3 +3966,67 @@ date,sheet,item,verdict,note
 2026-09-01,gaps_verdicts.csv,watchlist,noun,a compound noun the dataset lacked
 2026-09-01,gaps_verdicts.csv,wolfpack,noun,a compound noun the dataset lacked
 2026-09-01,gaps_verdicts.csv,zander,noun,the ordinary name of the fish
+2026-09-01,gaps_verdicts.csv,absentia,noise,"occurs only in the phrase ""in absentia"""
+2026-09-01,gaps_verdicts.csv,alban,noun,an ordinary chemical common noun
+2026-09-01,gaps_verdicts.csv,amicus,noun,ordinary in legal use
+2026-09-01,gaps_verdicts.csv,amiga,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,baller,noun,the utensil and the slang sense are both nouns
+2026-09-01,gaps_verdicts.csv,billiard,noun,the shot; an ordinary count noun
+2026-09-01,gaps_verdicts.csv,birding,noun,"names the pastime, as backtracking does a technique"
+2026-09-01,gaps_verdicts.csv,bodhi,noun,a loanword long used in English
+2026-09-01,gaps_verdicts.csv,caron,noun,the ordinary name of the diacritic
+2026-09-01,gaps_verdicts.csv,chugging,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,clamping,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,coinbase,name,a company name
+2026-09-01,gaps_verdicts.csv,daffy,noun,an ordinary informal noun for the flower
+2026-09-01,gaps_verdicts.csv,dewar,noun,name-derived but the ordinary word for the flask
+2026-09-01,gaps_verdicts.csv,dosing,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,fenty,name,a brand name
+2026-09-01,gaps_verdicts.csv,ghani,noun,the ordinary name of the mill
+2026-09-01,gaps_verdicts.csv,gilda,noun,the ordinary name of the snack
+2026-09-01,gaps_verdicts.csv,glistening,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,gooch,noun,vulgar but an ordinary count noun
+2026-09-01,gaps_verdicts.csv,habeas,noise,"occurs only in ""habeas corpus"""
+2026-09-01,gaps_verdicts.csv,habib,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,homeownership,noun,an ordinary noun of state
+2026-09-01,gaps_verdicts.csv,homeworld,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,indica,noun,"the ordinary name of the cannabis form, as sativa is"
+2026-09-01,gaps_verdicts.csv,jamaat,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,kimura,noun,the ordinary name of the armlock
+2026-09-01,gaps_verdicts.csv,lycra,name,a trade name for the elastane fibre
+2026-09-01,gaps_verdicts.csv,mandi,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,maulana,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,millicent,noun,an ordinary unit noun
+2026-09-01,gaps_verdicts.csv,mongering,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,morin,noun,an ordinary chemical common noun
+2026-09-01,gaps_verdicts.csv,neverland,noun,name-derived but used as a common noun
+2026-09-01,gaps_verdicts.csv,nighter,noun,an ordinary agent noun
+2026-09-01,gaps_verdicts.csv,padma,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,paloma,noun,the ordinary name of the cocktail
+2026-09-01,gaps_verdicts.csv,panning,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,patterning,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,petro,name,the name of a Venezuelan cryptocurrency
+2026-09-01,gaps_verdicts.csv,pulaski,noun,name-derived but the ordinary word for the tool
+2026-09-01,gaps_verdicts.csv,reposting,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,resetting,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,reshaping,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,rewatching,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,sauvignon,noun,the ordinary name of the grape and wine
+2026-09-01,gaps_verdicts.csv,schooler,noun,an ordinary agent noun
+2026-09-01,gaps_verdicts.csv,shaheen,noun,the ordinary name of the falcon
+2026-09-01,gaps_verdicts.csv,shaka,noun,the ordinary name of the gesture
+2026-09-01,gaps_verdicts.csv,sheng,noun,the ordinary name of the instrument
+2026-09-01,gaps_verdicts.csv,shiro,noun,the ordinary name of the stew
+2026-09-01,gaps_verdicts.csv,spitzer,noun,the ordinary name of the bullet
+2026-09-01,gaps_verdicts.csv,tattooing,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,thakur,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,thorin,noun,an ordinary chemical common noun
+2026-09-01,gaps_verdicts.csv,tylenol,name,a trade name for paracetamol
+2026-09-01,gaps_verdicts.csv,uhuru,noun,a loanword used in English
+2026-09-01,gaps_verdicts.csv,unitarian,noun,"lowercase, an ordinary noun for a believer"
+2026-09-01,gaps_verdicts.csv,webcomic,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,wheezing,noun,"names the symptom, not only the act"
+2026-09-01,gaps_verdicts.csv,winnebago,name,a trade name used for a motorhome
+2026-09-01,gaps_verdicts.csv,wizarding,verb,"the bare gerund of an ordinary verb: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,youngblood,noun,an ordinary compound noun
+2026-09-01,gaps_verdicts.csv,zorro,noun,the ordinary name of the animal

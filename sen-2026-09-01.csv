@@ -162,6 +162,7 @@ absence,a,e,7,4.34,COMMON,True,,,,,,False,noun.state,the state of being absent,o
 absent,a,t,6,3.98,FAMILIAR,False,adjective/verb (not a noun),adjective/verb (not a noun); usually an adjective (corpus),,ADJ;VERB,,False,,"Something absent, especially absent people collectively; those who were or are not there.",pos-auto
 absentee,a,e,8,3.17,FAMILIAR,True,,,,,,False,noun.person,one that is absent or not in residence,oewn2025
 absenteeism,a,m,11,2.57,UNCOMMON,True,,,,,,False,noun.act,habitual absence from work,oewn2025
+absentia,a,a,8,2.64,UNCOMMON,False,not a usable common noun (reviewed),,,,,False,,absence,gaps-review
 absentmindedness,a,s,16,1.18,RARE,True,,,,,,False,noun.cognition,preoccupation so great that the ordinary demands on attention are ignored,oewn2025
 absinth,a,h,7,1.26,RARE,False,spelling variant of another word (reviewed),spelling variant of absinthe,absinthe,,,False,noun.food,strong green liqueur flavored with wormwood and anise,oewn2025
 absinthe,a,e,8,2.69,UNCOMMON,True,,,,,,False,noun.plant,aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe,oewn2025
@@ -1225,6 +1226,7 @@ alastrim,a,m,8,0.0,OBSCURE,True,,obscure,,,,False,noun.state,a mild form of smal
 alb,a,b,3,2.62,UNCOMMON,True,,,,,,False,noun.artifact,a white linen liturgical vestment with sleeves; worn by priests,oewn2025
 alba,a,a,4,3.33,FAMILIAR,False,inflected form (Wiktionary),,,,,False,,"A type of lyrical poetry, traditionally Provençal, about lovers who must part at dawn.",scowl
 albacore,a,e,8,2.23,UNCOMMON,True,,,,,,False,noun.food,relatively small tuna with choice white flesh; major source of canned tuna,oewn2025
+alban,a,n,5,2.64,UNCOMMON,True,,,,,,False,,A white crystalline resinous substance extracted from gutta-percha by the action of alcohol or ether.,gaps-review
 albata,a,a,6,0.0,OBSCURE,True,,obscure,,,,False,,"A white alloy of copper, nickel and zinc, once used to make cheap cutlery etc",scowl
 albatross,a,s,9,2.9,UNCOMMON,True,,,,,,False,noun.cognition,(figurative) something that hinders or handicaps,oewn2025
 albedo,a,o,6,2.59,UNCOMMON,True,,,,,,False,noun.relation,the ratio of reflected to incident light,oewn2025
@@ -1721,10 +1723,12 @@ amianthus,a,s,9,0.0,OBSCURE,True,,obscure,,,,False,,"A type of asbestos with lon
 amicability,a,y,11,0.0,OBSCURE,True,,obscure,,,,False,noun.feeling,a disinclination to quarrel,oewn2025
 amicableness,a,s,12,0.0,OBSCURE,True,,obscure,,,,False,noun.feeling,a disinclination to quarrel,oewn2025
 amice,a,e,5,1.5,RARE,True,,,,,,False,,"A hood, or cape with a hood, made of or lined with grey fur, formerly worn by the clergy.",scowl
+amicus,a,s,6,2.74,UNCOMMON,True,,,,,,False,,Someone not a party to a case who submits a brief and/or presents oral argument in that case.,gaps-review
 amidase,a,e,7,0.0,OBSCURE,True,,obscure,,,,False,,Any amidohydrolase,scowl
 amide,a,e,5,2.44,UNCOMMON,True,,,,,,False,noun.substance,any organic compound containing the group -CONH2,oewn2025
 amidopyrine,a,e,11,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a white crystalline substance used as an analgesic and antipyretic,oewn2025
 amie,a,e,4,2.54,UNCOMMON,False,not a usable common noun (reviewed),,,,,False,,,scowl
+amiga,a,a,5,2.73,UNCOMMON,True,,,,,,False,,A female friend.,gaps-review
 amigo,a,o,5,2.86,UNCOMMON,True,,,,,,False,noun.person,a friend or comrade,oewn2025
 amin,a,n,4,3.17,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,An arbitrator who assessed and collected revenue in the pargana.,gaps-review
 amine,a,e,5,2.79,UNCOMMON,True,,,,,,False,noun.substance,a compound derived from ammonia by replacing hydrogen atoms by univalent hydrocarbon radicals,oewn2025
@@ -4222,6 +4226,7 @@ ballboy,b,y,7,1.62,RARE,True,,,,,,False,,Alternative spelling of ball boy.,scowl
 ballcarrier,b,r,11,0.0,OBSCURE,True,,obscure,,,,False,,Alternative spelling of ball carrier.,scowl
 ballcock,b,k,8,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,floating ball that controls level in a water tank,oewn2025
 balldress,b,s,9,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a suit or dress for formal occasions,oewn2025
+baller,b,r,6,2.9,UNCOMMON,True,,possible abbreviation or clipping,,,,False,,A kitchenware utensil for cutting ball-shaped pieces of foods.,gaps-review
 ballerina,b,a,9,3.1,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.person,a female ballet dancer,oewn2025
 ballet,b,t,6,3.95,FAMILIAR,True,,,,,,False,noun.act,a theatrical representation of a story that is performed to music by trained dancers,oewn2025
 balletomane,b,e,11,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a ballet enthusiast,oewn2025
@@ -5365,6 +5370,7 @@ billfish,b,h,8,1.73,RARE,True,,,,,,False,noun.animal,primitive predaceous North 
 billfold,b,d,8,1.86,RARE,True,,,,,,False,noun.artifact,a pocket-size case for holding papers and paper money,oewn2025
 billhead,b,d,8,0.0,OBSCURE,True,,obscure,,,,False,,"A printed form used by traders in making out bills or rendering accounts, often with fancy designs.",scowl
 billhook,b,k,8,1.31,RARE,True,,,,,,False,noun.artifact,a cutting tool with a sharp edge,oewn2025
+billiard,b,d,8,2.86,UNCOMMON,True,,,,,,False,,A shot in billiards or snooker in which the cue ball strikes two other balls; a carom.,gaps-review
 billiards,b,s,9,2.84,UNCOMMON,True,,,,,,False,noun.act,any of several games played on rectangular cloth-covered table (with cushioned edges) in which long tapering cue sticks are used to propel ivory (or composition) balls,oewn2025
 billing,b,g,7,3.59,FAMILIAR,True,,,,,,False,noun.communication,request for payment of a debt,oewn2025
 billingsgate,b,e,12,1.98,RARE,True,,,,,,False,noun.communication,foul-mouthed or obscene abuse,oewn2025
@@ -5546,6 +5552,7 @@ birder,b,r,6,1.8,RARE,True,,,,,,False,noun.person,a person who identifies and st
 birdfeeder,b,r,10,1.14,RARE,True,,,,,,False,noun.artifact,an outdoor device that supplies food for wild birds,oewn2025
 birdhouse,b,e,9,2.32,UNCOMMON,True,,,,,,False,noun.artifact,a shelter for birds,oewn2025
 birdie,b,e,6,3.26,FAMILIAR,True,,,,,,False,noun.quantity,(golf) a score of one stroke under par on a hole,oewn2025
+birding,b,g,7,2.64,UNCOMMON,True,,,,,,False,,birdwatching,gaps-review
 birdlife,b,e,8,2.31,UNCOMMON,True,,,,,,False,,Birds collectively; avifauna.,scowl
 birdlime,b,e,8,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a sticky adhesive that is smeared on small branches to capture small birds,oewn2025
 birdman,b,n,7,2.94,UNCOMMON,True,,,,,,False,,A man who works with birds.,scowl
@@ -6072,6 +6079,7 @@ bod,b,d,3,3.05,FAMILIAR,True,,,,,,False,noun.body,alternative names for the body
 bode,b,e,4,3.03,FAMILIAR,False,verb (not a noun),verb (not a noun),,VERB,,False,,"A feeling that something is going to happen; a premonition, a presentiment.",pos-auto
 bodega,b,a,6,2.74,UNCOMMON,True,,,,,,False,noun.artifact,a small Hispanic shop selling wine and groceries,oewn2025
 bodgie,b,e,6,0.0,OBSCURE,True,,obscure,,,,False,,A member of a 1950s rock subculture; a teddy boy.,scowl
+bodhi,b,i,5,2.61,UNCOMMON,True,,,,,,False,,The state of enlightenment that finally ends the cycle of death and rebirth and leads to nirvana.,gaps-review
 bodhisattva,b,a,11,2.51,UNCOMMON,True,,possible name,,,,False,,"A person who has taken specific lay or monastic vows and who is on the road to perfect knowledge; specifically, one who foregoes personal nirvana in order to help others achieve enlightenment.",scowl
 bodhran,b,n,7,1.44,RARE,True,,,,,,False,,"A type of frame drum used in Irish music struck traditionally with an animal bone, or in modern times, with a piece of wood.",scowl
 bodice,b,e,6,2.62,UNCOMMON,True,,,,,,False,noun.artifact,part of a dress above the waist,oewn2025
@@ -8359,6 +8367,7 @@ caroller,c,r,8,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a singer of carols
 carolling,c,g,9,1.42,RARE,False,verb (not a noun),verb (not a noun),,VERB,carol,False,,A singing of carols.,pos-auto
 carolus,c,s,7,1.95,RARE,True,,"possible name; not in Wiktionary, glossed by hand",,,,False,,An English gold coin struck in the reign of Charles I.,scowl
 carom,c,m,5,1.97,RARE,True,,,,,,False,noun.event,a glancing rebound,oewn2025
+caron,c,n,5,2.65,UNCOMMON,True,,,,,,False,,háček,gaps-review
 carotene,c,e,8,2.59,UNCOMMON,True,,,,,,False,noun.substance,an orange isomer of an unsaturated hydrocarbon found in many plants; is converted into vitamin A in the liver,oewn2025
 carotenemia,c,a,11,0.0,OBSCURE,True,,obscure,,,,False,noun.state,excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color,oewn2025
 carotenoid,c,d,10,2.06,UNCOMMON,True,,,,,,False,noun.substance,any of a class of highly unsaturated yellow to red pigments occurring in plants and animals,oewn2025
@@ -9908,6 +9917,7 @@ chuddar,c,r,7,0.0,OBSCURE,False,spelling variant of another word (reviewed),spel
 chufa,c,a,5,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,European sedge having small edible nutlike tubers,oewn2025
 chug,c,g,4,2.92,UNCOMMON,True,,,,,,False,noun.event,the dull explosive noise made by an engine,oewn2025
 chugalug,c,g,8,0.0,OBSCURE,True,,obscure; also a verb (SCOWL),,,,False,,"A glugging sound, especially one made by a person drinking in large gulps",scowl
+chugging,c,g,8,2.82,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The sound of something that chugs.,gaps-review
 chukar,c,r,6,1.49,RARE,True,,,,,,False,,A bird of species of partridge native to central Asia (Alectoris chukar).,scowl
 chukka,c,a,6,2.1,UNCOMMON,True,,,,,,False,noun.time,(polo) one of six divisions into which a polo match is divided,oewn2025
 chukkar,c,r,7,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of chukker.,scowl
@@ -10155,6 +10165,7 @@ clamouring,c,g,10,2.43,UNCOMMON,True,,,,,,False,noun.communication,loud and pers
 clamp,c,p,5,3.45,FAMILIAR,True,,,,,,False,noun.artifact,a device (generally used by carpenters) that holds things firmly together,oewn2025
 clampdown,c,n,9,2.19,UNCOMMON,True,,,,,,False,noun.act,sudden restriction on an activity,oewn2025
 clamper,c,r,7,1.12,RARE,True,,also a verb (SCOWL),,,,False,,"One who, or that which, clamps.",scowl
+clamping,c,g,8,2.91,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The act by which something is clamped.,gaps-review
 clams,c,s,5,3.13,FAMILIAR,False,inflected form (Wiktionary),possible plural,,,,True,noun.possession,informal terms for money,oewn2025
 clamshell,c,l,9,2.32,UNCOMMON,True,,,,,,False,noun.animal,the shell of a clam,oewn2025
 clamworm,c,m,8,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of clam worm.,scowl
@@ -10783,6 +10794,7 @@ coil,c,l,4,3.73,FAMILIAR,True,,,,,,False,noun.artifact,a structure consisting of
 coiling,c,g,7,2.3,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,coil,False,,The pattern or motion of something that coils.,pos-auto
 coin,c,n,4,4.19,COMMON,True,,possible abbreviation or clipping,,,,False,noun.possession,a flat metal piece (usually a disc) used as money,oewn2025
 coinage,c,e,7,3.04,FAMILIAR,True,,,,,,False,noun.possession,coins collectively,oewn2025
+coinbase,c,e,8,2.65,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,The transaction that is automatically created in every Bitcoin block to reward the miner.,gaps-review
 coincidence,c,e,11,3.96,FAMILIAR,True,,,,,,False,noun.event,an event that might have been arranged although it was really accidental,oewn2025
 coincident,c,t,10,2.53,UNCOMMON,False,adjective (not a noun),adjective (not a noun),,ADJ,,False,,One of multiple incidents or things which coincide with each other; a concomitant.,pos-auto
 coinciding,c,g,10,2.85,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,coincide,False,,Act or situation by which things coincide; coincidence.,pos-auto
@@ -13708,6 +13720,7 @@ daeva,d,a,5,1.16,RARE,False,british/commonwealth spelling variant,UK/Commonwealt
 daff,d,f,4,1.65,RARE,True,,also a verb (SCOWL),,,,False,,A fool; an idiot; a blockhead.,scowl
 daffiness,d,s,9,0.0,OBSCURE,True,,obscure,,,,False,,The quality of being silly or foolish.,scowl
 daffodil,d,l,8,2.56,UNCOMMON,True,,,,,,False,noun.plant,any of numerous varieties of Narcissus plants having showy often yellow flowers with a trumpet-shaped central crown,oewn2025
+daffy,d,y,5,2.67,UNCOMMON,True,,,,,,False,,A daffodil.,gaps-review
 daftness,d,s,8,1.08,RARE,True,,,,,,False,noun.state,informal terms for insanity,oewn2025
 dag,d,g,3,2.89,UNCOMMON,True,,possible abbreviation or clipping,,,,False,noun.quantity,10 grams,oewn2025
 dagame,d,e,6,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,source of a tough elastic wood,oewn2025
@@ -15042,6 +15055,7 @@ devout,d,t,6,3.34,FAMILIAR,False,adjective (reviewed),adjective (reviewed),,,,Fa
 devoutness,d,s,10,1.13,RARE,True,,,,,,False,noun.attribute,piety by virtue of being devout,oewn2025
 dew,d,w,3,3.52,FAMILIAR,True,,,,,,False,noun.substance,water that has condensed on a cool surface overnight from water vapor in the air,oewn2025
 dewan,d,n,5,2.5,UNCOMMON,True,,,,,,False,,"A holder of any of various offices in various (usually Islamic) countries, usually some sort of councillor.",scowl
+dewar,d,r,5,2.71,UNCOMMON,True,,,,,,False,,"A vacuum flask; a vessel which keeps its contents hotter or cooler than their environment without the need to modify the pressure, by interposing an evacuated region to provide thermal insulation betw",gaps-review
 dewberry,d,y,8,1.94,RARE,True,,,,,,False,noun.plant,any of several trailing blackberry brambles especially of North America,oewn2025
 dewclaw,d,w,7,0.0,OBSCURE,True,,obscure,,,,False,,"A digit, hoof or claw that does not reach the ground.",scowl
 dewdrop,d,p,7,1.77,RARE,True,,,,,,False,noun.shape,a drop of dew,oewn2025
@@ -16324,6 +16338,7 @@ dosh,d,h,4,2.33,UNCOMMON,True,,,,,,False,,Money.,scowl
 dosimeter,d,r,9,1.88,RARE,True,,,,,,False,noun.artifact,a measuring instrument for measuring doses of ionizing radiation (X-rays or radioactivity),oewn2025
 dosimetrist,d,t,11,0.0,OBSCURE,True,,,,,,False,,One who carries out dosimetry.,domain:medical_imaging
 dosimetry,d,y,9,2.24,UNCOMMON,True,,,,,,False,noun.act,measuring the dose of radiation emitted by a radioactive source,oewn2025
+dosing,d,g,6,2.97,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The administration of a dose,gaps-review
 dossal,d,l,6,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,an ornamental hanging of rich fabric hung behind the altar of a church or at the sides of a chancel,oewn2025
 dossel,d,l,6,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,an ornamental hanging of rich fabric hung behind the altar of a church or at the sides of a chancel,oewn2025
 dosser,d,r,6,1.19,RARE,True,,,,,,False,noun.person,someone who sleeps in any convenient place,oewn2025
@@ -19906,6 +19921,7 @@ fennel,f,l,6,2.96,UNCOMMON,True,,,,,,False,noun.plant,any of several aromatic he
 fennelflower,f,r,12,0.0,OBSCURE,True,,obscure,,,,False,,"Nigella sativa, an annual flowering plant native to south and southwest Asia.",scowl
 fenoprofen,f,n,10,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a nonsteroidal anti-inflammatory drug (trade name Nalfon) used in the treatment of arthritis and other painful inflammatory disorders,oewn2025
 fentanyl,f,l,8,2.86,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"A synthetic opioid narcotic analgesic, C₂₂H₂₈N₂O, with pharmacological action similar to morphine that is administered transdermally as a skin patch and in the form of its citrate, C₂₂H₂₈N₂O·C₆H₈O₇, i",gaps-review
+fenty,f,y,5,2.62,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Fentanyl.,gaps-review
 fenugreek,f,k,9,2.09,UNCOMMON,True,,,,,,False,noun.plant,annual herb or southern Europe and eastern Asia having off-white flowers and aromatic seeds used medicinally and in curry,oewn2025
 feoff,f,f,5,0.0,OBSCURE,True,,obscure,,,,False,noun.possession,a piece of land held under the feudal system,oewn2025
 feoffee,f,e,7,1.06,RARE,True,,,,,,False,,A vassal holding a fief.,scowl
@@ -22561,6 +22577,7 @@ geyser,g,r,6,2.8,UNCOMMON,True,,,,,,False,noun.object,a spring that discharges h
 geyserite,g,e,9,0.0,OBSCURE,True,,obscure,,,,False,,"A type of stone, a mixture of quartz and opal deposited by a geyser as it precipitates out of the boiling water.",scowl
 ghagra,g,a,6,1.01,RARE,True,,,,,,False,,"A long ornamented skirt or petticoat, tightened with a drawstring and often hung with bells, worn in Rajasthan and other parts of India.",scowl
 ghana,g,a,5,3.9,FAMILIAR,False,proper noun or other non-noun (reviewed),usually a name (corpus); possible name,,,,False,,A style of Maltese folk singing,gaps-review
+ghani,g,i,5,2.64,UNCOMMON,True,,,,,,False,,A powered mortar and pestle used to extract oil.,gaps-review
 gharara,g,a,7,0.0,OBSCURE,True,,obscure,,,,False,,"A traditional garment of Lucknow in India, consisting of kurti, dupatta, and wide-legged flaring trousers which are often elaborately embroidered.",scowl
 gharial,g,l,7,1.12,RARE,True,,,,,,False,,"A crocodilian of species Gavialis gangeticus, of the family Gavialidae.",scowl
 gharry,g,y,6,0.0,OBSCURE,True,,obscure; possible abbreviation or clipping,,,,False,noun.artifact,a horse-drawn carriage in India,oewn2025
@@ -22641,6 +22658,7 @@ gigot,g,t,5,1.41,RARE,True,,possible abbreviation or clipping,,,,False,noun.food
 gigue,g,e,5,1.39,RARE,True,,,,,,False,noun.communication,music in three-four time for dancing a jig,oewn2025
 gilbert,g,t,7,3.9,FAMILIAR,True,,usually a name (corpus); possible name,,,,False,noun.quantity,a unit of magnetomotive force equal to 0.7958 ampere-turns,oewn2025
 gild,g,d,4,2.43,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of guild,guild,,,False,noun.group,a formal association of people with similar interests,oewn2025
+gilda,g,a,5,2.65,UNCOMMON,True,,,,,,False,,"A Spanish snack consisting of olives and chili pepper served on a small stick (like a toothpick), often with anchovy.",gaps-review
 gilder,g,r,6,2.19,UNCOMMON,True,,,,,,False,noun.person,someone whose occupation is to apply an overlay of gold or gilt,oewn2025
 gildhall,g,l,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of guildhall,guildhall,,,False,noun.artifact,the meeting place of a medieval guild,oewn2025
 gilding,g,g,7,2.58,UNCOMMON,True,,,,,,False,noun.artifact,a coating of gold or of something that looks like gold,oewn2025
@@ -22834,6 +22852,7 @@ gliricidia,g,a,10,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it 
 glissade,g,e,8,1.27,RARE,True,,,,,,False,noun.act,(ballet) a gliding or sliding step in ballet,oewn2025
 glissando,g,o,9,1.83,RARE,True,,,,,,False,noun.communication,a rapid series of ascending or descending notes on the musical scale,oewn2025
 glisten,g,n,7,2.25,UNCOMMON,True,,,,,,False,noun.attribute,the quality of shining with a bright reflected light,oewn2025
+glistening,g,g,10,2.87,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The appearance of something that glistens.,gaps-review
 glister,g,r,7,1.3,RARE,True,,,,,,False,noun.attribute,the quality of shining with a bright reflected light,oewn2025
 glitch,g,h,6,3.45,FAMILIAR,True,,,,,,False,noun.state,"a fault or defect in a computer program, system, or machine",oewn2025
 glitter,g,r,7,3.56,FAMILIAR,True,,,,,,False,noun.attribute,the quality of shining with a bright reflected light,oewn2025
@@ -23148,6 +23167,7 @@ gonorrhea,g,a,9,2.71,UNCOMMON,True,,,,,,False,noun.state,a common venereal disea
 gonorrhoea,g,a,10,2.18,UNCOMMON,False,british/commonwealth spelling variant,spelling variant of gonorrhea; UK/Commonwealth spelling,gonorrhea,,,False,noun.state,a common venereal disease caused by the bacterium Neisseria gonorrhoeae; symptoms are painful urination and pain around the urethra,oewn2025
 goo,g,o,3,3.41,FAMILIAR,True,,,,,,False,noun.substance,"any thick, viscous matter",oewn2025
 goober,g,r,6,2.41,UNCOMMON,True,,,,,,False,noun.food,pod of the peanut vine containing usually 2 nuts or seeds; ‘groundnut’ and ‘monkey nut’ are British terms,oewn2025
+gooch,g,h,5,2.72,UNCOMMON,True,,,,,,False,,The perineum.,gaps-review
 good,g,d,4,6.12,CORE,True,,usually an adjective (corpus),,,,False,noun.attribute,benefit,oewn2025
 goodby,g,y,6,1.89,RARE,False,spelling variant of another word (reviewed),spelling variant of goodbye,goodbye,,,False,noun.communication,a farewell remark,oewn2025
 goodbye,g,e,7,4.3,COMMON,True,,,,,,False,noun.communication,a farewell remark,oewn2025
@@ -24051,9 +24071,11 @@ h,h,h,1,5.06,CORE,False,not a usable common noun (reviewed),possible name; possi
 haaf,h,f,4,1.08,RARE,True,,,,,,False,,"the open sea, especially as a place to fish",scowl
 haar,h,r,4,2.4,UNCOMMON,True,,,,,,False,,"Thick, cold, wet fog along the northeastern coast of Northern England and Scotland.",scowl
 habanera,h,a,8,1.51,RARE,True,,,,,,False,noun.communication,music composed in duple time for dancing the habanera,oewn2025
+habeas,h,s,6,2.9,UNCOMMON,False,not a usable common noun (reviewed),,,,,False,,A habeas corpus.,gaps-review
 haberdasher,h,r,11,1.88,RARE,True,,,,,,False,noun.person,a merchant who sells men's clothing,oewn2025
 haberdashery,h,y,12,2.11,UNCOMMON,True,,,,,,False,noun.artifact,a store where men's clothes are sold,oewn2025
 habergeon,h,n,9,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,(Middle Ages) a light sleeveless coat of chain mail worn under the hauberk,oewn2025
+habib,h,b,5,2.88,UNCOMMON,True,,,,,,False,,mate; a term of endearment for a friend,gaps-review
 habiliment,h,t,10,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a covering designed to be worn on a person's body,oewn2025
 habilitation,h,n,12,2.01,UNCOMMON,True,,,,,,False,,Equipment; qualification.,scowl
 habit,h,t,5,4.24,COMMON,True,,,,,,False,noun.cognition,an established custom,oewn2025
@@ -25662,6 +25684,7 @@ homeopathy,h,y,10,2.87,UNCOMMON,True,,,,,,False,noun.act,"a method of treating d
 homeostasis,h,s,11,2.74,UNCOMMON,True,,,,,,False,noun.state,(physiology) metabolic equilibrium actively maintained by several complex biological mechanisms that operate via the autonomic nervous system to offset disrupting changes,oewn2025
 homeotherm,h,m,10,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,an animal that has a body temperature that is relatively constant and independent of the environmental temperature,oewn2025
 homeowner,h,r,9,3.2,FAMILIAR,True,,,,,,False,noun.person,someone who owns a home,oewn2025
+homeownership,h,p,13,2.7,UNCOMMON,True,,,,,,False,,The state of being a homeowner.,gaps-review
 homepage,h,e,8,3.45,FAMILIAR,True,,,,,,False,noun.communication,"the opening page of a web site; also, the first page opened when a web browser is launched (default or start-up page)",oewn2025
 homer,h,r,5,3.89,FAMILIAR,True,,possible name,,,,False,noun.act,a base hit on which the batter scores a run,oewn2025
 homeroom,h,m,8,2.54,UNCOMMON,True,,,,,,False,noun.artifact,a classroom in which all students in a particular grade (or in a division of a grade) meet at certain times under the supervision of a teacher who takes attendance and does other administrative business,oewn2025
@@ -25678,6 +25701,7 @@ hometown,h,n,8,3.91,FAMILIAR,True,,,,,,False,noun.location,the town (or city) wh
 homework,h,k,8,4.13,COMMON,True,,,,,,False,noun.act,"work, such as schoolwork or piecework, that is done at home",oewn2025
 homeworker,h,r,10,1.06,RARE,True,,,,,,False,,A person who works from home.,scowl
 homeworking,h,g,11,1.21,RARE,True,,,,,,False,,"Working from home, especially when in electronic contact with a central office.",scowl
+homeworld,h,d,9,2.75,UNCOMMON,True,,,,,,False,,The world on which someone or something originated; a home planet or moon.,gaps-review
 homewrecker,h,r,11,2.0,UNCOMMON,True,,,,,,False,,Alternative form of home wrecker.,scowl
 homey,h,y,5,2.75,UNCOMMON,False,adjective (not a noun),adjective (not a noun); spelling variant of homie,homie,ADJ,,False,,Alternative form of homie.,pos-auto
 homeyness,h,s,9,0.0,OBSCURE,True,,obscure,,,,False,,The property of being homey.,scowl
@@ -27499,6 +27523,7 @@ indexer,i,r,7,2.11,UNCOMMON,True,,,,,,False,noun.person,someone who provides an 
 indexing,i,g,8,3.18,FAMILIAR,True,,,,,,False,noun.act,the act of classifying and providing an index in order to make items easier to retrieve,oewn2025
 india,i,a,5,5.04,CORE,False,proper noun or other non-noun (reviewed),usually a name (corpus); possible name,,,,False,,Alternative letter-case form of India from the NATO/ICAO Phonetic Alphabet.,gaps-review
 indian,i,n,6,4.91,COMMON,False,proper noun or other non-noun (reviewed),usually an adjective (corpus); possible name,,,,False,,Alternative letter-case form of Indian (“indigene”).,gaps-review
+indica,i,a,6,2.85,UNCOMMON,True,,,,,,False,,"Any of the indica subspecies of the rice, Oryza sativa, which (unlike the japonica or sinica subspecies) are non-sticky and long-grained.",gaps-review
 indican,i,n,7,0.0,OBSCURE,True,,obscure,,,,False,,"A glycoside obtained from plants of genus Indigofera, the source of natural indigo dye.",scowl
 indicant,i,t,8,0.0,OBSCURE,True,,obscure,,,,False,noun.communication,something that serves to indicate or suggest,oewn2025
 indication,i,n,10,4.06,COMMON,True,,,,,,False,noun.communication,something that serves to indicate or suggest,oewn2025
@@ -28853,6 +28878,7 @@ jalapeno,j,o,8,2.56,UNCOMMON,True,,,,,,False,noun.plant,plant bearing very hot a
 jalopy,j,y,6,1.89,RARE,True,,,,,,False,noun.artifact,a car that is old and unreliable,oewn2025
 jalousie,j,e,8,1.33,RARE,True,,,,,,False,noun.artifact,a window with glass louvers,oewn2025
 jam,j,m,3,4.17,COMMON,True,,,,,,False,noun.food,preserve of crushed fruit,oewn2025
+jamaat,j,t,6,2.61,UNCOMMON,True,,,,,,False,,Party; community; group; assembly.,gaps-review
 jamaica,j,a,7,3.92,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,roselle,gaps-review
 jamb,j,b,4,2.46,UNCOMMON,True,,,,,,False,noun.artifact,upright consisting of a vertical side member of a door or window frame,oewn2025
 jambalaya,j,a,9,2.27,UNCOMMON,True,,,,,,False,noun.food,"spicy Creole dish of rice and ham, sausage, chicken, or shellfish with tomatoes, peppers, onions, and celery",oewn2025
@@ -29725,6 +29751,7 @@ kimberlite,k,e,10,2.07,UNCOMMON,True,,,,,,False,noun.substance,a rare type of pe
 kimchee,k,e,7,1.58,RARE,True,,,,,,False,,Alternative spelling of kimchi.,scowl
 kimchi,k,i,6,2.84,UNCOMMON,True,,,,,,False,,"A Korean dish made of vegetables, such as cabbage or radishes, that are salted, seasoned, and stored in sealed containers to undergo lactic acid fermentation.",manual-entry
 kimono,k,o,6,2.95,UNCOMMON,True,,,,,,False,noun.artifact,a loose robe; imitated from robes originally worn by Japanese,oewn2025
+kimura,k,a,6,2.73,UNCOMMON,True,,,,,,False,,An armlock where the implementer isolates the opponent's arm and torques the shoulder in order to cause pain or injury.,gaps-review
 kin,k,n,3,3.65,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.person,a person having kinship with another or others,oewn2025
 kina,k,a,4,2.26,UNCOMMON,True,,,,,,False,noun.quantity,the basic unit of money in Papua New Guinea,oewn2025
 kinaesthesia,k,a,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of kinesthesia,kinesthesia,,,False,noun.cognition,the perception of body position and movement and muscular tensions etc,oewn2025
@@ -32096,6 +32123,7 @@ lychnis,l,s,7,1.11,RARE,True,,,,,,False,noun.plant,mostly perennial herbs with s
 lycopene,l,e,8,2.09,UNCOMMON,True,,,,,,False,noun.substance,carotenoid that makes tomatoes red; may lower the risk of prostate cancer,oewn2025
 lycopod,l,d,7,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,primitive evergreen moss-like plant with spores in club-shaped strobiles,oewn2025
 lycopodium,l,m,10,1.64,RARE,True,,possible name,,,,False,,A club moss of the genus Lycopodium.,scowl
+lycra,l,a,5,2.65,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Letter case form of Lycra.,gaps-review
 lyddite,l,e,7,0.0,OBSCURE,True,,obscure,,,,False,,An explosive consisting of a mixture of picric acid and guncotton.,scowl
 lye,l,e,3,2.72,UNCOMMON,True,,,,,,False,noun.substance,a strong solution of sodium or potassium hydroxide,oewn2025
 lygaeid,l,d,7,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,a true bug: usually bright-colored; pest of cultivated crops and some fruit trees,oewn2025
@@ -32591,6 +32619,7 @@ mandator,m,r,8,0.0,OBSCURE,True,,obscure,,,,False,noun.person,an authority who i
 mandatory,m,y,9,4.13,COMMON,True,,usually an adjective (corpus),,,,False,noun.person,the recipient of a mandate,oewn2025
 mandazi,m,i,7,0.0,OBSCURE,True,,obscure,,,,False,,A form of fried bread from eastern Africa.,scowl
 mandelbrot,m,t,10,2.04,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"A sort of cookie-like hard, sweet bread usually containing almonds traditionally eaten by Ashkenazi Jews and often dipped in tea.",gaps-review
+mandi,m,i,5,2.68,UNCOMMON,True,,,,,,False,,"A traditional style of washing oneself in Indonesia and Malaysia, using a small container to scoop water out of a larger container and pour it over the body.",gaps-review
 mandible,m,e,8,2.75,UNCOMMON,True,,,,,,False,noun.body,the jaw in vertebrates that is hinged to open the mouth,oewn2025
 mandibula,m,a,9,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of mandible,mandible,,,False,noun.body,the jaw in vertebrates that is hinged to open the mouth,oewn2025
 mandioc,m,c,7,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of manioc,manioc,,,False,noun.plant,cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca,oewn2025
@@ -33124,6 +33153,7 @@ matzoh,m,h,6,1.54,RARE,False,spelling variant of another word (reviewed),spellin
 maud,m,d,4,3.04,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A grey plaid once worn by shepherds in Scotland and Northumbria.,gaps-review
 maudlin,m,n,7,2.39,UNCOMMON,False,adjective (not a noun),adjective (not a noun),,ADJ,,False,,The Magdalene; Mary Magdalene.,pos-auto
 maul,m,l,4,2.9,UNCOMMON,True,,,,,,False,noun.artifact,a heavy long-handled hammer used to drive stakes or wedges,oewn2025
+maulana,m,a,7,2.62,UNCOMMON,True,,,,,,False,,"A religious scholar, especially in Central and South Asia.",gaps-review
 mauler,m,r,6,1.85,RARE,True,,,,,,False,noun.person,a fighter who batters the opponent,oewn2025
 maulers,m,s,7,1.37,RARE,False,inflected form (Wiktionary),possible plural,,,,False,noun.body,large strong hand (as of a fighter),oewn2025
 mauling,m,g,7,2.36,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,maul,False,,An instance of something being mauled.,pos-auto
@@ -34186,6 +34216,7 @@ milliamp,m,p,8,1.1,RARE,True,,,,,,False,,one thousandth of an ampere,domain:elec
 milliampere,m,e,11,1.22,RARE,True,,,,,,False,noun.quantity,one thousandth of an ampere,oewn2025
 milliard,m,d,8,1.52,RARE,False,not in Wiktionary,"manual - not in Wiktionary, is it a real noun?",,,,False,noun.quantity,a billion,oewn2025
 millibar,m,r,8,1.25,RARE,True,,,,,,False,noun.quantity,a unit of atmospheric pressure equal to one thousandth of a bar,oewn2025
+millicent,m,t,9,2.66,UNCOMMON,True,,,,,,False,,One thousandth of a cent (used in securities trading).,gaps-review
 millicurie,m,e,10,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,a unit of radioactivity equal to one thousandth of a curie,oewn2025
 millidegree,m,e,11,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,a unit of temperature equal to one-thousandth of a degree,oewn2025
 millieme,m,e,8,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of millime.,scowl
@@ -34822,6 +34853,7 @@ moneywoman,m,n,10,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it 
 moneywort,m,t,9,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,a loosestrife vine,oewn2025
 mong,m,g,4,2.99,UNCOMMON,True,,,,,,False,,"A mingling, mixture, or crowd.",scowl
 monger,m,r,6,2.61,UNCOMMON,True,,possible abbreviation or clipping,,,,False,noun.person,someone who purchases and maintains an inventory of goods to be sold,oewn2025
+mongering,m,g,9,2.95,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,"Trading or peddling (typically, of a specified commodity).",gaps-review
 monggo,m,o,6,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.plant,seed of the mung bean plant; used for food,oewn2025
 mongo,m,o,5,2.52,UNCOMMON,True,,possible abbreviation or clipping,,,,False,noun.quantity,100 mongo equal 1 tugrik in Mongolia,oewn2025
 mongol,m,l,6,2.97,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative letter-case form of Mongol (“a person with Down's syndrome”).,gaps-review
@@ -35071,6 +35103,7 @@ morgen,m,n,6,2.4,UNCOMMON,True,,,,,,False,noun.quantity,a South African unit of 
 morgue,m,e,6,3.08,FAMILIAR,True,,,,,,False,noun.artifact,a building (or room) where dead bodies are kept before burial or cremation,oewn2025
 moribund,m,d,8,2.57,UNCOMMON,False,adjective (not a noun),adjective (not a noun),,ADJ,,False,,A person who is near to dying.,pos-auto
 moribundity,m,y,11,0.0,OBSCURE,True,,obscure,,,,False,,the state or condition of being moribund,scowl
+morin,m,n,5,2.65,UNCOMMON,True,,,,,,False,,"A yellow flavonoid, extracted from fustic, once used to dye wool",gaps-review
 morion,m,n,6,1.29,RARE,True,,,,,,False,noun.artifact,a metal helmet worn by common soldiers in the 16th century,oewn2025
 mormon,m,n,6,3.67,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Any of various dark-coloured Asian species of papilionid butterflies of the genus Papilio.,gaps-review
 morn,m,n,4,3.05,FAMILIAR,True,,,,,,False,noun.time,the time period between dawn and noon,oewn2025
@@ -36373,6 +36406,7 @@ neutropenia,n,a,11,2.16,UNCOMMON,True,,,,,,False,noun.state,leukopenia in which 
 neutrophil,n,l,10,2.27,UNCOMMON,True,,,,,,False,noun.body,the chief phagocytic leukocyte; stains with either basic or acid dyes,oewn2025
 neutrophile,n,e,11,0.0,OBSCURE,True,,obscure,,,,False,noun.body,the chief phagocytic leukocyte; stains with either basic or acid dyes,oewn2025
 neve,n,e,4,2.79,UNCOMMON,True,,,,,,False,noun.object,the upper part of a glacier (beyond the limit of perpetual snow) where the snow turns to ice,oewn2025
+neverland,n,d,9,2.79,UNCOMMON,True,,,,,,False,,"An ideal, fantastical, imaginary, or dreamlike place.",gaps-review
 nevermind,n,d,9,3.24,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"Attention, heed.",gaps-review
 nevirapine,n,e,10,1.5,RARE,True,,,,,,False,noun.artifact,a non-nucleoside reverse transcriptase inhibitor (trade name Viramune) used to treat AIDS and HIV,oewn2025
 nevus,n,s,5,1.94,RARE,True,,,,,,False,noun.attribute,a blemish on the skin that is formed before birth,oewn2025
@@ -36491,6 +36525,7 @@ nightclothes,n,s,12,1.41,RARE,False,plural-only (Wiktionary),possible plural,,,,
 nightclub,n,b,9,3.65,FAMILIAR,True,,,,,,False,noun.artifact,a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink,oewn2025
 nightcrawler,n,r,12,2.55,UNCOMMON,True,,,,,,False,noun.animal,terrestrial worm that burrows into and helps aerate soil; often surfaces when the ground is cool or wet; used as bait by anglers,oewn2025
 nightdress,n,s,10,1.98,RARE,True,,,,,,False,noun.artifact,lingerie consisting of a loose dress designed to be worn in bed by women,oewn2025
+nighter,n,r,7,2.66,UNCOMMON,True,,,,,,False,,Someone or something who does something for a certain number of nights,gaps-review
 nightfall,n,l,9,3.11,FAMILIAR,True,,,,,,False,noun.time,the time of day immediately following sunset,oewn2025
 nightgown,n,n,9,2.55,UNCOMMON,True,,,,,,False,noun.artifact,lingerie consisting of a loose dress designed to be worn in bed by women,oewn2025
 nighthawk,n,k,9,2.53,UNCOMMON,True,,,,,,False,noun.person,a person who likes to be active late at night,oewn2025
@@ -38654,6 +38689,7 @@ paddymelon,p,n,10,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,small reddish-b
 pademelon,p,n,9,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,small reddish-brown wallabies of scrubby areas of Australia and New Guinea,oewn2025
 padkos,p,s,6,0.0,OBSCURE,True,,obscure,,,,False,,Food for a journey.,scowl
 padlock,p,k,7,2.68,UNCOMMON,True,,,,,,False,noun.artifact,a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut,oewn2025
+padma,p,a,5,2.65,UNCOMMON,True,,,,,,False,,lotus blossom,gaps-review
 padnag,p,g,6,0.0,OBSCURE,True,,obscure,,,,False,,An ambling nag (horse).,scowl
 padouk,p,k,6,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of padauk,padauk,,,False,noun.plant,tree native to southeastern Asia having reddish wood with a mottled or striped black grain,oewn2025
 padre,p,e,5,3.11,FAMILIAR,True,,possible name,,,,False,noun.person,a chaplain in one of the military services,oewn2025
@@ -38841,6 +38877,7 @@ palmitate,p,e,9,1.98,RARE,True,,,,,,False,,Any salt or ester of palmitic acid.,s
 palmitin,p,n,8,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,an ester of glycerol and palmitic acid,oewn2025
 palmtop,p,p,7,1.29,RARE,True,,,,,,False,,Synonym of personal digital assistant.,scowl
 palmyra,p,a,7,2.74,UNCOMMON,True,,,,,,False,noun.plant,tall fan palm of Africa and India and Malaysia yielding a hard wood and sweet sap that is a source of palm wine and sugar; leaves used for thatching and weaving,oewn2025
+paloma,p,a,6,2.8,UNCOMMON,True,,,,,,False,,"A cocktail made with tequila, lime juice, and grapefruit soda.",gaps-review
 palometa,p,a,8,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,smaller than Florida pompano; common in West Indies,oewn2025
 palomino,p,o,8,2.29,UNCOMMON,True,,,,,,False,noun.animal,a horse of light tan or golden color with cream-colored or white mane and tail,oewn2025
 palooka,p,a,7,1.64,RARE,True,,,,,,False,noun.person,a second-rate prize fighter,oewn2025
@@ -38939,6 +38976,7 @@ panlogism,p,m,9,0.0,OBSCURE,True,,obscure,,,,False,,"The Hegelian doctrine that 
 panne,p,e,5,1.73,RARE,True,,,,,,False,,A lustrous finish applied to velvet and satin.,scowl
 pannier,p,r,7,2.0,UNCOMMON,True,,,,,,False,noun.artifact,either of a pair of bags or boxes hung over the rear wheel of a vehicle (as a bicycle),oewn2025
 pannikin,p,n,8,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a small pan or cup (usually of tin),oewn2025
+panning,p,g,7,2.76,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,"The act of one who pans, as for gold.",gaps-review
 panocha,p,a,7,1.03,RARE,True,,,,,,False,noun.food,fudge made with brown sugar and butter and milk and nuts,oewn2025
 panoche,p,e,7,1.21,RARE,False,spelling variant of another word (reviewed),spelling variant of panocha,panocha,,,False,noun.food,fudge made with brown sugar and butter and milk and nuts,oewn2025
 panoply,p,y,7,2.32,UNCOMMON,True,,,,,,False,noun.group,a complete and impressive array,oewn2025
@@ -39530,6 +39568,7 @@ patsy,p,y,5,3.12,FAMILIAR,True,,,,,,False,noun.person,a person who is gullible a
 patten,p,n,6,2.89,UNCOMMON,True,,,,,,False,noun.artifact,footwear usually with wooden soles,oewn2025
 patter,p,r,6,2.77,UNCOMMON,True,,,,,,False,noun.communication,plausible glib talk (especially useful to a salesperson),oewn2025
 pattern,p,n,7,4.56,COMMON,True,,,,,,False,noun.cognition,a perceptual structure,oewn2025
+patterning,p,g,10,2.74,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,A pattern; the production of a pattern; the process of forming a pattern.,gaps-review
 patternmaker,p,r,12,1.25,RARE,True,,,,,,False,noun.person,someone who makes patterns (as for sewing or carpentry or metalworking),oewn2025
 patti,p,i,5,3.2,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A traditional residential subdivision or unit found in settlements of Punjab.,gaps-review
 pattie,p,e,6,2.48,UNCOMMON,True,,,,,,False,,Alternative spelling of patty.,scowl
@@ -40310,6 +40349,7 @@ petrel,p,l,6,2.21,UNCOMMON,True,,,,,,False,noun.animal,relatively small long-win
 petrifaction,p,n,12,1.15,RARE,True,,,,,,False,noun.process,the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape,oewn2025
 petrification,p,n,13,1.58,RARE,True,,,,,,False,noun.process,the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape,oewn2025
 petrissage,p,e,10,0.0,OBSCURE,True,,obscure,,,,False,noun.act,massage of the skin which is gently lifted and squeezed,oewn2025
+petro,p,o,5,2.94,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,"A Venezuelan cryptocurrency launched in 2018, supposed to be backed by the country's oil and mineral reserves. Symbol: ₽.",gaps-review
 petrochemical,p,l,13,2.97,UNCOMMON,True,,,,,,False,noun.substance,any compound obtained from petroleum or natural gas,oewn2025
 petrochemistry,p,y,14,0.0,OBSCURE,True,,obscure,,,,False,,"The branch of chemistry that deals with petroleum, natural gas and their derivatives.",scowl
 petrodollar,p,r,11,1.71,RARE,True,,,,,,False,,"Money (either notionally or specifically in dollars or other currencies) earned from the sale of oil, often especially as considered among a national economy's principal revenue streams.",scowl
@@ -43618,6 +43658,7 @@ puku,p,u,4,1.31,RARE,True,,,,,,False,noun.animal,an African antelope closely rel
 pul,p,l,3,2.4,UNCOMMON,True,,,,,,False,noun.quantity,100 puls equal 1 afghani in Afghanistan,oewn2025
 pula,p,a,4,2.35,UNCOMMON,True,,,,,,False,noun.quantity,the basic unit of money in Botswana,oewn2025
 pulasan,p,n,7,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,East Indian fruit tree bearing fruit similar to but sweeter than that of the rambutan,oewn2025
+pulaski,p,i,7,2.88,UNCOMMON,True,,,,,,False,,"A double-ended fire-fighting tool, usually long-handled, and having an ax-blade on one side and a mattock-blade on the other.",gaps-review
 pulassan,p,n,8,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,False,noun.plant,East Indian fruit tree bearing fruit similar to but sweeter than that of the rambutan,oewn2025
 pulchritude,p,e,11,1.36,RARE,True,,,,,,False,noun.attribute,physical beauty (especially of a woman),oewn2025
 puler,p,r,5,0.0,OBSCURE,True,,obscure,,,,False,,Someone who pules; a whinger or complainer,scowl
@@ -45743,6 +45784,7 @@ repositioning,r,g,13,2.63,UNCOMMON,True,,,,,,False,noun.act,the act of placing i
 repository,r,y,10,3.43,FAMILIAR,True,,,,,,False,noun.artifact,a facility where things can be deposited for storage or safekeeping,oewn2025
 repossession,r,n,12,2.39,UNCOMMON,True,,,,,,False,noun.act,the action of regaining possession (especially the seizure of collateral securing a loan that is in default),oewn2025
 repost,r,t,6,3.6,FAMILIAR,True,,,,,,False,noun.communication,A post on social media that has already been posted,oewn2025
+reposting,r,g,9,2.7,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The act of posting something again.,gaps-review
 repousse,r,e,8,1.5,RARE,True,,"not in Wiktionary, glossed by hand",,,,False,,Metalwork hammered into relief from the reverse side.,scowl
 repp,r,p,4,1.61,RARE,True,,,,,,False,noun.artifact,a fabric with prominent rounded crosswise ribs,oewn2025
 reprehensibility,r,y,16,0.0,OBSCURE,True,,obscure,,,,False,noun.attribute,being reprehensible; worthy of and deserving reprehension or reproof,oewn2025
@@ -45860,8 +45902,10 @@ reserves,r,s,8,4.22,COMMON,False,inflected form (Wiktionary),possible plural,,,,
 reservist,r,t,9,2.47,UNCOMMON,True,,,,,,False,noun.person,a member of a military reserve,oewn2025
 reservoir,r,r,9,3.9,FAMILIAR,True,,,,,,False,noun.quantity,a large or extra supply of something,oewn2025
 reset,r,t,5,3.83,FAMILIAR,True,,,,,,False,noun.artifact,device for resetting instruments or controls,oewn2025
+resetting,r,g,9,2.81,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The act by which something is reset.,gaps-review
 resettlement,r,t,12,3.14,FAMILIAR,True,,,,,,False,noun.act,the transportation of people (as a family or colony) to a new settlement (as after an upheaval of some kind),oewn2025
 resh,r,h,4,1.82,RARE,True,,,,,,False,noun.communication,the 20th letter of the Hebrew alphabet,oewn2025
+reshaping,r,g,9,2.87,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The process by which something is reshaped.,gaps-review
 reshipment,r,t,10,1.15,RARE,True,,,,,,False,noun.act,the act of shipping again (especially by transferring to another ship),oewn2025
 reshuffle,r,e,9,2.81,UNCOMMON,True,,,,,,False,noun.act,a redistribution of something,oewn2025
 reshuffling,r,g,11,2.1,UNCOMMON,True,,,,,,False,noun.act,shuffling again,oewn2025
@@ -46223,6 +46267,7 @@ revulsion,r,n,9,2.71,UNCOMMON,True,,,,,,False,noun.feeling,intense aversion,oewn
 revving,r,g,7,2.66,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,rev,False,,The act by which an engine is revved.,pos-auto
 reward,r,d,6,4.33,COMMON,True,,,,,,False,noun.event,a recompense for worthy acts or retribution for wrongdoing,oewn2025
 rewatch,r,h,7,2.97,UNCOMMON,True,,,,,,False,noun.act,the act of watching a show or television one more time,oewn2025
+rewatching,r,g,10,2.81,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The act of watching something again.,gaps-review
 rewind,r,d,6,3.24,FAMILIAR,True,,,,,,False,,The act of rewinding.,gaps-review
 rewinding,r,g,9,2.36,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,rewind,False,,The act or process by which something is rewound.,pos-auto
 rewire,r,e,6,2.45,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,,False,,The act of replacing the wires of something.,pos-auto
@@ -47668,6 +47713,7 @@ saute,s,e,5,2.46,UNCOMMON,False,not in Wiktionary,"manual - not in Wiktionary, i
 sauteing,s,g,8,1.38,RARE,False,not in Wiktionary,"manual - not in Wiktionary, is it a real noun?",,,,False,noun.act,cooking in fat or oil in a pan or griddle,oewn2025
 sauterne,s,e,8,1.17,RARE,True,,,,,,False,,A wine imitating those of Sauternes.,scowl
 sauternes,s,s,9,1.8,RARE,False,inflected form (Wiktionary),,,,,False,,plural of sauterne,scowl
+sauvignon,s,n,9,2.87,UNCOMMON,True,,,,,,False,,Any of several grape varieties and associated wines originally from France,gaps-review
 savage,s,e,6,4.05,COMMON,True,,usually an adjective (corpus),,,,False,noun.person,a member of an uncivilized people,oewn2025
 savageness,s,s,10,1.5,RARE,True,,,,,,False,noun.attribute,the property of being untamed and ferocious,oewn2025
 savagery,s,y,8,2.87,UNCOMMON,True,,,,,,False,noun.attribute,the property of being untamed and ferocious,oewn2025
@@ -47960,6 +48006,7 @@ schoolchild,s,d,11,1.69,RARE,True,,,,,,False,noun.person,a young person attendin
 schoolcraft,s,t,11,2.14,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,The art or practice of education.,gaps-review
 schoolday,s,y,9,1.21,RARE,True,,,,,,False,,"A day during which the public schools are open, usually synonymous with weekday during the school year.",scowl
 schooldays,s,s,10,2.18,UNCOMMON,True,,,,,,False,noun.time,the time of life when you are going to school,oewn2025
+schooler,s,r,8,2.72,UNCOMMON,True,,,,,,False,,"A student, or in some cases member, of a particular type of school or schooling. (ordinarily used in combinations such as ""high schooler"")",gaps-review
 schoolfellow,s,w,12,0.0,OBSCURE,True,,obscure,,,,False,noun.person,an acquaintance that you go to school with,oewn2025
 schoolfriend,s,d,12,1.48,RARE,True,,,,,,False,noun.person,a friend who attends the same school,oewn2025
 schoolgirl,s,l,10,3.1,FAMILIAR,True,,,,,,False,noun.person,a girl attending school,oewn2025
@@ -49035,8 +49082,10 @@ shagreen,s,n,8,1.53,RARE,True,,,,,,False,,"An untanned leather, often dyed green
 shah,s,h,4,3.81,FAMILIAR,True,,,,,,False,noun.person,title for the former hereditary monarch of Iran,oewn2025
 shahadah,s,h,8,1.48,RARE,True,,,,,,False,noun.cognition,the first pillar of Islam is an affirmation of faith,oewn2025
 shaheed,s,d,7,2.55,UNCOMMON,True,,,,,,False,noun.person,Arabic term for holy martyrs,oewn2025
+shaheen,s,n,7,2.64,UNCOMMON,True,,,,,,False,,The shaheen falcon,gaps-review
 shaikh,s,h,6,2.75,UNCOMMON,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,False,,Alternative spelling of sheik.,scowl
 shaitan,s,n,7,1.88,RARE,True,,,,,,False,noun.person,(Islam) a rebellious jinni who leads men astray,oewn2025
+shaka,s,a,5,2.63,UNCOMMON,True,,,,,,False,,"A greeting gesture in which the thumb and little finger are extended while curling the three middle fingers in a semi-fist, used to express a variety of positive meanings including all right, hello an",gaps-review
 shake,s,e,5,4.33,COMMON,True,,usually a verb (corpus),,,,False,noun.substance,building material used as siding or roofing,oewn2025
 shakedown,s,n,9,2.65,UNCOMMON,True,,,,,,False,noun.event,initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state,oewn2025
 shaken,s,n,6,3.6,FAMILIAR,False,verb (not a noun),verb (not a noun); usually a verb (corpus),,VERB,shake,False,,"A flat shuriken (“dart or throwing blade”) resembling a spiked wheel, as opposed to the longer stick-like kind.",pos-auto
@@ -49219,6 +49268,7 @@ shemozzle,s,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.state,(Yiddish) a confus
 shen,s,n,4,3.25,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"A deity or a spirit, in Chinese folk religion.",gaps-review
 shenanigan,s,n,10,1.53,RARE,False,inflected form (Wiktionary),,,,,False,noun.act,reckless or malicious behavior that causes discomfort or annoyance in others,oewn2025
 shenanigans,s,s,11,3.21,FAMILIAR,False,inflected form (Wiktionary),,,,,False,,"Mischievous play, especially by children.",scowl
+sheng,s,g,5,2.87,UNCOMMON,True,,,,,,False,,"A Chinese wind instrument, a free-reed mouth organ consisting of 13 or more bamboo pipes of various lengths, which are fixed at their bases in a wind chest made from a dried gourd (or, more recently, ",gaps-review
 shepherd,s,d,8,3.9,FAMILIAR,True,,,,,,False,noun.person,a clergyman who watches over a group of people,oewn2025
 shepherdess,s,s,11,2.2,UNCOMMON,True,,,,,,False,noun.person,a woman shepherd,oewn2025
 shepherding,s,g,11,2.27,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,shepherd,False,,The herding of sheep.,pos-auto
@@ -49313,6 +49363,7 @@ shire,s,e,5,3.47,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.
 shirk,s,k,5,2.66,UNCOMMON,False,verb (not a noun),verb (not a noun),,VERB,,False,,"One who shirks, who avoids a duty or responsibility.",pos-auto
 shirker,s,r,7,1.33,RARE,True,,,,,,False,noun.person,a person who shirks their work or duty (especially one who tries to evade military service in wartime),oewn2025
 shirking,s,g,8,2.29,UNCOMMON,True,,,,,,False,noun.act,the evasion of work or duty,oewn2025
+shiro,s,o,5,2.88,UNCOMMON,True,,,,,,False,,A stew of Ethiopia and Eritrea origin whose primary ingredient is powdered chickpeas or broad-bean meal.,gaps-review
 shirr,s,r,5,0.0,OBSCURE,True,,obscure; also a verb (SCOWL),,,,False,,A shirring.,scowl
 shirring,s,g,8,1.11,RARE,True,,,,,,False,noun.act,baking shelled eggs,oewn2025
 shirt,s,t,5,4.63,COMMON,True,,,,,,False,noun.artifact,a garment worn on the upper half of the body,oewn2025
@@ -51520,6 +51571,7 @@ spittle,s,e,7,2.25,UNCOMMON,True,,,,,,False,noun.body,a clear liquid secreted in
 spittlebug,s,g,10,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,small leaping herbivorous insect that lives in a mass of protective froth which it and its larvae secrete,oewn2025
 spittoon,s,n,8,1.85,RARE,True,,,,,,False,noun.artifact,a receptacle for spit (usually in a public place),oewn2025
 spitz,s,z,5,2.54,UNCOMMON,True,,,,,,False,noun.animal,any of various stocky heavy-coated breeds of dogs native to northern regions having pointed muzzles and erect ears with a curled furry tail,oewn2025
+spitzer,s,r,7,2.77,UNCOMMON,True,,,,,,False,,A pointed bullet.,gaps-review
 spiv,s,v,4,1.55,RARE,True,,,,,,False,noun.person,a person without employment who makes money by various dubious schemes; goes about smartly dressed and having a good time,oewn2025
 splanchnology,s,y,13,0.0,OBSCURE,True,,obscure,,,,False,,The scientific study of the viscera.,scowl
 splash,s,h,6,3.85,FAMILIAR,True,,,,,,False,noun.event,the sound like water splashing,oewn2025
@@ -54509,6 +54561,7 @@ tattletale,t,e,10,1.89,RARE,True,,,,,,False,noun.person,someone who gossips indi
 tattling,t,g,8,1.83,RARE,False,verb (not a noun),verb (not a noun),,VERB,tattle,False,,The speech of one who tattles.,pos-auto
 tattoo,t,o,6,4.14,COMMON,True,,,,,,False,noun.communication,a drumbeat or bugle call that signals the military to return to their quarters,oewn2025
 tattooer,t,r,8,1.34,RARE,True,,,,,,False,,tattooist,scowl
+tattooing,t,g,9,2.75,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,The act of beating out a rhythm on a drum,gaps-review
 tattooist,t,t,9,1.99,RARE,True,,,,,,False,,Someone who draws or inks tattoos on people.,scowl
 tatu,t,u,4,1.97,RARE,False,spelling variant of another word (reviewed),spelling variant of tattoo,tattoo,,,False,noun.animal,about three feet long exclusive of tail,oewn2025
 tatum,t,m,5,3.32,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,The shortest statistically significant time interval between successive notes in a rhythmic phrase or a musical piece.,gaps-review
@@ -55126,6 +55179,7 @@ textualism,t,m,10,1.44,RARE,True,,,,,,False,,"Strict adherence to a text, especi
 textualist,t,t,10,1.3,RARE,True,,,,,,False,,A practitioner or adherent of textualism.,scowl
 textuary,t,y,8,0.0,OBSCURE,True,,obscure,,,,False,,One who is well versed in Scripture; a textman.,scowl
 texture,t,e,7,3.93,FAMILIAR,True,,,,,,False,noun.attribute,the feel of a surface or a fabric,oewn2025
+thakur,t,r,6,2.75,UNCOMMON,True,,,,,,False,,A noble in the historical feudal system of the Indian subcontinent.,gaps-review
 thalamencephalon,t,n,16,0.0,OBSCURE,True,,obscure,,,,False,noun.body,large egg-shaped structures of grey matter that form the dorsal subdivision of the diencephalon,oewn2025
 thalamus,t,s,8,2.44,UNCOMMON,True,,,,,,False,noun.body,large egg-shaped structures of grey matter that form the dorsal subdivision of the diencephalon,oewn2025
 thalassaemia,t,a,12,1.49,RARE,False,spelling variant of another word (reviewed),spelling variant of thalassemia,thalassemia,,,False,noun.state,an inherited form of anemia caused by faulty synthesis of hemoglobin,oewn2025
@@ -55390,6 +55444,7 @@ thoracotomy,t,y,11,2.05,UNCOMMON,True,,,,,,False,noun.act,surgical incision into
 thorax,t,x,6,2.88,UNCOMMON,True,,,,,,False,noun.body,the middle region of the body of an arthropod between the head and the abdomen,oewn2025
 thoria,t,a,6,0.0,OBSCURE,True,,obscure,,,,False,,The rare earth thorium oxide.,scowl
 thorianite,t,e,10,0.0,OBSCURE,True,,obscure,,,,False,,"A radioactive mineral containing thorium dioxide (ThO₂) plus oxides of uranium, lanthanum, cerium neodymium and praseodymium in smaller quantities.",scowl
+thorin,t,n,6,2.61,UNCOMMON,True,,,,,,False,,"A highly toxic indicator used in the determination of barium, beryllium, lithium, uranium and thorium compounds.",gaps-review
 thorite,t,e,7,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a radioactive mineral consisting of thorium silicate; it is a source of thorium that is found in coarse granite,oewn2025
 thorium,t,m,7,2.79,UNCOMMON,True,,,,,,False,noun.substance,a soft silvery-white tetravalent radioactive metallic element; isotope 232 is used as a power source in nuclear reactors; occurs in thorite and in monazite sands,oewn2025
 thorn,t,n,5,3.48,FAMILIAR,True,,,,,,False,noun.cognition,something that causes irritation and annoyance,oewn2025
@@ -57376,6 +57431,7 @@ tyg,t,g,3,1.52,RARE,True,,,,,,False,,Alternative form of tig (drinking cup),scow
 tying,t,g,5,3.68,FAMILIAR,True,,,,,,False,noun.act,the act of tying or binding things together,oewn2025
 tyiyn,t,n,5,0.0,OBSCURE,True,,obscure,,,,False,noun.quantity,100 tyiyn equal 1 som in Kyrgyzstan,oewn2025
 tyke,t,e,4,2.15,UNCOMMON,True,,possible name,,,,False,noun.person,a crude uncouth ill-bred person lacking culture or refinement,oewn2025
+tylenol,t,l,7,2.8,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,The pharmaceutical drug acetaminophen (“paracetamol”).,gaps-review
 tylosis,t,s,7,0.0,OBSCURE,True,,obscure,,,,False,,"a thickening of the skin, especially of the eyelids",scowl
 tymbal,t,l,6,0.0,OBSCURE,True,,obscure,,,,False,,One of a pair of specialised sound-producing structures located below each side of the anterior abdominal region of various species of cicada.,scowl
 tympan,t,n,6,0.0,OBSCURE,True,,obscure,,,,False,noun.artifact,a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end,oewn2025
@@ -57461,6 +57517,7 @@ uglification,u,n,12,0.0,OBSCURE,True,,obscure,,,,False,,The process of being mad
 ugliness,u,s,8,2.98,UNCOMMON,True,,,,,,False,noun.attribute,qualities of appearance that do not give pleasure to the senses,oewn2025
 ugly,u,y,4,4.42,COMMON,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,ADJ,,False,,Ugliness.,pos-auto
 uhlan,u,n,5,1.29,RARE,True,,,,,,False,,"A lancer, a soldier armed with a lance in a former light cavalry unit of the Polish, Prussian or German, Austrian, and Russian armies.",scowl
+uhuru,u,u,5,2.63,UNCOMMON,True,,,,,,False,,freedom,gaps-review
 uintathere,u,e,10,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,a variety of dinocerate,oewn2025
 uitlander,u,r,9,0.0,OBSCURE,True,,obscure,,,,False,,A foreigner; outlander.,scowl
 ujamaa,u,a,6,1.47,RARE,True,,,,,,False,,A socialist ideology of cooperation and collective advancement that formed the basis of socioeconomic policies in Tanzania in the 1960s.,scowl
@@ -57907,6 +57964,7 @@ unisex,u,x,6,3.0,FAMILIAR,False,adjective (not a noun),adjective (not a noun),,A
 unison,u,n,6,3.27,FAMILIAR,True,,,,,,False,noun.state,corresponding exactly,oewn2025
 unit,u,t,4,4.95,COMMON,True,,possible abbreviation or clipping,,,,False,noun.quantity,any division of quantity accepted as a standard of measurement or exchange,oewn2025
 unitard,u,d,7,1.66,RARE,True,,,,,,False,noun.artifact,a tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankles); worn by ballet dancers and acrobats for practice or performance,oewn2025
+unitarian,u,n,9,2.9,UNCOMMON,True,,,,,,False,,"A Christian who denies the doctrine of the Trinity, usually stressing some distinctions between God the Father and God the Son without denying the divinity of Jesus.",gaps-review
 unitariness,u,s,11,0.0,OBSCURE,True,,obscure,,,,False,noun.state,"The quality or state of pertaining to a unit, having the quality of oneness.",oewn2025
 unitarism,u,m,9,0.0,OBSCURE,True,,obscure,,,,False,noun.cognition,"Politics which favors the process of uniting a political entity which consists of smaller regions, either by cancelling the regions completely or by transferring their power to the central government.",oewn2025
 unitary,u,y,7,3.06,FAMILIAR,False,adjective (not a noun),adjective (not a noun),,ADJ,,False,,A unitary council.,pos-auto
@@ -59840,6 +59898,7 @@ webcam,w,m,6,3.49,FAMILIAR,True,,,,,,False,noun.artifact,a digital camera design
 webcast,w,t,7,2.97,UNCOMMON,True,,also a verb (SCOWL),,,,False,,A video and/or audio broadcast transmitted via the Internet,scowl
 webcaster,w,r,9,0.0,OBSCURE,True,,obscure,,,,False,,A person or organization that transmits a webcast over the Internet.,scowl
 webcasting,w,g,10,1.82,RARE,True,,,,,,False,,"Broadcasting over the World Wide Web, especially by using a webcam.",scowl
+webcomic,w,c,8,2.69,UNCOMMON,True,,,,,,False,,"An online comic, especially one first published on the Internet.",gaps-review
 weber,w,r,5,3.6,FAMILIAR,True,,possible name,,,,False,noun.quantity,"a unit of magnetic flux equal to 100,000,000 maxwells",oewn2025
 webfoot,w,t,7,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,a foot having the toes connected by folds of skin,oewn2025
 webhead,w,d,7,0.0,OBSCURE,True,,obscure,,,,False,,An avid user of the World Wide Web.,scowl
@@ -60028,6 +60087,7 @@ wheen,w,n,5,1.53,RARE,True,,,,,,False,,A little; a small number.,scowl
 wheeze,w,e,6,2.4,UNCOMMON,True,,,,,,False,noun.act,breathing with a husky or whistling sound,oewn2025
 wheezer,w,r,7,1.37,RARE,True,,,,,,False,,One who wheezes.,scowl
 wheeziness,w,s,10,0.0,OBSCURE,True,,obscure,,,,False,noun.state,presence of abnormal high-pitched sound heard with a stethoscope when an airway is blocked (as in asthma or chronic bronchitis),oewn2025
+wheezing,w,g,8,2.87,UNCOMMON,True,,,,,,False,,The quality or symptom of breathing with an audible wheeze,gaps-review
 whelk,w,k,5,1.9,RARE,True,,,,,,False,noun.food,large marine snail much used as food in Europe,oewn2025
 whelp,w,p,5,2.49,UNCOMMON,True,,,,,,False,noun.animal,young of any of various canines such as a dog or wolf,oewn2025
 whelping,w,g,8,1.4,RARE,False,verb (not a noun),verb (not a noun),,VERB,whelp,False,,An act of an animal whelping; an act of giving birth to young.,pos-auto
@@ -60347,6 +60407,7 @@ wink,w,k,4,3.5,FAMILIAR,True,,,,,,False,noun.time,a very short time (as the time
 winker,w,r,6,1.68,RARE,True,,possible abbreviation or clipping,,,,False,noun.person,a person who winks,oewn2025
 winking,w,g,7,2.82,UNCOMMON,True,,usually a verb (corpus),,,,False,noun.act,a reflex that closes and opens the eyes rapidly,oewn2025
 winkle,w,e,6,2.71,UNCOMMON,True,,,,,,False,noun.food,small edible marine snail; steamed in wine or baked,oewn2025
+winnebago,w,o,9,2.68,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,A motorhome; a recreational vehicle (RV).,gaps-review
 winner,w,r,6,4.8,COMMON,True,,,,,,False,noun.person,the contestant who wins the contest,oewn2025
 winnie,w,e,6,3.32,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Synonym of winnebago.,gaps-review
 winning,w,g,7,4.98,COMMON,True,,usually a verb (corpus),,,,False,noun.act,succeeding with great difficulty,oewn2025
@@ -60441,6 +60502,7 @@ wittol,w,l,6,0.0,OBSCURE,True,,obscure,,,,False,noun.person,an archaic term for 
 wivern,w,n,6,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of wyvern,wyvern,,,False,noun.person,a fire-breathing dragon used in medieval heraldry; had the head of a dragon and the tail of a snake and a body with wings and two legs,oewn2025
 wiz,w,z,3,3.13,FAMILIAR,True,,,,,,False,noun.person,someone who is dazzlingly skilled in any field,oewn2025
 wizard,w,d,6,3.93,FAMILIAR,True,,,,,,False,noun.person,someone who is dazzlingly skilled in any field,oewn2025
+wizarding,w,g,9,2.71,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,False,,"The magical work of a wizard; sorcery, witchcraft.",gaps-review
 wizardry,w,y,8,2.74,UNCOMMON,True,,,,,,False,noun.cognition,exceptional creative ability,oewn2025
 woad,w,d,4,1.87,RARE,True,,,,,,False,noun.substance,a blue dyestuff obtained from the woad plant,oewn2025
 woadwaxen,w,n,9,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,small Eurasian shrub having clusters of yellow flowers that yield a dye; common as a weed in Britain and the United States; sometimes grown as an ornamental,oewn2025
@@ -61211,6 +61273,7 @@ yottaliter,y,r,10,0.0,OBSCURE,True,,,,,,False,,a unit of volume equal to a septi
 yottameter,y,r,10,0.0,OBSCURE,True,,,,,,False,,a unit of length equal to a septillion metres,domain:y_words
 you,y,u,3,6.98,CORE,False,function word (not a noun),,,,,False,,The name of the Latin script letter U/u.,scowl
 young,y,g,5,5.43,CORE,True,,usually an adjective (corpus); possible name,,,,False,noun.animal,any immature animal,oewn2025
+youngblood,y,d,10,2.6,UNCOMMON,True,,,,,,False,,"Someone who constitutes or brings fresh blood, especially a youngster who joins an older team etc.",gaps-review
 younger,y,r,7,4.69,COMMON,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,ADJ,young,False,,One who is younger than another.,pos-auto
 youngest,y,t,8,4.05,COMMON,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,ADJ,young,False,,"The youngest child in a family, or individual in a group.",pos-auto
 youngling,y,g,9,1.75,RARE,True,,,,,,False,,"A young person, animal, or plant; chit.",scowl
@@ -61433,6 +61496,7 @@ zootsuiter,z,r,10,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of zoot-s
 zorbing,z,g,7,1.51,RARE,True,,,,,,False,,A sport in which a participant is secured inside a zorb and rolled downhill.,scowl
 zori,z,i,4,1.34,RARE,True,,,,,,False,noun.artifact,a sandal attached to the foot by a thong over the toes,oewn2025
 zoril,z,l,5,0.0,OBSCURE,True,,obscure,,,,False,noun.animal,muishond of northern Africa,oewn2025
+zorro,z,o,5,2.75,UNCOMMON,True,,,,,,False,,"A South American canid of the species Lycalopex culpaeus, visually similar to (and sometimes referred to as) a fox but more closely related to a wolf.",gaps-review
 zoster,z,r,6,2.25,UNCOMMON,True,,,,,,False,noun.state,eruptions along a nerve path often accompanied by severe neuralgia,oewn2025
 zoysia,z,a,6,1.38,RARE,True,,,,,,False,noun.plant,any of several creeping grasses of the genus Zoysia,oewn2025
 zucchetto,z,o,9,0.0,OBSCURE,True,,obscure,,,,False,,"A small skullcap worn by Roman Catholic clergy (the Pope's is white, a cardinal's red, a bishop's purple, and a priest's black), Anglican clergy, and Syriac or Malankara Orthodox clergy",scowl
