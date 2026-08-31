@@ -3819,3 +3819,65 @@ date,sheet,item,verdict,note
 2026-09-01,domains/y_words.csv,yottameter,noun,a unit of length equal to a septillion metres
 2026-09-01,domains/y_words.csv,yuko,noun,
 2026-09-01,domains/y_words.csv,yuletide,noun,the Christmas season
+2026-09-01,gaps_verdicts.csv,asymptomatic,noun,used as a noun for a person showing no symptoms
+2026-09-01,gaps_verdicts.csv,beastie,noun,an ordinary diminutive noun
+2026-09-01,gaps_verdicts.csv,bento,noun,a loanword long naturalised in English
+2026-09-01,gaps_verdicts.csv,biennale,noun,an ordinary noun for the exhibition
+2026-09-01,gaps_verdicts.csv,biometric,noun,a measured characteristic; a count noun
+2026-09-01,gaps_verdicts.csv,butthole,noun,vulgar but an ordinary count noun
+2026-09-01,gaps_verdicts.csv,chipset,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,collab,noun,the clipping is the ordinary form
+2026-09-01,gaps_verdicts.csv,commenter,noun,agent noun of comment
+2026-09-01,gaps_verdicts.csv,config,noun,the clipping is the ordinary form in computing
+2026-09-01,gaps_verdicts.csv,convo,noun,the clipping is the ordinary form
+2026-09-01,gaps_verdicts.csv,croc,noun,the clipping is the ordinary form
+2026-09-01,gaps_verdicts.csv,dancehall,noun,a hall and a music genre; an ordinary noun
+2026-09-01,gaps_verdicts.csv,dipshit,noun,vulgar but an ordinary count noun
+2026-09-01,gaps_verdicts.csv,douchebag,noun,vulgar but an ordinary count noun
+2026-09-01,gaps_verdicts.csv,eastside,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,eyewear,noun,a mass noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,fanart,noun,a mass noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,fuckery,noun,vulgar but an ordinary mass noun
+2026-09-01,gaps_verdicts.csv,futsal,noun,the ordinary name of the indoor game
+2026-09-01,gaps_verdicts.csv,gelato,noun,a loanword long naturalised in English
+2026-09-01,gaps_verdicts.csv,geriatric,noun,used as a noun for an old person
+2026-09-01,gaps_verdicts.csv,girlie,noun,the magazine; an ordinary noun
+2026-09-01,gaps_verdicts.csv,homeschool,noun,used as a noun as well as a verb
+2026-09-01,gaps_verdicts.csv,interstitial,noun,the advertising page; nominalised but ordinary
+2026-09-01,gaps_verdicts.csv,joshi,noun,a loanword used in English for the wrestling
+2026-09-01,gaps_verdicts.csv,katana,noun,a loanword long naturalised in English
+2026-09-01,gaps_verdicts.csv,kevlar,noun,a trade name that became the ordinary word for the fibre
+2026-09-01,gaps_verdicts.csv,keychain,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,kryptonite,noun,name-derived but an ordinary common noun for a weakness
+2026-09-01,gaps_verdicts.csv,licensure,noun,an ordinary noun of process
+2026-09-01,gaps_verdicts.csv,lightsaber,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,mecha,noun,the ordinary word for the giant robot genre
+2026-09-01,gaps_verdicts.csv,nitrous,noun,nominalised but the ordinary word for the gas
+2026-09-01,gaps_verdicts.csv,northside,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,okada,noun,the ordinary word for a motorcycle taxi
+2026-09-01,gaps_verdicts.csv,overthinking,verb,"the bare gerund of overthink: the act, not a thing"
+2026-09-01,gaps_verdicts.csv,passcode,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,phish,noun,a count noun in security use
+2026-09-01,gaps_verdicts.csv,photoshoot,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,punisher,noun,agent noun of punish
+2026-09-01,gaps_verdicts.csv,rebrand,noun,"a rebrand is a countable event, not only a verb"
+2026-09-01,gaps_verdicts.csv,receivable,noun,a debt owed; ordinary in accounting
+2026-09-01,gaps_verdicts.csv,redistricting,noun,"names the process, a count noun in political use"
+2026-09-01,gaps_verdicts.csv,refinancing,noun,names the loan as well as the act
+2026-09-01,gaps_verdicts.csv,resupply,noun,a countable act as well as a verb
+2026-09-01,gaps_verdicts.csv,ronin,noun,a loanword long naturalised in English
+2026-09-01,gaps_verdicts.csv,salesforce,noun,the solid spelling is ordinary in business use
+2026-09-01,gaps_verdicts.csv,sativa,noun,the ordinary name of the cannabis form
+2026-09-01,gaps_verdicts.csv,satoshi,noun,name-derived but the ordinary unit of bitcoin
+2026-09-01,gaps_verdicts.csv,setlist,noun,the list of songs a band plays; an ordinary compound noun
+2026-09-01,gaps_verdicts.csv,shemale,noun,offensive but an ordinary count noun in the sources
+2026-09-01,gaps_verdicts.csv,shitload,noun,vulgar but an ordinary count noun
+2026-09-01,gaps_verdicts.csv,southside,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,stormwater,noun,a mass noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,treehouse,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,twerking,noun,"names the dance, not only the act"
+2026-09-01,gaps_verdicts.csv,uninstall,noun,"the process, a count noun in computing"
+2026-09-01,gaps_verdicts.csv,vidya,noun,slang but an ordinary mass noun
+2026-09-01,gaps_verdicts.csv,walkie,noun,the clipping is the ordinary form
+2026-09-01,gaps_verdicts.csv,walkthrough,noun,a compound noun the dataset lacked
+2026-09-01,gaps_verdicts.csv,woodhouse,noun,a shed for wood; an ordinary compound

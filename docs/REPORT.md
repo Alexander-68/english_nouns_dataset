@@ -1492,3 +1492,36 @@ OEWN — `xenoform`, `xylozyme`, `xanthopolycyst`, `xeroorganism` and the rest o
 for, but they are the rows to look at first if the x supply ever needs trimming rather than
 extending.
 
+## The gaps queue is a queue, and 4,126 rows had never been read
+
+Asked why so many x- and y-words Wiktionary has never reached the dataset. Two answers, and the
+second one is the reusable finding.
+
+**The frequency cutoff.** 157 of the 240 sheet words had a Wiktionary noun entry. 150 of them score
+below `ZIPF_MIN = 2.0` and 126 score exactly 0.00 -- `wordfreq` has never seen them in any corpus --
+so they never entered `gaps.csv` at all. That is the cutoff working as designed; specialist
+vocabulary is invisible to the automatic path, which is why domain sheets exist.
+
+**The queue is a queue.** The other seven -- `yuko`, `yuzu`, `yair`, `yerba`, `xylitol` -- *were* in
+`gaps.csv`, with an empty `verdict` column, and had been for every build. Clearing the cutoff makes
+a word eligible, not present: a ruling in `reviews/gaps_verdicts.csv` is what turns a queue row into
+a dataset row. `xylitol` sat at exactly 2.00, one ruling away, and was instead added by hand to
+`domains/x_words.csv`.
+
+**So the queue was sorted and read.** 5,598 rows, 4,126 of them unruled. About 800 carry a flag that
+correctly parks them (spelling variant 521, initialism 137, interjection, clipping, function word).
+Of the 3,314 unflagged, 1,455 are `name_suspect` -- sorting by frequency alone puts `english`,
+`san`, `sam`, `tony`, `daniel` at the top, given names carrying an obscure common-noun sense
+("tony: a simpleton"). Past those, the real material starts at zipf 2.99.
+
+62 were ruled: modern compounds the cutoff let through but no one had read (`setlist`, `treehouse`,
+`photoshoot`, `walkthrough`, `passcode`, `chipset`, `keychain`, `eyewear`, `stormwater`,
+`homeschool`, `redistricting`, `licensure`), naturalised loanwords (`katana`, `gelato`, `bento`,
+`ronin`, `futsal`, `biennale`, `mecha`), clippings that are now the ordinary form (`config`,
+`collab`, `convo`, `croc`, `walkie`), and six vulgar but ordinary count nouns, which the dataset
+does not censor -- it already ships `crap` and `fatass`. `overthinking` is ruled `verb`: the bare
+gerund of an ordinary verb, the same call `smoothing` and `streaking` got.
+
+Rows 61,313 -> 61,375; playable 51,701 -> 51,762. `work/queue-misses.csv` keeps the ranked
+remainder -- 1,859 rows that pass the same filters and are still unread.
+

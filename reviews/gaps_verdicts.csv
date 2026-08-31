@@ -1091,3 +1091,65 @@ tania,name,"name, brand or place; not a common noun"
 supercar,noun,ordinary common noun the dataset should have
 embedding,noun,ordinary common noun the dataset should have
 nola,name,"name, brand or place; not a common noun"
+asymptomatic,noun,used as a noun for a person showing no symptoms
+beastie,noun,an ordinary diminutive noun
+bento,noun,a loanword long naturalised in English
+biennale,noun,an ordinary noun for the exhibition
+biometric,noun,a measured characteristic; a count noun
+butthole,noun,vulgar but an ordinary count noun
+chipset,noun,a compound noun the dataset lacked
+collab,noun,the clipping is the ordinary form
+commenter,noun,agent noun of comment
+config,noun,the clipping is the ordinary form in computing
+convo,noun,the clipping is the ordinary form
+croc,noun,the clipping is the ordinary form
+dancehall,noun,a hall and a music genre; an ordinary noun
+dipshit,noun,vulgar but an ordinary count noun
+douchebag,noun,vulgar but an ordinary count noun
+eastside,noun,a compound noun the dataset lacked
+eyewear,noun,a mass noun the dataset lacked
+fanart,noun,a mass noun the dataset lacked
+fuckery,noun,vulgar but an ordinary mass noun
+futsal,noun,the ordinary name of the indoor game
+gelato,noun,a loanword long naturalised in English
+geriatric,noun,used as a noun for an old person
+girlie,noun,the magazine; an ordinary noun
+homeschool,noun,used as a noun as well as a verb
+interstitial,noun,the advertising page; nominalised but ordinary
+joshi,noun,a loanword used in English for the wrestling
+katana,noun,a loanword long naturalised in English
+kevlar,noun,a trade name that became the ordinary word for the fibre
+keychain,noun,a compound noun the dataset lacked
+kryptonite,noun,name-derived but an ordinary common noun for a weakness
+licensure,noun,an ordinary noun of process
+lightsaber,noun,a compound noun the dataset lacked
+mecha,noun,the ordinary word for the giant robot genre
+nitrous,noun,nominalised but the ordinary word for the gas
+northside,noun,a compound noun the dataset lacked
+okada,noun,the ordinary word for a motorcycle taxi
+overthinking,verb,"the bare gerund of overthink: the act, not a thing"
+passcode,noun,a compound noun the dataset lacked
+phish,noun,a count noun in security use
+photoshoot,noun,a compound noun the dataset lacked
+punisher,noun,agent noun of punish
+rebrand,noun,"a rebrand is a countable event, not only a verb"
+receivable,noun,a debt owed; ordinary in accounting
+redistricting,noun,"names the process, a count noun in political use"
+refinancing,noun,names the loan as well as the act
+resupply,noun,a countable act as well as a verb
+ronin,noun,a loanword long naturalised in English
+salesforce,noun,the solid spelling is ordinary in business use
+sativa,noun,the ordinary name of the cannabis form
+satoshi,noun,name-derived but the ordinary unit of bitcoin
+setlist,noun,the list of songs a band plays; an ordinary compound noun
+shemale,noun,offensive but an ordinary count noun in the sources
+shitload,noun,vulgar but an ordinary count noun
+southside,noun,a compound noun the dataset lacked
+stormwater,noun,a mass noun the dataset lacked
+treehouse,noun,a compound noun the dataset lacked
+twerking,noun,"names the dance, not only the act"
+uninstall,noun,"the process, a count noun in computing"
+vidya,noun,slang but an ordinary mass noun
+walkie,noun,the clipping is the ordinary form
+walkthrough,noun,a compound noun the dataset lacked
+woodhouse,noun,a shed for wood; an ordinary compound
