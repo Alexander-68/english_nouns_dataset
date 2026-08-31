@@ -1522,6 +1522,20 @@ Of the 3,314 unflagged, 1,455 are `name_suspect` -- sorting by frequency alone p
 does not censor -- it already ships `crap` and `fatass`. `overthinking` is ruled `verb`: the bare
 gerund of an ordinary verb, the same call `smoothing` and `streaking` got.
 
-Rows 61,313 -> 61,375; playable 51,701 -> 51,762. `work/queue-misses.csv` keeps the ranked
-remainder -- 1,859 rows that pass the same filters and are still unread.
+Rows 61,313 -> 61,375; playable 51,701 -> 51,762.
+
+**A second pass, 85 more.** The same read carried further down the ranking, to zipf 2.52: `codec`,
+`otaku`, `kaiju`, `mojito`, `namespace`, `glyphosate`, `powertrain`, `showrunner`, `blogosphere`,
+`biodiesel`, `fibromyalgia`, `oxycodone`, `photonics`, `bioavailability`, `microbiota`,
+`streetwear`, `supercell`, `stormtrooper`, `metalcore`, `suplex`, `hammam`, `kundalini`, `gouda`.
+Nine are ruled `verb` -- `rereading`, `cussing`, `chaining`, `rebooting`, `meowing`, `blotting`,
+`romancing`, `goalscoring`, `embalming` -- all bare gerunds naming the act.
+
+Words were skipped where the ruling would ship a bad definition, because a `gaps_verdicts.csv` note
+argues for the ruling and does not replace the gloss: `gaslighting` is defined in Wiktionary as
+"Illumination by burning gas", `lycra` as "Letter case form of Lycra". Those need a domain-sheet row
+with a written note, not a queue ruling.
+
+Rows 61,375 -> 61,460; playable 51,762 -> 51,838. `work/queue-misses.csv` keeps the ranked remainder
+-- 1,716 rows that pass the same filters and are still unread.
 
