@@ -226,6 +226,22 @@ than re-ruled. Every row carries a written definition.
 The sheet is **not yet in a release** — it was added for the next build, not applied by re-running
 the pipeline.
 
+### `domains/y_words.csv`
+
+18 rows, all `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
+`yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
+`yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
+
+The 18th, `yammer`, is a correction: the build read it as a verb form, and the noun — a loud
+repetitive noise or complaint — is the ordinary sense.
+
+Three rows override a source gloss that points at the wrong thing for a player: Wiktionary makes
+`yelper` "a user of Yelp", `yate` an obsolete form of `gate`, and `yatagan` an alternative
+spelling of `yataghan` (which the dataset already has playable, so both spellings now work).
+
+The sheet is **not yet in a release**.
+
 ## The two verdict sheets are not interchangeable
 
 A hand-entry sheet applies both ways: it adds a row for a word the dataset does not have, and it
