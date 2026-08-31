@@ -210,11 +210,11 @@ festival, and the sheet gives it both the ruling and the sentence.
 
 ### `domains/x_words.csv`
 
-153 rows, 143 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
+173 rows, 161 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
 `xeriscape`, `xylocarp`, `xystus`, `xanthopterin`, `xenocurrency`, `xiphopagus`, `xylotomist`,
 `xenocracy`, `xylanase`, `xylopolist`. Four are ruled `name` — `xanthium`,
 `xylocopa`, `xylophaga`, `xylaria`, `xiphosurida`, `xyletinus`, `xyleborus` and
-`xenoceratopsian` are taxonomic names, and
+`xenoceratopsian`, `xylobius` and `xenoceratite` are taxonomic names, and
 `xyloid` and `xerarch` are adjectives, so they are not playable, and the sheet says what
 they are rather than leaving a player unanswered. Not a subject area but a supply problem: a word-chain game
 needs words starting with the letter it most often has to hand off to, and none of these was in the
