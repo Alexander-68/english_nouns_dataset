@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-02.csv` — 61,562 rows, 51,971 of them playable.**
+**`sen-2026-09-02.csv` — 61,568 rows, 51,977 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -44,7 +44,7 @@ one filter if you want a friendly list.
 | `is_plural` | the word is a listed plural of another entry |
 | `lexfile` | WordNet lexicographer file (`noun.animal`, `noun.artifact`, …) |
 | `definition` | one gloss, for showing the player |
-| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (64) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (3) · `domain:z_words` (1) |
+| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (70) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (3) · `domain:z_words` (1) |
 
 ## Playable words, by tier
 
@@ -55,14 +55,14 @@ one filter if you want a friendly list.
 | FAMILIAR | 7,369 |
 | UNCOMMON | 12,034 |
 | RARE | 13,138 |
-| OBSCURE | 15,989 |
+| OBSCURE | 15,995 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
 * **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,810 words**. Barely moved this release, which
   is the point: almost everything added landed below it.
 * **defensible** — everything except OBSCURE: **35,982 words**.
-* **extra-wide** — all **51,971**, including the OBSCURE band. `wordfreq` has never seen these,
+* **extra-wide** — all **51,977**, including the OBSCURE band. `wordfreq` has never seen these,
   which for `tokenomics` and `lootbox` means the frequency table is older than the word, and for
   `ophicleide` and `quitrent` means the word is genuinely rare. Both are in the same band and both
   carry `marks = "obscure"`; the dataset does not pretend to tell them apart.
@@ -109,7 +109,8 @@ set on **`same_word_as or noun`** and the pair collapses to one word — `whisky
 `whiskey` maps to itself, and the second one played is a repeat. Chain letters are unaffected: they
 come from `start` and `end` of the word actually typed.
 
-Four rows carry it today — `adz` (adze), `aunty` (auntie), `whisky` (whiskey), `yack` (yak) — every
+Five rows carry it today — `adz` (adze), `aunty` (auntie), `whisky` (whiskey), `yachtman`
+(yachtsman), `yack` (yak) — every
 one of them a `both` ruling in `reviews/variants-reviewed.csv`, where a doublet is real and both
 spellings are current. The alternative, rejecting one side, is what the file did before and it costs
 a player a word they spell correctly. The mark stays too (`spelling variant of whiskey`), so a game
@@ -300,7 +301,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | `manual-entry` | 142 | typed in because no source had them |
 | `domain:initialisms` | 99 | `reviews/domains/initialisms.csv` — one hand-ruled sheet |
 | `domain:bioinformatics` | 84 | `reviews/domains/bioinformatics.csv` — one hand-ruled sheet |
-| `domain:y_words` | 64 | `reviews/domains/y_words.csv` — one hand-ruled sheet |
+| `domain:y_words` | 70 | `reviews/domains/y_words.csv` — one hand-ruled sheet |
 | `domain:everyday` | 58 | `reviews/domains/everyday.csv` — one hand-ruled sheet |
 | `domain:medical_imaging` | 45 | `reviews/domains/medical_imaging.csv` — one hand-ruled sheet |
 | `domain:electronics` | 37 | `reviews/domains/electronics.csv` — one hand-ruled sheet |

@@ -61104,6 +61104,7 @@ yacca,y,a,5,0.0,OBSCURE,True,,obscure,,,,,False,noun.plant,West Indian evergreen
 yacht,y,t,5,3.82,FAMILIAR,True,,,,,,,False,noun.artifact,an expensive vessel propelled by sail or power and used for cruising or racing,oewn2025
 yachtie,y,e,7,0.0,OBSCURE,True,,,,,,,False,,a person who works on or spends much of their time aboard yachts,domain:y_words
 yachting,y,g,8,2.72,UNCOMMON,True,,,,,,,False,noun.act,water travel for pleasure,oewn2025
+yachtman,y,n,8,0.0,OBSCURE,True,,spelling variant of yachtsman,,yachtsman,,,False,,"a person who owns, sails or works aboard a yacht",domain:y_words
 yachtsman,y,n,9,2.11,UNCOMMON,True,,,,,,,False,noun.person,a male person who owns or sails a yacht,oewn2025
 yachtsperson,y,n,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a person who owns or sails a yacht,oewn2025
 yachtswoman,y,n,11,1.06,RARE,True,,,,,,,False,noun.person,a female person who owns or sails a yacht,oewn2025
@@ -61164,6 +61165,7 @@ yarmulke,y,e,8,1.9,RARE,True,,,,,,,False,noun.artifact,a skullcap worn by religi
 yarn,y,n,4,3.6,FAMILIAR,True,,,,,,,False,noun.communication,the act of giving an account describing incidents or a course of events,oewn2025
 yarnbombing,y,g,11,0.0,OBSCURE,True,,,,,,,False,,the practice of covering public objects in knitted or crocheted work,domain:y_words
 yarner,y,r,6,0.0,OBSCURE,True,,,,,,,False,,a teller of tall stories,domain:y_words
+yarnwindle,y,e,10,0.0,OBSCURE,True,,,,,,,False,,A device for winding yarn into a ball.,domain:y_words
 yarovization,y,n,12,0.0,OBSCURE,True,,,,,,,False,,the chilling of seed to bring forward flowering,domain:y_words
 yarrow,y,w,6,2.53,UNCOMMON,True,,,,,,,False,noun.plant,"ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets; widely naturalized in North America",oewn2025
 yashmac,y,c,7,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yashmak,yashmak,,,,False,noun.artifact,the face veil worn by Muslim women,oewn2025
@@ -61207,6 +61209,7 @@ yell,y,l,4,3.85,FAMILIAR,True,,,,,,,False,noun.communication,a loud utterance; o
 yeller,y,r,6,2.11,UNCOMMON,True,,,,,,,False,noun.person,someone who communicates vocally in a very loud voice,oewn2025
 yelling,y,g,7,4.04,COMMON,True,,usually a verb (corpus),,,,,False,noun.communication,uttering a loud inarticulate cry as of pain or excitement,oewn2025
 yellow,y,w,6,4.69,COMMON,True,,usually an adjective (corpus),,,,,False,noun.attribute,yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons,oewn2025
+yellowback,y,k,10,0.0,OBSCURE,True,,,,,,,False,,"a cheap novel of the 1800s, bound in yellow board",domain:y_words
 yellowbark,y,k,10,0.0,OBSCURE,True,,,,,,,False,,"a tree with yellow bark, especially the cinchona yielding quinine",domain:y_words
 yellowbird,y,d,10,1.32,RARE,True,,,,,,,False,noun.animal,yellow-throated American wood warbler,oewn2025
 yellowcake,y,e,10,1.89,RARE,True,,,,,,,False,noun.substance,an impure mixture of uranium oxides obtained during the processing of uranium ore,oewn2025
@@ -61289,6 +61292,7 @@ yokefellow,y,w,10,0.0,OBSCURE,True,,obscure,,,,,False,,"A companion; a fellow la
 yokel,y,l,5,1.91,RARE,True,,,,,,,False,noun.person,a person who is not very intelligent or interested in culture,oewn2025
 yokemate,y,e,8,0.0,OBSCURE,True,,,,,,,False,,a companion or partner in work,domain:y_words
 yoking,y,g,6,1.4,RARE,False,verb (not a noun),verb (not a noun),,,VERB,yoke,False,,The act or period of something being yoked.,pos-auto
+yokozuna,y,a,8,1.83,RARE,True,,,,,,,False,,"The highest rank of sumo wrestler, above ozeki; grand champion.",domain:y_words
 yolk,y,k,4,3.04,FAMILIAR,True,,,,,,,False,noun.food,the yellow spherical part of an egg that is surrounded by the albumen,oewn2025
 yomp,y,p,4,1.23,RARE,True,,,,,,,False,,"a long march on foot over rough ground, carrying full kit",domain:y_words
 yonder,y,r,6,2.97,UNCOMMON,False,adjective/adverb (not a noun),adjective/adverb (not a noun),,,ADJ;ADV,,False,,"The vast distance, particularly the sky or trackless forest.",pos-auto
@@ -61302,6 +61306,7 @@ yottabyte,y,e,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.quantity,a unit of info
 yottaflop,y,p,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.quantity,"(computer science) a unit for measuring the speed of a computer system, equal to one septillion floating-point operations a second.",oewn2025
 yottaliter,y,r,10,0.0,OBSCURE,True,,,,,,,False,,a unit of volume equal to a septillion litres,domain:y_words
 yottameter,y,r,10,0.0,OBSCURE,True,,,,,,,False,,a unit of length equal to a septillion metres,domain:y_words
+yottamole,y,e,9,0.0,OBSCURE,True,,,,,,,False,,a quantity of substance equal to 10^24 moles,domain:y_words
 you,y,u,3,6.98,CORE,False,function word (not a noun),,,,,,False,,The name of the Latin script letter U/u.,scowl
 young,y,g,5,5.43,CORE,True,,usually an adjective (corpus); possible name,,,,,False,noun.animal,any immature animal,oewn2025
 youngblood,y,d,10,2.6,UNCOMMON,True,,,,,,,False,,"Someone who constitutes or brings fresh blood, especially a youngster who joins an older team etc.",gaps-review
@@ -61342,6 +61347,7 @@ yukata,y,a,6,1.88,RARE,True,,,,,,,False,,a light unlined cotton kimono worn in s
 yuko,y,o,4,2.46,UNCOMMON,True,,,,,,,False,,The score for a throw that lands the opponent on his or her side.,domain:y_words
 yulan,y,n,5,1.25,RARE,True,,,,,,,False,,"Magnolia denudata, a species of magnolia with large white blossoms that open before the leaves.",scowl
 yule,y,e,4,2.71,UNCOMMON,True,,,,,,,False,,the historical midwinter festival of the Germanic peoples,domain:everyday
+yulelog,y,g,7,0.0,OBSCURE,True,,,,,,,False,,"a large log burned at Christmas, or a cake shaped like one",domain:y_words
 yuletide,y,e,8,2.38,UNCOMMON,True,,,,,,,False,,the Christmas season,domain:y_words
 yummy,y,y,5,3.54,FAMILIAR,False,adjective (reviewed),adjective (reviewed); possible abbreviation or clipping,,,,,False,,Ellipsis of yummy mummy.,gaps-review
 yup,y,p,3,4.06,COMMON,True,,,,,,,False,,A yes; an affirmative answer.,scowl

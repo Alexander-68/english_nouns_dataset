@@ -232,7 +232,7 @@ the pipeline.
 
 ### `domains/y_words.csv`
 
-64 rows, 63 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+70 rows, 69 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
 other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
 `yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
 `yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
@@ -266,6 +266,13 @@ of yapok", `yachtie` "of yachty", `yarnbombing` "of yarn bombing" (two words, an
 spaces), `ypsilon` "of upsilon" — so those carry a written definition. `yeld` is in no source at
 all. `yad` came in the same batch and is not here: at zipf 2.47 it was already in the gaps queue,
 so it was ruled there.
+
+Six more on 2026-09-02: `yarnwindle` and `yokozuna` take Wiktionary's gloss; `yottamole` and
+`yulelog` are in no source and are written out; `yellowback` has a Wiktionary entry whose first
+sense is a sea catfish, and the note gives the cheap yellow-bound novel a player means. `yachtman`
+is glossed by Wiktionary as "A yachtsman." — a pointer — so it carries a written definition and a
+`both` row in `variants-reviewed.csv`, which is what sets `same_word_as = yachtsman` and stops the
+pair being played twice in one chain.
 
 `yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
 thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.

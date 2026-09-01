@@ -1796,3 +1796,20 @@ absent from the file, or the pair is a plural, or no rule reaches it.
 
 The policy is untouched. American is still the kept form and the British row is still rejected --
 it now says what to play.
+
+## Six more y-words, and `same_word_as` earns its keep (2026-09-02)
+
+`yarnwindle`, `yokozuna`, `yellowback`, `yottamole`, `yulelog` and `yachtman`. The first five are
+the usual sheet work -- two take Wiktionary's gloss, two are in no source and are written out, and
+`yellowback`'s Wiktionary entry leads with a sea catfish where the player means the cheap
+yellow-bound novel.
+
+`yachtman` is the one worth recording. Wiktionary's entire gloss for it is "A yachtsman." -- a
+pointer, and `yachtsman` is already playable. Before `same_word_as` existed this was a choice
+between two bad answers: reject `yachtman` and refuse a word a player spelled acceptably, or accept
+it and let the same word be spent twice in one chain. It is now a `both` row in
+`variants-reviewed.csv`, which makes it playable, gives it a written definition, and sets
+`same_word_as = yachtsman` so a game keying on `same_word_as or noun` counts the pair once. Fifth
+row to use the column, and the first added because of it rather than fixed by it.
+
+Rows 61,562 -> 61,568; playable 51,971 -> 51,977.
