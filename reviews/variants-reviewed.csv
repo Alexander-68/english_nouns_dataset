@@ -1259,7 +1259,7 @@ randomisation,randomization,variant,the variant column is the nonstandard spelli
 centrefold,centerfold,variant,the variant column is the nonstandard spelling
 loofa,loofah,variant,the variant column is the nonstandard spelling
 tenia,taenia,reverse,the canonical column is the nonstandard spelling
-plowshare,ploughshare,variant,the variant column is the nonstandard spelling
+plowshare,ploughshare,reverse,"the plough- side is the British one; plow is the kept form"
 reveler,reveller,variant,the variant column is the nonstandard spelling
 extravert,extrovert,variant,the variant column is the nonstandard spelling
 viremia,viraemia,reverse,the canonical column is the nonstandard spelling
@@ -1472,7 +1472,7 @@ scarabaeus,scarab,variant,the variant column is the nonstandard spelling
 gaberdine,gabardine,variant,the variant column is the nonstandard spelling
 hudood,hudud,variant,the variant column is the nonstandard spelling
 hejira,hegira,variant,the variant column is the nonstandard spelling
-plowboy,ploughboy,variant,the variant column is the nonstandard spelling
+plowboy,ploughboy,reverse,"the plough- side is the British one; plow is the kept form"
 oxyhemoglobin,oxyhaemoglobin,reverse,the canonical column is the nonstandard spelling
 chantey,shanty,variant,the variant column is the nonstandard spelling
 sumach,sumac,variant,the variant column is the nonstandard spelling
@@ -2399,7 +2399,7 @@ plagiariser,plagiarizer,variant,the variant column is the nonstandard spelling
 plessimeter,pleximeter,variant,the variant column is the nonstandard spelling
 ploughwoman,plowwoman,variant,the variant column is the nonstandard spelling
 ploughwright,plowwright,variant,the variant column is the nonstandard spelling
-plowland,ploughland,variant,the variant column is the nonstandard spelling
+plowland,ploughland,reverse,"the plough- side is the British one; plow is the kept form"
 poetiser,poetizer,variant,the variant column is the nonstandard spelling
 predaceousness,predaciousness,variant,the variant column is the nonstandard spelling
 proboscidian,proboscidean,variant,the variant column is the nonstandard spelling

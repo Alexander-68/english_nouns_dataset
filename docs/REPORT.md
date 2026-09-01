@@ -1731,3 +1731,36 @@ files to answer a question about three. The new sheet is `domains/reported.csv`,
 word came from rather than what it starts with.
 
 Rows 61,559 -> 61,562; playable 51,919 -> 51,972.
+
+## The plow- compounds, and what stops two spellings being an exploit (2026-09-02)
+
+**Three rulings reversed.** `plowshare`, `plowboy` and `plowland` were rejected in favour of
+`ploughshare`, `ploughboy` and `ploughland`, while the base word runs the other way -- `plough` is
+rejected and `plow` is kept. The file contradicted itself on one stem, which is what the 38-row
+US-tag query flagged. The three rows change from `variant` to `reverse` in
+`variants-reviewed.csv`; the `plow-` compounds are playable and the `plough-` ones now carry
+`suggest_instead`. The rest of that 38 stays as it is: `cigaret`, `iodin`, `alinement`, `monolog`,
+`sherbert` are Webster-era simplifications, US-tagged and rightly out.
+
+**`nitpick` is ruled `verb`.** It was added as a noun the day before on the strength of usage
+("a minor nitpick"), and both sources carry the verb only. A playable row resting on nothing but a
+sheet entry is the weakest evidence in the file, and the honest verdict is the conservative one --
+the row still exists, so the game rejects it with a reason.
+
+**`same_word_as`, a new column.** Keeping both `whisky` and `whiskey` playable opens a hole: a chain
+game that treats them as two words lets a player spend the same word twice. Rejecting one side is
+what the file used to do and it costs a player a word they spelled correctly. The third option is to
+say so in the data.
+
+    noun=whisky  allowed=True  same_word_as="whiskey"  marks="spelling variant of whiskey"
+
+A game keys its played set on **`same_word_as or noun`**. `whisky` maps to `whiskey`, `whiskey` maps
+to itself, the second of the pair played is a repeat, and the chain letters still come from the word
+actually typed. It is written by exactly one thing -- a `both` ruling -- so the column stays empty on
+51,967 of 51,971 playable rows, and the four that carry it are `adz`, `aunty`, `whisky` and `yack`.
+
+This is the same design decision as the rest of the file, applied to a game rule rather than a
+dictionary fact: the dataset does not decide whether `whisky` is a legal answer, it says what the
+word is and lets the game act.
+
+Playable 51,972 -> 51,971 (`nitpick` out; the plow- flip is three in and three out). 17 columns.

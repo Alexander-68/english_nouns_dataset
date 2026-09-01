@@ -278,10 +278,10 @@ is never "a new sheet for its first letter" — `x_words`, `y_words` and `z_word
 because those three letters are what a chain game runs short of, and there is no supply argument
 for `n` or `a`.
 
-Two of the three need their note. `nitrox` has a Wiktionary entry whose first sense is an
-industrial case-hardening process, not the diving gas a player means. `nitpick` is in Wiktionary
-and SCOWL as a **verb only**, so the noun ("a minor nitpick") rests on the sheet alone — the
-weakest evidence any playable row here has, and worth knowing.
+`nitrox` needs its note: Wiktionary's first sense is an industrial case-hardening process, not the
+diving gas a player means. `nitpick` is ruled **`verb`**, not `noun` — Wiktionary and SCOWL both
+carry the verb only, and a noun that rests on a sheet row alone is the weakest evidence in the file.
+It is still a row, so the game rejects it with a reason instead of "not in the database".
 
 ### `domains/z_words.csv`
 
@@ -346,3 +346,7 @@ AMERICAN spelling of `adze` — Wiktionary tags `adz` US and tags `adze` nothing
 `variant` inverted the project's own policy, and cost the game a word ending in `z`. `whisky` is
 the standard spelling for Scotch, Canadian and Japanese whisky and `whiskey` for Irish and
 American: a real split, not a nonstandard spelling. `aunty`/`auntie` are both current.
+
+A `both` row is also the only thing that writes `same_word_as` in the release, which is how a game
+stops the pair being an exploit: key the played set on `same_word_as or noun` and `whisky` and
+`whiskey` are one word.

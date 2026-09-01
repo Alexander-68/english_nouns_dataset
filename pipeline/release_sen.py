@@ -16,6 +16,8 @@ are the point, not overhead.
     allowed = False, reason = "adjective (not a noun)"
     allowed = False, reason = "british/commonwealth spelling variant",
               suggest_instead = "plow"
+    allowed = True,  same_word_as = "whiskey"   (whisky: playable, but the
+              same word for a game that must not accept both in one chain)
 
 `marks` is the other half of the same idea, and it applies to ALLOWED words
 too: it is the doubt the dataset could not resolve, written down instead of
@@ -45,6 +47,7 @@ COLUMNS = {
     'excluded_because': 'reason',
     'marks': 'marks',
     'suggest_instead': 'suggest_instead',
+    'reviewed_variant_kept': 'same_word_as',
     'pos_tags': 'pos_tags',
     'lemma': 'lemma',
     'plural_of_listed': 'is_plural',

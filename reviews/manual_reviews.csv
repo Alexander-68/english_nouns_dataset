@@ -4080,3 +4080,7 @@ date,sheet,item,verdict,note
 2026-09-02,domains/reported.csv,nitrox,noun,"the diving gas; Wiktionary leads with a case-hardening process"
 2026-09-02,variants-reviewed.csv,whisky,both,"the standard spelling for Scotch, Canadian and Japanese whisky"
 2026-09-02,variants-reviewed.csv,aunty,both,"both current, and auntie was itself rejected"
+2026-09-02,domains/reported.csv,nitpick,verb,"reversed: both sources carry the verb only"
+2026-09-02,variants-reviewed.csv,plowshare,reverse,"the plough- side is the British one; plow is the kept form"
+2026-09-02,variants-reviewed.csv,plowboy,reverse,"same correction"
+2026-09-02,variants-reviewed.csv,plowland,reverse,"same correction"
