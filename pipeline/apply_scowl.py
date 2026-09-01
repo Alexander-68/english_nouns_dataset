@@ -70,8 +70,7 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wx_join import (  # noqa: E402  -- the rules live there; do not restate them
-    CORPUS_MARK_MAX_NOUN_SHARE, CORPUS_MARK_MIN_N, CORPUS_MARK_WORD,
-    UK_US_IRREGULAR, UK_US_SUFFIXES, tier,
+    UK_US_IRREGULAR, UK_US_SUFFIXES, corpus_mark, tier,
 )
 from rank_gaps import CLOSED_CLASS, NAME_LIST_PATH  # noqa: E402
 
@@ -231,10 +230,7 @@ def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_o
             marks.append('also a verb (SCOWL)')
         if 'aj' in pos_heads:
             marks.append('also an adjective (SCOWL)')
-        if d is not None and d.n >= CORPUS_MARK_MIN_N:
-            usually = CORPUS_MARK_WORD.get(d.dominant)
-            if usually and d.noun_share <= CORPUS_MARK_MAX_NOUN_SHARE:
-                marks.append(f'usually {usually} (corpus)')
+        marks.append(corpus_mark(d))
         if wn is None and gl is not None and gl['verdict'] == 'noun':
             marks.append('not in Wiktionary, glossed by hand')
 

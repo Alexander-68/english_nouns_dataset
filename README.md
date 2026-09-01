@@ -107,7 +107,7 @@ prepositions and auxiliaries for exactly this; `apply_scowl.py` reuses it.
 | usually an adjective (corpus) | 872 |
 | UK/Commonwealth spelling | 758 |
 | possible plural | 617 |
-| usually a name (corpus) | 443 |
+| usually a name (corpus) | 179 |
 | also a verb (SCOWL) | 252 |
 | also an adjective (SCOWL) | 214 |
 | noun in SCOWL, not in Wiktionary | 167 |
@@ -116,6 +116,25 @@ prepositions and auxiliaries for exactly this; `apply_scowl.py` reuses it.
 
 `usually an X (corpus)` is a frequency fact, not a dictionary one: `political` and `federal` do have
 noun senses, and 0 of 339 `political` tokens in a tagged corpus are nouns.
+
+`usually a name (corpus)` is the one that needed a second look. The corpus table is keyed on the
+lowercased word, so `Ray` the man and `ray` the fish share a row and the proper-noun column counts
+the man — which marked `ray`, `ruby`, `dandy`, `china`, `pearl` and `sparrow` as names. Two kinds of
+counter-evidence now withhold the mark:
+
+* the corpus shows the word **written lowercase** in common-noun use. `pos-dominance.csv` counts
+  those tokens separately now (`n_low`, `noun_low`, `propn_low`); every lowercase `ray` is tagged
+  NOUN, and the 50 capitalised `Ray`s are a different word.
+* **WordNet has a common-noun sense for it** — the row has a `lexfile`. `sparrow` is a bird,
+  `berlin` is a limousine, `john` is a toilet, `mike` is a microphone; 230 capitalised `Sparrow`s
+  are Jack Sparrow and say nothing about the bird. Names live in NameNet, not in the noun
+  lexfiles, so a lexfile is the dictionary saying "common noun".
+
+264 rows lost the mark, from 443 to 179. `adam`, `alaska`, `santa` and `joe` have neither kind of
+counter-evidence and keep it. Nothing else in the file moved — no row changed `allowed`. Name doubt
+for the rescued words is not gone: it belongs to `possible name`, which comes from an actual name
+list. The other three `usually an X (corpus)` marks are unaffected — a lowercase `federal` tagged
+ADJ really is the word being an adjective, where a capitalised `Ray` is a different word.
 
 `also a verb (SCOWL)` and `also an adjective (SCOWL)` are the multi-usage marks: the word is in as a
 noun and SCOWL lists another reading for it too. Whether `barre` or `powerdown` is a legal answer

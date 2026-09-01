@@ -38,9 +38,19 @@ corpus has never seen produces no mark rather than a wrong one.
 UD gives both a universal tag (column 4) and a Penn tag (column 5). We read
 the Penn one, so a single `coarse()` handles every source.
 
+Counts are keyed on the LOWERCASED word type, so `Ray` and `ray` land in the
+same row -- which is what makes the propn column say "this word is a name"
+when all it really saw was a capitalised token. The last three columns keep
+the lowercase-surface tokens apart for exactly that reason: `ray` is tagged
+NOUN every time it appears lowercase, and 50 capitalised `Ray`s say nothing
+about the fish. Sentence-initial common nouns are capitalised too, so the
+lowercase counts are an undercount -- fine for evidence FOR a common noun,
+useless as evidence against one.
+
 Output: pos-dominance.csv — one row per lowercased word type
 
-    word, n, noun, propn, adj, verb, adv, other, dominant, noun_share
+    word, n, noun, propn, adj, verb, adv, other, dominant, noun_share,
+    n_low, noun_low, propn_low
 
 `dominant` is the tag with the most occurrences; `noun_share` is nouns over
 all occurrences. Downstream should trust this only where `n` is large enough
@@ -114,6 +124,7 @@ def ud_tagged_words(dirname=UD_DIR):
 
 def counts():
     tally = defaultdict(lambda: defaultdict(int))
+    low = defaultdict(lambda: defaultdict(int))   # lowercase surface only
     fetch_ud()
     for name in NLTK_CORPORA + ('ud',):
         try:
@@ -127,27 +138,33 @@ def counts():
             # masc_tagged carries a few untagged tokens (t is None).
             if t is None or not w.isalpha():
                 continue
-            tally[w.lower()][coarse(t)] += 1
+            c = coarse(t)
+            tally[w.lower()][c] += 1
+            if w.islower():
+                low[w.lower()][c] += 1
             n += 1
         print(f'  {name:10s} {n:,} alphabetic tokens', file=sys.stderr)
-    return tally
+    return tally, low
 
 
 def main(dst='sources/pos-dominance.csv'):
-    tally = counts()
+    tally, low = counts()
     keep = ('NOUN', 'PROPN', 'ADJ', 'VERB', 'ADV')
     with open(dst, 'w', newline='', encoding='utf-8') as fh:
         wr = csv.writer(fh)
         wr.writerow(['word', 'n', 'noun', 'propn', 'adj', 'verb', 'adv',
-                     'other', 'dominant', 'noun_share'])
+                     'other', 'dominant', 'noun_share',
+                     'n_low', 'noun_low', 'propn_low'])
         for word in sorted(tally):
             c = tally[word]
             total = sum(c.values())
             row = [c.get(t, 0) for t in keep]
             other = total - sum(row)
             dominant = max(c, key=lambda t: (c[t], t == 'NOUN'))
+            l = low.get(word, {})
             wr.writerow([word, total, *row, other, dominant,
-                         f'{row[0] / total:.3f}'])
+                         f'{row[0] / total:.3f}',
+                         sum(l.values()), l.get('NOUN', 0), l.get('PROPN', 0)])
     print(f'{dst}: {len(tally):,} word types', file=sys.stderr)
 
 

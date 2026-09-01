@@ -1,5 +1,7 @@
 word,zipf,countable,uncountable,n_senses,first_gloss,variant_of,flag_reason,wikt_pos_list,wikt_dominant_pos,wikt_abbrev,corpus_n,corpus_dominant,corpus_noun_share,corpus_tag,corpus_name,likely_noun,name_suspect,pos_tags,lemma,pos_overlap,plural_of,verdict
 english,5.19,0,1,2,"Spinning or rotary motion given to a ball around the vertical axis, as in pool, billiards or bowling; spin, sidespin.",,,noun:2;verb:1,noun,False,351,PROPN,0.009,,False,True,False,,,adjective-like (morphology),,
+jim,4.62,0,0,3,A one-pound banknote.,jeem,,noun:3;verb:1,noun,False,115,PROPN,0.017,,False,True,False,,,,,
+dan,4.51,0,0,7,"A title of honour or respect similar to ""master"" or ""Sir"", used of historical and legendary figures of the past.",,,noun:7;prep:1,noun,False,79,PROPN,0.038,,False,True,False,,,,,
 casual,4.23,0,0,9,"A worker who is only working for a company occasionally, not as its permanent employee.",,,noun:9;adj:7,noun,False,32,ADJ,0.062,usually adjective (corpus),False,True,False,ADJ;NOUN,,"noun, also adjective",,
 rex,3.89,0,0,2,"A king, particularly in ancient Rome.",,,noun:2;verb:1,noun,False,26,PROPN,0.346,,False,True,False,NOUN,,,,
 mel,3.8,0,1,2,A unit of pitch on a scale of pitches perceived by listeners to be equally spaced from one another.,,,noun:2,noun,False,11,PROPN,0.182,,False,True,False,,,,,
@@ -4310,9 +4312,7 @@ joe,4.78,1,1,5,A male; a guy; a fellow.,jo,,noun:5,noun,False,131,PROPN,0.008,na
 sam,4.64,0,0,1,Federal narcotics agent.,,,verb:5;adj:2;adv:1;noun:1,verb,False,110,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
 tony,4.64,0,0,1,A simpleton.,,,adj:1;noun:1,adj,False,37,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
 daniel,4.62,0,0,1,The buttocks.,,,noun:1,noun,False,59,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
-jim,4.62,0,0,3,A one-pound banknote.,jeem,,noun:3;verb:1,noun,False,115,PROPN,0.017,name in practice (corpus),True,True,True,,,,,
 hong,4.53,0,0,1,A foreign trading company in China.,,,noun:1;verb:1,noun,False,223,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
-dan,4.51,0,0,7,"A title of honour or respect similar to ""master"" or ""Sir"", used of historical and legendary figures of the past.",,,noun:7;prep:1,noun,False,79,PROPN,0.038,name in practice (corpus),True,True,True,,,,,
 kong,4.49,0,0,2,A set of four identical tiles.,,,noun:2,noun,False,218,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
 eric,4.49,0,0,1,A fine paid as compensation for violent crimes.,,,noun:1,noun,False,32,PROPN,0.0,name in practice (corpus),True,True,True,,,,,
 jeff,4.45,0,0,2,A rope.,,,noun:2;verb:1,noun,False,82,PROPN,0.0,name in practice (corpus),True,True,True,,,,,

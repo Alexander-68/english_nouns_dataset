@@ -682,7 +682,7 @@ tuneup,2.0,0,0,1,Alternative form of tune-up.,tune-up,spelling variant of anothe
 german,4.95,0,0,3,A near relative.,,adjective in practice (corpus),adj:3;noun:3,adj,False,173,ADJ,0.006,,False,False,False,,,,,,noun,70,n:1,True
 joe,4.78,1,1,5,A male; a guy; a fellow.,jo,,noun:5,noun,False,131,PROPN,0.008,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 hong,4.53,0,0,1,A foreign trading company in China.,,,noun:1;verb:1,noun,False,223,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-dan,4.51,0,0,7,"A title of honour or respect similar to ""master"" or ""Sir"", used of historical and legendary figures of the past.",,,noun:7;prep:1,noun,False,79,PROPN,0.038,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
+dan,4.51,0,0,7,"A title of honour or respect similar to ""master"" or ""Sir"", used of historical and legendary figures of the past.",,,noun:7;prep:1,noun,False,79,PROPN,0.038,,False,True,False,,,,,,noun,70,n:1,True
 carl,4.24,0,0,2,"A rude, rustic man; a churl.",,,noun:2;verb:1,noun,False,58,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 jo,4.03,0,0,2,"Darling, sweetheart.",,,noun:2,noun,False,10,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 burton,3.8,0,0,2,"An arrangement of blocks and pulleys, especially for tightening rigging on a ship.",,,noun:2,noun,False,23,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True

@@ -1,4 +1,5 @@
 word,zipf,countable,uncountable,n_senses,first_gloss,variant_of,flag_reason,wikt_pos_list,wikt_dominant_pos,wikt_abbrev,corpus_n,corpus_dominant,corpus_noun_share,corpus_tag,corpus_name,likely_noun,name_suspect,pos_tags,lemma,pos_overlap,plural_of,verdict,scowl_verdict,scowl_size,scowl_pos,scowl_american_standard
+jim,4.62,0,0,3,A one-pound banknote.,jeem,,noun:3;verb:1,noun,False,115,PROPN,0.017,,False,True,False,,,,,,absent,,,
 rex,3.89,0,0,2,"A king, particularly in ancient Rome.",,,noun:2;verb:1,noun,False,26,PROPN,0.346,,False,True,False,NOUN,,,,,absent,,,
 garnett,2.99,0,0,1,A machine that reduces textile fibre waste to a fibrous state in preparation for carding,,,noun:1;verb:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,absent,,,
 waterhouse,2.99,0,0,1,A house on floats.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,absent,,,
@@ -2622,7 +2623,6 @@ quim,2.0,0,0,2,The female genitalia; the vulva.,,,adj:2;noun:2,adj,False,0,,,,Fa
 san,4.97,0,0,2,"An Ancient Greek letter representing /s/ (uppercase Ϻ, lowercase ϻ), originally used in some dialects instead of sigma.",,,noun:2,noun,False,342,PROPN,0.006,name in practice (corpus),True,True,True,,,,,,absent,,,
 sam,4.64,0,0,1,Federal narcotics agent.,,,verb:5;adj:2;adv:1;noun:1,verb,False,110,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,absent,,,
 daniel,4.62,0,0,1,The buttocks.,,,noun:1,noun,False,59,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,absent,,,
-jim,4.62,0,0,3,A one-pound banknote.,jeem,,noun:3;verb:1,noun,False,115,PROPN,0.017,name in practice (corpus),True,True,True,,,,,,absent,,,
 kong,4.49,0,0,2,A set of four identical tiles.,,,noun:2,noun,False,218,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,absent,,,
 eric,4.49,0,0,1,A fine paid as compensation for violent crimes.,,,noun:1,noun,False,32,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,absent,,,
 jeff,4.45,0,0,2,A rope.,,,noun:2;verb:1,noun,False,82,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,absent,,,

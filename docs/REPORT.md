@@ -1555,3 +1555,55 @@ field, which is what a domain sheet is, not a frequency sort.
 Rows 61,460 -> 61,524; playable 51,838 -> 51,881. `work/queue-misses.csv` keeps the ranked remainder
 -- 1,652 rows.
 
+
+## `ruby`, `ray` and `dandy` are not names — the lowercased corpus table (2026-09-01)
+
+Three words reported as wrongly marked. All three were playable, all three carried
+`marks = "usually a name (corpus)"`, and all three are ordinary nouns.
+
+**The cause is one line in `pos_freq.py`:** `tally[w.lower()][coarse(t)] += 1`. The table is keyed
+on the lowercased type, so `Ray` the man and `ray` the fish share a row and the `propn` column
+counts the man. `ray` is 50 PROPN against 5 NOUN, `ruby` 9 against 2, `dandy` 15 against 1 — a
+proper-noun dominance produced entirely by a different word.
+
+This is not symmetrical with the other three corpus marks, and that asymmetry is the finding. A
+lowercase `federal` tagged ADJ *is* the word `federal` being an adjective, so `usually an adjective
+(corpus)` reads its evidence correctly. A capitalised `Ray` tagged PROPN is not the word `ray` at
+all. Case is the whole difference between a name and a noun in English, and the table had thrown it
+away before the mark was computed.
+
+**Fix, in two parts.** `pos-dominance.csv` gains `n_low`, `noun_low`, `propn_low`, counting only the
+tokens *written lowercase*; `lowercase_common_noun()` in `rank_gaps.py` reads them, and
+`corpus_mark()` in `wx_join.py` (now shared with `apply_scowl.py`, which had a copy of the rule)
+withholds the name mark when they show common-noun use. The counts are evidence FOR a common noun
+only — sentence-initial nouns are capitalised, so a zero proves nothing, which is why `adam`,
+`alaska` and `apollo` keep the mark. Two lowercase NOUN taggings, or one plus a few other lowercase
+tokens, is the bar: a single hit is tagger noise, and `joe`, `santa` and `sparrow` have exactly one
+each.
+
+**80 rows. Then `sparrow` came back.** It is a bird, it was still marked, and the corpus cannot
+rescue it: 230 capitalised tokens are Jack Sparrow, and the one lowercase token is under any
+sensible floor. The second counter-evidence is the dictionary's. WordNet splits names into NameNet
+and keeps them out of the noun lexicographer files, so a non-empty `lexfile` **is** the dictionary
+saying "common noun" — and a corpus count of the capitalised homograph must not override it.
+`corpus_mark()` takes `wordnet_noun` and withholds the mark on that too.
+
+The 184 rows this rescued are the argument for it: `sparrow` a bird, `berlin` a limousine, `john` a
+toilet, `mike` a microphone, `bob` a former shilling, `ben` a mountain, `beth` a Hebrew letter,
+`molly` an aquarium fish, plus `dill`, `thyme`, `flamingo`, `jaguar`, `plaza`, `causeway`,
+`chatterbox`. Every one has a written gloss in the file that says what it is.
+
+**Name doubt is not lost.** `possible name` is the mark for it, sourced from an actual name list;
+96 of the 184 carry it already, and the rest are that list's documented recall gap
+(`build_name_list.py` states it), not this mark's business.
+
+`usually a name (corpus)`: 443 rows -> 179. 264 rows changed, every one of them a mark removal —
+no row changed `allowed`, no row entered or left the file. What still carries the mark is what has
+neither kind of counter-evidence: `adam`, `alaska`, `santa`, `joe`.
+
+The same fix applies at the other end of the pipeline. `corpus_reading()` in `rank_gaps.py` sorts
+gap candidates into a `name_suspect` band on the same propn share, so it takes the same guard.
+
+`rank_gaps.py --selftest` covers the rule on the four rows that motivated it — `ray` and `dandy`
+rescued, `joe` and `alaska` kept, `sparrow` both ways — and on a pre-case `pos-dominance.csv`, where
+the missing columns leave the rule switched off rather than crashing.

@@ -380,6 +380,30 @@ def load_pos_dominance(path=POS_DOMINANCE_PATH):
     return {r.word: r for r in d.itertuples(index=False)}
 
 
+def lowercase_common_noun(row):
+    """The corpus shows this word used as a common noun in its own right.
+
+    pos-dominance.csv is keyed on the lowercased type, so `Ray` (a man) and
+    `ray` (a fish) share a row and the propn column counts the man. That makes
+    "usually a name" fire on `ray`, `ruby` and `dandy` -- all three ordinary
+    nouns whose capitalised twin is simply more common in a newswire corpus.
+
+    The lowercase-surface columns answer the question the propn column cannot:
+    is the LOWERCASE word a common noun? Lowercase NOUN taggings with no
+    lowercase PROPN among them say yes. Two such taggings, or one plus a few
+    other lowercase tokens, is enough -- a single hit is tagger noise (`joe`,
+    `santa` and `sparrow` each have exactly one and are still names).
+
+    Evidence FOR a common noun only. Sentence-initial nouns are capitalised
+    and so missing from these counts, which is why a zero proves nothing and
+    `adam`, `alaska` and `apollo` keep their mark.
+    """
+    n_low = int(getattr(row, 'n_low', 0) or 0)
+    noun_low = int(getattr(row, 'noun_low', 0) or 0)
+    propn_low = int(getattr(row, 'propn_low', 0) or 0)
+    return propn_low == 0 and noun_low >= 1 and (noun_low >= 2 or n_low >= 3)
+
+
 def corpus_reading(row):
     """(flag_reason, advisory_tag, is_name) from one corpus row.
 
@@ -391,7 +415,8 @@ def corpus_reading(row):
       * anything else -> an advisory tag that changes nothing, or nothing.
     """
     n, share = row.n, row.noun_share
-    if row.propn / n >= CORPUS_NAME_SHARE and n >= CORPUS_TAG_MIN_N:
+    if (row.propn / n >= CORPUS_NAME_SHARE and n >= CORPUS_TAG_MIN_N
+            and not lowercase_common_noun(row)):
         return '', 'name in practice (corpus)', True
     other = CORPUS_POS_WORD.get(row.dominant, '')
     if row.dominant in ('NOUN', 'PROPN') or not other:
@@ -633,7 +658,45 @@ def main(gaps_path, wikt_path, probe_path=None):
     print(f'\nrewritten: {gaps_path}')
 
 
+def selftest():
+    """The case-aware name rule, on the rows that motivated it."""
+    from collections import namedtuple
+    Row = namedtuple('Row', 'word n noun propn dominant noun_share '
+                            'n_low noun_low propn_low')
+    # ray: 50 capitalised `Ray`s, and every lowercase `ray` tagged NOUN.
+    ray = Row('ray', 55, 5, 50, 'PROPN', 0.091, 5, 5, 0)
+    # dandy: one lowercase NOUN among three lowercase tokens, no lowercase name.
+    dandy = Row('dandy', 18, 1, 15, 'PROPN', 0.056, 3, 1, 0)
+    # joe: a single lowercase NOUN tagging and nothing else -- tagger noise.
+    joe = Row('joe', 131, 1, 130, 'PROPN', 0.008, 1, 1, 0)
+    # alaska: never seen lowercase at all.
+    alaska = Row('alaska', 81, 0, 81, 'PROPN', 0.0, 0, 0, 0)
+    assert lowercase_common_noun(ray) and lowercase_common_noun(dandy)
+    assert not lowercase_common_noun(joe) and not lowercase_common_noun(alaska)
+    assert corpus_reading(ray)[2] is False, 'ray must not be a name tier'
+    assert corpus_reading(alaska)[2] is True, 'alaska is still a name'
+    # A pre-case pos-dominance.csv has no lowercase columns: rule stays off.
+    old = namedtuple('Old', 'word n noun propn dominant noun_share')(
+        'ray', 55, 5, 50, 'PROPN', 0.091)
+    assert not lowercase_common_noun(old)
+
+    # The other half of the rule: a WordNet noun sense also withholds the
+    # name mark. `sparrow` has one lowercase token and 230 capitalised ones,
+    # and is still a bird. (wx_join imports this module, not the reverse, so
+    # the import is done here rather than at the top.)
+    from wx_join import corpus_mark
+    sparrow = Row('sparrow', 231, 1, 230, 'PROPN', 0.004, 1, 1, 0)
+    assert corpus_mark(sparrow, wordnet_noun=True) == ''
+    assert corpus_mark(sparrow) == 'usually a name (corpus)'
+    assert corpus_mark(ray) == ''
+    assert corpus_mark(alaska, wordnet_noun=True) == ''
+    print('selftest ok')
+
+
 if __name__ == '__main__':
-    if len(sys.argv) not in (3, 4):
+    if sys.argv[1:2] == ['--selftest']:
+        selftest()
+    elif len(sys.argv) not in (3, 4):
         sys.exit(__doc__)
-    main(*sys.argv[1:])
+    else:
+        main(*sys.argv[1:])

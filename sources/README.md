@@ -40,6 +40,11 @@ carry their own copies and all three drifted out of date together.
 It answers *is this word a noun in practice* — `political` has a real noun sense and 0 of its 339
 corpus tokens are nouns.
 
+The last three columns — `n_low`, `noun_low`, `propn_low` — count only the tokens **written
+lowercase**. The table is keyed on the lowercased type, so `Ray` and `ray` share a row and `propn`
+measures the name, not the word; the lowercase columns are what tell the two apart. Evidence FOR a
+common noun only: sentence-initial nouns are capitalised, so a zero there proves nothing.
+
 It is no longer only pre-1990 American prose, which is what made it silent on `email`, `website`
 and `browser` — those now have 281, 126 and 22 tagged tokens. It is still **small relative to the
 dataset**, and more so every time the dataset grows: of 51,241 playable words, 34,702 have no tagged

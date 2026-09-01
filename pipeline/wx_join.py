@@ -96,7 +96,8 @@ from collections import Counter
 import sys, re
 import pandas as pd
 
-from rank_gaps import load_pos_dominance, load_wikt_pos
+from rank_gaps import (load_pos_dominance, load_wikt_pos,
+                       lowercase_common_noun)
 
 # Human-vetted modern vocabulary. Words listed here are exempt from the gaps
 # frequency cutoff (see the gaps section below). Missing file is not an error.
@@ -467,6 +468,40 @@ CORPUS_MARK_MIN_N = 10
 CORPUS_MARK_MAX_NOUN_SHARE = 0.20
 CORPUS_MARK_WORD = {'ADJ': 'an adjective', 'VERB': 'a verb', 'ADV': 'an adverb',
                     'PROPN': 'a name'}
+
+
+def corpus_mark(d, wordnet_noun=False):
+    """'usually a name (corpus)' & co. from one pos-dominance row, or ''.
+
+    The PROPN case is not symmetrical with the others. `federal` tagged ADJ is
+    the word `federal` being an adjective; `Ray` tagged PROPN is a DIFFERENT
+    word that the lowercased table folded into this row. So the name mark is
+    withheld on either of two kinds of counter-evidence:
+
+      * the corpus shows the word in lowercase common-noun use --
+        `lowercase_common_noun`, which covers `ray`, `ruby`, `china`, `pearl`;
+      * WordNet has a common-noun sense for it (`wordnet_noun`, i.e. the row
+        has a lexfile). `sparrow` is a bird, `berlin` is a limousine, `john`
+        is a toilet and `mike` is a microphone -- 230 capitalised `Sparrow`s
+        in a corpus are Jack Sparrow, and say nothing about the bird. Names
+        live in NameNet, not in the noun lexfiles, so a lexfile IS the
+        dictionary saying "common noun".
+
+    Name doubt for those words is not lost: it belongs to `possible name`,
+    which comes from an actual name list. 96 of the 184 carry it already, and
+    the rest are that list's documented recall gap, not this mark's business.
+
+    `adam`, `alaska`, `santa` and `joe` have neither kind of counter-evidence
+    and keep the mark.
+    """
+    if d is None or d.n < CORPUS_MARK_MIN_N:
+        return ''
+    usually = CORPUS_MARK_WORD.get(d.dominant)
+    if not usually or d.noun_share > CORPUS_MARK_MAX_NOUN_SHARE:
+        return ''
+    if d.dominant == 'PROPN' and (wordnet_noun or lowercase_common_noun(d)):
+        return ''
+    return f'usually {usually} (corpus)'
 
 
 def main(sen_path, wikt_path, out_path):
@@ -893,10 +928,9 @@ def main(sen_path, wikt_path, out_path):
             out.append(row['pos_overlap'])
         w = row['noun']
         d = dom.get(w)
-        if d is not None and d.n >= CORPUS_MARK_MIN_N:
-            usually = CORPUS_MARK_WORD.get(d.dominant)
-            if usually and d.noun_share <= CORPUS_MARK_MAX_NOUN_SHARE:
-                out.append(f'usually {usually} (corpus)')
+        mark = corpus_mark(d, wordnet_noun=bool(row['lexfile']))
+        if mark:
+            out.append(mark)
         if row['reviewed_spelling_variant']:
             out.append('spelling variant of ' + row['reviewed_variant_of'])
         if row['reviewed_plural']:
