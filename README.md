@@ -54,8 +54,8 @@ one filter if you want a friendly list.
 | COMMON | 2,822 |
 | FAMILIAR | 7,369 |
 | UNCOMMON | 12,034 |
-| RARE | 13,138 |
-| OBSCURE | 15,995 |
+| RARE | 13,139 |
+| OBSCURE | 15,994 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
