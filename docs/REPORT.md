@@ -1764,3 +1764,35 @@ dictionary fact: the dataset does not decide whether `whisky` is a legal answer,
 word is and lets the game act.
 
 Playable 51,972 -> 51,971 (`nitpick` out; the plow- flip is three in and three out). 17 columns.
+
+## 87 rejected spellings that named no replacement (2026-09-02)
+
+`apnoea` was rejected as a British spelling and offered nothing to play instead, while `apnea` sat
+playable in the same file. So did `haemin`/`hemin`, `anaesthesiology`/`anesthesiology`,
+`palaeolith`/`paleolith`, `oestrin`/`estrin` -- 87 rows, all of them the classical ae/oe digraph.
+
+**Cause: a copy of the rule that had drifted.** SCOWL supplies most of the British rows in the file,
+and `apply_scowl.py` carried its own `american_form()` -- the irregular table plus a loop over
+`UK_US_SUFFIXES`. `wx_join.py`'s test also has an ae/oe -> e digraph rule; the copy did not. Nothing
+was wrong with either file on its own terms, which is why it survived a release: the words were
+correctly rejected, just silently.
+
+**Fix.** One shared `derived_american(word, playable)` in `wx_join.py`, used by both, and it
+GENERATES rather than verifies -- these rows carry no `variant_of` and no editorial tag, so there is
+no pair to check. The candidate is built from the same named correspondences that do the excluding
+and then has to survive `uk_us_pattern`, so every suggestion is still traceable to a rule rather
+than to a similarity score. That standard is the reason the earlier fuzzy-distance experiment was
+thrown away (see the residue-pattern docstring).
+
+**Two guards, both from reading the 128 raw candidates.** Words ending `-ae` are Latin plurals --
+`venulae`/`venule`, `amygdalae`/`amygdale`, `sclerae`/`sclere` are not spelling pairs -- and under
+six letters the digraph is usually not British at all: `bael` is a tree and `bel` a unit, `tae`,
+`kaed` and `saeta` the same kind of accident. Both guards apply to the digraph only; the suffix
+correspondences are end-anchored and did not misfire. 128 candidates -> 87 suggestions.
+
+**Effect.** Suggestions 1,978 -> 2,065. No row changed `allowed`, no suggestion was lost. 273
+rejected spellings still name nothing, and they are the honest remainder: the American form is
+absent from the file, or the pair is a plural, or no rule reaches it.
+
+The policy is untouched. American is still the kept form and the British row is still rejected --
+it now says what to play.

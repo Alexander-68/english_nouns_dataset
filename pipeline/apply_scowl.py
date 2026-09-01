@@ -70,7 +70,7 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wx_join import (  # noqa: E402  -- the rules live there; do not restate them
-    UK_US_IRREGULAR, UK_US_SUFFIXES, corpus_mark, tier,
+    UK_US_IRREGULAR, corpus_mark, derived_american, tier,
 )
 from rank_gaps import CLOSED_CLASS, NAME_LIST_PATH  # noqa: E402
 
@@ -129,17 +129,18 @@ WIKT_POS_REASON = {
 def american_form(word, have):
     """Best guess at the American spelling of `word`, or '' if none lands.
 
-    Same two sources wx_join uses, in the same order: the hand-checked
-    irregular table first, then the suffix correspondences. A guess that is not
-    itself a word in the dataset is discarded rather than suggested.
+    The hand-checked irregular table first, then `wx_join.derived_american`,
+    which is the same rule set the join uses -- suffix correspondences plus the
+    ae/oe digraph. A guess that is not itself a word in the dataset is
+    discarded rather than suggested. Sharing the function is what fixed
+    `apnoea`: SCOWL supplies most of the British rows, this file had a copy of
+    the suffix loop and no digraph rule, and 87 rows were rejected with no
+    replacement named while `apnea` and `haemin` -> `hemin` sat playable.
     """
     guess = UK_US_IRREGULAR.get(word, '')
-    if not guess:
-        for uk, us in UK_US_SUFFIXES:
-            if word.endswith(uk):
-                guess = word[:-len(uk)] + us
-                break
-    return guess if guess in have and guess != word else ''
+    if guess in have and guess != word:
+        return guess
+    return derived_american(word, have)
 
 
 def load_glosses(path):

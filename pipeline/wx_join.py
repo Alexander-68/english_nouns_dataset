@@ -416,6 +416,35 @@ def uk_us_pattern(word, canonical):
     return None
 
 
+def derived_american(word, playable):
+    """The American spelling of `word` if the project's own rules produce one
+    that is a playable row, else ''.
+
+    Generation, not verification: these rows carry no `variant_of` and no
+    editorial tag, so there is nothing to check a pair against -- `apnoea` was
+    rejected as a British spelling while `apnea` sat playable and unnamed, and
+    87 rows were in that state. The candidate is built with the same named
+    correspondences that do the excluding and then has to survive
+    `uk_us_pattern`, so a suggestion is still traceable to a rule rather than
+    to a similarity score.
+
+    Two guards, both from reading the output, and both on the DIGRAPH rule
+    only -- the suffix correspondences are end-anchored and did not misfire.
+    Words ending `-ae` are Latin plurals (`venulae`/`venule`,
+    `amygdalae`/`amygdale` are not spelling pairs), and under six letters the
+    digraph is usually not British at all: `bael` is a tree and `bel` a unit,
+    and `tae`, `kaed` and `saeta` are the same kind of accident.
+    """
+    cands = [word[:-len(uk)] + us for uk, us in UK_US_SUFFIXES
+             if word.endswith(uk)]
+    if len(word) >= 6 and not word.endswith('ae'):
+        cands += [word.replace(a, 'e') for a in ('ae', 'oe') if a in word]
+    for c in cands:
+        if c in playable and c != word and uk_us_pattern(word, c):
+            return c
+    return ''
+
+
 def region_is_britishy(regions):
     toks = set(t for t in regions.split(';') if t)
     return bool(toks) and toks.issubset({'UK', 'British'})
@@ -889,6 +918,19 @@ def main(sen_path, wikt_path, out_path):
     fallback = sen['wikt_variant_of'].where(sen['wikt_british_variant'], '')
     suggest = suggest.mask(suggest == '', fallback)
     suggest = suggest.mask(suggest == '', sen['wikt_american_equivalent'])
+    # Last resort, and only for a row that is being rejected as a spelling:
+    # derive the American form from the rules themselves. See
+    # `derived_american` -- 87 rows had no suggestion at all and a playable
+    # twin the file never named.
+    playable_now = set(sen.loc[sen['recommended'], 'noun'])
+    spelling_reject = sen['wikt_british_variant'] | sen['reviewed_spelling_variant']
+    need = (suggest == '') & spelling_reject
+    if need.any():
+        derived = sen.loc[need, 'noun'].map(
+            lambda w: derived_american(w, playable_now))
+        suggest = suggest.mask(need, derived)
+        print(f'suggestions derived from the spelling rules: '
+              f'{int((derived != "").sum()):,}')
     # Never suggest a word the dataset does not have, or the word itself.
     ok = suggest.isin(set(sen['noun'])) & (suggest != sen['noun'])
     sen['suggest_instead'] = suggest.where(ok, '')

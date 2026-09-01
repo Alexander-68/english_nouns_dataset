@@ -9,7 +9,7 @@ source had them.
 
 Its one unusual design decision: **rejected words stay in the file.** A game that only ships the
 playable words can say "not in the database" and nothing more. This one can say *why* a word is not
-allowed and *what to play instead* — 9,590 rejected rows, every one with a reason, 1,978 of them
+allowed and *what to play instead* — 9,590 rejected rows, every one with a reason, 2,065 of them
 naming a replacement.
 
     allowed=False  reason="british/commonwealth spelling variant"   suggest_instead="plow"
@@ -228,6 +228,17 @@ the fact outright rather than inferring it from a suffix:
 
     A Cv DV: color  <n>      standard American, a variant in Canadian and Australian
     B C D:   colour <n>      standard British, Canadian and Australian
+
+A rejected spelling that names no replacement is a dead end, and 87 of them were: `apnoea` said
+"british/commonwealth spelling variant" and stopped, while `apnea` sat playable and unnamed — the
+same for `haemin`/`hemin`, `palaeolith`/`paleolith`, `anaesthesiology`/`anesthesiology`. SCOWL
+supplies most of the British rows, `apply_scowl.py` had its own copy of the suffix loop, and that
+copy had no ae/oe digraph rule. Both files now derive the American form with one shared function,
+which builds the candidate from the same named correspondences that do the excluding and then
+requires `uk_us_pattern` to confirm the pair — a suggestion is never a similarity guess. Words
+ending `-ae` are skipped (`venulae`/`venule` is a Latin plural, not a spelling pair) and so are
+words under six letters, where the digraph is usually not British at all (`bael` is a tree, `bel` a
+unit).
 
 One pair per thousand runs the other way, and `adz` is the one that was found: Wiktionary tags
 **`adz`** US and tags `adze` nothing, so rejecting `adz` as "the nonstandard spelling" inverted the

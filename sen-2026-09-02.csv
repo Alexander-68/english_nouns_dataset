@@ -811,9 +811,9 @@ aedile,a,e,6,1.44,RARE,True,,,,,,,False,,"An elected official who was responsibl
 aegir,a,r,5,1.56,RARE,False,spelling variant of another word (reviewed),spelling variant of eagre,,,,,False,noun.event,a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary),oewn2025
 aegis,a,s,5,3.06,FAMILIAR,False,spelling variant of another word (reviewed),spelling variant of egis,egis,,,,False,noun.act,kindly endorsement and guidance,oewn2025
 aegrotat,a,t,8,0.0,OBSCURE,True,,obscure,,,,,False,,"A certificate indicating that a student is ill, excusing attendance at lectures and examinations and allowing courses to be passed without finishing the work.",scowl
-aeolipile,a,e,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"A steam engine powered by rocket propulsion due to escaping steam, consisting of a pressure vessel mounted on a bearing, with one or more tubes which exhaust steam tangentially to the rotation axis so",scowl
+aeolipile,a,e,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,eolipile,,,,False,,"A steam engine powered by rocket propulsion due to escaping steam, consisting of a pressure vessel mounted on a bearing, with one or more tubes which exhaust steam tangentially to the rotation axis so",scowl
 aeon,a,n,4,2.64,UNCOMMON,False,british/commonwealth spelling variant,spelling variant of eon; UK/Commonwealth spelling,eon,,,,False,noun.person,(Gnosticism) a divine power or nature emanating from the Supreme Being and playing various roles in the operation of the universe,oewn2025
-aeonism,a,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+aeonism,a,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,eonism,,,,False,,,scowl
 aepyornis,a,s,9,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.animal,huge (to 9 ft.) extinct flightless bird of Madagascar,oewn2025
 aeration,a,n,8,2.49,UNCOMMON,True,,,,,,,False,noun.process,the process of exposing to air (so as to purify),oewn2025
 aerator,a,r,7,1.89,RARE,True,,,,,,,False,noun.artifact,an apparatus for exposing something to the air (as sewage),oewn2025
@@ -1776,7 +1776,7 @@ amobarbital,a,l,11,1.25,RARE,True,,,,,,,False,noun.artifact,a barbiturate with s
 amoeba,a,a,6,2.64,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of ameba,ameba,,,,False,noun.animal,naked freshwater or marine or parasitic protozoa that form temporary pseudopods for feeding and locomotion,oewn2025
 amoebiasis,a,s,10,1.16,RARE,False,spelling variant of another word (reviewed),spelling variant of amebiasis,amebiasis,,,,False,noun.state,infection by a disease-causing ameba,oewn2025
 amoebiosis,a,s,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,infection by a disease-causing ameba,oewn2025
-amoebocyte,a,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Any cell that has the form or motion of an amoeba.,scowl
+amoebocyte,a,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,amebocyte,,,,False,,Any cell that has the form or motion of an amoeba.,scowl
 amok,a,k,4,2.77,UNCOMMON,False,adverb (not a noun),adverb (not a noun),,,ADV,,False,,"One who runs amok; in Malay and Moro/Philippine culture, one who attempts to kill many others, especially expecting that they will be killed themselves.",pos-auto
 amontillado,a,o,11,1.96,RARE,True,,possible name,,,,,False,,"A pale, dry sherry from Montilla.",scowl
 amora,a,a,5,1.65,RARE,False,not in Wiktionary,"manual - not in Wiktionary, is it a real noun?",,,,,False,noun.person,one of a group of rabbis (active AD 250-500) who discussed the Mishnaic law in the law schools of Palestine and Mesopotamia where they explained and applied earlier teachings and whose discussions are recorded in the Talmud; they emphasized the study of Torah and the importance of personal action and the fulfillment of the commandments,oewn2025
@@ -1890,12 +1890,12 @@ anadiplosis,a,s,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,repeti
 anaemia,a,a,7,2.51,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of anemia,anemia,,,,False,noun.state,a lack of vitality,oewn2025
 anaerobe,a,e,8,1.38,RARE,True,,,,,,,False,noun.animal,an organism (especially a bacterium) that does not require air or free oxygen to live,oewn2025
 anaesthesia,a,a,11,2.71,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of anesthesia,anesthesia,,,,False,noun.state,loss of bodily sensation with or without loss of consciousness,oewn2025
-anaesthesiologist,a,t,17,1.57,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative spelling of anesthesiologist.,scowl
-anaesthesiology,a,y,15,1.54,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative spelling of anesthesiology.,scowl
+anaesthesiologist,a,t,17,1.57,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,anesthesiologist,,,,False,,Alternative spelling of anesthesiologist.,scowl
+anaesthesiology,a,y,15,1.54,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,anesthesiology,,,,False,,Alternative spelling of anesthesiology.,scowl
 anaesthetic,a,c,11,2.93,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of anesthetic,anesthetic,,,,False,noun.artifact,a drug that causes temporary loss of bodily sensations,oewn2025
 anaesthetisation,a,n,16,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of anesthetization.,scowl
 anaesthetist,a,t,12,2.23,UNCOMMON,False,british/commonwealth spelling variant,spelling variant of anesthetist; UK/Commonwealth spelling,anesthetist,,,,False,noun.person,a specialist who administers an anesthetic to a patient before they are treated,oewn2025
-anaesthetization,a,n,16,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,The act of anesthetizing,scowl
+anaesthetization,a,n,16,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,anesthetization,,,,False,,The act of anesthetizing,scowl
 anaglyph,a,h,8,1.51,RARE,True,,,,,,,False,noun.artifact,moving or still pictures in contrasting colors that appear three-dimensional when superimposed,oewn2025
 anaglyphy,a,y,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.process,the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens,oewn2025
 anagnorisis,a,s,11,1.01,RARE,True,,,,,,,False,,The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement.,scowl
@@ -2253,7 +2253,7 @@ anorthosite,a,e,11,1.36,RARE,True,,,,,,,False,,"A phaneritic, intrusive igneous 
 anosmia,a,a,7,1.68,RARE,True,,,,,,,False,noun.state,absence of the sense of smell (as by damage to olfactory nasal tissue or the olfactory nerve or by obstruction of the nasal passages),oewn2025
 anovulant,a,t,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,a contraceptive in the form of a pill containing estrogen and progestin to inhibit ovulation and so prevent conception,oewn2025
 anovulation,a,n,11,1.46,RARE,True,,,,,,,False,noun.process,the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary,oewn2025
-anoxaemia,a,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Critical lack of oxygen in blood; severe hypoxaemia.,scowl
+anoxaemia,a,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,anoxemia,,,,False,,Critical lack of oxygen in blood; severe hypoxaemia.,scowl
 anoxemia,a,a,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,abnormally low oxygen content in arterial blood,oewn2025
 anoxia,a,a,6,1.96,RARE,True,,,,,,,False,noun.state,severe hypoxia; absence of oxygen in inspired gases or in arterial blood or in the tissues,oewn2025
 answer,a,r,6,5.17,CORE,True,,,,,,,False,noun.communication,a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation,oewn2025
@@ -2597,7 +2597,7 @@ aplasia,a,a,7,1.52,RARE,True,,,,,,,False,noun.state,failure of some tissue or or
 aplite,a,e,6,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,light-colored and fine-grained granitic rock consisting chiefly of quartz and feldspars,oewn2025
 aplomb,a,b,6,2.36,UNCOMMON,True,,,,,,,False,noun.attribute,great coolness and composure under strain,oewn2025
 apnea,a,a,5,3.0,FAMILIAR,True,,,,,,,False,noun.state,transient cessation of respiration,oewn2025
-apnoea,a,a,6,1.93,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative form of apnea.,scowl
+apnoea,a,a,6,1.93,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,apnea,,,,False,,Alternative form of apnea.,scowl
 apoapsis,a,s,8,1.19,RARE,True,,,,,,,False,noun.location,(astronomy) the point in an orbit farthest from the body being orbited,oewn2025
 apocalypse,a,e,10,3.71,FAMILIAR,True,,possible name,,,,,False,noun.event,a cosmic cataclysm in which God destroys the ruling powers of evil,oewn2025
 apocalyptic,a,c,11,3.43,FAMILIAR,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,,ADJ,,False,,One who predicts apocalypse.,pos-auto
@@ -7610,7 +7610,7 @@ cacique,c,e,7,1.99,RARE,True,,,,,,,False,noun.animal,black-and-red or black-and-
 cackle,c,e,6,2.41,UNCOMMON,True,,,,,,,False,noun.event,the sound made by a hen after laying an egg,oewn2025
 cackler,c,r,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,a hen that has just laid an egg and emits a shrill squawk,oewn2025
 cackling,c,g,8,2.69,UNCOMMON,False,verb (not a noun),verb (not a noun),,,VERB,cackle,False,,A sound that cackles.,pos-auto
-cacoaethes,c,s,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+cacoaethes,c,s,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,cacoethes,,,,False,,,scowl
 cacodaemon,c,n,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,an evil spirit,oewn2025
 cacodemon,c,n,9,1.07,RARE,True,,,,,,,False,noun.person,an evil spirit,oewn2025
 cacodyl,c,l,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,a poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air,oewn2025
@@ -7651,7 +7651,7 @@ cadre,c,e,5,3.04,FAMILIAR,True,,,,,,,False,noun.group,a small unit serving as pa
 caduceus,c,s,8,2.03,UNCOMMON,True,,,,,,,False,noun.communication,an insignia used by the medical profession; modeled after the staff of Hermes,oewn2025
 caducity,c,y,8,0.0,OBSCURE,True,,obscure,,,,,False,,Dotage or senility.,scowl
 caecilian,c,n,9,1.03,RARE,True,,,,,,,False,noun.animal,any of the small slender limbless burrowing wormlike amphibians of the order Gymnophiona; inhabit moist soil in tropical regions,oewn2025
-caecity,c,y,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of cecity.,scowl
+caecity,c,y,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,cecity,,,,False,,Alternative form of cecity.,scowl
 caecum,c,m,6,1.86,RARE,False,spelling variant of another word (reviewed),spelling variant of cecum,cecum,,,,False,noun.body,the cavity in which the large intestine begins and into which the ileum opens,oewn2025
 caenogenesis,c,s,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of cenogenesis,cenogenesis,,,,False,noun.process,introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species (such as the addition of the placenta in mammalian evolution),oewn2025
 caeoma,c,a,6,0.0,OBSCURE,True,,obscure,,,,,False,,An aecium of some rust fungi that has no peridium or outer membrane.,scowl
@@ -7659,7 +7659,7 @@ caesar,c,r,6,3.8,FAMILIAR,False,proper noun or other non-noun (reviewed),possibl
 caesarean,c,n,9,2.59,UNCOMMON,True,,,,,,,False,noun.act,the delivery of a fetus by surgical incision through the abdominal wall and uterus (from the belief that Julius Caesar was born that way),oewn2025
 caesarian,c,n,9,2.0,UNCOMMON,True,,,,,,,False,noun.act,the delivery of a fetus by surgical incision through the abdominal wall and uterus (from the belief that Julius Caesar was born that way),oewn2025
 caesium,c,m,7,2.19,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of cesium,cesium,,,,False,noun.substance,a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal,oewn2025
-caestus,c,s,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of cestus.,scowl
+caestus,c,s,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,cestus,,,,False,,Alternative form of cestus.,scowl
 caesura,c,a,7,1.7,RARE,True,,,,,,,False,noun.time,a pause or interruption (as in a conversation),oewn2025
 cafard,c,d,6,0.0,OBSCURE,True,,obscure,,,,,False,,Depression; melancholy.,scowl
 cafe,c,e,4,4.09,COMMON,True,,,,,,,False,noun.artifact,a small restaurant where drinks and snacks are sold,oewn2025
@@ -9078,7 +9078,7 @@ chaenactis,c,s,10,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it 
 chaeta,c,a,6,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,a stiff chitinous seta or bristle especially of an annelid worm,oewn2025
 chaetodon,c,n,9,1.05,RARE,True,,,,,,,False,noun.animal,any fish of the genus Chaetodon,oewn2025
 chaetognath,c,h,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,any worm of the Chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth,oewn2025
-chaetopod,c,d,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"Any of the Chaetopoda, an obsolete invertebrate phylum (more or less equivalent to the modern Annelida) made up of groups characterized by lateral bundles of bristles called chaetae used for locomotio",scowl
+chaetopod,c,d,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,chetopod,,,,False,,"Any of the Chaetopoda, an obsolete invertebrate phylum (more or less equivalent to the modern Annelida) made up of groups characterized by lateral bundles of bristles called chaetae used for locomotio",scowl
 chafe,c,e,5,2.4,UNCOMMON,True,,,,,,,False,noun.state,soreness and warmth caused by friction,oewn2025
 chafer,c,r,6,1.61,RARE,True,,,,,,,False,,One who chafes.,scowl
 chafeweed,c,d,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.plant,weedy perennial of north temperate regions having woolly foliage and dirty white flowers in a leafy spike,oewn2025
@@ -10714,13 +10714,13 @@ coefficient,c,t,11,3.39,FAMILIAR,True,,,,,,,False,noun.quantity,a constant numbe
 coelacanth,c,h,10,1.75,RARE,True,,,,,,,False,noun.animal,fish thought to have been extinct since the Cretaceous period but found in 1938 off the coast of Africa,oewn2025
 coelenterate,c,e,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms,oewn2025
 coelenteron,c,n,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,the saclike body cavity of a coelenterate,oewn2025
-coeliotomy,c,y,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"A surgical procedure for making an incision in the abdominal wall to gain access into the abdominal cavity. Performed either as exploratory surgery, or as the first step in an abdominal operation.",scowl
+coeliotomy,c,y,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,celiotomy,,,,False,,"A surgical procedure for making an incision in the abdominal wall to gain access into the abdominal cavity. Performed either as exploratory surgery, or as the first step in an abdominal operation.",scowl
 coelogyne,c,e,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.plant,any of various orchids of the genus Coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black,oewn2025
 coelom,c,m,6,1.42,RARE,False,spelling variant of another word (reviewed),spelling variant of celom,celom,,,,False,noun.body,a cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity,oewn2025
 coelophysis,c,s,11,1.08,RARE,False,not in Wiktionary,"manual - not in Wiktionary, is it a real noun?",,,,,False,noun.animal,one of the oldest known dinosaurs; late Triassic; cannibalistic,oewn2025
 coelostat,c,t,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror,oewn2025
-coenacle,c,e,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of cenacle.,scowl
-coenesthesia,c,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of cenesthesia.,scowl
+coenacle,c,e,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,cenacle,,,,False,,Alternative spelling of cenacle.,scowl
+coenesthesia,c,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,cenesthesia,,,,False,,Alternative form of cenesthesia.,scowl
 coenobite,c,e,9,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of cenobite,cenobite,,,,False,noun.person,a member of a religious order living in common,oewn2025
 coenocyte,c,e,9,0.0,OBSCURE,True,,obscure,,,,,False,,"A cell with multiple nuclei, found in fungi, algae, protists and slime molds.",scowl
 coenosarc,c,c,9,0.0,OBSCURE,True,,obscure,,,,,False,,"A living body (structure, such as a tube or mesoglea) that is held in common by many organisms included in a composite zoophyte (such as the polyps of a coral, or the zooids of a hydroid), by which th",scowl
@@ -17453,7 +17453,7 @@ el,e,l,2,4.56,COMMON,True,,,,,,,False,noun.artifact,a railway that is powered by
 elaborateness,e,s,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.attribute,marked by elaborately complex detail,oewn2025
 elaboration,e,n,11,2.82,UNCOMMON,True,,,,,,,False,noun.act,addition of extra material or illustration or clarifying detail,oewn2025
 elaborator,e,r,10,0.0,OBSCURE,True,,obscure,,,,,False,,"One who, or that which, elaborates.",scowl
-elaeoptene,e,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"The more liquid or volatile portion of certain oily substances, such as rose oil.",scowl
+elaeoptene,e,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,eleoptene,,,,False,,"The more liquid or volatile portion of certain oily substances, such as rose oil.",scowl
 elan,e,n,4,2.77,UNCOMMON,True,,,,,,,False,noun.feeling,a feeling of strong eagerness (usually in favor of a person or cause),oewn2025
 eland,e,d,5,2.15,UNCOMMON,True,,,,,,,False,noun.animal,either of two large African antelopes of the genus Taurotragus having short spirally twisted horns in both sexes,oewn2025
 elaphure,e,e,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,large Chinese deer surviving only in domesticated herds,oewn2025
@@ -17921,7 +17921,7 @@ encystment,e,t,10,0.0,OBSCURE,True,,obscure,,,,,False,,The formation of a cyst.,
 end,e,d,3,5.68,CORE,True,,,,,,,False,noun.location,either extremity of something that has length,oewn2025
 endaemonism,e,m,11,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.cognition,an ethical system that evaluates actions by reference to personal well-being through a life based on reason,oewn2025
 endameba,e,a,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,any ameba of the genus Endamoeba,oewn2025
-endamoeba,e,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure; possible name,,,,,False,,Alternative form of entameba.,scowl
+endamoeba,e,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure; possible name,endameba,,,,False,,Alternative form of entameba.,scowl
 endangering,e,g,11,3.08,FAMILIAR,False,verb form (reviewed),verb (reviewed),,,,,False,,The act of putting someone or something in danger.,gaps-review
 endangerment,e,t,12,2.67,UNCOMMON,True,,,,,,,False,noun.state,a source of danger; a possibility of incurring loss or misfortune,oewn2025
 endarterectomy,e,y,14,1.47,RARE,True,,,,,,,False,noun.act,surgical removal of the inner lining of an artery that is clogged with atherosclerosis,oewn2025
@@ -18770,7 +18770,7 @@ euchre,e,e,6,1.86,RARE,True,,,,,,,False,noun.act,a card game similar to ecarte; 
 euchromatin,e,n,11,1.17,RARE,True,,,,,,,False,,uncoiled dispersed threads of chromosomal material that occurs during interphase; it stains lightly with basic dyes,scowl
 eudaemon,e,n,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of eudemon,eudemon,,,,False,noun.person,a benevolent spirit,oewn2025
 eudaemonia,e,a,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,a contented state of being happy and healthy and prosperous,oewn2025
-eudaemonism,e,m,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"A philosophical notion, or system of ethics, which measures happiness in relation to morality.",scowl
+eudaemonism,e,m,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,eudemonism,,,,False,,"A philosophical notion, or system of ethics, which measures happiness in relation to morality.",scowl
 eudaimonia,e,a,10,1.65,RARE,True,,,,,,,False,noun.state,a contented state of being happy and healthy and prosperous,oewn2025
 eudemon,e,n,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a benevolent spirit,oewn2025
 eudemonia,e,a,9,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of Eudaimonia.,scowl
@@ -19451,8 +19451,8 @@ fading,f,g,6,3.61,FAMILIAR,True,,,,,,,False,noun.event,weakening in force or int
 fado,f,o,4,2.01,UNCOMMON,True,,,,,,,False,noun.communication,a sad Portuguese folksong,oewn2025
 faecalith,f,h,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.object,a hard mass of fecal matter,oewn2025
 faeces,f,s,6,2.71,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of feces,,,,,False,noun.substance,solid excretory product evacuated from the bowels,oewn2025
-faecula,f,a,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
-faeculence,f,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of feculence.,scowl
+faecula,f,a,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,fecula,,,,False,,,scowl
+faeculence,f,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,feculence,,,,False,,Alternative form of feculence.,scowl
 faena,f,a,5,1.46,RARE,True,,,,,,,False,,A series of passes performed by a matador with a muleta or a sword before the kill.,scowl
 faerie,f,e,6,2.72,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of fairy,fairy,,,,False,noun.person,"a small being, human in form, playful and having magical powers",oewn2025
 faery,f,y,5,2.03,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of fairy,fairy,,,,False,noun.person,"a small being, human in form, playful and having magical powers",oewn2025
@@ -20896,8 +20896,8 @@ fodder,f,r,6,3.36,FAMILIAR,True,,,,,,,False,noun.person,soldiers who are regarde
 foe,f,e,3,3.51,FAMILIAR,True,,,,,,,False,noun.person,an armed adversary (especially a member of an opposing military force),oewn2025
 foehn,f,n,5,1.48,RARE,True,,,,,,,False,noun.phenomenon,a warm dry wind that blows down the northern slopes of the Alps,oewn2025
 foeman,f,n,6,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a male armed adversary (especially a member of an opposing military force),oewn2025
-foetation,f,n,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of fetation.,scowl
-foeticide,f,e,9,1.63,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative form of feticide,scowl
+foetation,f,n,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,fetation,,,,False,,Alternative form of fetation.,scowl
+foeticide,f,e,9,1.63,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,feticide,,,,False,,Alternative form of feticide,scowl
 foetology,f,y,9,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of fetology,fetology,,,,False,noun.cognition,the branch of medicine concerned with the fetus in the uterus,oewn2025
 foetometry,f,y,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of fetometry,fetometry,,,,False,noun.act,measurement of a fetus (especially the diameter of the head),oewn2025
 foetoprotein,f,n,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of fetoprotein,fetoprotein,,,,False,noun.substance,any of several antigens that occur naturally in the fetus and sometimes in adults with cancer,oewn2025
@@ -21351,8 +21351,8 @@ fractiousness,f,s,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.attribute,the trai
 fracture,f,e,8,3.7,FAMILIAR,True,,,,,,,False,noun.state,breaking of hard tissue such as bone,oewn2025
 fracturing,f,g,10,2.96,UNCOMMON,False,verb (not a noun),verb (not a noun),,,VERB,fracture,False,,The act by which something is fractured.,pos-auto
 fradicin,f,n,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,an antibiotic obtained from an actinomycete and used (as a sulphate under the trade name Neobiotic) as an intestinal antiseptic in surgery,oewn2025
-fraenulum,f,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,see frenulum,scowl
-fraenum,f,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of frenum.,scowl
+fraenulum,f,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,frenulum,,,,False,,see frenulum,scowl
+fraenum,f,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,frenum,,,,False,,Alternative form of frenum.,scowl
 fragile,f,e,7,3.86,FAMILIAR,False,adjective (not a noun),adjective (not a noun); usually an adjective (corpus),,,ADJ,,False,,Something that is fragile.,pos-auto
 fragileness,f,s,11,0.0,OBSCURE,True,,obscure,,,,,False,,The property of being fragile.,scowl
 fragility,f,y,9,2.98,UNCOMMON,True,,,,,,,False,noun.attribute,quality of being easily damaged or destroyed,oewn2025
@@ -22962,7 +22962,7 @@ glume,g,e,5,1.39,RARE,True,,,,,,,False,noun.plant,small dry membranous bract fou
 glumness,g,s,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,an atmosphere of depression and melancholy,oewn2025
 gluon,g,n,5,2.16,UNCOMMON,True,,,,,,,False,noun.object,a gauge boson that mediates strong interaction among quarks,oewn2025
 glut,g,t,4,2.81,UNCOMMON,True,,,,,,,False,noun.attribute,the quality of being so overabundant that prices fall,oewn2025
-glutaeus,g,s,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of gluteus.,scowl
+glutaeus,g,s,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,gluteus,,,,False,,Alternative form of gluteus.,scowl
 glutamate,g,e,9,2.88,UNCOMMON,True,,,,,,,False,noun.substance,a salt or ester of glutamic acid,oewn2025
 glutamine,g,e,9,2.5,UNCOMMON,True,,,,,,,False,noun.substance,a crystalline amino acid occurring in proteins; important in protein metabolism,oewn2025
 glutathione,g,e,11,2.69,UNCOMMON,True,,,,,,,False,,"A tripeptide formed from glutamic acid, cysteine and glycine, that is active in many biological redox reactions.",scowl
@@ -24027,10 +24027,10 @@ gymnosperm,g,m,10,1.34,RARE,True,,,,,,,False,noun.plant,plants of the class Gymn
 gymnospermy,g,y,11,0.0,OBSCURE,True,,obscure,,,,,False,,The property of being gymnospermous,scowl
 gymslip,g,p,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,a sleeveless tunic worn by English girls as part of a school uniform,oewn2025
 gynaeceum,g,m,9,0.0,OBSCURE,True,,obscure,,,,,False,,"The women's quarters in a household; (hence, loosely) any building or area for women.",scowl
-gynaecocracy,g,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of gynecocracy.,scowl
+gynaecocracy,g,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,gynecocracy,,,,False,,Alternative form of gynecocracy.,scowl
 gynaecologist,g,t,13,2.4,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of gynecologist,gynecologist,,,,False,noun.person,a specialist in gynecology,oewn2025
 gynaecology,g,y,11,2.49,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of gynecology,gynecology,,,,False,noun.cognition,the branch of medicine that deals with the diseases and hygiene of women,oewn2025
-gynaecomastia,g,a,13,1.19,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative form of gynecomastia.,scowl
+gynaecomastia,g,a,13,1.19,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,gynecomastia,,,,False,,Alternative form of gynecomastia.,scowl
 gynaeolatry,g,y,11,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.act,the worship of women,oewn2025
 gynandromorph,g,h,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,one having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made,oewn2025
 gynandry,g,y,8,0.0,OBSCURE,True,,obscure,,,,,False,,"Hermaphroditism, intersexuality; androgyny; resemblance (by a member of one sex) of another sex.",scowl
@@ -24124,14 +24124,14 @@ hadrosaur,h,r,9,1.33,RARE,True,,,,,,,False,noun.animal,any of numerous large bip
 hadrosaurus,h,s,11,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.animal,any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic,oewn2025
 haecceity,h,y,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.cognition,the essence that makes something the kind of thing it is and makes it different from any other,oewn2025
 haem,h,m,4,1.57,RARE,True,,,,,,,False,noun.substance,a complex red organic pigment containing iron and other atoms to which oxygen binds,oewn2025
-haemachrome,h,e,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,hematin,scowl
+haemachrome,h,e,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hemachrome,,,,False,,hematin,scowl
 haemagglutination,h,n,17,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hemagglutination; UK/Commonwealth spelling,hemagglutination,,,,False,noun.process,agglutination of red blood cells,oewn2025
 haemangioma,h,a,11,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hemangioma; UK/Commonwealth spelling,hemangioma,,,,False,noun.state,benign angioma consisting of a mass of blood vessels; some appear as birthmarks,oewn2025
 haematemesis,h,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hematemesis; UK/Commonwealth spelling,hematemesis,,,,False,noun.act,vomiting blood,oewn2025
 haematin,h,n,8,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hematin; UK/Commonwealth spelling,hematin,,,,False,noun.substance,a complex red organic pigment containing iron and other atoms to which oxygen binds,oewn2025
 haematinic,h,c,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hematinic,hematinic,,,,False,noun.artifact,a medicine that increases the hemoglobin content of the blood; used to treat iron-deficiency anemia,oewn2025
 haematite,h,e,9,1.51,RARE,False,british/commonwealth spelling variant,spelling variant of hematite; UK/Commonwealth spelling,hematite,,,,False,noun.substance,the principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form,oewn2025
-haematoblast,h,t,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Either of two categories of blood cell.,scowl
+haematoblast,h,t,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hematoblast,,,,False,,Either of two categories of blood cell.,scowl
 haematocele,h,e,11,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hematocele; UK/Commonwealth spelling,hematocele,,,,False,noun.state,swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis),oewn2025
 haematochezia,h,a,13,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hematochezia,hematochezia,,,,False,noun.process,passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer),oewn2025
 haematocoele,h,e,12,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.state,swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis),oewn2025
@@ -24147,13 +24147,13 @@ haematology,h,y,11,2.04,UNCOMMON,True,,,,,,,False,noun.cognition,the branch of m
 haematolysis,h,s,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.process,lysis of erythrocytes with the release of hemoglobin,oewn2025
 haematoma,h,a,9,2.02,UNCOMMON,True,,,,,,,False,noun.state,a localized swelling filled with blood,oewn2025
 haematopoiesis,h,s,14,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of hematopoiesis; UK/Commonwealth spelling,hematopoiesis,,,,False,noun.process,the formation of blood cells in the living body (especially in the bone marrow),oewn2025
-haematosis,h,s,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of hematosis.,scowl
-haematoxylin,h,n,12,1.13,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Alternative spelling of hematoxylin.,scowl
+haematosis,h,s,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hematosis,,,,False,,Alternative form of hematosis.,scowl
+haematoxylin,h,n,12,1.13,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,hematoxylin,,,,False,,Alternative spelling of hematoxylin.,scowl
 haematoxylon,h,n,12,0.0,OBSCURE,False,proper noun or other non-noun (reviewed),obscure; possible name,,,,,False,,,scowl
-haematozoon,h,n,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Any parasite in the class Aconoidasida (formerly subclass Haematozoa) inhabiting the blood.,scowl
+haematozoon,h,n,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hematozoon,,,,False,,Any parasite in the class Aconoidasida (formerly subclass Haematozoa) inhabiting the blood.,scowl
 haematuria,h,a,10,1.1,RARE,True,,,,,,,False,noun.state,the presence of blood in the urine; often a symptom of urinary tract disease,oewn2025
-haemin,h,n,6,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of hemin.,scowl
-haemocyte,h,e,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of hemocyte.,scowl
+haemin,h,n,6,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hemin,,,,False,,Alternative spelling of hemin.,scowl
+haemocyte,h,e,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hemocyte,,,,False,,Alternative spelling of hemocyte.,scowl
 haemodialysis,h,s,13,1.62,RARE,True,,,,,,,False,noun.act,dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream; used in the case of kidney failure,oewn2025
 haemogenesis,h,s,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.process,the formation of blood cells in the living body (especially in the bone marrow),oewn2025
 haemoglobin,h,n,11,2.28,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of hemoglobin,hemoglobin,,,,False,noun.substance,a hemoprotein composed of globin and heme that gives red blood cells their characteristic color; function primarily to transport oxygen from the lungs to the body tissues,oewn2025
@@ -24172,7 +24172,7 @@ haemoptysis,h,s,11,1.04,RARE,False,british/commonwealth spelling variant,spellin
 haemorrhage,h,e,11,2.74,UNCOMMON,False,british/commonwealth spelling variant,spelling variant of hemorrhage; UK/Commonwealth spelling,hemorrhage,,,,False,noun.state,the flow of blood from a ruptured blood vessel,oewn2025
 haemorrhaging,h,g,13,1.96,RARE,False,verb (not a noun),verb (not a noun),,,VERB,haemorrhage,False,,bleeding,pos-auto
 haemorrhoid,h,d,11,1.24,RARE,False,british/commonwealth spelling variant,spelling variant of hemorrhoid; UK/Commonwealth spelling,hemorrhoid,,,,False,noun.state,venous swelling external or internal to the anal sphincter,oewn2025
-haemorrhoidal,h,l,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure; also an adjective (SCOWL),,,,,False,,Alternative form of hemorrhoidal.,scowl
+haemorrhoidal,h,l,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure; also an adjective (SCOWL),hemorrhoidal,,,,False,,Alternative form of hemorrhoidal.,scowl
 haemorrhoidectomy,h,y,17,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hemorrhoidectomy,hemorrhoidectomy,,,,False,noun.act,surgical procedure for tying hemorrhoids and excising them,oewn2025
 haemorrhoids,h,s,12,1.88,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,A pathological condition caused by painful masses of dilated veins in swollen anal tissue.,scowl
 haemosiderin,h,n,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hemosiderin,hemosiderin,,,,False,noun.substance,a granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism,oewn2025
@@ -25243,7 +25243,7 @@ hessite,h,e,7,0.0,OBSCURE,True,,obscure,,,,,False,,A mineral form of disilver te
 hessonite,h,e,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,a garnet ranging in color from yellow to brown,oewn2025
 hest,h,t,4,1.79,RARE,True,,,,,,,False,,"Command, injunction.",scowl
 hetaera,h,a,7,0.0,OBSCURE,True,,obscure,,,,,False,,A highly cultivated hired female companion who would entertain upper-class male clients and might perform sex acts for them.,scowl
-hetaerism,h,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"A theoretical early state of human society (as postulated by 19th-century anthropologists) which was characterized by the absence of the institution of marriage in any form, and where women were the c",scowl
+hetaerism,h,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,heterism,,,,False,,"A theoretical early state of human society (as postulated by 19th-century anthropologists) which was characterized by the absence of the institution of marriage in any form, and where women were the c",scowl
 heterism,h,m,8,0.0,OBSCURE,True,,"obscure; not in Wiktionary, glossed by hand",,,,,False,,A form of social organisation in which marriage ties are communal rather than exclusive.,scowl
 hetero,h,o,6,2.74,UNCOMMON,True,,also an adjective (SCOWL),,,,,False,,A heterosexual person.,scowl
 heterochromatin,h,n,15,1.88,RARE,True,,,,,,,False,,Heterochromatic tightly coiled chromosome material; believed to be genetically inactive,scowl
@@ -25721,9 +25721,9 @@ hominy,h,y,6,1.99,RARE,True,,,,,,,False,noun.food,hulled corn with the bran and 
 hommos,h,s,6,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hummus,hummus,,,,False,noun.food,"a thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the Middle East",oewn2025
 homo,h,o,4,3.61,FAMILIAR,True,,possible abbreviation or clipping,,,,,False,noun.person,someone who is sexually attracted to persons of the same sex,oewn2025
 homoeopath,h,h,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of homeopath,homeopath,,,,False,noun.person,a practitioner of homeopathy,oewn2025
-homoeopathist,h,t,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of homeopathist.,scowl
+homoeopathist,h,t,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,homeopathist,,,,False,,Alternative form of homeopathist.,scowl
 homoeopathy,h,y,11,1.9,RARE,False,spelling variant of another word (reviewed),spelling variant of homeopathy,homeopathy,,,,False,noun.act,"a method of treating disease with small amounts of remedies that, in large amounts in healthy people, produce symptoms similar to those being treated",oewn2025
-homoeostasis,h,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of homeostasis.,scowl
+homoeostasis,h,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,homeostasis,,,,False,,Alternative spelling of homeostasis.,scowl
 homoeroticism,h,m,13,1.69,RARE,True,,,,,,,False,noun.act,a sexual attraction to (or sexual relations with) persons of the same sex,oewn2025
 homogamy,h,y,8,0.0,OBSCURE,True,,obscure,,,,,False,,Fertilization of a flower by pollen from the same plant.,scowl
 homogenate,h,e,10,1.44,RARE,True,,,,,,,False,noun.substance,material that has been homogenized (especially tissue that has been ground and mixed),oewn2025
@@ -26344,7 +26344,7 @@ hydrocephaly,h,y,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,an abnormal c
 hydrochloride,h,e,13,2.62,UNCOMMON,True,,,,,,,False,noun.substance,a complex consisting of an organic base in association with hydrogen chloride,oewn2025
 hydrochlorofluorocarbon,h,n,23,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere,oewn2025
 hydrochlorothiazide,h,e,19,1.92,RARE,True,,,,,,,False,noun.artifact,"a diuretic drug (trade name Microzide, Esidrix, and HydroDIURIL) used in the treatment of hypertension",oewn2025
-hydrocoele,h,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of hydrocele.,scowl
+hydrocoele,h,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hydrocele,,,,False,,Alternative spelling of hydrocele.,scowl
 hydrocolloid,h,d,12,1.55,RARE,True,,,,,,,False,noun.substance,a substance that forms a gel with water,oewn2025
 hydrocortisone,h,e,14,2.19,UNCOMMON,True,,,,,,,False,noun.substance,an adrenal-cortex hormone (trade names Hydrocortone or Cortef) that is active in carbohydrate and protein metabolism,oewn2025
 hydrocracking,h,g,13,1.29,RARE,True,,,,,,,False,noun.process,the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst,oewn2025
@@ -26460,7 +26460,7 @@ hymnology,h,y,9,1.31,RARE,True,,,,,,,False,,The study of hymns; hymnody.,scowl
 hyoid,h,d,5,2.25,UNCOMMON,True,,possible abbreviation or clipping,,,,,False,noun.body,a U-shaped bone at the base of the tongue that supports the tongue muscles,oewn2025
 hyoscine,h,e,8,1.34,RARE,True,,,,,,,False,noun.artifact,an alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures,oewn2025
 hyoscyamine,h,e,11,1.3,RARE,True,,,,,,,False,noun.artifact,a poisonous crystalline alkaloid (isometric with atropine but more potent); used to treat excess motility of the gastrointestinal tract,oewn2025
-hypaesthesia,h,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+hypaesthesia,h,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hypesthesia,,,,False,,,scowl
 hypallage,h,e,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,reversal of the syntactic relation of two words (as in ‘her beauty's face’),oewn2025
 hypanthium,h,m,10,1.2,RARE,True,,,,,,,False,noun.plant,the cuplike or ringlike or tubular structure of a flower which bears the sepals and stamens and calyx (as in Rosaceae),oewn2025
 hype,h,e,4,4.03,COMMON,True,,possible abbreviation or clipping,,,,,False,noun.communication,blatant or sensational promotion,oewn2025
@@ -26471,7 +26471,7 @@ hyperacusis,h,s,11,1.44,RARE,True,,,,,,,False,noun.state,abnormal acuteness of h
 hyperadrenalism,h,m,15,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,a glandular disorder caused by excessive ACTH resulting in greater than normal functioning of the adrenal gland; characterized by obesity,oewn2025
 hyperadrenocorticism,h,m,20,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,a glandular disorder caused by excessive cortisol,oewn2025
 hyperaemia,h,a,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hyperemia,hyperemia,,,,False,noun.state,increased blood in an organ or other body part,oewn2025
-hyperaesthesia,h,a,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of hyperesthesia.,scowl
+hyperaesthesia,h,a,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hyperesthesia,,,,False,,Alternative spelling of hyperesthesia.,scowl
 hyperaldosteronism,h,m,18,1.29,RARE,True,,,,,,,False,noun.state,a condition caused by overproduction of aldosterone,oewn2025
 hyperalimentation,h,n,17,0.0,OBSCURE,True,,obscure,,,,,False,noun.act,administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes,oewn2025
 hyperbaton,h,n,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,reversal of normal word order (as in ‘cheese I love’),oewn2025
@@ -26626,7 +26626,7 @@ hypoderma,h,a,9,0.0,OBSCURE,True,,obscure; possible name,,,,,False,,hypodermis,s
 hypodermic,h,c,10,2.48,UNCOMMON,True,,,,,,,False,noun.artifact,a piston syringe that is fitted with a hypodermic needle for giving injections,oewn2025
 hypodermis,h,s,10,1.18,RARE,True,,,,,,,False,noun.animal,layer of cells that secretes the chitinous cuticle in e.g. arthropods,oewn2025
 hypoesthesia,h,a,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hypesthesia,hypesthesia,,,,False,noun.state,impairment of tactile sensitivity; decrease of sensitivity,oewn2025
-hypogaeum,h,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of hypogeum.,scowl
+hypogaeum,h,m,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hypogeum,,,,False,,Alternative form of hypogeum.,scowl
 hypogammaglobulinemia,h,a,21,1.01,RARE,True,,,,,,,False,noun.state,an abnormally low concentration of gamma globulin in the blood and increased risk of infection,oewn2025
 hypogastrium,h,m,12,0.0,OBSCURE,True,,obscure,,,,,False,,An area of the human abdomen residing below the umbilicus.,scowl
 hypogeum,h,m,8,1.23,RARE,True,,,,,,,False,,An underground room or cavern (also used figuratively).,scowl
@@ -26679,7 +26679,7 @@ hypotyposis,h,s,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,vivid 
 hypovitaminosis,h,s,15,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,any of several diseases caused by deficiency of one or more vitamins,oewn2025
 hypovolaemia,h,a,12,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of hypovolemia,hypovolemia,,,,False,noun.state,a blood disorder consisting of a decrease in the volume of circulating blood,oewn2025
 hypovolemia,h,a,11,1.54,RARE,True,,,,,,,False,noun.state,a blood disorder consisting of a decrease in the volume of circulating blood,oewn2025
-hypoxaemia,h,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of hypoxemia.,scowl
+hypoxaemia,h,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,hypoxemia,,,,False,,Alternative spelling of hypoxemia.,scowl
 hypoxanthine,h,e,12,1.37,RARE,True,,,,,,,False,,"A bicyclic heterocycle, 3,7-dihydropurin-6-one, that is an intermediate in the biosynthesis of uric acid.",scowl
 hypoxemia,h,a,9,1.68,RARE,True,,,,,,,False,,"An abnormal deficiency in the concentration of oxygen in the blood, whether the partial pressure of oxygen (mm Hg), the content of oxygen (ml oxygen per dl of blood) or the per cent saturation of the ",scowl
 hypoxia,h,a,7,2.83,UNCOMMON,True,,,,,,,False,noun.state,oxygen deficiency causing a very strong drive to correct the deficiency,oewn2025
@@ -30253,7 +30253,7 @@ ladylove,l,e,8,1.29,RARE,True,,,,,,,False,noun.person,a woman who is a man's swe
 ladyship,l,p,8,2.55,UNCOMMON,True,,,,,,,False,,Term of respect for a woman of the peerage without using her title.,scowl
 laelia,l,a,6,1.18,RARE,True,,,,,,,False,noun.plant,any of various spectacular plants of the genus Laelia having showy flowers in many colors,oewn2025
 laetrile,l,e,8,1.4,RARE,True,,,,,,,False,noun.substance,a substance derived from amygdalin; publicized as an antineoplastic drug although there is no supporting evidence,oewn2025
-laevorotation,l,n,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of levorotation.,scowl
+laevorotation,l,n,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,levorotation,,,,False,,Alternative form of levorotation.,scowl
 laevulose,l,e,9,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of levulose,levulose,,,,False,noun.substance,a simple sugar found in honey and in many ripe fruits,oewn2025
 lafayette,l,e,9,3.52,FAMILIAR,False,proper noun or other non-noun (reviewed),usually a name (corpus); possible name,,,,,False,,The dollarfish.,gaps-review
 laffer,l,r,6,2.14,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,,False,,A comedy.,gaps-review
@@ -31035,7 +31035,7 @@ leukoencephalitis,l,s,17,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,inflamma
 leukoma,l,a,7,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of leucoma,leucoma,,,,False,noun.state,eye disease consisting of an opaque white spot on the cornea,oewn2025
 leukopenia,l,a,10,1.63,RARE,True,,,,,,,False,noun.state,an abnormal lowering of the white blood cell count,oewn2025
 leukorrhea,l,a,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.body,discharge of white mucous material from the vagina; often an indication of infection,oewn2025
-leukorrhoea,l,a,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of leukorrhea.,scowl
+leukorrhoea,l,a,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,leukorrhea,,,,False,,Alternative form of leukorrhea.,scowl
 leukotomy,l,y,9,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of leucotomy,leucotomy,,,,False,noun.act,surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes,oewn2025
 lev,l,v,3,3.15,FAMILIAR,True,,,,,,,False,noun.quantity,the basic unit of money in Bulgaria,oewn2025
 leva,l,a,4,2.13,UNCOMMON,False,inflected form (Wiktionary),,,,,,False,,plural of lev,scowl
@@ -31719,7 +31719,7 @@ logomachy,l,y,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,argument 
 logomania,l,a,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.motive,pathologically excessive (and often incoherent) talking,oewn2025
 logon,l,n,5,2.37,UNCOMMON,True,,,,,,,False,,credentials: the combination of a user's identification and password used to enter a computer.,scowl
 logorrhea,l,a,9,1.14,RARE,True,,,,,,,False,noun.motive,pathologically excessive (and often incoherent) talking,oewn2025
-logorrhoea,l,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of logorrhea.,scowl
+logorrhoea,l,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,logorrhea,,,,False,,Alternative spelling of logorrhea.,scowl
 logotype,l,e,8,1.79,RARE,True,,,,,,,False,noun.communication,a company emblem or device,oewn2025
 logout,l,t,6,2.14,UNCOMMON,True,,,,,,,False,,The act or process of logging out.,scowl
 logroller,l,r,9,0.0,OBSCURE,True,,obscure,,,,,False,,Someone who logrolls; one who competes in a logrolling.,scowl
@@ -32715,7 +32715,7 @@ mannishness,m,s,11,0.0,OBSCURE,True,,obscure,,,,,False,,The condition of being m
 mannitol,m,l,8,2.17,UNCOMMON,True,,,,,,,False,noun.artifact,a diuretic (trade name Osmitrol) used to promote the excretion of urine,oewn2025
 mannose,m,e,7,2.14,UNCOMMON,True,,,,,,,False,,A monosaccharide aldohexose found in manna and other legumes.,scowl
 manny,m,y,5,3.5,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,,False,,A male nanny (for children).,gaps-review
-manoeuver,m,r,9,1.35,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; also a verb (SCOWL),,,,,False,,Nonstandard spelling of manoeuvre.,scowl
+manoeuver,m,r,9,1.35,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; also a verb (SCOWL),maneuver,,,,False,,Nonstandard spelling of manoeuvre.,scowl
 manoeuvering,m,g,12,1.37,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,gerund of manoeuver; an act in which something or someone manoeuvers,scowl
 manoeuvrability,m,y,15,2.1,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of maneuverability,maneuverability,,,,False,noun.attribute,the quality of being maneuverable,oewn2025
 manoeuvre,m,e,9,3.03,FAMILIAR,False,british/commonwealth spelling variant,spelling variant of maneuver; UK/Commonwealth spelling,maneuver,,,,False,noun.cognition,a plan for attaining a particular goal,oewn2025
@@ -33306,7 +33306,7 @@ medfly,m,y,6,1.29,RARE,True,,,,,,,False,noun.animal,small black-and-white fly th
 media,m,a,5,5.3,CORE,False,inflected form (Wiktionary),,,,,,False,,The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.,scowl
 mediacy,m,y,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.attribute,the quality of being mediate,oewn2025
 mediaeval,m,l,9,2.78,UNCOMMON,False,adjective (reviewed),adjective (reviewed); spelling variant of medieval,,,ADJ,,False,,Alternative spelling of medieval.,pos-auto
-mediaevalism,m,m,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Dated spelling of medievalism.,scowl
+mediaevalism,m,m,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,medievalism,,,,False,,Dated spelling of medievalism.,scowl
 medial,m,l,6,3.21,FAMILIAR,False,adjective (reviewed),adjective (reviewed),,,,,False,,Any of various things that occur in the middle.,gaps-review
 median,m,n,6,4.05,COMMON,True,,,,,,,False,noun.cognition,the number midway between the two middle numbers in a series containing an even or odd number of items,oewn2025
 mediant,m,t,7,1.27,RARE,True,,,,,,,False,noun.communication,(music) the third note of a diatonic scale; midway between the tonic and the dominant,oewn2025
@@ -33700,7 +33700,7 @@ mesocarp,m,p,8,1.27,RARE,True,,,,,,,False,noun.plant,the middle layer of a peric
 mesocolon,m,n,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.body,mesentery that holds the lower colon to the dorsal abdominal wall,oewn2025
 mesoderm,m,m,8,2.19,UNCOMMON,True,,,,,,,False,noun.animal,the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue,oewn2025
 mesoglea,m,a,8,0.0,OBSCURE,True,,obscure,,,,,False,,A gelatinous material found between the epithelial cellular layers of jellyfish and coelenterates.,scowl
-mesogloea,m,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of mesoglea.,scowl
+mesogloea,m,a,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,mesoglea,,,,False,,Alternative form of mesoglea.,scowl
 mesohippus,m,s,10,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.animal,North American three-toed Oligocene animal; probably not directly ancestral to modern horses,oewn2025
 mesomorph,m,h,9,1.23,RARE,True,,,,,,,False,noun.person,a person with a well-developed muscular body,oewn2025
 mesomorphy,m,y,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.attribute,muscular and big-boned,oewn2025
@@ -33831,7 +33831,7 @@ methacholine,m,e,12,1.13,RARE,True,,,,,,,False,noun.artifact,parasympathomimetic
 methacrylate,m,e,12,2.16,UNCOMMON,True,,,,,,,False,,"Any salt or ester of methacrylic acid, especially an ester used in the manufacture of resins and plastics.",scowl
 methadon,m,n,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of methadone,methadone,,,,False,noun.artifact,synthetic narcotic drug similar to morphine but less habit-forming; used in narcotic detoxification and maintenance of heroin addiction,oewn2025
 methadone,m,e,9,2.98,UNCOMMON,True,,,,,,,False,noun.artifact,synthetic narcotic drug similar to morphine but less habit-forming; used in narcotic detoxification and maintenance of heroin addiction,oewn2025
-methaemoglobin,m,n,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of methemoglobin.,scowl
+methaemoglobin,m,n,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,methemoglobin,,,,False,,Alternative spelling of methemoglobin.,scowl
 methamphetamine,m,e,15,2.97,UNCOMMON,True,,,,,,,False,noun.artifact,an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant,oewn2025
 methanal,m,l,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,a colorless poisonous gas; made by the oxidation of methanol,oewn2025
 methane,m,e,7,3.54,FAMILIAR,True,,,,,,,False,noun.substance,a colorless odorless gas used as a fuel,oewn2025
@@ -34032,7 +34032,7 @@ micron,m,n,6,2.85,UNCOMMON,True,,,,,,,False,noun.quantity,a metric unit of lengt
 micronucleus,m,s,12,1.45,RARE,True,,,,,,,False,,A small nucleus.,scowl
 micronutrient,m,t,13,2.13,UNCOMMON,True,,,,,,,False,noun.substance,"a substance needed only in small amounts for normal body function (e.g., vitamins or minerals)",oewn2025
 microorganism,m,m,13,2.32,UNCOMMON,True,,,,,,,False,noun.animal,any organism of microscopic size,oewn2025
-micropalaeontology,m,y,18,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of micropaleontology.,scowl
+micropalaeontology,m,y,18,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,micropaleontology,,,,False,,Alternative spelling of micropaleontology.,scowl
 micropaleontology,m,y,17,1.12,RARE,True,,,,,,,False,noun.cognition,the paleontology of microfossils,oewn2025
 microparasite,m,e,13,0.0,OBSCURE,True,,obscure,,,,,False,,An extremely small parasite.,scowl
 micropenis,m,s,10,1.59,RARE,True,,,,,,,False,noun.body,an abnormally small penis,oewn2025
@@ -36350,7 +36350,7 @@ neuroblast,n,t,10,1.21,RARE,True,,,,,,,False,noun.body,a cell from which a nerve
 neuroblastoma,n,a,13,2.37,UNCOMMON,True,,,,,,,False,noun.state,malignant tumor containing embryonic nerve cells; usually metastasizes quickly,oewn2025
 neurocele,n,e,9,0.0,OBSCURE,True,,"obscure; not in Wiktionary, glossed by hand",,,,,False,,The cavity enclosed by the neural tube in a developing embryo.,scowl
 neurochemical,n,l,13,1.99,RARE,True,,,,,,,False,noun.substance,any organic substance that occurs in neural activity,oewn2025
-neurocoele,n,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,The neural canal.,scowl
+neurocoele,n,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,neurocele,,,,False,,The neural canal.,scowl
 neurodermatitis,n,s,15,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,dermatitis in which localized areas (especially the forearms or back of the neck or outer part of the ankle) itch persistently; cause is unknown,oewn2025
 neuroepithelioma,n,a,16,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,malignant tumor of the neuroepithelium,oewn2025
 neuroepithelium,n,m,15,0.0,OBSCURE,True,,obscure,,,,,False,noun.body,epithelium associated with special sense organs and containing sensory nerve endings,oewn2025
@@ -37223,7 +37223,7 @@ nylons,n,s,6,2.45,UNCOMMON,False,plural-only (Wiktionary),possible plural,,,,,Tr
 nymph,n,h,5,2.87,UNCOMMON,True,,,,,,,False,noun.person,(classical mythology) a minor nature goddess usually depicted as a beautiful maiden,oewn2025
 nympha,n,a,6,1.13,RARE,True,,,,,,,False,,A nymph.,scowl
 nymphaea,n,a,8,1.6,RARE,False,inflected form (Wiktionary),possible name,,,,,False,,the European white water lily.,scowl
-nymphaeum,n,m,9,1.07,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,"A shrine consecrated to water nymphs, often with a fountain.",scowl
+nymphaeum,n,m,9,1.07,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,nympheum,,,,False,,"A shrine consecrated to water nymphs, often with a fountain.",scowl
 nymphalid,n,d,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,medium to large butterflies found worldwide typically having brightly colored wings and much-reduced nonfunctional forelegs carried folded on the breast,oewn2025
 nymphet,n,t,7,1.45,RARE,True,,,,,,,False,noun.person,a sexually attractive young woman,oewn2025
 nympheum,n,m,8,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of nymphaeum.,scowl
@@ -37495,8 +37495,8 @@ odyl,o,l,4,0.0,OBSCURE,True,,obscure,,,,,False,,Obsolete spelling of odyle.,scow
 odynophagia,o,a,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,severe pain on swallowing due to a disorder of the esophagus,oewn2025
 odyssey,o,y,7,3.55,FAMILIAR,True,,possible name,,,,,False,noun.act,a long wandering and eventful journey,oewn2025
 oecology,o,y,8,0.0,OBSCURE,True,,obscure,,,,,False,,Archaic spelling of ecology.,scowl
-oecumenicalism,o,m,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of ecumenicalism.,scowl
-oecumenicity,o,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Obsolete form of ecumenicity.,scowl
+oecumenicalism,o,m,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,ecumenicalism,,,,False,,Alternative spelling of ecumenicalism.,scowl
+oecumenicity,o,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,ecumenicity,,,,False,,Obsolete form of ecumenicity.,scowl
 oecumenism,o,m,10,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.group,a movement promoting union between religions (especially between Christian churches),oewn2025
 oedema,o,a,6,2.16,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of edema,edema,,,,False,noun.state,"swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities",oewn2025
 oedometer,o,r,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,an instrument for measuring the rate and amount of consolidation of a soil specimen under pressure.,oewn2025
@@ -37511,11 +37511,11 @@ oesophagitis,o,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,spel
 oesophagoscope,o,e,14,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of esophagoscope,esophagoscope,,,,False,noun.artifact,an optical instrument for examining the inside of the esophagus,oewn2025
 oesophagus,o,s,10,2.35,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of esophagus,esophagus,,,,False,noun.body,the passage between the pharynx and the stomach,oewn2025
 oestradiol,o,l,10,1.08,RARE,False,british/commonwealth spelling variant,spelling variant of estradiol; UK/Commonwealth spelling,estradiol,,,,False,noun.substance,the most powerful female hormone that occurs naturally; synthesized and used to treat estrogen deficiency and breast cancer,oewn2025
-oestrin,o,n,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"An oestrogen, specifically oestrone.",scowl
+oestrin,o,n,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,estrin,,,,False,,"An oestrogen, specifically oestrone.",scowl
 oestriol,o,l,8,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of estriol; UK/Commonwealth spelling,estriol,,,,False,noun.substance,a naturally occurring estrogenic hormone; a synthetic form is used to treat estrogen deficiency,oewn2025
 oestrogen,o,n,9,2.4,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of estrogen,estrogen,,,,False,noun.substance,a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics,oewn2025
 oestrone,o,e,8,0.0,OBSCURE,False,british/commonwealth spelling variant,spelling variant of estrone; UK/Commonwealth spelling,estrone,,,,False,noun.substance,a naturally occurring weak estrogenic hormone secreted by the mammalian ovary; synthesized (trade name Estronol) and used to treat estrogen deficiency,oewn2025
-oestrum,o,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,A biting insect; a gadfly or botfly.,scowl
+oestrum,o,m,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,estrum,,,,False,,A biting insect; a gadfly or botfly.,scowl
 oestrus,o,s,7,1.59,RARE,False,spelling variant of another word (reviewed),spelling variant of estrus; possible name,estrus,,,,False,noun.state,applies to nonhuman mammals: a state or period of heightened sexual arousal and activity,oewn2025
 oeuvre,o,e,6,2.79,UNCOMMON,True,,,,,,,False,noun.artifact,the total output of a writer or artist (or a substantial part of it),oewn2025
 ofay,o,y,4,0.0,OBSCURE,True,,obscure,,,,,False,,A white person.,scowl
@@ -38716,9 +38716,9 @@ paederast,p,t,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a man who has se
 paederasty,p,y,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of pederasty,pederasty,,,,False,noun.act,sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner),oewn2025
 paediatrician,p,n,13,2.25,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of pediatrician,pediatrician,,,,False,noun.person,a specialist in the care of babies,oewn2025
 paediatrics,p,s,11,2.44,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of pediatrics; possible plural,,,,,False,noun.cognition,the branch of medicine concerned with the treatment of infants and children,oewn2025
-paedogenesis,p,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of pedogenesis (“premature reproduction”).,scowl
-paedologist,p,t,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,One who researches and studies children: a student of paedology.,scowl
-paedology,p,y,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of pedology.,scowl
+paedogenesis,p,s,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,pedogenesis,,,,False,,Alternative spelling of pedogenesis (“premature reproduction”).,scowl
+paedologist,p,t,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,pedologist,,,,False,,One who researches and studies children: a student of paedology.,scowl
+paedology,p,y,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,pedology,,,,False,,Alternative spelling of pedology.,scowl
 paedophile,p,e,10,2.85,UNCOMMON,False,british/commonwealth spelling variant,spelling variant of pedophile; UK/Commonwealth spelling,pedophile,,,,False,noun.person,an adult who is sexually attracted to children,oewn2025
 paedophilia,p,a,11,2.36,UNCOMMON,True,,,,,,,False,noun.act,a sexual attraction to children,oewn2025
 paella,p,a,6,2.63,UNCOMMON,True,,,,,,,False,noun.food,saffron-flavored dish made of rice with shellfish and chicken,oewn2025
@@ -38773,9 +38773,9 @@ pal,p,l,3,3.99,FAMILIAR,True,,,,,,,False,noun.person,a close friend who accompan
 palace,p,e,6,4.45,COMMON,True,,,,,,,False,noun.artifact,a large and stately mansion,oewn2025
 paladin,p,n,7,2.98,UNCOMMON,True,,,,,,,False,noun.person,someone who fights for a cause,oewn2025
 palaeencephalon,p,n,15,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.body,the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex,oewn2025
-palaeethnology,p,y,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Archaic spelling of paleoethnology,scowl
+palaeethnology,p,y,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,paleethnology,,,,False,,Archaic spelling of paleoethnology,scowl
 palaeoanthropology,p,y,18,0.0,OBSCURE,True,,obscure,,,,,False,noun.cognition,the scientific study of human fossils,oewn2025
-palaeobiologist,p,t,15,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,A scientist who studies palaeobiology.,scowl
+palaeobiologist,p,t,15,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,paleobiologist,,,,False,,A scientist who studies palaeobiology.,scowl
 palaeobiology,p,y,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.cognition,a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms,oewn2025
 palaeobotany,p,y,12,1.08,RARE,False,spelling variant of another word (reviewed),spelling variant of paleobotany,paleobotany,,,,False,noun.cognition,the study of fossil plants,oewn2025
 palaeoclimatology,p,y,17,1.04,RARE,False,spelling variant of another word (reviewed),spelling variant of paleoclimatology,paleoclimatology,,,,False,noun.cognition,the study of the climate of past ages,oewn2025
@@ -38786,13 +38786,13 @@ palaeogeography,p,y,15,1.22,RARE,False,spelling variant of another word (reviewe
 palaeogeology,p,y,13,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of paleogeology,paleogeology,,,,False,noun.cognition,the study of geologic features once at the surface of the earth but now buried beneath rocks,oewn2025
 palaeographer,p,r,13,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative spelling of paleographer.,scowl
 palaeography,p,y,12,1.57,RARE,True,,,,,,,False,,Alternative form of paleography.,scowl
-palaeolith,p,h,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of paleolith.,scowl
+palaeolith,p,h,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,paleolith,,,,False,,Alternative form of paleolith.,scowl
 palaeology,p,y,10,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of paleology,paleology,,,,False,noun.cognition,the study of (especially prehistoric) antiquities,oewn2025
-palaeontography,p,y,15,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,The description of fossil remains in scientific literature.,scowl
+palaeontography,p,y,15,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,paleontography,,,,False,,The description of fossil remains in scientific literature.,scowl
 palaeontologist,p,t,15,2.11,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of paleontologist,paleontologist,,,,False,noun.person,a specialist in paleontology,oewn2025
 palaeontology,p,y,13,2.3,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of paleontology,paleontology,,,,False,noun.cognition,the earth science that studies fossil organisms and related remains,oewn2025
 palaeopathology,p,y,15,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of paleopathology,paleopathology,,,,False,noun.cognition,the study of disease of former times (as inferred from fossil evidence),oewn2025
-palaeopsychology,p,y,16,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of paleopsychology.,scowl
+palaeopsychology,p,y,16,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,paleopsychology,,,,False,,Alternative form of paleopsychology.,scowl
 palaeornithology,p,y,16,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.cognition,the paleobiology of birds,oewn2025
 palaeozoology,p,y,13,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of paleozoology,paleozoology,,,,False,noun.cognition,the study of fossil animals,oewn2025
 palaestra,p,a,9,1.41,RARE,False,spelling variant of another word (reviewed),spelling variant of palestra,palestra,,,,False,noun.artifact,a public place in ancient Greece or Rome devoted to the training of wrestlers and other athletes,oewn2025
@@ -40403,7 +40403,7 @@ pfennig,p,g,7,1.79,RARE,True,,,,,,,False,noun.quantity,100 pfennigs formerly equ
 phablet,p,t,7,2.13,UNCOMMON,True,,,,,,,False,,A mobile device intermediate in size between smartphone and tablet.,manual-entry
 phacelia,p,a,8,1.21,RARE,True,,,,,,,False,noun.plant,any plant of the genus Phacelia,oewn2025
 phacoemulsification,p,n,19,1.28,RARE,True,,,,,,,False,noun.act,extracapsular surgery for cataracts in which ultrasonic sound breaks the cortex and nucleus of the lens into small fragments that are then vacuumed away through a small tube,oewn2025
-phaenology,p,y,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+phaenology,p,y,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,phenology,,,,False,,,scowl
 phaeochromocytoma,p,a,17,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of pheochromocytoma,pheochromocytoma,,,,False,noun.state,a vascular tumor of the adrenal gland; hypersecretion of epinephrine results in intermittent or sustained hypertension,oewn2025
 phaeton,p,n,7,2.2,UNCOMMON,True,,,,,,,False,noun.artifact,large open car seating four with folding top,oewn2025
 phage,p,e,5,2.66,UNCOMMON,True,,,,,,,False,noun.animal,a virus that is parasitic (reproduces itself) in bacteria,oewn2025
@@ -40579,7 +40579,7 @@ phlogiston,p,n,10,1.71,RARE,True,,,,,,,False,noun.substance,a hypothetical subst
 phlogopite,p,e,10,1.11,RARE,True,,,,,,,False,noun.substance,a brown form of mica consisting of hydrous silicate of potassium and magnesium and aluminum,oewn2025
 phlomis,p,s,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.plant,any of various plants of the genus Phlomis; grown primarily for their dense whorls of lipped flowers and attractive foliage,oewn2025
 phlox,p,x,5,2.35,UNCOMMON,True,,,,,,,False,noun.plant,any polemoniaceous plant of the genus Phlox; chiefly North American; cultivated for their clusters of flowers,oewn2025
-phlyctaena,p,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of phlyctena.,scowl
+phlyctaena,p,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,phlyctena,,,,False,,Alternative form of phlyctena.,scowl
 phlyctena,p,a,9,0.0,OBSCURE,True,,obscure,,,,,False,,A small vesicle.,scowl
 pho,p,o,3,2.9,UNCOMMON,True,,,,,,,False,,"A Vietnamese soup with a beef base, typically served with rice noodles and optionally beef or chicken.",scowl
 phobia,p,a,6,3.1,FAMILIAR,True,,,,,,,False,noun.state,an anxiety disorder characterized by extreme and irrational fear of simple things or social situations,oewn2025
@@ -41863,7 +41863,7 @@ polychrome,p,e,10,2.26,UNCOMMON,True,,,,,,,False,noun.artifact,a piece of work c
 polychromy,p,y,10,1.23,RARE,True,,,,,,,False,,polychrome painting,scowl
 polyclinic,p,c,10,1.99,RARE,True,,,,,,,False,,A usually private clinic in which diseases of many sorts are treated.,scowl
 polycotyledon,p,n,13,0.0,OBSCURE,True,,obscure,,,,,False,,"A plant that has many, or more than two, cotyledons in the seed.",scowl
-polycythaemia,p,a,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of polycythemia.,scowl
+polycythaemia,p,a,13,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,polycythemia,,,,False,,Alternative spelling of polycythemia.,scowl
 polycythemia,p,a,12,1.75,RARE,True,,,,,,,False,noun.state,a disorder characterized by an abnormal increase in the number of red blood cells in the blood,oewn2025
 polydactyly,p,y,11,1.56,RARE,True,,,,,,,False,noun.state,birth defect characterized by the presence of more than the normal number of fingers or toes,oewn2025
 polydipsia,p,a,10,1.44,RARE,True,,,,,,,False,noun.state,excessive thirst (as in cases of diabetes or kidney dysfunction),oewn2025
@@ -42373,10 +42373,10 @@ practiser,p,r,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commo
 practising,p,g,10,3.4,FAMILIAR,False,verb (not a noun),verb (not a noun),,,VERB,practise,False,,The act of one who practises.,pos-auto
 practitioner,p,r,12,3.63,FAMILIAR,True,,,,,,,False,noun.person,someone who practices a learned profession,oewn2025
 praefect,p,t,8,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of prefect (Ancient Roman official),scowl
-praemaxilla,p,a,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of premaxilla.,scowl
-praemunire,p,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"The offence in English law of bringing suit in or obeying a foreign (especially papal) court or authority, thus challenging the supremacy of the Crown. The offence was created by the Statute of Praemu",scowl
+praemaxilla,p,a,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,premaxilla,,,,False,,Alternative form of premaxilla.,scowl
+praemunire,p,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,premunire,,,,False,,"The offence in English law of bringing suit in or obeying a foreign (especially papal) court or authority, thus challenging the supremacy of the Crown. The offence was created by the Statute of Praemu",scowl
 praenomen,p,n,9,1.21,RARE,True,,,,,,,False,noun.communication,the first name of a citizen of ancient Rome,oewn2025
-praepositor,p,r,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of prepositor.,scowl
+praepositor,p,r,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,prepositor,,,,False,,Alternative form of prepositor.,scowl
 praesidium,p,m,10,1.48,RARE,False,spelling variant of another word (reviewed),spelling variant of presidium,presidium,,,,False,noun.group,a permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session,oewn2025
 praetor,p,r,7,2.32,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of pretor,pretor,,,,False,noun.person,an annually elected magistrate of the ancient Roman Republic,oewn2025
 praetorian,p,n,10,2.35,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,,False,,A praetor; a person of praetorian rank.,gaps-review
@@ -42434,7 +42434,7 @@ preachment,p,t,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.communication,a sermo
 preacid,p,d,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
 preadmission,p,n,12,0.0,OBSCURE,True,,obscure,,,,,False,,A preadmission process; a process that precedes admission.,scowl
 preadolescence,p,e,14,0.0,OBSCURE,True,,obscure,,,,,False,,"The period between childhood and adolescence, between the ages of about nine and eleven for girls, and ten and twelve for boys.",scowl
-preaemptor,p,r,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+preaemptor,p,r,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,preemptor,,,,False,,,scowl
 preamble,p,e,8,2.87,UNCOMMON,True,,,,,,,False,noun.communication,a preliminary introduction to a statute or constitution (usually explaining its purpose),oewn2025
 preamp,p,p,6,2.33,UNCOMMON,True,,,,,,,False,,an amplifier that boosts a weak signal before the main amplifier,domain:everyday
 preamplifier,p,r,12,1.96,RARE,True,,,,,,,False,,A voltage amplifier for amplifying a low-level input signal; its output is the input to a higher-level amplifier.,scowl
@@ -43230,7 +43230,7 @@ propositus,p,s,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,the person imm
 propounder,p,r,10,0.0,OBSCURE,True,,obscure,,,,,False,,One who propounds.,scowl
 propoxyphene,p,e,12,1.3,RARE,True,,,,,,,False,noun.artifact,a mildly narcotic analgesic drug (trade name Darvon) related to methadone but less addictive,oewn2025
 propping,p,g,8,2.78,UNCOMMON,False,verb (not a noun),verb (not a noun),,,VERB,prop,False,,The act by which something is propped.,pos-auto
-propraetor,p,r,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,A magistrate of ancient Rome who governed a province after serving as a praetor in Rome.,scowl
+propraetor,p,r,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,propretor,,,,False,,A magistrate of ancient Rome who governed a province after serving as a praetor in Rome.,scowl
 propranolol,p,l,11,2.24,UNCOMMON,True,,,,,,,False,noun.artifact,the first beta blocker (trade name Inderal) used in treating hypertension and angina pectoris and essential tremor,oewn2025
 propretor,p,r,9,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative spelling of propraetor.,scowl
 proprietary,p,y,11,3.67,FAMILIAR,True,,,,,,,False,noun.possession,an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits,oewn2025
@@ -44059,7 +44059,7 @@ quadruplet,q,t,10,1.3,RARE,True,,,,,,,False,noun.quantity,the cardinal number th
 quadruplicate,q,e,13,1.27,RARE,True,,,,,,,False,noun.artifact,any four copies; any of four things that correspond to one another exactly,oewn2025
 quadruplication,q,n,15,0.0,OBSCURE,True,,obscure,,,,,False,,multiplication by four,scowl
 quadrupling,q,g,11,2.09,UNCOMMON,True,,,,,,,False,noun.process,increase by a factor of four,oewn2025
-quaestionary,q,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+quaestionary,q,y,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,questionary,,,,False,,,scowl
 quaestor,q,r,8,1.63,RARE,True,,,,,,,False,noun.person,any of several public officials of ancient Rome (usually in charge of finance and administration),oewn2025
 quaff,q,f,5,1.82,RARE,True,,,,,,,False,noun.food,a hearty draft,oewn2025
 quaffer,q,r,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a person who drinks heartily,oewn2025
@@ -44853,7 +44853,7 @@ readthrough,r,h,11,1.38,RARE,True,,,,,,,False,,The process of reading through so
 ready,r,y,5,5.28,CORE,True,,usually an adjective (corpus),,,,,False,noun.state,poised for action,oewn2025
 readying,r,g,8,2.55,UNCOMMON,False,not in Wiktionary,"manual - not in Wiktionary, is it a real noun?",,,,,False,noun.act,the activity of putting or setting in order in advance of some act or purpose,oewn2025
 readymade,r,e,9,2.18,UNCOMMON,True,,,,,,,False,,an everyday manufactured object presented as a work of art,domain:everyday
-reaentrance,r,e,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+reaentrance,r,e,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,reentrance,,,,False,,,scowl
 reaffiliation,r,n,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.act,affiliation anew,oewn2025
 reaffirmation,r,n,13,2.16,UNCOMMON,True,,,,,,,False,noun.communication,renewed affirmation,oewn2025
 reafforestation,r,n,15,0.0,OBSCURE,True,,obscure,,,,,False,,reforestation,scowl
@@ -48448,7 +48448,7 @@ seaweed,s,d,7,3.22,FAMILIAR,True,,,,,,,False,noun.animal,"plant growing in the s
 seaworthiness,s,s,13,1.78,RARE,True,,,,,,,False,noun.state,fitness to traverse the seas,oewn2025
 seax,s,x,4,1.13,RARE,True,,,,,,,False,noun.artifact,"a type of sword or dagger typical of the Germanic peoples of the Migration period and the Early Middle Ages, especially the Saxons.",oewn2025
 seborrhea,s,a,9,1.31,RARE,True,,,,,,,False,noun.state,a condition in which overactivity of the sebaceous glands causes the skin to become oily,oewn2025
-seborrhoea,s,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of seborrhea.,scowl
+seborrhoea,s,a,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,seborrhea,,,,False,,Alternative form of seborrhea.,scowl
 sebum,s,m,5,2.15,UNCOMMON,True,,,,,,,False,noun.body,the oily secretion of the sebaceous glands; with perspiration it moistens and protects the skin,oewn2025
 sec,s,c,3,4.31,COMMON,False,not a usable common noun (reviewed),possible abbreviation or clipping,,,,,False,noun.time,1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites,oewn2025
 secant,s,t,6,1.86,RARE,True,,,,,,,False,noun.shape,a straight line that intersects a curve at two or more points,oewn2025
@@ -51567,7 +51567,7 @@ spirituality,s,y,12,3.55,FAMILIAR,True,,,,,,,False,noun.possession,property or i
 spiritualization,s,n,16,0.0,OBSCURE,True,,obscure,,,,,False,noun.act,the act of making something spiritual; infusing it with spiritual content,oewn2025
 spiritualty,s,y,11,0.0,OBSCURE,True,,obscure,,,,,False,noun.possession,property or income owned by a church,oewn2025
 spirochaete,s,e,11,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of spirochete,spirochete,,,,False,noun.animal,parasitic or free-living bacteria; many pathogenic to humans and other animals,oewn2025
-spirochaetosis,s,s,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of spirochetosis.,scowl
+spirochaetosis,s,s,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,spirochetosis,,,,False,,Alternative form of spirochetosis.,scowl
 spirochete,s,e,10,1.54,RARE,True,,,,,,,False,noun.animal,parasitic or free-living bacteria; many pathogenic to humans and other animals,oewn2025
 spirochetosis,s,s,13,0.0,OBSCURE,True,,obscure,,,,,False,,infection by spirochetes,scowl
 spirogram,s,m,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,a recording of breathing made with a spirograph,oewn2025
@@ -52538,7 +52538,7 @@ stomate,s,e,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.plant,a minute epidermal 
 stomatitis,s,s,10,1.95,RARE,True,,,,,,,False,noun.state,inflammation of the mucous membrane of the mouth,oewn2025
 stomatology,s,y,11,1.29,RARE,True,,,,,,,False,,The study of the mouth and its disorders and diseases; increasingly called oral medicine in current usage.,scowl
 stomatopod,s,d,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,a kind of crustacean,oewn2025
-stomodaeum,s,m,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of stomodeum.,scowl
+stomodaeum,s,m,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,stomodeum,,,,False,,Alternative spelling of stomodeum.,scowl
 stomodeum,s,m,9,0.0,OBSCURE,True,,obscure,,,,,False,,A depression on the ectoderm of a developing embryo that becomes the mouth.,scowl
 stomp,s,p,5,3.25,FAMILIAR,True,,,,,,,False,noun.act,a dance involving a rhythmical stamping step,oewn2025
 stomper,s,r,7,2.08,UNCOMMON,True,,,,,,,False,noun.person,someone who walks with a heavy noisy gait or who stamps on the ground,oewn2025
@@ -53508,7 +53508,7 @@ superficies,s,s,11,1.03,RARE,True,,,,,,,False,noun.attribute,the purely external
 superfluid,s,d,10,2.0,UNCOMMON,True,,,,,,,False,,"A substance, such as liquid helium, that exhibits superfluidity.",scowl
 superfluity,s,y,11,1.43,RARE,True,,,,,,,False,noun.attribute,extreme excess,oewn2025
 superfluousness,s,s,15,0.0,OBSCURE,True,,obscure,,,,,False,,The state or quality of being superfluous.,scowl
-superfoetation,s,n,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of superfetation.,scowl
+superfoetation,s,n,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,superfetation,,,,False,,Alternative spelling of superfetation.,scowl
 superfood,s,d,9,2.49,UNCOMMON,True,,,,,,,False,noun.food,a food with health benefits,oewn2025
 superfund,s,d,9,2.63,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,,False,,An investment vehicle for superannuation assets.,gaps-review
 supergalaxy,s,y,11,0.0,OBSCURE,True,,obscure,,,,,False,,"A very large, extended cluster of galaxies.",scowl
@@ -54084,7 +54084,7 @@ synfuel,s,l,7,0.0,OBSCURE,True,,obscure,,,,,False,,"Any of several fuels synthes
 syngamy,s,y,7,0.0,OBSCURE,True,,obscure,,,,,False,,The fusion of two gametes to form a zygote.,scowl
 synizesis,s,s,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.process,the contraction of chromatin towards one side of the nucleus during the prophase of meiosis,oewn2025
 synod,s,d,5,3.32,FAMILIAR,True,,,,,,,False,noun.group,a council convened to discuss ecclesiastical business,oewn2025
-synoecology,s,y,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,,scowl
+synoecology,s,y,11,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,synecology,,,,False,,,scowl
 synonym,s,m,7,3.13,FAMILIAR,True,,,,,,,False,noun.communication,two words that can be interchanged in a context are said to be synonymous relative to that context,oewn2025
 synonymist,s,t,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a student of synonyms,oewn2025
 synonymity,s,y,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.relation,the semantic relation that holds between two words that can (in a given context) express the same meaning,oewn2025
@@ -54236,9 +54236,9 @@ tae,t,e,3,3.51,FAMILIAR,False,british/commonwealth spelling variant,UK/Commonwea
 taekwondo,t,o,9,2.84,UNCOMMON,True,,,,,,,False,noun.act,a Korean martial art similar to karate,oewn2025
 tael,t,l,4,1.77,RARE,True,,,,,,,False,noun.quantity,a unit of weight used in east Asia approximately equal to 1.3 ounces,oewn2025
 taenia,t,a,6,1.72,RARE,False,spelling variant of another word (reviewed),spelling variant of tenia,tenia,,,,False,noun.artifact,a narrow headband or strip of ribbon worn as a headband,oewn2025
-taeniacide,t,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Any substance that kills tapeworms,scowl
-taeniafuge,t,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of taenifuge.,scowl
-taeniasis,t,s,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,An infection of tapeworms of the genus Taenia that does not usually cause any disease.,scowl
+taeniacide,t,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,teniacide,,,,False,,Any substance that kills tapeworms,scowl
+taeniafuge,t,e,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,teniafuge,,,,False,,Alternative form of taenifuge.,scowl
+taeniasis,t,s,9,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,teniasis,,,,False,,An infection of tapeworms of the genus Taenia that does not usually cause any disease.,scowl
 taffeta,t,a,7,2.29,UNCOMMON,True,,,,,,,False,noun.artifact,a crisp smooth lustrous fabric,oewn2025
 taffrail,t,l,8,1.12,RARE,True,,,,,,,False,noun.artifact,the railing around the stern of a ship,oewn2025
 taffy,t,y,5,2.71,UNCOMMON,True,,,,,,,False,noun.food,chewy candy of sugar or syrup boiled until thick and pulled until glossy,oewn2025
@@ -54759,7 +54759,7 @@ teju,t,u,4,1.67,RARE,True,,,,,,,False,noun.animal,large (to 3 feet) blackish yel
 tekki,t,i,5,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.person,a technician who is highly proficient and enthusiastic about some technical field (especially computing),oewn2025
 tektite,t,e,7,1.4,RARE,True,,,,,,,False,noun.substance,thought to derive from meteorites,oewn2025
 telae,t,e,5,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,plural of tela,scowl
-telaesthesia,t,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative spelling of telesthesia.,scowl
+telaesthesia,t,a,12,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,telesthesia,,,,False,,Alternative spelling of telesthesia.,scowl
 telamon,t,n,7,1.56,RARE,True,,,,,,,False,noun.artifact,a figure of a man used as a supporting column,oewn2025
 telangiectasis,t,s,14,0.0,OBSCURE,True,,obscure,,,,,False,,Synonym of telangiectasia.,scowl
 telco,t,o,5,2.59,UNCOMMON,True,,,,,,,False,noun.group,a public utility that provides telephone service,oewn2025
@@ -55317,7 +55317,7 @@ thereness,t,s,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.state,real existence,oe
 theridiid,t,d,9,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,spider having a comb-like row of bristles on each hind foot,oewn2025
 therm,t,m,5,2.0,UNCOMMON,True,,,,,,,False,noun.quantity,"a unit of heat equal to 100,000 British thermal units",oewn2025
 thermae,t,e,7,1.64,RARE,False,british/commonwealth spelling variant,UK/Commonwealth spelling,,,,,False,,Roman-style spring or baths with warm or hot water.,scowl
-thermaesthesia,t,a,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,Alternative form of thermesthesia.,scowl
+thermaesthesia,t,a,14,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,thermesthesia,,,,False,,Alternative form of thermesthesia.,scowl
 thermal,t,l,7,4.04,COMMON,True,,usually an adjective (corpus),,,,,False,noun.phenomenon,rising current of warm air,oewn2025
 thermalgesia,t,a,12,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.state,pain caused by heat,oewn2025
 therme,t,e,6,1.24,RARE,False,spelling variant of another word (reviewed),,therm,,,,False,,,scowl
@@ -57004,7 +57004,7 @@ trooping,t,g,8,2.2,UNCOMMON,False,verb (not a noun),verb (not a noun),,,VERB,tro
 troops,t,s,6,4.64,COMMON,False,plural-only (Wiktionary),possible plural,,,,,True,noun.group,soldiers collectively,oewn2025
 troopship,t,p,9,1.64,RARE,True,,,,,,,False,noun.artifact,ship for transporting troops,oewn2025
 troostite,t,e,9,0.0,OBSCURE,True,,obscure,,,,,False,,The mineral willemite with manganese.,scowl
-tropaeolin,t,n,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"Any of several orange dyes of very complex composition: tropaeolin O (acid orange 6, chrysoine resorcinol), tropaeolin OO (acid orange 5), or tropaeolin OOO (acid orange 7).",scowl
+tropaeolin,t,n,10,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,tropeolin,,,,False,,"Any of several orange dyes of very complex composition: tropaeolin O (acid orange 6, chrysoine resorcinol), tropaeolin OO (acid orange 5), or tropaeolin OOO (acid orange 7).",scowl
 trope,t,e,5,3.1,FAMILIAR,True,,,,,,,False,noun.communication,language used in a figurative or nonliteral sense,oewn2025
 tropeolin,t,n,9,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of tropaeolin.,scowl
 trophobiosis,t,s,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.relation,a symbiotic relation in which one organism protects the other in return for some kind of food product,oewn2025
@@ -61502,7 +61502,7 @@ zooflagellate,z,e,13,0.0,OBSCURE,True,,obscure,,,,,False,noun.animal,flagellate 
 zoogeographer,z,r,13,0.0,OBSCURE,True,,obscure,,,,,False,,A person involved in zoogeography.,scowl
 zoogeography,z,y,12,1.31,RARE,True,,,,,,,False,,The scientific study of the geographical distribution of animal species.,scowl
 zooglea,z,a,7,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of zoogloea.,scowl
-zoogloea,z,a,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,,False,,"A colony or mass of bacteria embedded in a viscous gelatinous substance, characteristic of a transitory stage through which rapidly multiplying bacteria pass in the course of their evolution.",scowl
+zoogloea,z,a,8,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,zooglea,,,,False,,"A colony or mass of bacteria embedded in a viscous gelatinous substance, characteristic of a transitory stage through which rapidly multiplying bacteria pass in the course of their evolution.",scowl
 zoography,z,y,9,0.0,OBSCURE,True,,obscure,,,,,False,,"A description of animals, their forms, and habits; descriptive zoology.",scowl
 zooid,z,d,5,1.31,RARE,True,,,,,,,False,noun.animal,one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan,oewn2025
 zookeeper,z,r,9,2.44,UNCOMMON,True,,,,,,,False,,A person employed at a zoo to attend to the animals.,scowl
