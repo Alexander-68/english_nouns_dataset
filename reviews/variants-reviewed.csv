@@ -308,7 +308,7 @@ dread,dreadlock,unrelated,not a spelling pair
 rite,right,unrelated,not a spelling pair
 sis,sister,unrelated,not a spelling pair
 gee,grand,unrelated,not a spelling pair
-whisky,whiskey,variant,the variant column is the nonstandard spelling
+whisky,whiskey,both,"the standard spelling for Scotch, Canadian and Japanese; whiskey is Irish and US"
 nigga,nigger,variant,the variant column is the nonstandard spelling
 condo,condominium,unrelated,not a spelling pair
 cache,cachet,unrelated,not a spelling pair
@@ -431,7 +431,7 @@ castor,caster,unrelated,not a spelling pair
 saber,sabre,reverse,the canonical column is the nonstandard spelling
 mol,mole,variant,the variant column is the nonstandard spelling
 camo,camouflage,unrelated,not a spelling pair
-aunty,auntie,variant,the variant column is the nonstandard spelling
+aunty,auntie,both,"both current; auntie was itself rejected, so this pointed at an unplayable word"
 kern,quern,unrelated,not a spelling pair
 lager,laager,unrelated,not a spelling pair
 pct,percent,unrelated,not a spelling pair

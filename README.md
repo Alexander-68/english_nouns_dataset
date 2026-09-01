@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-02.csv` — 61,559 rows, 51,919 of them playable.**
+**`sen-2026-09-02.csv` — 61,562 rows, 51,972 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -9,7 +9,7 @@ source had them.
 
 Its one unusual design decision: **rejected words stay in the file.** A game that only ships the
 playable words can say "not in the database" and nothing more. This one can say *why* a word is not
-allowed and *what to play instead* — 9,640 rejected rows, every one with a reason, 2,087 of them
+allowed and *what to play instead* — 9,590 rejected rows, every one with a reason, 1,978 of them
 naming a replacement.
 
     allowed=False  reason="british/commonwealth spelling variant"   suggest_instead="plow"
@@ -17,7 +17,7 @@ naming a replacement.
     allowed=False  reason="spelling variant of another word (reviewed)"  suggest_instead="yogurt"
 
 The second decision: **doubt is written down, not acted on.** The `marks` column carries what the
-dataset could not resolve, and it is present on *allowed* rows too (19,016 of them). Whether
+dataset could not resolve, and it is present on *allowed* rows too (19,034 of them). Whether
 `bollocks` (possible plural) or `federal` (usually an adjective) is a legal answer is a **game**
 rule. The dataset refuses to decide it for you and tells you what it knows instead.
 
@@ -43,7 +43,7 @@ one filter if you want a friendly list.
 | `is_plural` | the word is a listed plural of another entry |
 | `lexfile` | WordNet lexicographer file (`noun.animal`, `noun.artifact`, …) |
 | `definition` | one gloss, for showing the player |
-| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (64) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:z_words` (1) |
+| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (64) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (3) · `domain:z_words` (1) |
 
 ## Playable words, by tier
 
@@ -51,17 +51,17 @@ one filter if you want a friendly list.
 | --- | ---: |
 | CORE | 619 |
 | COMMON | 2,822 |
-| FAMILIAR | 7,359 |
-| UNCOMMON | 12,024 |
-| RARE | 13,122 |
-| OBSCURE | 15,973 |
+| FAMILIAR | 7,369 |
+| UNCOMMON | 12,035 |
+| RARE | 13,138 |
+| OBSCURE | 15,989 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
-* **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,800 words**. Barely moved this release, which
+* **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,810 words**. Barely moved this release, which
   is the point: almost everything added landed below it.
-* **defensible** — everything except OBSCURE: **35,946 words**.
-* **extra-wide** — all **51,919**, including the OBSCURE band. `wordfreq` has never seen these,
+* **defensible** — everything except OBSCURE: **35,983 words**.
+* **extra-wide** — all **51,972**, including the OBSCURE band. `wordfreq` has never seen these,
   which for `tokenomics` and `lootbox` means the frequency table is older than the word, and for
   `ophicleide` and `quitrent` means the word is genuinely rare. Both are in the same band and both
   carry `marks = "obscure"`; the dataset does not pretend to tell them apart.
@@ -71,11 +71,11 @@ Three cuts, and the file is built so that picking one is a filter, not a rebuild
 | reason | rows |
 | --- | ---: |
 | verb (not a noun) | 3,064 |
-| spelling variant of another word (reviewed) | 1,627 |
+| spelling variant of another word (reviewed) | 1,625 |
 | adjective (not a noun) | 1,163 |
 | proper noun or other non-noun (reviewed) | 1,026 |
 | british/commonwealth spelling variant | 706 |
-| inflected form (Wiktionary) | 498 |
+| inflected form (Wiktionary) | 450 |
 | not in Wiktionary | 411 |
 | plural-only (Wiktionary) | 409 |
 | adjective (reviewed) | 170 |
@@ -104,7 +104,7 @@ prepositions and auxiliaries for exactly this; `apply_scowl.py` reuses it.
 
 | mark | rows |
 | --- | ---: |
-| obscure | 16,234 |
+| obscure | 16,249 |
 | verb (not a noun) | 3,032 |
 | possible name | 2,188 |
 | manual - not in Wiktionary, is it a real noun? | 1,378 |
@@ -279,6 +279,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | `domain:medical_imaging` | 45 | `reviews/domains/medical_imaging.csv` — one hand-ruled sheet |
 | `domain:electronics` | 37 | `reviews/domains/electronics.csv` — one hand-ruled sheet |
 | `domain:typography` | 15 | `reviews/domains/typography.csv` — one hand-ruled sheet |
+| `domain:reported` | 3 | `reviews/domains/reported.csv` — one hand-ruled sheet |
 | `domain:z_words` | 1 | `reviews/domains/z_words.csv` — one hand-ruled sheet |
 
 SCOWL is cut at **size ≤ 70**, which is both where its quality falls off and where its licence

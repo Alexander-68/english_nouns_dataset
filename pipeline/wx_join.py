@@ -504,6 +504,14 @@ def corpus_mark(d, wordnet_noun=False):
     return f'usually {usually} (corpus)'
 
 
+# Form-of senses that derive a new word rather than inflect an existing one.
+# Everything not on this list -- plural of, singular of, gerund of, past
+# participle of, attributive form of -- stays an inflection and stays out.
+DERIVATIONAL_LEAD = (r'(agent noun|diminutive|female equivalent|'
+                     r'male equivalent|augmentative|endearing form|'
+                     r'pejorative|honorific) of ')
+
+
 def main(sen_path, wikt_path, out_path):
     sen = pd.read_csv(sen_path, keep_default_na=False, na_values=[])
     wx  = pd.read_csv(wikt_path, keep_default_na=False, na_values=[])
@@ -656,6 +664,15 @@ def main(sen_path, wikt_path, out_path):
     sen['wikt_inflected']     = col('is_inflected_form', 0).astype(int).astype(bool)
     if 'lead_form' in w.columns:          # older extracts do not carry it
         sen['wikt_inflected'] &= col('lead_form', 1).astype(int).astype(bool)
+    # ...and a form-of sense is not always an INFLECTION. Wiktionary uses the
+    # same machinery for derivation: `dispatcher` and `drinker` lead with
+    # "Agent noun of ...", `auntie` and `owlet` with "Diminutive of ...",
+    # `murderess` with "Female equivalent of ...". Those are ordinary count
+    # nouns and a player types them; a plural or a gerund is not. The kind is
+    # not a column in the extract, but Wiktionary writes it as the opening
+    # words of the gloss, so read it there rather than re-run the 2.6 GB dump.
+    derived = col('first_gloss', '').str.lower().str.match(DERIVATIONAL_LEAD)
+    sen['wikt_inflected'] &= ~derived
     sen['wikt_form_of']       = col('form_of', '')
     sen['wikt_variant_of']    = col('variant_of', '')
     sen['wikt_variant_kind']  = col('variant_kind', '')

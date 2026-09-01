@@ -1688,3 +1688,46 @@ at from the other direction — there the pair was already in the file, here one
 
 Release renamed `sen-2026-09-01.csv` -> `sen-2026-09-02.csv`. Rows 61,545 -> 61,559; playable
 51,905 -> 51,919.
+
+## Five reported words, two rules behind them (2026-09-02)
+
+`earpick`, `nitrox` and `nitpick` are ordinary sheet rows — below the cutoff, or in no source as a
+noun. `aunty`, `auntie` and `whisky` were not: each of the three was rejected, and reading why
+turned up two rules that were wrong for a whole class of word.
+
+**A form-of sense is not always an inflection.** `auntie` was rejected as `inflected form
+(Wiktionary)`, because its only sense reads "Diminutive of aunt". The `lead_form` fix (see above,
+the `pen` finding) had already established that a form-of sense buried in an entry proves nothing;
+what it did not ask is what KIND of form the leading sense names. Wiktionary uses the same
+machinery for derivation as for inflection, so the flag was also rejecting **66 agent nouns** --
+`dispatcher`, `drinker`, `recruiter`, `possessor`, `tracker`, `fixer`, `evaluator`, `manipulator`,
+`verifier` -- **6 female equivalents** (`murderess`, `henchwoman`, `chauffeuse`) and **7
+diminutives** (`auntie`, `owlet`, `hanky`, `matey`).
+
+A plural or a gerund is a form of a word a player already has. An agent noun is a different word,
+and a player types it. The kind is not a column in the extract, but Wiktionary writes it as the
+opening words of the gloss ("Agent noun of ...", "Female equivalent of ..."), so `wx_join.py` reads
+it there rather than re-running the 2.6 GB dump. `DERIVATIONAL_LEAD` names the eight derivations;
+everything else -- plural of, singular of, gerund of, attributive form of -- stays an inflection and
+stays rejected. Inflected-form rejections 498 -> 450, **48 words become playable and none becomes
+rejected.**
+
+**A suggestion the player cannot play is worse than none.** `aunty` was rejected as a spelling
+variant with `suggest_instead = auntie`, and `auntie` was itself rejected. The pipeline had always
+checked that a suggested word HAS a row -- which it did -- and never that the row is playable. 107
+rows were in that state, most of them the American spelling of a word that is rejected for some
+other reason: `agonising` -> `agonizing` (an adjective), `britches` -> `breeches` (plural-only),
+`chitlins` -> `chitterlings`. `release_sen.py` now blanks a suggestion whose target is not playable,
+and does it there because that is where `allowed` is final -- the human keep-list flips rows after
+the suggestion is chosen.
+
+**`whisky` and `aunty` are `both` rows.** `whisky` is the standard spelling for Scotch, Canadian and
+Japanese whisky and `whiskey` for Irish and American -- a real split between two standard forms, not
+a nonstandard spelling, which is what `both` was added for on 2026-09-01.
+
+**No `n_words.csv` or `a_words.csv`.** The letter sheets exist because `x`, `y` and `z` are what a
+chain game runs short of; `n` and `a` have no such supply problem, and one sheet per letter is 26
+files to answer a question about three. The new sheet is `domains/reported.csv`, keyed to where the
+word came from rather than what it starts with.
+
+Rows 61,559 -> 61,562; playable 51,919 -> 51,972.

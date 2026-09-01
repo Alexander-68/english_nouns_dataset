@@ -270,6 +270,19 @@ so it was ruled there.
 `yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
 thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.
 
+### `domains/reported.csv`
+
+The sheet for a word reported from play that belongs to no subject area and no scarce letter:
+`earpick`, `nitrox`, `nitpick` (2026-09-02). It exists so the answer to "where does this one go?"
+is never "a new sheet for its first letter" — `x_words`, `y_words` and `z_words` are letter sheets
+because those three letters are what a chain game runs short of, and there is no supply argument
+for `n` or `a`.
+
+Two of the three need their note. `nitrox` has a Wiktionary entry whose first sense is an
+industrial case-hardening process, not the diving gas a player means. `nitpick` is in Wiktionary
+and SCOWL as a **verb only**, so the noun ("a minor nitpick") rests on the sheet alone — the
+weakest evidence any playable row here has, and worth knowing.
+
 ### `domains/z_words.csv`
 
 One row: `zax`, the slater's hatchet. Wiktionary has it with a usable gloss and scores it zipf 1.53,
@@ -330,4 +343,6 @@ sides — playable, and still carrying `spelling variant of <canonical>` as a ma
 
 `both` is for the pair where US-first does not apply, or applies the other way. `adz` is the
 AMERICAN spelling of `adze` — Wiktionary tags `adz` US and tags `adze` nothing — so ruling it
-`variant` inverted the project's own policy, and cost the game a word ending in `z`.
+`variant` inverted the project's own policy, and cost the game a word ending in `z`. `whisky` is
+the standard spelling for Scotch, Canadian and Japanese whisky and `whiskey` for Irish and
+American: a real split, not a nonstandard spelling. `aunty`/`auntie` are both current.

@@ -67,6 +67,16 @@ def main(sen_path='work/sen-v3.csv', stamp=None):
     assert not missing.any(), f'rejected rows with no reason: {list(sen.loc[missing, "noun"][:5])}'
 
     out = sen[list(COLUMNS)].rename(columns=COLUMNS).sort_values('noun')
+    # A suggestion the player cannot play is worse than none: `aunty` said
+    # "play auntie", and `auntie` was itself rejected. The pipeline only ever
+    # checked that the suggested word HAS a row, which it does. Checked here
+    # because this is where `allowed` is final -- the human keep-list flips
+    # rows after the suggestion is chosen.
+    playable = set(out.loc[out['allowed'], 'noun'])
+    dangling = (out['suggest_instead'] != '') & ~out['suggest_instead'].isin(playable)
+    if dangling.any():
+        print(f'  suggestions dropped (target not playable): {int(dangling.sum()):,}')
+        out.loc[dangling, 'suggest_instead'] = ''
     path = f'sen-{stamp}.csv'
     out.to_csv(path, index=False)
 

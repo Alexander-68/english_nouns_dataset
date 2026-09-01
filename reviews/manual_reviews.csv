@@ -4075,3 +4075,8 @@ date,sheet,item,verdict,note
 2026-09-02,domains/y_words.csv,yarnbombing,noun,"Wiktionary files it as two words, which the dataset cannot carry"
 2026-09-02,domains/y_words.csv,yessotoxin,noun,"a shellfish biotoxin"
 2026-09-02,gaps_verdicts.csv,yad,noun,"the Torah pointer; in the queue at zipf 2.47, never read"
+2026-09-02,domains/reported.csv,earpick,noun,"an ear-cleaning instrument; zipf 0.00, below the cutoff"
+2026-09-02,domains/reported.csv,nitpick,noun,"a petty criticism; Wiktionary and SCOWL both have the verb only"
+2026-09-02,domains/reported.csv,nitrox,noun,"the diving gas; Wiktionary leads with a case-hardening process"
+2026-09-02,variants-reviewed.csv,whisky,both,"the standard spelling for Scotch, Canadian and Japanese whisky"
+2026-09-02,variants-reviewed.csv,aunty,both,"both current, and auntie was itself rejected"
