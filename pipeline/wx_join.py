@@ -728,9 +728,16 @@ def main(sen_path, wikt_path, out_path):
 
     # ---- reviewed spelling doublets --------------------------------------
     # A human read all 2,509 pairs. `variant`/`reverse` name the side to
-    # drop; `plural` and `unrelated` are explicitly NOT exclusions, and say
-    # so, which is the point of ruling them at all.
-    drop_to, plural_side, unrelated = {}, set(), set()
+    # drop; `plural`, `unrelated` and `both` are explicitly NOT exclusions,
+    # and say so, which is the point of ruling them at all.
+    #
+    # `both` is the doublet the game wants on both sides. It exists because
+    # US-first is a rule about US-vs-UK spellings and some pairs are not that:
+    # `adz` is the AMERICAN spelling of `adze` (Wiktionary tags it US, and
+    # tags `adze` nothing), so dropping it was the policy inverted. A `both`
+    # row stays playable and still carries `spelling variant of <canonical>`,
+    # so a game that wants one spelling per word can filter on the mark.
+    drop_to, plural_side, unrelated, keep_both = {}, set(), set(), {}
     try:
         vr = pd.read_csv(VARIANTS_REVIEWED_PATH, keep_default_na=False,
                          na_values=[])
@@ -741,6 +748,8 @@ def main(sen_path, wikt_path, out_path):
                 drop_to[b] = a
             elif verdict == 'plural':
                 plural_side.add(b if b.startswith(a) else a)
+            elif verdict == 'both':
+                keep_both[a] = b
             else:
                 unrelated.add(a)
                 unrelated.add(b)
@@ -751,6 +760,9 @@ def main(sen_path, wikt_path, out_path):
                if v in have_nouns and k in have_nouns and k != v}
     sen['reviewed_variant_of'] = sen['noun'].map(drop_to).fillna('')
     sen['reviewed_spelling_variant'] = sen['reviewed_variant_of'] != ''
+    # Marked, never excluded -- and never pointing at a word that is not here.
+    sen['reviewed_variant_kept'] = sen['noun'].map(
+        {k: v for k, v in keep_both.items() if v in have_nouns}).fillna('')
     sen['reviewed_plural'] = sen['noun'].isin(plural_side)
     # A pair ruled unrelated must not keep driving the automatic rules that
     # were reading the same bogus link.
@@ -933,6 +945,8 @@ def main(sen_path, wikt_path, out_path):
             out.append(mark)
         if row['reviewed_spelling_variant']:
             out.append('spelling variant of ' + row['reviewed_variant_of'])
+        if row['reviewed_variant_kept']:
+            out.append('spelling variant of ' + row['reviewed_variant_kept'])
         if row['reviewed_plural']:
             out.append('possible plural')
         if row['name_suspect'] or row['also_proper_noun']:

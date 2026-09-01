@@ -264,7 +264,7 @@ def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_o
             'wikt_ing_reviewed_us': '', 'reviewed_variant_of': suggest,
             'reviewed_spelling_variant': bool(gl is not None
                                               and gl['verdict'] == 'variant'),
-            'reviewed_plural': False,
+            'reviewed_plural': False, 'reviewed_variant_kept': '',
             'recommended': reason == '', 'suggest_instead': suggest,
             'excluded_because': reason,
             'corpus_dominant': d.dominant if d is not None else '',

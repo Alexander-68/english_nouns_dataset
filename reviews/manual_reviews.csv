@@ -4050,3 +4050,13 @@ date,sheet,item,verdict,note
 2026-09-01,domains/typography.csv,sans,noun,a typeface without serifs
 2026-09-01,domains/typography.csv,smallcaps,noun,capital letters cut at the height of the lowercase
 2026-09-01,domains/typography.csv,tittle,noun,the dot above a lowercase i or j
+2026-09-01,domains/y_words.csv,yabby,noun,"the Australian freshwater crayfish; the sheet had yabbie, its own alternative spelling"
+2026-09-01,domains/y_words.csv,yomp,noun,"a long march on foot carrying full kit"
+2026-09-01,domains/y_words.csv,yuca,noun,"cassava; below the frequency cutoff, never in the queue"
+2026-09-01,domains/y_words.csv,yutz,noun,"a foolish or incompetent person"
+2026-09-01,domains/everyday.csv,nunchaku,noun,"both spellings below the cutoff; nunchuk glossed only as "Alternative form of nunchaku""
+2026-09-01,domains/everyday.csv,nunchuk,noun,"same weapon, the spelling a player types"
+2026-09-01,gaps_verdicts.csv,lutz,noun,"the figure-skating jump; in the queue at zipf 2.98, never read"
+2026-09-01,variants-reviewed.csv,adz,both,"the US spelling of adze (Wiktionary tags adz US, adze nothing); rejecting it inverted US-first"
+2026-09-01,variants-reviewed.csv,yack,both,"the informal chatter/vomit sense; kept alongside yak"
+2026-09-01,uk_reviewed.csv,yack,keep (not a UK spelling variant),"Wiktionary tags the sense UK; it is current US informal usage too"

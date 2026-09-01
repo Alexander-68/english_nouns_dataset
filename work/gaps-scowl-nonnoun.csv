@@ -2,391 +2,391 @@ word,zipf,countable,uncountable,n_senses,first_gloss,variant_of,flag_reason,wikt
 english,5.19,0,1,2,"Spinning or rotary motion given to a ball around the vertical axis, as in pool, billiards or bowling; spin, sidespin.",,,noun:2;verb:1,noun,False,351,PROPN,0.009,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,v:1,True
 arty,2.99,0,0,2,Artillery.,,,adj:2;noun:2,adj,False,2,ADJ,0.0,,False,True,False,,,,,,nonnoun,50,aj:2,True
 luxe,2.99,0,1,1,Luxury.,,,adj:1;noun:1,adj,False,2,NOUN,0.5,,False,True,False,,,,,,nonnoun,70,aj:1,True
-clem,2.98,0,0,3,A brick or stone.,,,noun:3;verb:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
 caloric,2.98,0,1,1,The hypothetical medium of heat.,,,adj:4;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-teleport,2.97,0,0,2,Synonym of teleporter (“science fiction device”).,,,noun:2;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
+clem,2.98,0,0,3,A brick or stone.,,,noun:3;verb:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
 sapiens,2.97,0,0,1,A human being (Homo sapiens).,,,noun:1,noun,False,2,ADJ,0.0,,False,True,False,,,,sapien,,nonnoun,60,aj:1,True
-obstructive,2.96,0,0,1,One who obstructs something.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-arable,2.96,0,1,1,"Land that can be cropped (i.e., land that is arable); land that is being cropped (i.e., land that is in the cropping phase of a crop rotation, currently being cropped rather than used as pasture or fa",,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+teleport,2.97,0,0,2,Synonym of teleporter (“science fiction device”).,,,noun:2;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
 fantastical,2.96,0,0,1,Something that is fantastical.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-pent,2.95,0,0,3,Confinement; concealment.,,,noun:3;adj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,50,aj:1,True
-nitric,2.95,0,1,1,Nitric acid.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+arable,2.96,0,1,1,"Land that can be cropped (i.e., land that is arable); land that is being cropped (i.e., land that is in the cropping phase of a crop rotation, currently being cropped rather than used as pasture or fa",,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+obstructive,2.96,0,0,1,One who obstructs something.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 transcendent,2.95,0,0,1,That which surpasses or is supereminent; something excellent.,,,adj:4;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
+pent,2.95,0,0,3,Confinement; concealment.,,,noun:3;adj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,50,aj:1,True
 hardline,2.95,0,0,3,A retail product collection consisting primarily of hardware targeting the do-it-yourself customer.,,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+nitric,2.95,0,1,1,Nitric acid.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 preset,2.94,0,0,2,A setting that is set in advance.,,,adj:2;noun:2;verb:1,adj,False,3,ADJ,0.0,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:1;aj:1,True
 rechargeable,2.92,0,0,1,A device that may be recharged,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,35,aj:1,True
 replaceable,2.92,0,0,1,Anything that can be replaced.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,40,aj:1,True
-celiac,2.91,0,0,1,Someone who has celiac disease.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 asexual,2.91,0,0,3,"A species which reproduces by asexual rather than sexual reproduction, or a member of such a species.",,,adj:4;noun:3,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-psychopathic,2.9,0,0,1,A psychopath.,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
-inbred,2.9,0,0,2,A plant or animal produced by inbreeding.,,,adj:4;noun:2;verb:1,adj,False,0,,,,False,True,False,ADJ;NOUN;VERB,,"noun, also adjective/verb",,,nonnoun,35,aj:1;v:1,True
+celiac,2.91,0,0,1,Someone who has celiac disease.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 titular,2.9,0,0,2,One who holds a title.,,,adj:3;noun:2,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-fem,2.89,0,0,2,Synonym of femme.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,40,abbr:1,True
+inbred,2.9,0,0,2,A plant or animal produced by inbreeding.,,,adj:4;noun:2;verb:1,adj,False,0,,,,False,True,False,ADJ;NOUN;VERB,,"noun, also adjective/verb",,,nonnoun,35,aj:1;v:1,True
+psychopathic,2.9,0,0,1,A psychopath.,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
 doggo,2.89,0,0,1,A dog.,,,adv:1;noun:1,adv,False,0,,,,False,True,False,,,,,,nonnoun,70,av:1,True
-supp,2.88,0,0,1,"A support (in a competitive video game, a player or character who supports or heals their team's players rather than directly engaging enemies).",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,60,abbr:1,True
+fem,2.89,0,0,2,Synonym of femme.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,40,abbr:1,True
 indeterminate,2.88,0,0,2,A symbol that resembles a variable or parameter but is used purely formally and neither signifies nor is ever assigned a particular value;,,,adj:7;noun:2,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+supp,2.88,0,0,1,"A support (in a competitive video game, a player or character who supports or heals their team's players rather than directly engaging enemies).",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,60,abbr:1,True
 electrochemical,2.88,0,0,1,Any chemical material prepared electrochemically.,,,adj:2;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-searchable,2.87,0,0,1,"Something that can be searched, or searched for.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 apical,2.87,0,0,1,A sound produced by obstructing the air passage with the tip of the tongue.,,,adj:3;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+searchable,2.87,0,0,1,"Something that can be searched, or searched for.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 hep,2.86,0,1,3,hepatitis.,high-energy physics,,noun:3;adj:2;intj:2;verb:1,noun,True,1,VERB,0.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
-ult,2.85,0,0,5,The final (ultimate) syllable of a word.,,,noun:5;verb:3,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
 claustrophobic,2.85,0,0,1,Someone with claustrophobia.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
+ult,2.85,0,0,5,The final (ultimate) syllable of a word.,,,noun:5;verb:3,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
 sparky,2.85,0,0,2,A radio operator.,,,adj:2;noun:2,adj,False,3,PROPN,0.0,,False,True,False,,,,,,nonnoun,60,aj:2,True
-wonky,2.84,0,1,1,"A subgenre of electronic music employing unstable rhythms, complex time signatures, and mid-range synths.",,,adj:6;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
-parametric,2.84,0,0,1,A parametric equation.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 biodegradable,2.84,0,0,1,Any material that can be decomposed by biological activity.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+parametric,2.84,0,0,1,A parametric equation.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+wonky,2.84,0,1,1,"A subgenre of electronic music employing unstable rhythms, complex time signatures, and mid-range synths.",,,adj:6;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
 psychoactive,2.83,0,0,1,Any drug that affects the mind or mental processes.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 insoluble,2.83,0,0,1,Any substance that cannot be dissolved.,,,adj:4;noun:1,adj,False,13,ADJ,0.0,usually adjective (corpus),False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-mercurial,2.82,0,0,4,"Any of the plants known as mercury, especially the annual mercury or French mercury (Mercurialis annua).",,,adj:6;noun:4,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-ess,2.82,0,0,2,The name of the Latin script letter S/s.,,,noun:2;particle:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,suf:1,True
 breastfeed,2.82,0,0,1,An instance of feeding milk to a baby from the breasts; a breastfeeding.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,"verb form (-ed, morphology)",,,nonnoun,60,v:1,True
+ess,2.82,0,0,2,The name of the Latin script letter S/s.,,,noun:2;particle:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,suf:1,True
 prefrontal,2.82,0,0,1,"A prefrontal bone, scale, etc.",,,adj:2;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+mercurial,2.82,0,0,4,"Any of the plants known as mercury, especially the annual mercury or French mercury (Mercurialis annua).",,,adj:6;noun:4,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 citywide,2.81,0,0,1,A combined order of a shot of distilled spirit (especially bourbon) and an order of beer,,,adj:1;adv:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
 vertebral,2.81,0,0,1,Any of the large dorsal scales along the top of a snake's back.,,,adj:3;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+executable,2.8,0,0,1,A file that can be run directly by a computer's hardware or a p-code interpreter with no further processing.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 dermal,2.8,0,0,1,A body piercing consisting of an object positioned partially below and partially above the skin.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 gonzo,2.8,1,1,2,Gonzo journalism or a journalist who produces such journalism.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 puny,2.8,0,0,5,"An inferior person; a subordinate; also, an insignificant person.",puisne,,adj:5;noun:5,adj,False,7,ADJ,0.0,usually adjective (corpus),False,True,False,,,,,,nonnoun,35,aj:2,True
-executable,2.8,0,0,1,A file that can be run directly by a computer's hardware or a p-code interpreter with no further processing.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-uncool,2.79,0,1,1,The quality of being uncool.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-phat,2.79,0,1,1,An English trick-taking partnership card game descended from the game of all fours.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
 coaxial,2.79,0,0,1,Ellipsis of coaxial cable.,coaxial cable,,adj:1;noun:1,adj,True,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+phat,2.79,0,1,1,An English trick-taking partnership card game descended from the game of all fours.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
+uncool,2.79,0,1,1,The quality of being uncool.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 tion,2.79,0,0,1,A cross between a male tiger and a lioness.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,suf:1,True
-transgenic,2.78,0,0,1,An organism whose genome has been genetically modified.,,,adj:1;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 onside,2.78,0,0,2,"The portion of the playing area where one can legally play the ball, puck, etc.",,,adj:5;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 caudal,2.78,0,0,1,A caudal vertebra.,,,adj:2;noun:1,adj,False,1,NOUN,1.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1;av:1,True
-dap,2.77,0,0,5,A plimsoll.,,,noun:5;verb:4,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+transgenic,2.78,0,0,1,An organism whose genome has been genetically modified.,,,adj:1;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 inadmissible,2.77,0,0,1,"A person who is not to be admitted (to a country, a group, etc).",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,35,aj:1,True
-anemic,2.76,0,0,1,A person who has anemia.,,,adj:2;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+dap,2.77,0,0,5,A plimsoll.,,,noun:5;verb:4,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 anabolic,2.76,0,0,1,An anabolic steroid.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-riparian,2.76,0,0,1,A person or other entity that lives or owns property along the shore of a river.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 unaffiliated,2.76,0,0,1,A person or organization having no affiliation.,,,adj:1;noun:1;verb:1,adj,False,2,ADJ,0.0,,False,True,False,,,"verb form (-ed, morphology)",,,nonnoun,60,aj:1,True
-crump,2.75,0,0,1,The sound of a muffled explosion.,,,adj:2;verb:2;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:2,True
+anemic,2.76,0,0,1,A person who has anemia.,,,adj:2;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+riparian,2.76,0,0,1,A person or other entity that lives or owns property along the shore of a river.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 subprime,2.75,0,0,1,A subprime loan.,,,adj:3;noun:1,adj,False,9,NOUN,1.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
+crump,2.75,0,0,1,The sound of a muffled explosion.,,,adj:2;verb:2;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:2,True
 preterm,2.75,0,0,1,A premature birth or baby.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 stillborn,2.74,0,0,1,A baby that is born dead.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-pyramidal,2.74,0,0,1,One of the carpal bones.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+redd,2.74,0,0,1,A spawning nest made by a fish.,,,verb:10;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1;aj:1,True
+eukaryotic,2.74,0,0,1,Such a cell or organism,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 balsamic,2.74,1,1,1,Balsamic vinegar.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 dendritic,2.74,0,0,1,A dendritic cell,,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 projective,2.74,0,0,3,An assessment test that presents subjects with some sort of stimulus to which they react by projecting or imagining details.,,,adj:8;noun:3,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-redd,2.74,0,0,1,A spawning nest made by a fish.,,,verb:10;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1;aj:1,True
-eukaryotic,2.74,0,0,1,Such a cell or organism,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+pyramidal,2.74,0,0,1,One of the carpal bones.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 contactless,2.73,0,1,1,A technology for paying for goods etc. while physically present at the point of interaction but without the need for physical contact.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 twisty,2.73,0,0,3,"Something that is twisty, such as a road",,,noun:3;adj:1,noun,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:2,True
-systolic,2.72,0,0,1,Ellipsis of systolic blood pressure.,systolic blood pressure,,adj:3;noun:1,adj,True,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,60,aj:1,True
 hunky,2.72,0,0,1,"A Hungarian or other eastern European, e.g. a Romanian or a Slav. (Sometimes applied (like honky) to any white person.)",,,adj:4;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
+systolic,2.72,0,0,1,Ellipsis of systolic blood pressure.,systolic blood pressure,,adj:3;noun:1,adj,True,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,60,aj:1,True
 effeminate,2.72,0,0,1,An effeminate person.,,,adj:2;verb:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN;VERB,,"noun, also adjective/verb",,,nonnoun,35,aj:1,True
 dissociative,2.71,0,0,1,A dissociative drug.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-remaster,2.7,0,0,1,Synonym of remastering (“new version of a piece of media”).,,,verb:3;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 itis,2.7,0,0,2,A medical condition accompanied by inflammation.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,suf:1,True
 nitty,2.7,0,0,1,"A dope fiend, a druggie.",,,adj:5;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
+remaster,2.7,0,0,1,Synonym of remastering (“new version of a piece of media”).,,,verb:3;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 reproducible,2.7,0,0,1,Something that can be reproduced.,,,adj:1;noun:1,adj,False,5,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,50,aj:1,True
-irreducible,2.69,0,0,1,Such a polynomial,,,adj:9;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 algal,2.69,0,0,1,An alga.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+irreducible,2.69,0,0,1,Such a polynomial,,,adj:9;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 stubby,2.69,0,0,1,"A small, squat beer bottle.",,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:2,True
+supersede,2.68,0,0,1,An updated newsgroup post that supersedes an earlier version.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,35,v:2,True
 postcolonial,2.68,0,0,1,A person living in a postcolonial society.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 occipital,2.68,0,0,2,Ellipsis of occipital bone.,occipital bone,,noun:2;adj:1,noun,True,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-supersede,2.68,0,0,1,An updated newsgroup post that supersedes an earlier version.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,35,v:2,True
 causative,2.68,0,0,1,An expression of an agent causing or forcing a patient to perform an action (or to be in a certain condition).,,,adj:3;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-benthic,2.67,0,0,1,Any organism that lives on the seafloor.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 abortive,2.67,0,0,4,Someone or something born or brought forth prematurely; an abortion.,,,adj:7;noun:4;verb:1,adj,False,4,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+benthic,2.67,0,0,1,Any organism that lives on the seafloor.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+mosh,2.66,0,0,1,The moshing style of dancing.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
+intercity,2.66,0,0,1,"Something that runs between cities, such as a railroad.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+redline,2.66,0,0,2,"A drawing, document, etc. that has been marked for correction or modification.",,,verb:5;noun:2,verb,False,2,OTHER,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
+ectopic,2.66,0,0,2,Ectopic beat.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+unreachable,2.66,0,0,1,A person or thing that cannot be reached.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 biotic,2.66,0,0,2,"A nutritional substance that improves the health of gastrointestinal microorganisms, especially one that occurs naturally.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 salivary,2.66,0,0,1,A salivary gland.,,,adj:1;noun:1,adj,False,8,ADJ,0.0,usually adjective (corpus),False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-ectopic,2.66,0,0,2,Ectopic beat.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-mosh,2.66,0,0,1,The moshing style of dancing.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
-redline,2.66,0,0,2,"A drawing, document, etc. that has been marked for correction or modification.",,,verb:5;noun:2,verb,False,2,OTHER,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
-intercity,2.66,0,0,1,"Something that runs between cities, such as a railroad.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-unreachable,2.66,0,0,1,A person or thing that cannot be reached.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-extraordinaire,2.65,0,1,1,Something particularly remarkable or outstanding.,,,adj:2;noun:1,adj,False,2,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
 corr,2.65,0,0,1,A fight.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
+extraordinaire,2.65,0,1,1,Something particularly remarkable or outstanding.,,,adj:2;noun:1,adj,False,2,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
 quantifiable,2.65,0,0,1,Something that can be quantified; a measurable.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-maim,2.64,0,0,1,"A severe, serious wound.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
-myopic,2.64,0,0,1,A short-sighted individual.,,,adj:3;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 fut,2.64,0,0,1,foot,,,intj:1;noun:1,intj,False,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
+maim,2.64,0,0,1,"A severe, serious wound.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
 overreach,2.64,1,1,2,"An act of extending or reaching over, especially if too far or too much; overextension.",,,verb:7;noun:2,verb,False,3,VERB,0.0,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:1,True
+myopic,2.64,0,0,1,A short-sighted individual.,,,adj:3;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+mammary,2.63,0,0,1,Synonym of mamma (“a milk-secreting organ of a woman or a female animal”).,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 universalist,2.63,0,0,1,A proponent of universalism.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 myeloid,2.63,0,0,1,Such a stem cell,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
-mammary,2.63,0,0,1,Synonym of mamma (“a milk-secreting organ of a woman or a female animal”).,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-redraw,2.62,0,0,2,An update to the screen display.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:3,True
 extrinsic,2.62,0,0,1,An external factor.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+redraw,2.62,0,0,2,An update to the screen display.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:3,True
 jell,2.62,0,0,1,Synonym of jelly or gel.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:1,True
 proximate,2.62,0,0,1,A grammatical marker that distinguishes a relatively salient referent in a given context from a relatively non-salient (obviative) one.,,,adj:3;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
-antiretroviral,2.61,0,0,1,An agent that combats retroviruses.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-washy,2.61,0,0,1,"A wash, an act of washing.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 sucky,2.61,0,0,3,A pacifier.,,,adj:3;noun:3,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+washy,2.61,0,0,1,"A wash, an act of washing.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+antiretroviral,2.61,0,0,1,An agent that combats retroviruses.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 multifamily,2.61,0,0,1,A residence intended for more than one family.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 piezoelectric,2.6,0,0,1,A piezoelectric material or device.,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-costal,2.6,0,0,1,"Synonym of saco, a historical Spanish unit of dry measure, equivalent to about 111 L",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-sociopathic,2.6,0,0,1,A sociopath.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 percussive,2.6,0,0,1,A percussive phone.,,,adj:2;noun:1,adj,False,7,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+sociopathic,2.6,0,0,1,A sociopath.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+costal,2.6,0,0,1,"Synonym of saco, a historical Spanish unit of dry measure, equivalent to about 111 L",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 predate,2.59,0,0,1,"A publication, such as a newspaper or magazine, that is issued with a printed date later than the date of issue.",,,verb:3;noun:1,verb,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,40,v:1,True
-biologic,2.59,0,0,1,"An extremely complex drug, vaccine or antitoxin that is made from a living organism, or from products of a living organism.",,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 snide,2.59,1,1,2,"An underhanded, tricky person given to sharp practice; a sharper; a cheat.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,35,aj:2,True
+biologic,2.59,0,0,1,"An extremely complex drug, vaccine or antitoxin that is made from a living organism, or from products of a living organism.",,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 crummy,2.58,0,0,2,"A small van, bus, or railway car used to transport loggers or other resource workers to and from the worksite.",,,adj:3;noun:2,adj,False,3,ADJ,0.0,,False,True,False,,,,,,nonnoun,35,aj:1,True
 ovate,2.58,0,0,4,An egg-shaped hand axe.,,,noun:4;adj:2;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 corky,2.58,0,0,1,"A deep bruise, usually on the leg or buttock, caused by a blow; a haematoma.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 droll,2.58,0,0,2,"A funny person; a buffoon, a wag.",,,noun:2;adj:1;verb:1,noun,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:2,True
-hocus,2.57,0,0,4,"A magician, illusionist, one who practises sleight of hand.",,,noun:4;verb:4,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+saturate,2.57,0,0,1,"Something saturated, especially a saturated fat.",,,adj:6;verb:4;noun:1,adj,False,1,VERB,0.0,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
+extractive,2.57,0,0,2,Something that may be extracted,,,adj:3;noun:2,adj,False,4,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 perceptible,2.57,0,0,1,Anything that can be perceived.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,35,aj:1,True
 ultimo,2.57,0,0,1,"= The ultimum; the final, ultimate point of a sequence.",,,adj:1;adv:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-extractive,2.57,0,0,2,Something that may be extracted,,,adj:3;noun:2,adj,False,4,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+hocus,2.57,0,0,4,"A magician, illusionist, one who practises sleight of hand.",,,noun:4;verb:4,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 multicast,2.57,0,0,1,The simultaneous transmission of data to several destinations on a network.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-saturate,2.57,0,0,1,"Something saturated, especially a saturated fat.",,,adj:6;verb:4;noun:1,adj,False,1,VERB,0.0,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
 kaboom,2.56,0,0,2,"The sound of an explosion, typically seen in comic strips or heard in a light-hearted conversation.",,,noun:2;intj:1;verb:1,noun,False,1,OTHER,0.0,,False,True,False,,,,,,nonnoun,50,i:1,True
-bendy,2.55,0,1,3,A bendy bus.,bhindi,,adj:5;noun:3,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
 recalcitrant,2.55,0,0,1,A person who is recalcitrant.,,,adj:4;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-immunological,2.55,0,0,1,Any drug used to treat the immune system.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 distributive,2.55,0,0,3,distributive case,,,adj:5;noun:3,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+bendy,2.55,0,1,3,A bendy bus.,bhindi,,adj:5;noun:3,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
 hammy,2.55,0,0,3,The hamstring.,,,noun:3;adj:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,aj:2,True
+immunological,2.55,0,0,1,Any drug used to treat the immune system.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 pleural,2.55,0,0,1,An internal segment of the turtle carapace.,,,adj:2;noun:1,adj,False,6,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 electromechanical,2.55,0,0,1,An electromechanical component or device.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+keck,2.54,0,1,2,The cow parsley (Anthriscus sylvestris).,,,noun:2;verb:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
 sequester,2.54,0,0,3,sequestration; separation,,,verb:10;noun:3,verb,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:1,True
 twerk,2.54,0,0,4,"Synonym of twerking (“a sexually-provocative dance, involving the performer thrusting their hips back from a low squatting stance while shaking their buttocks”).",,,noun:4;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,50,v:1,True
 mwah,2.54,0,1,1,"The hallmark sound of a fretless bass guitar played with a certain technique, where treble frequencies increase gradually after the attack.",,,intj:1;noun:1,intj,False,0,,,,False,True,False,,,,,,nonnoun,70,i:1,True
-keck,2.54,0,1,2,The cow parsley (Anthriscus sylvestris).,,,noun:2;verb:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,nonnoun,70,v:1,True
-deliberative,2.53,0,0,2,"A discourse in which a question is discussed, or weighed and examined.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+ween,2.53,0,0,3,Doubt; conjecture.,,,verb:5;noun:3,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 vestibular,2.53,0,0,1,A competitive examination used by Brazilian universities to select students.,,,adj:4;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 doss,2.53,1,1,4,The avoidance of work.,,,noun:4;adj:2;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-ween,2.53,0,0,3,Doubt; conjecture.,,,verb:5;noun:3,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+deliberative,2.53,0,0,2,"A discourse in which a question is discussed, or weighed and examined.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 sacral,2.52,0,0,1,Any of the sacral bones that make up the sacrum.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 spunky,2.51,0,0,1,A good-looking person.,,,adj:4;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,40,aj:1,True
 terr,2.51,0,0,1,An insurgent in the Rhodesian Bush War.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
 precast,2.51,1,1,1,"Structural members made of concrete, ready for installation.",,,adj:1;noun:1;verb:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 nonhuman,2.51,0,0,1,A creature or thing that is not human.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
-twee,2.5,0,1,1,Ellipsis of twee pop.,twee pop,,adj:1;noun:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,35,aj:1,True
 preform,2.5,0,0,3,An object that has undergone preliminary shaping but is not yet in its final form.,,,noun:3;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+twee,2.5,0,1,1,Ellipsis of twee pop.,twee pop,,adj:1;noun:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,35,aj:1,True
 dele,2.5,0,0,1,A sign signifying deletion.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:2,True
 pineal,2.5,0,0,1,The pineal gland.,,,adj:2;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 wherewith,2.49,0,1,1,Something with which; the means by which.,,,adv:1;noun:1,adv,False,1,OTHER,0.0,,False,True,False,,,,,,nonnoun,60,c:1,True
-lenticular,2.49,0,0,2,Ellipsis of lenticular image.,lenticular image,,adj:4;noun:2,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 repentant,2.49,0,0,1,One who repents; a penitent.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+lenticular,2.49,0,0,2,Ellipsis of lenticular image.,lenticular image,,adj:4;noun:2,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 animatronic,2.48,0,0,1,A robot that works by animatronics.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-backlight,2.48,1,1,5,Light shining from a source behind the object of interest or attention.,,,noun:5;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,m:2,True
 resize,2.48,0,0,1,An operation that changes the size of something.,,,verb:3;noun:1,verb,False,1,VERB,0.0,,False,True,False,,,,,,nonnoun,60,v:1,True
-froggy,2.47,0,0,2,A frog.,,,adj:4;noun:2,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
-frag,2.47,0,0,2,A fragmentation grenade.,,,verb:3;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+backlight,2.48,1,1,5,Light shining from a source behind the object of interest or attention.,,,noun:5;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,m:2,True
 polyvinyl,2.47,0,0,1,Any polymer derived from a vinyl compound.,,,adj:1;noun:1,adj,False,2,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
+frag,2.47,0,0,2,A fragmentation grenade.,,,verb:3;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+froggy,2.47,0,0,2,A frog.,,,adj:4;noun:2,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 ratty,2.47,0,1,1,Synonym of knock down ginger (“prank of knocking on a front door and running away”).,,,adj:5;noun:1,adj,False,2,NOUN,0.5,,False,True,False,,,,,,nonnoun,35,aj:2,True
 vitreous,2.47,0,1,1,The vitreous humor.,,,adj:6;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 fletch,2.46,0,0,2,"The vane toward the back of an arrow, used to stabilise the arrow during flight.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-preoperative,2.46,0,0,1,A transgender person who has not yet undergone gender reassignment surgery.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 alphanumeric,2.46,0,0,1,An alphanumeric character.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+preoperative,2.46,0,0,1,A transgender person who has not yet undergone gender reassignment surgery.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 intertidal,2.45,0,0,1,An intertidal zone or an organism that inhabits such a zone,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-diastolic,2.45,0,0,1,Ellipsis of diastolic blood pressure.,diastolic blood pressure,,adj:1;noun:1,adj,True,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,60,aj:1,True
 deployable,2.45,0,0,1,"Something, such as a software package or a military resource, that may be deployed.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+diastolic,2.45,0,0,1,Ellipsis of diastolic blood pressure.,diastolic blood pressure,,adj:1;noun:1,adj,True,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,60,aj:1,True
 multicellular,2.45,0,0,1,Such an organism,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-prefectural,2.44,0,0,1,A tournament in which participants from all over the prefecture compete.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 aliphatic,2.44,0,0,2,A compound of this type.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-combust,2.44,0,0,1,That which undergoes burning.,,,verb:3;adj:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-implantable,2.44,0,0,1,A device that can be implanted surgically.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 rive,2.44,0,0,2,A place torn; a rent; a rift.,,,verb:6;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+prefectural,2.44,0,0,1,A tournament in which participants from all over the prefecture compete.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 pally,2.44,0,0,3,An affectionate term of address.,,,noun:3;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+implantable,2.44,0,0,1,A device that can be implanted surgically.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 suppressive,2.44,0,0,1,Any drug that acts to suppress a condition.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-overwrite,2.43,0,0,1,The operation of destroying older data by recording new data over it.,,,verb:4;noun:1,verb,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
-leaguer,2.43,0,0,4,A siege.,,,noun:4;verb:2,noun,False,3,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,m:1,True
-laryngeal,2.43,0,0,3,An anatomical part (such as a nerve or artery) that supplies or is associated with the larynx.,,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+combust,2.44,0,0,1,That which undergoes burning.,,,verb:3;adj:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 bonk,2.43,1,1,5,A bump on the head.,,,noun:5;verb:4,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-hexadecimal,2.42,1,1,2,"A number system with base sixteen, using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F, most used in computing as a hexadecimal digit can represent four bits, half a standard byte, and ",,,noun:2;adj:1,noun,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+leaguer,2.43,0,0,4,A siege.,,,noun:4;verb:2,noun,False,3,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,m:1,True
+overwrite,2.43,0,0,1,The operation of destroying older data by recording new data over it.,,,verb:4;noun:1,verb,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:2,True
+laryngeal,2.43,0,0,3,An anatomical part (such as a nerve or artery) that supplies or is associated with the larynx.,,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 multicolor,2.42,0,1,1,A display of many colors.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
-picayune,2.41,0,0,4,A small coin of the value of six-and-a-quarter cents; a Spanish coin with a value of half a real; a fippenny bit.,,,noun:4;adj:2,noun,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
+hexadecimal,2.42,1,1,2,"A number system with base sixteen, using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F, most used in computing as a hexadecimal digit can represent four bits, half a standard byte, and ",,,noun:2;adj:1,noun,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+lanceolate,2.41,0,0,1,Any such artefact.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+unchangeable,2.41,0,0,1,Something that cannot be changed.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 nisi,2.41,0,1,1,decree nisi,,,noun:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 tibial,2.41,0,0,1,A tibial bone.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 preload,2.41,1,1,2,The end diastolic pressure that stretches the right or left ventricle of the heart to its greatest geometric dimensions under variable physiologic demand.,,,noun:2;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-unchangeable,2.41,0,0,1,Something that cannot be changed.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-lanceolate,2.41,0,0,1,Any such artefact.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-chummy,2.4,0,0,5,"Synonym of chum (“friend, pal”).",,,adj:6;noun:5,adj,False,0,,,,False,True,False,,,,,,nonnoun,35,aj:1,True
+picayune,2.41,0,0,4,A small coin of the value of six-and-a-quarter cents; a Spanish coin with a value of half a real; a fippenny bit.,,,noun:4;adj:2,noun,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
 conflate,2.4,0,0,1,"A conflate text, one which conflates multiple version of a text together.",,,verb:3;adj:1;noun:1,verb,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,v:1,True
-rufous,2.39,1,1,2,Ellipsis of rufous hummingbird.,rufous hummingbird,,noun:2;adj:1,noun,True,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-diddle,2.39,1,1,3,"In percussion, two consecutive notes played by the same hand (either RR or LL), similar to the drag, except that by convention diddles are played the same speed as the context in which they are placed",,,verb:6;noun:3;intj:1,verb,False,1,OTHER,0.0,,False,True,False,,,,,,nonnoun,50,v:1,True
-conversant,2.39,0,0,1,One who converses with another.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
-dib,2.39,0,0,2,A dibber (gardening tool).,,,verb:3;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+chummy,2.4,0,0,5,"Synonym of chum (“friend, pal”).",,,adj:6;noun:5,adj,False,0,,,,False,True,False,,,,,,nonnoun,35,aj:1,True
 floaty,2.39,0,0,3,"A particle of food, etc., found floating in liquid.",,,adj:6;noun:3,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+rufous,2.39,1,1,2,Ellipsis of rufous hummingbird.,rufous hummingbird,,noun:2;adj:1,noun,True,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+dib,2.39,0,0,2,A dibber (gardening tool).,,,verb:3;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+diddle,2.39,1,1,3,"In percussion, two consecutive notes played by the same hand (either RR or LL), similar to the drag, except that by convention diddles are played the same speed as the context in which they are placed",,,verb:6;noun:3;intj:1,verb,False,1,OTHER,0.0,,False,True,False,,,,,,nonnoun,50,v:1,True
 injunctive,2.39,1,1,2,"A verbal mood in Sanskrit characterized by secondary endings but no augment, and usually resembling an augmentless aorist or imperfect.",,,adj:2;noun:2,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-secretory,2.37,0,0,1,That which secretes.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-humic,2.37,0,0,1,A derivative of humic acid.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-overground,2.37,0,0,1,"A commuter rail or similar rail transport system, or a train in such systems, generally running through an urban area largely above ground and faster than an underground or metro with fewer stops.",,,adj:2;noun:1;verb:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,35,aj:1;v:1,True
-spellbinding,2.37,0,0,1,A spell or enchantment that restrains or constricts someone's actions or freedom of will.,,,adj:2;noun:1,adj,False,1,VERB,0.0,,False,True,False,,,"verb form (-ing, morphology)",,,nonnoun,60,aj:1,True
+conversant,2.39,0,0,1,One who converses with another.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 spiffy,2.37,0,0,1,A dapper person.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,40,aj:2,True
+spellbinding,2.37,0,0,1,A spell or enchantment that restrains or constricts someone's actions or freedom of will.,,,adj:2;noun:1,adj,False,1,VERB,0.0,,False,True,False,,,"verb form (-ing, morphology)",,,nonnoun,60,aj:1,True
+humic,2.37,0,0,1,A derivative of humic acid.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+secretory,2.37,0,0,1,That which secretes.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+overground,2.37,0,0,1,"A commuter rail or similar rail transport system, or a train in such systems, generally running through an urban area largely above ground and faster than an underground or metro with fewer stops.",,,adj:2;noun:1;verb:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,35,aj:1;v:1,True
 aeolian,2.36,1,1,1,"A lightweight fabric with a ribbed surface, generally made by combining silk and cotton, or silk and worsted warp and weft.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-telekinetic,2.35,0,0,1,One who has telekinetic abilities.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 pish,2.35,0,0,2,"A sibilant noise (e.g. ""psshh"") made by birders and ornithologists to attract small birds.",,,noun:2;verb:2;adj:1;intj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1;i:1,True
-flatline,2.35,0,0,4,An asystole; the absence of heart contractions or brain waves.,,,verb:6;noun:4,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
+telekinetic,2.35,0,0,1,One who has telekinetic abilities.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 fisheye,2.35,1,1,4,An unfriendly or suspicious glance.,fisheye lens,,noun:4;verb:1,noun,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-magmatic,2.34,0,0,1,A rock formed from magma,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-syllabic,2.34,0,0,1,A syllabic sound.,,,adj:4;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+flatline,2.35,0,0,4,An asystole; the absence of heart contractions or brain waves.,,,verb:6;noun:4,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
 exploitable,2.34,0,0,1,A person or thing that can be exploited.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-coeliac,2.33,0,0,1,Someone who has coeliac disease.,,,adj:2;noun:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,False
-debonair,2.33,0,0,1,Debonaire behaviour; graciousness.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,35,aj:1,True
-determinate,2.33,0,0,1,A single state of a particular determinable attribute.,,,adj:6;noun:1;verb:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN;VERB,,"noun, also adjective/verb",,,nonnoun,50,aj:1,True
+syllabic,2.34,0,0,1,A syllabic sound.,,,adj:4;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+magmatic,2.34,0,0,1,A rock formed from magma,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 exchangeable,2.33,0,0,1,Any financial instrument with an associated right to be exchanged for another form of financial security.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,50,aj:1,True
+coeliac,2.33,0,0,1,Someone who has coeliac disease.,,,adj:2;noun:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,False
+determinate,2.33,0,0,1,A single state of a particular determinable attribute.,,,adj:6;noun:1;verb:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN;VERB,,"noun, also adjective/verb",,,nonnoun,50,aj:1,True
 capsize,2.33,0,0,1,"The act of, or occurrence of capsizing or overturning.",,,verb:3;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,35,v:1,True
 unemployable,2.33,0,0,1,A person who is not suited to employment.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+debonair,2.33,0,0,1,Debonaire behaviour; graciousness.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,35,aj:1,True
 pyroclastic,2.33,0,0,1,A rock mostly composed of rock fragments of volcanic origin.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-isothermal,2.32,0,0,1,An isotherm,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-counterfactual,2.32,0,0,3,"A claim, hypothesis, or other belief that is contrary to the facts.",,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 rede,2.32,0,1,2,"Help, advice, counsel.",,,verb:4;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+counterfactual,2.32,0,0,3,"A claim, hypothesis, or other belief that is contrary to the facts.",,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+isothermal,2.32,0,0,1,An isotherm,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 concessional,2.32,0,0,2,A resident of a nursing home who has limited means and whose accommodation is consequently partly paid for by the government.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 unsolvable,2.32,0,0,1,A problem that cannot be solved.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-proliferative,2.31,0,0,1,Such a cell,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+infective,2.31,0,0,1,A person who is capable of spreading a disease by infecting others.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 replant,2.31,0,0,1,The act of planting again.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 evidential,2.31,0,0,1,"A syntactic element (affix, clitic, or particle) that indicates evidentiality.",,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-masc,2.31,0,0,1,A person whose gender (identity) is masculine (but who is not necessarily a man).,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,40,abbr:1,True
-brachial,2.31,0,0,1,Denoting the upper valve of a brachiopod's shell,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-whinge,2.31,0,0,2,A cry.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-infective,2.31,0,0,1,A person who is capable of spreading a disease by infecting others.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 prenuptial,2.31,0,0,1,Synonym of prenuptial agreement.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-reductionist,2.3,0,0,1,An advocate of reductionism.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-montane,2.3,0,0,1,An animal or a plant of a montane habitat.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-stumpy,2.3,1,1,2,An amputee who has lost a leg.,,,adj:2;noun:2,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:2,True
+proliferative,2.31,0,0,1,Such a cell,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+brachial,2.31,0,0,1,Denoting the upper valve of a brachiopod's shell,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+masc,2.31,0,0,1,A person whose gender (identity) is masculine (but who is not necessarily a man).,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,40,abbr:1,True
+whinge,2.31,0,0,2,A cry.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 subdural,2.3,0,0,1,Ellipsis of subdural hematoma.,subdural hematoma,,adj:1;noun:1,adj,True,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+stumpy,2.3,1,1,2,An amputee who has lost a leg.,,,adj:2;noun:2,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:2,True
+montane,2.3,0,0,1,An animal or a plant of a montane habitat.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+reductionist,2.3,0,0,1,An advocate of reductionism.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 eruptive,2.3,0,0,1,"An eruptive rock, one produced by eruption.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 fash,2.3,0,0,3,A worry; trouble; bother.,,,verb:4;noun:3;adj:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 billable,2.29,0,0,1,Something that is billed for.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 nutritive,2.29,0,0,1,A nutrient.,,,adj:2;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+unfriend,2.28,0,0,1,One who is not a friend; an enemy.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,50,v:3,True
 vegetal,2.28,0,0,1,Any vegetable organism.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 multiethnic,2.28,0,0,1,A member of more than one ethnic group.,,,adj:1;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-unfriend,2.28,0,0,1,One who is not a friend; an enemy.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,50,v:3,True
 quadrennial,2.28,0,0,1,"A four-year period, a quadrennium.",,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 regale,2.27,0,0,3,"A feast, a meal.",,,verb:4;noun:3,verb,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,35,v:1,True
-exothermic,2.26,0,0,1,A substance that releases heat energy.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 divalent,2.26,0,0,1,Any divalent substance.,,,adj:2;noun:1,adj,False,5,NOUN,0.8,,False,True,False,,,,,,nonnoun,60,aj:1,True
 intrastate,2.26,0,0,1,A highway completely within a state (not an interstate).,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
+exothermic,2.26,0,0,1,A substance that releases heat energy.,,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 cronk,2.25,0,0,2,The honking sound of a goose.,,,adj:4;noun:2;verb:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-apoplectic,2.25,0,0,1,A person suffering from apoplexy.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
 repack,2.25,0,0,1,Synonym of repackaging.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-lithic,2.24,0,0,3,A stone tool or projectile.,,,adj:5;noun:3,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-rehire,2.24,0,0,1,A former employee who has been hired again.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:1,True
-sublingual,2.24,0,0,1,"A particular scale near the front of the lower jaw in snakes, usually in a pair.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-unsinkable,2.24,0,0,1,A ship that was designed to be unsinkable.,,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+apoplectic,2.25,0,0,1,A person suffering from apoplexy.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
 cisgender,2.24,0,0,1,A cisgender person.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,50,aj:1,True
 transversal,2.24,0,0,3,A line which traverses or intersects any system of other lines transversely.,,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+rehire,2.24,0,0,1,A former employee who has been hired again.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:1,True
+unsinkable,2.24,0,0,1,A ship that was designed to be unsinkable.,,,adj:2;noun:1,adj,False,4,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+sublingual,2.24,0,0,1,"A particular scale near the front of the lower jaw in snakes, usually in a pair.",,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 teletype,2.24,0,0,3,"A telegraph that automatically prints transmitted messages in letters rather than Morse code or other symbols, typically resembling a typewriter in appearance.",,,noun:3;verb:1,noun,False,2,NOUN,1.0,,False,True,False,NOUN,,,,,nonnoun,35,v:2,True
-chirpy,2.23,0,0,2,"An electronic device which uses a piezoelectric transducer to make chirping noise, often designed to be hidden and function as an annoyance",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
-pentatonic,2.23,0,0,1,The pentatonic scale.,,,adj:1;noun:1,adj,False,9,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+lithic,2.24,0,0,3,A stone tool or projectile.,,,adj:5;noun:3,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 transdermal,2.23,0,0,1,A transdermal patch or implant.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+pentatonic,2.23,0,0,1,The pentatonic scale.,,,adj:1;noun:1,adj,False,9,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 declutter,2.23,1,1,1,The act or process of removing clutter; a decluttering.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-pharmacologic,2.23,0,0,1,Such a drug,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-confocal,2.23,0,0,1,Any of a pair of confocal mirrors or lenses,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 lave,2.23,0,1,4,"An act of bathing or washing; a bath or bathe, a wash.",,,verb:11;noun:4;adj:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 overspend,2.23,0,0,1,The amount by which someone or something is overspent.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,50,v:2,True
+confocal,2.23,0,0,1,Any of a pair of confocal mirrors or lenses,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 slather,2.23,0,0,3,A thick sauce or spread that is to be slathered (spread thickly) onto food.,,,verb:4;noun:3,verb,False,0,,,,False,True,False,,,,,,nonnoun,40,v:2,True
+pharmacologic,2.23,0,0,1,Such a drug,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+chirpy,2.23,0,0,2,"An electronic device which uses a piezoelectric transducer to make chirping noise, often designed to be hidden and function as an annoyance",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
+ebon,2.22,0,0,1,Ebony; an ebony tree.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 luminal,2.22,0,1,1,The drug phenobarbital.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 humeral,2.22,0,0,1,An oblong scarf worn round the priest's shoulders at certain parts of the Mass and of Benediction.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-ebon,2.22,0,0,1,Ebony; an ebony tree.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-aversive,2.21,0,0,2,A grammatical case indicating that something is avoided or feared; the evitative case.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-recommit,2.21,0,0,1,A second or subsequent commit.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-haver,2.21,0,0,5,The cereal grain of cultivated oats (Avena sativa).,chaver,,noun:5;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 quickfire,2.21,0,1,1,Fire that spreads quickly through dry vegetation.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-unicellular,2.21,0,0,1,A single-celled organism; a unicell.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+recommit,2.21,0,0,1,A second or subsequent commit.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
 photochemical,2.21,0,0,1,Any chemical compound (such as silver halides) used in photography.,,,adj:1;noun:1,adj,False,7,ADJ,0.0,usually adjective (corpus),False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 trompe,2.21,0,0,2,A trumpet; a trump.,tromp,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,nonnoun,70,v:1,True
+unicellular,2.21,0,0,1,A single-celled organism; a unicell.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+aversive,2.21,0,0,2,A grammatical case indicating that something is avoided or feared; the evitative case.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+haver,2.21,0,0,5,The cereal grain of cultivated oats (Avena sativa).,chaver,,noun:5;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 anthemic,2.21,0,0,1,A song that is suggestive of an anthem.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-bilinear,2.2,0,0,1,A bilinear function.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 chemotherapeutic,2.2,0,0,1,A chemical agent used in chemotherapy,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 avoidant,2.2,0,0,2,A person who exhibits avoidance.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-locomotor,2.19,0,0,1,Something that is capable of locomotion.,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
-busk,2.19,0,0,3,"A strip of metal, whalebone, wood, or other material, worn in the front of a corset to stiffen it.",,,verb:5;noun:3,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+bilinear,2.2,0,0,1,A bilinear function.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 broadleaf,2.19,1,1,2,"A tree (Terminalia latifolia, now Terminalia catappa) of Jamaica.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+busk,2.19,0,0,3,"A strip of metal, whalebone, wood, or other material, worn in the front of a corset to stiffen it.",,,verb:5;noun:3,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+locomotor,2.19,0,0,1,Something that is capable of locomotion.,,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
 mimetic,2.19,0,0,3,Something mimetic or imitative.,,,noun:3;adj:2,noun,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 grabby,2.18,0,0,1,"Humanlike hand of some animals, mainly rodents and primates.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
-hermeneutic,2.18,0,0,1,"A particular theory of hermeneutics; a particular method of interpretation of text, especially holy texts.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 stably,2.18,0,1,1,A medieval hunting practice in which a group of hunters and hounds are stationed around the perimeter of a wood during a hunt to prevent the escape of the game.,,,adv:1;noun:1,adv,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,av:1,True
-operant,2.18,0,0,2,An operative person or thing.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-landward,2.18,0,1,1,The side facing land.,,,adj:2;adv:1;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,50,av:1,True
-intestate,2.18,0,0,1,A person who dies without making a valid will.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
 trow,2.18,1,1,4,Trust or faith.,drow,,noun:4;verb:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+operant,2.18,0,0,2,An operative person or thing.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+intestate,2.18,0,0,1,A person who dies without making a valid will.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,40,aj:1,True
+landward,2.18,0,1,1,The side facing land.,,,adj:2;adv:1;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,50,av:1,True
+hermeneutic,2.18,0,0,1,"A particular theory of hermeneutics; a particular method of interpretation of text, especially holy texts.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+swarthy,2.17,0,0,1,A swarthy person.,,,adj:6;noun:1,adj,False,4,ADJ,0.0,,False,True,False,,,,,,nonnoun,35,aj:2,True
+backfill,2.17,1,1,4,The material that has been used to refill an excavation.,,,verb:5;noun:4,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 armorial,2.17,0,0,1,"A book etc concerning heraldry, especially a collection of coats of arms.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 beaucoup,2.17,0,0,1,An abundance.,,,adv:1;det:1;noun:1,adv,False,0,,,,False,True,False,,,,,,nonnoun,70,av:1,True
-swarthy,2.17,0,0,1,A swarthy person.,,,adj:6;noun:1,adj,False,4,ADJ,0.0,,False,True,False,,,,,,nonnoun,35,aj:2,True
-withal,2.17,0,1,1,The means; the wherewithal.,,,adv:3;noun:1;prep:1,adv,False,1,ADV,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,50,av:1,True
+covariant,2.17,0,0,2,"A bihomogeneous polynomial in x, y, ... and the coefficients of some homogeneous form in x, y, ... that is invariant under some group of linear transformations.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 dually,2.17,0,0,1,A pickup truck with four wheels on the rear axle.,,,adv:1;noun:1,adv,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,av:1,True
-sclerotic,2.17,0,0,1,Synonym of sclera.,,,adj:4;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 glottal,2.17,0,0,1,A sound made with the glottis,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-backfill,2.17,1,1,4,The material that has been used to refill an excavation.,,,verb:5;noun:4,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+environ,2.17,0,0,1,A surrounding area or place (especially of an urban settlement); an environment.,,,verb:9;adv:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+sclerotic,2.17,0,0,1,Synonym of sclera.,,,adj:4;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+withal,2.17,0,1,1,The means; the wherewithal.,,,adv:3;noun:1;prep:1,adv,False,1,ADV,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,50,av:1,True
 adoptable,2.17,0,0,3,A person or animal that is eligible to be adopted.,,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 tottering,2.17,0,0,1,The movement of one who totters.,,,adj:2;noun:1;verb:1,adj,False,1,VERB,0.0,,False,True,False,NOUN;VERB,,"noun, also verb",,,nonnoun,70,aj:1,True
-covariant,2.17,0,0,2,"A bihomogeneous polynomial in x, y, ... and the coefficients of some homogeneous form in x, y, ... that is invariant under some group of linear transformations.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-environ,2.17,0,0,1,A surrounding area or place (especially of an urban settlement); an environment.,,,verb:9;adv:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-danceable,2.16,0,0,2,A social event with dancing; a ball.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-electable,2.16,0,0,1,A person who is able or fit to be elected to office.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-hirsute,2.16,0,0,1,Someone or something that is hirsute.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+dermatological,2.16,0,0,1,Such a drug or preparation,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 absorbable,2.16,0,0,1,A material that can be absorbed.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 monocular,2.16,0,0,2,A monocle.,,,adj:3;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-fictive,2.16,0,0,1,"A headmate who is in some way a character from a fictional work, whether in inspiration, form, or identity. Originally popularized with soulbonds, and also used for fictional introjects and dissociati",,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 dyadic,2.16,0,0,1,The sum of two or more dyads,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,50,aj:1,True
-dermatological,2.16,0,0,1,Such a drug or preparation,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-cadastral,2.15,0,0,1,A cadastre.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+hirsute,2.16,0,0,1,Someone or something that is hirsute.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
+danceable,2.16,0,0,2,A social event with dancing; a ball.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+electable,2.16,0,0,1,A person who is able or fit to be elected to office.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+fictive,2.16,0,0,1,"A headmate who is in some way a character from a fictional work, whether in inspiration, form, or identity. Originally popularized with soulbonds, and also used for fictional introjects and dissociati",,,adj:3;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 natch,2.15,0,0,2,"The rump of beef, especially the lower and back part of the rump.",,,noun:2;adv:1,noun,False,1,ADV,0.0,,False,True,False,,,,,,nonnoun,60,av:1,True
+cadastral,2.15,0,0,1,A cadastre.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 mononuclear,2.14,0,0,1,A cell having a single nucleus.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,70,aj:1,True
-gammy,2.14,0,0,1,Grandmother.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 unfree,2.14,0,0,1,"A person lacking freedom, such as a tenant bound to a manor.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-weeny,2.13,0,0,2,"A wiener, a hot dog.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
+gammy,2.14,0,0,1,Grandmother.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 ital,2.13,1,1,1,"Pure, natural food suiting a Rastafari lifestyle.",,,adj:1;noun:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,60,abbr:1,True
+weeny,2.13,0,0,2,"A wiener, a hot dog.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:2,True
 gussie,2.13,0,0,2,"A pig, a swine.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-lowball,2.12,0,0,5,The position of the ball on an American railroad ball signal that indicated Stop.,lowball glass,,noun:5;verb:3;adj:1,noun,True,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,v:1,True
-snog,2.12,0,0,1,A passionate kiss.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
-lento,2.12,0,0,1,A tempo mark directing that a passage is to be played very slowly.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1;av:1,True
-pend,2.12,0,1,2,"An archway; especially, a vaulted passageway leading through a tenement-style building from the main street, giving access to the rear of the building or an internal courtyard.",,,verb:5;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
-antitumor,2.12,0,0,1,Any substance that inhibits tumors.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-reparative,2.12,0,0,1,That which repairs.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+isthmian,2.12,0,0,1,A native or inhabitant of an isthmus.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 kep,2.12,0,0,1,A traditional Fair Isle fisherman's cap.,,,noun:1,noun,False,1,VERB,0.0,,False,True,False,,,,,,nonnoun,70,v:2,True
 summative,2.12,0,0,3,A summative assessment; a test that assesses what a student learned during a course of study.,,,adj:3;noun:3,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-isthmian,2.12,0,0,1,A native or inhabitant of an isthmus.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+lowball,2.12,0,0,5,The position of the ball on an American railroad ball signal that indicated Stop.,lowball glass,,noun:5;verb:3;adj:1,noun,True,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,v:1,True
+snog,2.12,0,0,1,A passionate kiss.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,v:1,True
+pend,2.12,0,1,2,"An archway; especially, a vaulted passageway leading through a tenement-style building from the main street, giving access to the rear of the building or an internal courtyard.",,,verb:5;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,60,v:2,True
+lento,2.12,0,0,1,A tempo mark directing that a passage is to be played very slowly.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1;av:1,True
+antitumor,2.12,0,0,1,Any substance that inhibits tumors.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+reparative,2.12,0,0,1,That which repairs.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 pwn,2.12,1,1,2,"Triumph, victory. Often exclaimed after an opponent in a video game is defeated.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,50,v:1,True
 concessionary,2.11,0,0,1,one who owns a concession or a franchise,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-unrecoverable,2.11,0,0,1,Something that cannot be recovered.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+subarctic,2.11,0,0,1,A subarctic region.,,,adj:1;name:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 attitudinal,2.11,0,0,1,"A particle that conveys the emotion, tone, mood, or feeling of the speaker.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 recurve,2.11,1,1,3,"A type of knife blade shape that involves several curves including a concave curve on a portion of the edge, resulting in a belly that is lower than the handle bottom.",,,noun:3;verb:3,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-subarctic,2.11,0,0,1,A subarctic region.,,,adj:1;name:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-blithering,2.1,0,0,1,Incoherent or foolish talk.,,,adj:1;noun:1;verb:1,adj,False,1,VERB,0.0,,False,True,False,,,"verb form (-ing, morphology)",,,nonnoun,60,aj:1,True
+unrecoverable,2.11,0,0,1,Something that cannot be recovered.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 chewable,2.1,0,0,2,Anything that is chewable; anything that is able to be chewed.,,,adj:3;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-indigestible,2.1,0,0,1,Anything that is difficult to digest.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 upsell,2.1,0,0,1,The act of making such a sale.,,,noun:1;verb:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,70,v:1,True
-downtempo,2.09,0,1,1,A genre of house music and ambient music with an ethereal sound and a driving beat.,,,adj:2;adv:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+indigestible,2.1,0,0,1,Anything that is difficult to digest.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+blithering,2.1,0,0,1,Incoherent or foolish talk.,,,adj:1;noun:1;verb:1,adj,False,1,VERB,0.0,,False,True,False,,,"verb form (-ing, morphology)",,,nonnoun,60,aj:1,True
 wholemeal,2.09,1,1,2,Meal (flour) milled from the whole grain (including the bran): wholemeal flour.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-subclavian,2.09,0,0,1,"A subclavian part (such as an artery, vein, or nerve).",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 adjunctive,2.09,0,0,2,"A connector joining two components of the same weight, such as a coordinating conjunction.",,,adj:4;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-dichroic,2.08,0,0,1,A dichroic filter,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-subacute,2.08,0,0,1,A patient whose condition is less than acute.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-glug,2.08,0,0,2,"The sound made when a significant amount of liquid is poured suddenly out of something, such as a jug or bottle.",,,verb:3;noun:2;intj:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+subclavian,2.09,0,0,1,"A subclavian part (such as an artery, vein, or nerve).",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
+downtempo,2.09,0,1,1,A genre of house music and ambient music with an ethereal sound and a driving beat.,,,adj:2;adv:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 stellate,2.08,0,0,1,Ellipsis of stellate cell.,stellate cell,,adj:1;noun:1;verb:1,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 ferroelectric,2.08,0,0,1,A ferroelectric material,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-pneumonic,2.07,0,0,2,One who has pneumonia.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+glug,2.08,0,0,2,"The sound made when a significant amount of liquid is poured suddenly out of something, such as a jug or bottle.",,,verb:3;noun:2;intj:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+dichroic,2.08,0,0,1,A dichroic filter,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
+subacute,2.08,0,0,1,A patient whose condition is less than acute.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 phlegmatic,2.07,0,0,1,One who has a phlegmatic disposition.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 cully,2.07,0,0,3,"A person who is easily tricked or imposed on; a dupe, a gullible person.",,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
-carboxylate,2.07,0,0,1,Any salt or ester of a carboxylic acid.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 seel,2.07,0,0,3,Good fortune; happiness; bliss.,,,noun:3;verb:3;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+carboxylate,2.07,0,0,1,Any salt or ester of a carboxylic acid.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+pneumonic,2.07,0,0,2,One who has pneumonia.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 nematic,2.07,0,0,1,A liquid crystal whose molecules align in loose parallel lines.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 presentational,2.06,0,0,1,"A clause using existential ""there"" with a verb other than a form of ""be"", as in ""There followed a brief silence"".",,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 tromp,2.06,0,0,1,"An apparatus in which air, drawn into the upper part of a vertical tube through side holes by a stream of water within, is carried down with the water into a box or chamber below which it is led to a ",,,verb:2;noun:1,verb,False,0,,,,False,True,False,NOUN,,,,,nonnoun,40,v:1,True
 trilingual,2.06,0,0,2,A person who speaks three languages.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-nonalcoholic,2.05,0,0,2,One who is not an alcoholic.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 bardic,2.05,0,0,1,"A bardic circle or competition: a gathering or contest at which stories, poems, and/or songs are recited.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+parotid,2.05,0,0,1,The parotid gland.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+gluteal,2.05,0,0,1,"Any of the muscles of the buttocks, gluteus maximus, gluteus medius and gluteus minimus",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
 tricuspid,2.05,0,0,1,A molar tooth that has three cusps,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
 endothermic,2.05,0,0,1,A substance that absorbs heat energy.,,,adj:2;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-gluteal,2.05,0,0,1,"Any of the muscles of the buttocks, gluteus maximus, gluteus medius and gluteus minimus",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-parotid,2.05,0,0,1,The parotid gland.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
-predawn,2.04,1,1,1,The period immediately preceding dawn.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
-degradable,2.04,0,0,1,Any material that can be degraded or decomposed.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+nonalcoholic,2.05,0,0,2,One who is not an alcoholic.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,50,aj:1,True
 sigmoid,2.04,0,0,2,Ellipsis of sigmoid colon.,sigmoid colon,,adj:4;noun:2,adj,True,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-rerelease,2.03,0,0,1,A rereleased item.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
-trainable,2.03,0,0,1,A mentally retarded person who can be trained or taught.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+degradable,2.04,0,0,1,Any material that can be degraded or decomposed.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+predawn,2.04,1,1,1,The period immediately preceding dawn.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,nonnoun,60,aj:1,True
 darkling,2.03,0,1,4,Darkness.,,,noun:4;adj:2;adv:1;verb:1,noun,False,3,ADJ,0.333,,False,True,False,,,"verb form (-ing, morphology)",,,nonnoun,70,aj:1,True
+trainable,2.03,0,0,1,A mentally retarded person who can be trained or taught.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 threepenny,2.03,0,0,1,A stamp worth three pence.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-workaday,2.03,0,0,1,A workday.,,,adj:2;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
-suchlike,2.03,0,0,1,A thing of the same kind or type.,,,adj:1;noun:1;pron:1,adj,False,0,,,,False,True,False,NOUN,,,,,nonnoun,50,aj:1,True
 skitter,2.03,0,1,2,A skittering movement.,,,verb:5;noun:2,verb,False,0,,,,False,True,False,,,,,,nonnoun,50,v:1,True
-insurable,2.02,0,0,1,A person or thing that can be insured.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+rerelease,2.03,0,0,1,A rereleased item.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
+suchlike,2.03,0,0,1,A thing of the same kind or type.,,,adj:1;noun:1;pron:1,adj,False,0,,,,False,True,False,NOUN,,,,,nonnoun,50,aj:1,True
+workaday,2.03,0,0,1,A workday.,,,adj:2;noun:1,adj,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,50,aj:1,True
 nonnegative,2.02,0,0,1,Any value that is not negative.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,70,aj:1,True
-cohost,2.02,0,0,1,A joint host alongside another (compare costar).,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
-whish,2.02,0,0,1,"A sibilant sound, especially that of rapid movement through the air.",,,adj:1;intj:1;noun:1;verb:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
 microelectronic,2.02,0,0,1,A microelectronic device.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+whish,2.02,0,0,1,"A sibilant sound, especially that of rapid movement through the air.",,,adj:1;intj:1;noun:1;verb:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,v:1,True
+insurable,2.02,0,0,1,A person or thing that can be insured.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
+cohost,2.02,0,0,1,A joint host alongside another (compare costar).,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,nonnoun,70,m:1,True
 demotic,2.02,1,1,1,Language as spoken or written by the common people.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
-pretest,2.01,0,0,1,"A preliminary test, given in advance of instruction or evaluation.",,,verb:2;adj:1;noun:1,verb,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,v:1,True
 bactericidal,2.01,0,0,1,A bactericide.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,nonnoun,60,aj:1,True
 dedicatory,2.01,0,0,1,A dedication.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
+pretest,2.01,0,0,1,"A preliminary test, given in advance of instruction or evaluation.",,,verb:2;adj:1;noun:1,verb,False,1,NOUN,1.0,,False,True,False,,,,,,nonnoun,60,v:1,True
+muzzy,2.0,0,0,2,A Muslim.,,,adj:3;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 stripey,2.0,0,0,2,"A marine fish found from Australia to Hawaii and Japan, Microcanthus strigosus, which is sometimes kept in aquaria.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 adamantine,2.0,0,1,1,Synonym of adamantium (“a fictional metal which is indestructible or nearly so”).,,,adj:6;noun:1,adj,False,0,,,,False,True,False,,,,,,nonnoun,70,aj:1,True
-muzzy,2.0,0,0,2,A Muslim.,,,adj:3;noun:2,adj,False,0,,,,False,True,False,,,,,,nonnoun,60,aj:1,True
 tony,4.64,0,0,1,A simpleton.,,,adj:1;noun:1,adj,False,37,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,nonnoun,50,aj:1,True
 roger,4.39,0,0,1,An act of sexual intercourse.,,,verb:3;intj:1;noun:1,verb,False,30,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,nonnoun,50,v:2;i:1,True
 hoover,3.56,0,0,1,"A vacuum cleaner, irrespective of brand.",,,verb:3;noun:1,verb,False,15,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,nonnoun,60,v:1,True
@@ -434,8 +434,8 @@ ha,4.58,0,0,1,The sum of bodily parts; the physical body.,,intj in Wiktionary (n
 dc,4.56,0,0,2,Initialism of direct current.,direct current,initialism or abbreviation (Wiktionary gloss),noun:2,noun,True,23,PROPN,0.261,,False,False,False,,,,,,nonnoun,60,abbr:1,True
 clinical,4.51,0,0,1,A medical student's session spent in a real-world nursing environment.,,adjective in practice (corpus),adj:6;noun:1,adj,False,66,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 yo,4.45,0,0,6,Abbreviation of year(s) old.,year(s) old,initialism or abbreviation (Wiktionary gloss),noun:6;intj:5;verb:2;det:1;num:1;pron:1,noun,True,29,OTHER,0.069,,False,False,False,,,,,,nonnoun,40,i:1,True
-whereas,4.41,0,0,1,"A clause, as in legal documents, stating whereas.",,closed-class function word,conj:2;adv:1;noun:1,conj,False,77,OTHER,0.0,,False,False,False,,,,,,nonnoun,35,c:1,True
 dutch,4.41,0,0,1,wife,,adjective in practice (corpus),noun:1;verb:1,noun,False,41,ADJ,0.0,,False,False,False,,,,,,nonnoun,60,aj:1,True
+whereas,4.41,0,0,1,"A clause, as in legal documents, stating whereas.",,closed-class function word,conj:2;adv:1;noun:1,conj,False,77,OTHER,0.0,,False,False,False,,,,,,nonnoun,35,c:1,True
 prominent,4.33,0,0,2,Any of various moths having a conspicuous projection on the inner margin of the wings.,,adjective in practice (corpus),adj:3;noun:2,adj,False,66,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 aggressive,4.32,0,0,2,One who is aggressive.,,adjective in practice (corpus),adj:5;noun:2,adj,False,57,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 mp,4.29,0,0,1,"Initialism of market price – written on menus instead of a price to mean the price charged depends on the price of supplies, which may vary.",market price,initialism or abbreviation (Wiktionary gloss),noun:1,noun,True,3,PROPN,0.333,,False,False,False,,,,,,nonnoun,60,abbr:1,True
@@ -443,10 +443,10 @@ eligible,4.29,0,0,1,One who is eligible.,,adjective in practice (corpus),adj:2;n
 experimental,4.28,0,0,1,The subject of an experiment.,,adjective in practice (corpus),adj:4;noun:1,adj,False,79,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 ye,4.25,0,0,1,"The Cyrillic letter Е, е, featured in various Slavic and Turkic languages.",,pron in Wiktionary (not a noun),pron:2;article:1;intj:1;noun:1,pron,False,23,OTHER,0.174,,False,False,False,NOUN,,,,,nonnoun,50,a:1;pn:1,True
 th,4.2,0,0,1,Abbreviation of table header.,table header,initialism or abbreviation (Wiktionary gloss),article:1;noun:1,article,True,32,NOUN,0.906,,False,False,False,,,,,,nonnoun,70,suf:1,True
-um,4.13,0,0,1,"An occurrence of the interjection ""um"".",,intj in Wiktionary (not a noun),intj:4;noun:1;particle:1;verb:1,intj,False,750,OTHER,0.145,,False,False,False,,,,,,nonnoun,40,i:1,True
 aw,4.13,0,0,1,An instance of aw.,,intj in Wiktionary (not a noun),intj:4;noun:1,intj,False,15,OTHER,0.0,,False,False,False,,,,,,nonnoun,40,i:1,True
-influential,4.09,0,0,1,A person who has influence,,adjective in practice (corpus),adj:1;noun:1,adj,False,38,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
+um,4.13,0,0,1,"An occurrence of the interjection ""um"".",,intj in Wiktionary (not a noun),intj:4;noun:1;particle:1;verb:1,intj,False,750,OTHER,0.145,,False,False,False,,,,,,nonnoun,40,i:1,True
 fr,4.09,0,0,1,Alternative letter-case form of FR (“friend request”).,FR,letter-case variant (Wiktionary gloss),adj:2;adv:1;noun:1;verb:1,adj,True,4,NOUN,0.5,,False,False,False,,,,,,nonnoun,50,abbr:1,True
+influential,4.09,0,0,1,A person who has influence,,adjective in practice (corpus),adj:1;noun:1,adj,False,38,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 ethical,4.07,0,0,1,"An ethical drug, one only dispensed on the prescription of a physician.",,adjective in practice (corpus),adj:4;noun:1,adj,False,49,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,nonnoun,35,aj:1,True
 pt,4.04,1,1,5,"Initialism of physical training, a physical education class in grade school.",physical training,initialism or abbreviation (Wiktionary gloss),noun:5,noun,True,4,PROPN,0.25,,False,False,False,,,,,,nonnoun,40,abbr:1,True
 ta,4.02,0,1,1,"In solfège, the lowered seventh note of a major scale (the note B-flat in the fixed-do system): te.",,intj in Wiktionary (not a noun),intj:2;noun:1;prep:1,intj,False,31,OTHER,0.0,,False,False,False,,,,,,nonnoun,60,i:1,True
@@ -474,8 +474,8 @@ fps,3.35,0,0,2,Initialism of frames per second.,frames per second,initialism or 
 cg,3.31,0,0,1,Initialism of center of gravity.,center of gravity,initialism or abbreviation (Wiktionary gloss),noun:1,noun,True,0,,,,False,False,False,,,,,,nonnoun,60,abbr:1,True
 ppm,3.15,0,0,2,Initialism of parts per million (10000 ppm = 1%).,parts per million,initialism or abbreviation (Wiktionary gloss),noun:2,noun,True,1,NOUN,1.0,,False,False,False,,,,,,nonnoun,60,abbr:1,True
 rah,3.06,0,0,1,A young adult (often a student) who behaves in a stereotypically upper class manner; especially when associated with undeserved privilege or a lack of self-awareness.,,intj in Wiktionary (not a noun),intj:5;adj:1;noun:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,60,i:1,True
-shh,3.01,0,1,2,An utterance of shh.,SHH,intj in Wiktionary (not a noun),intj:2;noun:2;verb:1,intj,True,1,OTHER,0.0,,False,False,False,,,,,,nonnoun,60,i:1,True
 yd,3.01,0,0,1,Alternative form of yd..,yd.,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,nonnoun,40,abbr:1,True
+shh,3.01,0,1,2,An utterance of shh.,SHH,intj in Wiktionary (not a noun),intj:2;noun:2;verb:1,intj,True,1,OTHER,0.0,,False,False,False,,,,,,nonnoun,60,i:1,True
 ach,2.95,0,0,1,"Any of several species of plants, such as smallage, wild celery, parsley.",,intj in Wiktionary (not a noun),intj:3;noun:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,70,i:1,True
 saith,2.94,0,0,1,Alternative form of saithe (“type of fish”).,saithe,spelling variant of another word (Wiktionary gloss),noun:1;verb:1,noun,False,4,VERB,0.0,,False,False,False,,,,,,nonnoun,70,v:1,True
 idly,2.93,0,0,1,Alternative spelling of idli.,idli,spelling variant of another word (Wiktionary gloss),adv:2;noun:1,adv,False,7,ADV,0.0,usually adverb (corpus),False,False,False,ADV;NOUN,,"noun, also adverb",,,nonnoun,35,av:1,True
@@ -490,13 +490,13 @@ yow,2.73,0,0,1,Alternative form of yowe.,yowe,spelling variant of another word (
 ahoy,2.73,0,0,1,An utterance of this interjection.,,intj in Wiktionary (not a noun),intj:2;noun:1;verb:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,35,i:1,True
 pcm,2.71,0,0,1,Initialism of per cent mille.,per cent mille,initialism or abbreviation (Wiktionary gloss),adv:1;noun:1,adv,True,1,NOUN,1.0,,False,False,False,,,,,,nonnoun,70,abbr:1,True
 eek,2.68,0,0,2,"A high-pitched squeal, as in fear or trepidation.",,intj in Wiktionary (not a noun),intj:3;noun:2;verb:2;adv:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,60,i:1,True
-commonsense,2.65,0,1,1,Alternative form of common sense.,common sense,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,4,NOUN,0.75,,False,False,False,,,,,,nonnoun,60,aj:1,True
 swanky,2.65,1,1,1,Alternative form of swankie.,swankie,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,1,ADJ,0.0,,False,False,False,,,,,,nonnoun,50,aj:1,True
+commonsense,2.65,0,1,1,Alternative form of common sense.,common sense,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,4,NOUN,0.75,,False,False,False,,,,,,nonnoun,60,aj:1,True
 adj,2.64,0,0,1,Alternative spelling of adj..,adj.,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,2,NOUN,1.0,,False,False,False,,,,,,nonnoun,50,abbr:1,True
 kooky,2.58,0,0,1,Alternative form of kookie (“kookaburra”).,kookie,spelling variant of another word (Wiktionary gloss),adj:2;noun:1,adj,False,0,,,,False,False,False,,,,,,nonnoun,50,aj:2,True
 smit,2.52,0,0,3,Alternative spelling of smitt.,smitt,spelling variant of another word (Wiktionary gloss),noun:3;verb:2,noun,False,0,,,,False,False,False,,,,,,nonnoun,35,v:1,True
-leggy,2.48,0,0,1,Alternative form of leggie (“a leg”).,leggie,spelling variant of another word (Wiktionary gloss),adj:4;noun:1,adj,False,2,NOUN,0.5,,False,False,False,,,,,,nonnoun,40,aj:2,True
 yessir,2.48,0,0,1,Term of address to a male; mate; buddy.,,intj in Wiktionary (not a noun),intj:2;noun:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,70,i:1,True
+leggy,2.48,0,0,1,Alternative form of leggie (“a leg”).,leggie,spelling variant of another word (Wiktionary gloss),adj:4;noun:1,adj,False,2,NOUN,0.5,,False,False,False,,,,,,nonnoun,40,aj:2,True
 amu,2.46,0,0,1,Abbreviation of atomic mass unit.,atomic mass unit,initialism or abbreviation (Wiktionary gloss),noun:1,noun,True,0,,,,False,False,False,,,,,,nonnoun,70,n:1,True
 gramercy,2.44,1,1,1,Thanks.,,intj in Wiktionary (not a noun),intj:2;noun:1,intj,False,0,,,,False,False,False,,,,,,nonnoun,70,i:1,True
 lbw,2.43,0,0,1,Alternative letter-case form of LBW.,LBW,letter-case variant (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,nonnoun,70,abbr:1,True

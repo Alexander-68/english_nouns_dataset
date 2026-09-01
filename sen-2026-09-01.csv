@@ -801,7 +801,7 @@ advowson,a,n,8,1.94,RARE,True,,,,,,False,noun.attribute,the right in English law
 adware,a,e,6,2.17,UNCOMMON,True,,,,,,False,,"A software application that includes advertisements, which are displayed while the software is running. Developers use adware as a source of income and to keep the costs of the software down (usually ",manual-entry
 adynamia,a,a,8,0.0,OBSCURE,True,,obscure,,,,False,noun.attribute,lack of strength or vigor (especially from illness),oewn2025
 adytum,a,m,6,1.01,RARE,True,,,,,,False,,"The innermost sanctuary or shrine in a temple, from where oracles were given.",scowl
-adz,a,z,3,1.72,RARE,False,spelling variant of another word (reviewed),spelling variant of adze,adze,,,False,noun.artifact,an edge tool used to cut and shape wood,oewn2025
+adz,a,z,3,1.72,RARE,True,,spelling variant of adze,,,,False,noun.artifact,an edge tool used to cut and shape wood,oewn2025
 adze,a,e,4,1.78,RARE,True,,,,,,False,noun.artifact,an edge tool used to cut and shape wood,oewn2025
 adzuki,a,i,6,1.45,RARE,True,,,,,,False,,Either the plant or the seed of the azuki bean.,scowl
 aeciospore,a,e,10,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,spore of a rust fungus formed in an aecium,oewn2025
@@ -32104,6 +32104,7 @@ luthern,l,n,7,0.0,OBSCURE,True,,obscure,,,,False,,A dormer-window.,scowl
 luthier,l,r,7,2.1,UNCOMMON,True,,,,,,False,noun.person,a craftsman who makes stringed instruments (as lutes or guitars or violins),oewn2025
 luting,l,g,6,1.12,RARE,True,,,,,,False,noun.substance,a substance for packing a joint or coating a porous surface to make it impervious to gas or liquid,oewn2025
 lutist,l,t,6,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a musician who plays the lute,oewn2025
+lutz,l,z,4,2.98,UNCOMMON,True,,,,,,False,,"A jump in which the skater takes off from the back outside edge of one skate, rotates counterclockwise and lands on the back outside edge of the other skate.",gaps-review
 luv,l,v,3,3.09,FAMILIAR,True,,,,,,False,,Deliberate misspelling of love.,scowl
 luvvie,l,e,6,1.7,RARE,True,,,,,,False,,Alternative spelling of luvvy.,scowl
 luvvy,l,y,5,0.0,OBSCURE,True,,obscure,,,,False,,An affectionate term of address.,scowl
@@ -37155,6 +37156,8 @@ numskull,n,l,8,1.26,RARE,True,,,,,,False,noun.person,a stupid person; these word
 nun,n,n,3,3.64,FAMILIAR,True,,,,,,False,noun.person,a woman religious,oewn2025
 nuna,n,a,4,2.26,UNCOMMON,False,spelling variant of another word (reviewed),spelling variant of noona,noona,,,False,noun.person,used by males to address an older female,oewn2025
 nunatak,n,k,7,1.31,RARE,True,,,,,,False,,A mountain top or rocky element of a ridge that is surrounded by glacial ice but is not covered by ice; a peak protruding from the surface ice sheet.,scowl
+nunchaku,n,u,8,1.71,RARE,True,,,,,,False,,a martial-arts weapon of two sticks joined by a short chain or cord,domain:everyday
+nunchuk,n,k,7,1.39,RARE,True,,,,,,False,,a martial-arts weapon of two sticks joined by a short chain or cord,domain:everyday
 nunciature,n,e,10,1.17,RARE,True,,,,,,False,,The status or rank of a nuncio (diplomatic representative of the Roman Catholic Church).,scowl
 nuncio,n,o,6,2.3,UNCOMMON,True,,,,,,False,noun.person,(Roman Catholic Church) a diplomatic representative of the Pope having ambassadorial status,oewn2025
 nuncle,n,e,6,1.22,RARE,True,,,,,,False,,Uncle.,scowl
@@ -61093,13 +61096,14 @@ xystus,x,s,6,0.0,OBSCURE,True,,,,,,False,,a covered portico or garden walk in cl
 y,y,y,1,5.03,CORE,False,not a usable common noun (reviewed),possible name; possible abbreviation or clipping,,,,False,noun.communication,the 25th letter of the Roman alphabet,oewn2025
 yaar,y,r,4,2.3,UNCOMMON,True,,,,,,False,,"A friend, pal, or buddy.",scowl
 yabbie,y,e,6,0.0,OBSCURE,True,,,,,,False,,a freshwater crayfish of Australia,domain:y_words
+yabby,y,y,5,1.33,RARE,True,,,,,,False,,"an Australian freshwater crayfish, especially Cherax destructor",domain:y_words
 yacca,y,a,5,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,West Indian evergreen with medium to long leaves,oewn2025
 yacht,y,t,5,3.82,FAMILIAR,True,,,,,,False,noun.artifact,an expensive vessel propelled by sail or power and used for cruising or racing,oewn2025
 yachting,y,g,8,2.72,UNCOMMON,True,,,,,,False,noun.act,water travel for pleasure,oewn2025
 yachtsman,y,n,9,2.11,UNCOMMON,True,,,,,,False,noun.person,a male person who owns or sails a yacht,oewn2025
 yachtsperson,y,n,12,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who owns or sails a yacht,oewn2025
 yachtswoman,y,n,11,1.06,RARE,True,,,,,,False,noun.person,a female person who owns or sails a yacht,oewn2025
-yack,y,k,4,1.83,RARE,False,british/commonwealth spelling variant,spelling variant of yak; UK/Commonwealth spelling,yak,,,False,noun.communication,noisy talk,oewn2025
+yack,y,k,4,1.83,RARE,True,,spelling variant of yak,,,,False,noun.communication,noisy talk,oewn2025
 yaffle,y,e,6,0.0,OBSCURE,True,,,,,,False,,"the European green woodpecker, named for its laughing call",domain:y_words
 yagi,y,i,4,2.15,UNCOMMON,True,,,,,,False,noun.artifact,a sharply directional antenna,oewn2025
 yah,y,h,3,3.54,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"An upper-class person, especially a Sloane Ranger.",gaps-review
@@ -61273,6 +61277,7 @@ yokel,y,l,5,1.91,RARE,True,,,,,,False,noun.person,a person who is not very intel
 yokemate,y,e,8,0.0,OBSCURE,True,,,,,,False,,a companion or partner in work,domain:y_words
 yoking,y,g,6,1.4,RARE,False,verb (not a noun),verb (not a noun),,VERB,yoke,False,,The act or period of something being yoked.,pos-auto
 yolk,y,k,4,3.04,FAMILIAR,True,,,,,,False,noun.food,the yellow spherical part of an egg that is surrounded by the albumen,oewn2025
+yomp,y,p,4,1.23,RARE,True,,,,,,False,,"a long march on foot over rough ground, carrying full kit",domain:y_words
 yonder,y,r,6,2.97,UNCOMMON,False,adjective/adverb (not a noun),adjective/adverb (not a noun),,ADJ;ADV,,False,,"The vast distance, particularly the sky or trackless forest.",pos-auto
 yoni,y,i,4,2.28,UNCOMMON,True,,,,,,False,,"The vulva or vagina, or a symbol of them, especially as an object of veneration within certain types of Hinduism, Buddhism, and other cultures.",scowl
 yonks,y,s,5,1.67,RARE,False,plural-only (Wiktionary),,,,,False,,A long time (especially a longer time than expected); ages,scowl
@@ -61311,6 +61316,7 @@ yttrium,y,m,7,2.14,UNCOMMON,True,,,,,,False,noun.substance,a silvery metallic el
 yttrocerite,y,e,11,0.0,OBSCURE,True,,,,,,False,,"a violet-blue fluoride mineral of cerium, yttrium and calcium",domain:y_words
 yu,y,u,2,3.92,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"An ancient Chinese wine-bucket, often having a decorative cover.",gaps-review
 yuan,y,n,4,3.7,FAMILIAR,True,,possible name,,,,False,noun.quantity,the basic unit of money in China,oewn2025
+yuca,y,a,4,1.75,RARE,True,,,,,,False,,"cassava, the starchy tuberous root of Manihot esculenta",domain:y_words
 yucca,y,a,5,2.65,UNCOMMON,True,,,,,,False,noun.plant,any of several evergreen plants of the genus Yucca having usually tall stout stems and a terminal cluster of white flowers; warmer regions of North America,oewn2025
 yuck,y,k,4,3.06,FAMILIAR,True,,,,,,False,,Something disgusting.,gaps-review
 yuga,y,a,4,2.15,UNCOMMON,True,,,,,,False,noun.time,the name of an epoch or era within a four age cycle in Hindu philosophy.,oewn2025
@@ -61329,6 +61335,7 @@ yuppify,y,y,7,0.0,OBSCURE,False,verb (not a noun),"noun in SCOWL, not in Wiktion
 yuppy,y,y,5,1.5,RARE,True,,,,,,False,,Alternative spelling of yuppie.,scowl
 yurt,y,t,4,2.43,UNCOMMON,True,,,,,,False,noun.artifact,a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing,oewn2025
 yus,y,s,3,1.8,RARE,True,,,,,,False,noun.communication,a Common Slavonic nasal vowel in the early Cyrillic and Glagolitic alphabets.,oewn2025
+yutz,y,z,4,1.08,RARE,True,,,,,,False,,a foolish or incompetent person,domain:y_words
 yuzu,y,u,4,2.39,UNCOMMON,True,,,,,,False,,a sour aromatic East Asian citrus fruit,domain:y_words
 z,z,z,1,4.47,COMMON,False,not in Wiktionary,"possible name; manual - not in Wiktionary, is it a real noun?",,,,False,noun.communication,the 26th letter of the Roman alphabet,oewn2025
 za,z,a,2,3.09,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,Pizza.,gaps-review

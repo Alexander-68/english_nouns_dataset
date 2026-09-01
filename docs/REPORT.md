@@ -1607,3 +1607,44 @@ gap candidates into a `name_suspect` band on the same propn share, so it takes t
 `rank_gaps.py --selftest` covers the rule on the four rows that motivated it — `ray` and `dandy`
 rescued, `joe` and `alaska` kept, `sparrow` both ways — and on a pre-case `pos-dominance.csv`, where
 the missing columns leave the rule switched off rather than crashing.
+
+## Ten reported words, and `adz` (2026-09-01)
+
+A batch of words reported from play. Three needed nothing: `nook`, `rusk` and (after the name-mark
+fix earlier the same day) `sparrow` were already playable with a usable gloss.
+
+**Six were below the frequency cutoff and had therefore never been in any queue** — `yabby`,
+`yutz`, `yomp`, `yuca`, `nunchaku`, `nunchuk`, all under `ZIPF_MIN = 2.0`, all with a Wiktionary
+noun entry. That is the cutoff working as designed and the domain sheets being the intended remedy:
+the four y-words to `domains/y_words.csv`, the two weapon spellings to `domains/everyday.csv`.
+
+`yabby` is the instructive one. `y_words.csv` already had `yabbie`, which Wiktionary calls an
+alternative spelling **of `yabby`** — the sheet had the variant and not the lemma. A hand sheet
+inherits the recall problem of whoever wrote it, and the pair had to be reported by a player to be
+found.
+
+**`lutz` was in the queue and unruled** at zipf 2.98 — above the cutoff, ranked, never read. One
+line in `gaps_verdicts.csv`. The queue-is-a-queue finding from the x/y sweep, one more time.
+
+**`adz` was a policy inversion.** It was rejected as "spelling variant of another word (reviewed)",
+pointing at `adze`. But Wiktionary tags `adz` **US** and tags `adze` nothing, so the American form
+was the one dropped by a project whose stated rule is that American is the kept form — and in a
+word-chain game the cost is specific: `adz` ends in `z`, which is exactly the letter the game runs
+short of.
+
+The fix is a fifth verdict in `variants-reviewed.csv`. `variant` and `reverse` name a side to drop;
+`plural` and `unrelated` say "not an exclusion"; **`both`** says the pair is real and the game wants
+both sides. A `both` row stays playable and still carries `spelling variant of <canonical>` in
+`marks`, so one spelling per word remains a filter away. `yack` is ruled the same way, and needed a
+second row in `uk_reviewed.csv` because a UK region tag on the sense had it excluded by a different
+rule as well.
+
+**The general check.** 38 rejected spellings carry a US region tag their kept form does not. Most
+are Webster-era simplifications that are rightly out — `cigaret`, `iodin`, `alinement`, `chlorophyl`,
+`monolog`, `sherbert`. The `plow-` compounds are not: `plowshare` -> `ploughshare` and `plowboy` ->
+`ploughboy` are rejected while the base word runs `plough` -> `plow`, so the file contradicts itself
+on the same stem. Left unfixed and written down here: the list is in this section's query, and each
+row is a hand ruling that deserves re-reading rather than a bulk flip.
+
+Rows 61,537 -> 61,544; playable 51,895 -> 51,904 (`lutz`, `nunchaku`, `nunchuk`, `yabby`, `yomp`,
+`yuca`, `yutz` added; `adz` and `yack` flipped to playable).

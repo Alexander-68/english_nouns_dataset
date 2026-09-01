@@ -186,7 +186,7 @@ rather than a row in `domains/initialisms.csv`.
 
 ### `domains/everyday.csv`
 
-56 rows for a gap that is not a subject area but a **format collision**. The dataset carries no
+58 rows for a gap that is not a subject area but a **format collision**. The dataset carries no
 hyphenated rows at all, and Wiktionary files a good many everyday compounds under the hyphenated
 headword: `yo-yo`, `stand-alone`, `sign-up`, `hip-hop`, `sci-fi`, `write-up`. The unhyphenated
 spelling a player would type exists in Wiktionary only as "Alternative spelling of yo-yo", so the
@@ -208,6 +208,10 @@ The 56th row is `yule` — an existing row the build had ruled a proper noun, an
 read "Alternative letter-case form of Yule." It is an ordinary common noun for the midwinter
 festival, and the sheet gives it both the ruling and the sentence.
 
+`nunchaku` and `nunchuk` (2026-09-01) are the same collision in a different guise: both are below
+the frequency cutoff, so neither was ever in the queue, and `nunchuk`'s Wiktionary gloss is
+"Alternative form of nunchaku". Both are ruled `noun` with the definition written out.
+
 ### `domains/x_words.csv`
 
 193 rows, 181 of them `noun`, all beginning with `x` — `xylitol`, `xanthan`, `xylan`, `xenophile`,
@@ -228,7 +232,7 @@ the pipeline.
 
 ### `domains/y_words.csv`
 
-47 rows, 46 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+51 rows, 50 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
 other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
 `yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
 `yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
@@ -248,10 +252,14 @@ Three rows override a source gloss that points at the wrong thing for a player: 
 `yelper` "a user of Yelp", `yate` an obsolete form of `gate`, and `yatagan` an alternative
 spelling of `yataghan` (which the dataset already has playable, so both spellings now work).
 
+Four rows added 2026-09-01, all reported from play and all below the frequency cutoff, so no
+queue would ever have carried them: `yabby` (the Australian crayfish — the sheet already had
+`yabbie`, which Wiktionary calls an alternative spelling of it, so the variant was in and the
+lemma was not), `yomp`, `yuca` and `yutz`. `yack` was reported in the same batch and is not here:
+it has a row already, and the fix belonged in `variants-reviewed.csv`.
+
 `yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
 thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.
-
-The sheet is **not yet in a release**.
 
 ### `domains/typography.csv`
 
@@ -301,4 +309,9 @@ verdict-sheet ruling now overrides it. Without that rule the old keep-list was r
 
 For doublets: `variant` (the `variant` column is the nonstandard spelling), `reverse` (the
 `canonical` column is), `plural` (one side is a plural of the other — mark it, never exclude it),
-`unrelated` (not a pair at all; drop the link).
+`unrelated` (not a pair at all; drop the link), `both` (a real doublet the game wants on both
+sides — playable, and still carrying `spelling variant of <canonical>` as a mark).
+
+`both` is for the pair where US-first does not apply, or applies the other way. `adz` is the
+AMERICAN spelling of `adze` — Wiktionary tags `adz` US and tags `adze` nothing — so ruling it
+`variant` inverted the project's own policy, and cost the game a word ending in `z`.
