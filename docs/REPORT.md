@@ -1665,3 +1665,26 @@ does not belong. No code change — `wx_join.py` globs `reviews/domains/*.csv`.
 word.
 
 Rows 61,544 -> 61,545; playable 51,904 -> 51,905.
+
+## Fourteen more y-words (2026-09-02)
+
+Same shape as the batch before it, at bigger scale: 13 of the 14 score below `ZIPF_MIN = 2.0` — ten
+of them at 0.00 — so no queue could ever have held them, and they went to `domains/y_words.csv`,
+which is now 64 rows. `yad` is the exception at zipf 2.47: it was in `gaps.csv`, unruled, and took a
+line in `gaps_verdicts.csv`.
+
+The definitions are where the work was. **Five of the thirteen have no gloss of their own in
+Wiktionary, only a pointer**: `yapock` -> "Alternative spelling of yapok", `yachtie` -> "of yachty",
+`yarnbombing` -> "of yarn bombing", `ypsilon` -> "of upsilon". `yett`'s entire gloss is the word
+"Gate." and `yeld` is in no source at all. A pointer is unusable twice over — it tells the player
+nothing, and it names a spelling that is either not in this file (`yachty`) or cannot be
+(`yarn bombing`, which has a space). Those rows carry a written definition; the eight with a usable
+Wiktionary gloss leave `note` empty, as the sheet rules ask.
+
+`yapock` is worth one more line. `yapok` is already playable, so this is the `yatagan`/`yataghan`
+case again: the dataset keeps both spellings of a word when both are current and neither is the
+British side of a doublet. It is the same judgement `both` makes in `variants-reviewed.csv`, arrived
+at from the other direction — there the pair was already in the file, here one side was missing.
+
+Release renamed `sen-2026-09-01.csv` -> `sen-2026-09-02.csv`. Rows 61,545 -> 61,559; playable
+51,905 -> 51,919.

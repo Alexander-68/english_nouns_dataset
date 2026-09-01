@@ -232,7 +232,7 @@ the pipeline.
 
 ### `domains/y_words.csv`
 
-51 rows, 50 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
+64 rows, 63 of them `noun`, all beginning with `y` — the same supply problem as `x_words.csv`, for the
 other letter a word-chain game runs short of. 17 were absent from the dataset in any form:
 `yaffle`, `yohimbine`, `yardang`, `yatagan`, `yatter`, `yawp`, `yperite`, `yukata`, `yuzu`,
 `yerba`, `yoctosecond`, `yttrialite`, `yttrocerite`, `yardland`, `yarner`, `yate`, `yelper`.
@@ -257,6 +257,15 @@ queue would ever have carried them: `yabby` (the Australian crayfish — the she
 `yabbie`, which Wiktionary calls an alternative spelling of it, so the variant was in and the
 lemma was not), `yomp`, `yuca` and `yutz`. `yack` was reported in the same batch and is not here:
 it has a row already, and the fix belonged in `variants-reviewed.csv`.
+
+Thirteen more added 2026-09-02, again all reported from play and all below the cutoff — `yex`,
+`yerk`, `yowler`, `yeld`, `yett`, `yowie`, `ypsilon`, `yohimbe`, `youthquake`, `yachtie`,
+`yarnbombing`, `yapock`, `yessotoxin`. Five of them exist in Wiktionary only as a pointer at a
+spelling the dataset cannot use or does not want to show a player — `yapock` "Alternative spelling
+of yapok", `yachtie` "of yachty", `yarnbombing` "of yarn bombing" (two words, and the file has no
+spaces), `ypsilon` "of upsilon" — so those carry a written definition. `yeld` is in no source at
+all. `yad` came in the same batch and is not here: at zipf 2.47 it was already in the gaps queue,
+so it was ruled there.
 
 `yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
 thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.

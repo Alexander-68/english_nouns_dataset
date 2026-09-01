@@ -61099,11 +61099,13 @@ yabbie,y,e,6,0.0,OBSCURE,True,,,,,,False,,a freshwater crayfish of Australia,dom
 yabby,y,y,5,1.33,RARE,True,,,,,,False,,"an Australian freshwater crayfish, especially Cherax destructor",domain:y_words
 yacca,y,a,5,0.0,OBSCURE,True,,obscure,,,,False,noun.plant,West Indian evergreen with medium to long leaves,oewn2025
 yacht,y,t,5,3.82,FAMILIAR,True,,,,,,False,noun.artifact,an expensive vessel propelled by sail or power and used for cruising or racing,oewn2025
+yachtie,y,e,7,0.0,OBSCURE,True,,,,,,False,,a person who works on or spends much of their time aboard yachts,domain:y_words
 yachting,y,g,8,2.72,UNCOMMON,True,,,,,,False,noun.act,water travel for pleasure,oewn2025
 yachtsman,y,n,9,2.11,UNCOMMON,True,,,,,,False,noun.person,a male person who owns or sails a yacht,oewn2025
 yachtsperson,y,n,12,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who owns or sails a yacht,oewn2025
 yachtswoman,y,n,11,1.06,RARE,True,,,,,,False,noun.person,a female person who owns or sails a yacht,oewn2025
 yack,y,k,4,1.83,RARE,True,,spelling variant of yak,,,,False,noun.communication,noisy talk,oewn2025
+yad,y,d,3,2.47,UNCOMMON,True,,,,,,False,,A pointer used in the ritual of Torah-reading.,gaps-review
 yaffle,y,e,6,0.0,OBSCURE,True,,,,,,False,,"the European green woodpecker, named for its laughing call",domain:y_words
 yagi,y,i,4,2.15,UNCOMMON,True,,,,,,False,noun.artifact,a sharply directional antenna,oewn2025
 yah,y,h,3,3.54,FAMILIAR,True,,possible abbreviation or clipping,,,,False,,"An upper-class person, especially a Sloane Ranger.",gaps-review
@@ -61132,6 +61134,7 @@ yanquapin,y,n,9,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a 
 yanqui,y,i,6,1.32,RARE,True,,,,,,False,,"A citizen of the United States of America, as opposed to a Latin American.",scowl
 yantra,y,a,6,1.98,RARE,True,,,,,,False,,A geometrical diagram used as a meditation aid in tantric worship.,domain:y_words
 yap,y,p,3,2.94,UNCOMMON,True,,,,,,False,noun.body,informal terms for the mouth,oewn2025
+yapock,y,k,6,0.0,OBSCURE,True,,,,,,False,,"the water opossum, a semiaquatic marsupial of Central and South America",domain:y_words
 yapok,y,k,5,0.0,OBSCURE,True,,obscure,,,,False,,The water opossum (Chironectes minimus).,scowl
 yapon,y,n,5,0.0,OBSCURE,True,,obscure,,,,False,,Alternative form of yaupon.,scowl
 yapper,y,r,6,1.44,RARE,True,,,,,,False,,"A person's mouth, especially one that gossips or talks too much.",scowl
@@ -61156,6 +61159,7 @@ yarmelke,y,e,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spe
 yarmulka,y,a,8,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of yarmulke,yarmulke,,,False,noun.artifact,a skullcap worn by religious Jews (especially at prayer),oewn2025
 yarmulke,y,e,8,1.9,RARE,True,,,,,,False,noun.artifact,a skullcap worn by religious Jews (especially at prayer),oewn2025
 yarn,y,n,4,3.6,FAMILIAR,True,,,,,,False,noun.communication,the act of giving an account describing incidents or a course of events,oewn2025
+yarnbombing,y,g,11,0.0,OBSCURE,True,,,,,,False,,the practice of covering public objects in knitted or crocheted work,domain:y_words
 yarner,y,r,6,0.0,OBSCURE,True,,,,,,False,,a teller of tall stories,domain:y_words
 yarovization,y,n,12,0.0,OBSCURE,True,,,,,,False,,the chilling of seed to bring forward flowering,domain:y_words
 yarrow,y,w,6,2.53,UNCOMMON,True,,,,,,False,noun.plant,"ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets; widely naturalized in North America",oewn2025
@@ -61194,6 +61198,7 @@ yearning,y,g,8,3.24,FAMILIAR,True,,,,,,False,noun.feeling,prolonged unfulfilled 
 years,y,s,5,5.96,CORE,False,plural-only (Wiktionary),possible plural,,,,True,noun.time,a late time of life,oewn2025
 yeast,y,t,5,3.67,FAMILIAR,True,,,,,,False,noun.substance,a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey,oewn2025
 yegg,y,g,4,0.0,OBSCURE,True,,obscure,,,,False,,A person who breaks open safes; a burglar.,scowl
+yeld,y,d,4,1.05,RARE,True,,,,,,False,,"a female animal that is barren or not in calf or lamb, especially a ewe or cow",domain:y_words
 yelek,y,k,5,0.0,OBSCURE,True,,,,,,False,,a sleeveless long vest worn in Turkey and the Levant,domain:y_words
 yell,y,l,4,3.85,FAMILIAR,True,,,,,,False,noun.communication,a loud utterance; often in protest or opposition,oewn2025
 yeller,y,r,6,2.11,UNCOMMON,True,,,,,,False,noun.person,someone who communicates vocally in a very loud voice,oewn2025
@@ -61225,17 +61230,21 @@ yeomanry,y,y,8,2.34,UNCOMMON,True,,,,,,False,noun.group,class of small freeholde
 yep,y,p,3,4.39,COMMON,False,adverb (not a noun),adverb (not a noun),,ADV,,False,,Yes.,pos-auto
 yer,y,r,3,3.36,FAMILIAR,True,,possible abbreviation or clipping,,,,False,noun.communication,"Either of two letters in Cyrillic alphabets, which originally represented phonemically the ultra-short vowels in Slavic languages.",oewn2025
 yerba,y,a,5,2.34,UNCOMMON,True,,,,,,False,,"the mate plant, whose leaves are brewed as a tea",domain:y_words
+yerk,y,k,4,0.0,OBSCURE,True,,,,,,False,,"a sudden thrust, kick or lash",domain:y_words
 yersiniosis,y,s,11,0.0,OBSCURE,True,,,,,,False,,"A disease caused by infection by a bacterium of the genus Yersinia, especially Yersinia enterocolitica.",domain:y_words
 yes,y,s,3,5.5,CORE,True,,,,,,False,noun.communication,an affirmative,oewn2025
 yeshiva,y,a,7,2.67,UNCOMMON,True,,,,,,False,noun.group,an academy for the advanced study of Jewish texts (primarily the Talmud),oewn2025
 yeshivah,y,h,8,1.69,RARE,False,spelling variant of another word (reviewed),spelling variant of yeshiva,yeshiva,,,False,noun.group,an academy for the advanced study of Jewish texts (primarily the Talmud),oewn2025
+yessotoxin,y,n,10,0.0,OBSCURE,True,,,,,,False,,a marine biotoxin made by dinoflagellates and accumulated in shellfish,domain:y_words
 yesterday,y,y,9,4.91,COMMON,True,,,,,,False,noun.time,the day immediately before today,oewn2025
 yesteryear,y,r,10,2.62,UNCOMMON,True,,,,,,False,noun.time,the time that has elapsed,oewn2025
 yestreen,y,n,8,0.0,OBSCURE,True,,obscure,,,,False,,The night before; last night.,scowl
 yet,y,t,3,5.54,CORE,False,adverb (not a noun),adverb (not a noun); usually an adverb (corpus),,ADV,,False,,A metal pan or boiler; yetling.,pos-auto
 yeti,y,i,4,3.01,FAMILIAR,True,,,,,,False,noun.person,a large hairy humanoid creature said to live in the Himalayas,oewn2025
+yett,y,t,4,1.51,RARE,True,,,,,,False,,a heavy barred gate guarding a castle or other fortified entrance,domain:y_words
 yew,y,w,3,3.03,FAMILIAR,True,,,,,,False,noun.plant,wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows,oewn2025
 yewberry,y,y,8,0.0,OBSCURE,True,,,,,,False,,the red fleshy fruit of the yew,domain:y_words
+yex,y,x,3,0.0,OBSCURE,True,,,,,,False,,a hiccup,domain:y_words
 yid,y,d,3,2.08,UNCOMMON,True,,,,,,False,noun.person,(ethnic slur) offensive term for a Jew,oewn2025
 yield,y,d,5,4.16,COMMON,True,,,,,,False,noun.act,production of a certain amount,oewn2025
 yielder,y,r,7,0.0,OBSCURE,True,,obscure,,,,False,noun.person,a person who yields or surrenders,oewn2025
@@ -61269,6 +61278,7 @@ yogin,y,n,5,1.33,RARE,True,,,,,,False,,a male practitioner of yoga,domain:y_word
 yogini,y,i,6,1.7,RARE,True,,,,,,False,,A female yogi.,scowl
 yogourt,y,t,7,0.0,OBSCURE,False,british/commonwealth spelling variant,UK/Commonwealth spelling; obscure,,,,False,,Alternative spelling of yogurt.,scowl
 yogurt,y,t,6,3.63,FAMILIAR,True,,,,,,False,noun.food,a custard-like food made from curdled milk,oewn2025
+yohimbe,y,e,7,1.17,RARE,True,,,,,,False,,a West African evergreen tree whose bark yields yohimbine,domain:y_words
 yohimbine,y,e,9,1.63,RARE,True,,,,,,False,,"an alkaloid from the bark of a West African tree, used in medicine",domain:y_words
 yokai,y,i,5,2.22,UNCOMMON,True,,,,,,False,noun.person,"Any of various supernatural monsters, sometimes shapeshifters, in Japanese folklore",oewn2025
 yoke,y,e,4,3.09,FAMILIAR,True,,,,,,False,noun.artifact,fabric comprising a fitted part at the top of a garment,oewn2025
@@ -61300,12 +61310,16 @@ youngster,y,r,9,3.27,FAMILIAR,True,,,,,,False,noun.person,a young person of eith
 younker,y,r,7,1.41,RARE,True,,,,,,False,noun.person,a young person (especially a young man or boy),oewn2025
 youth,y,h,5,4.75,COMMON,True,,,,,,False,noun.person,a young person (especially a young man or boy),oewn2025
 youthfulness,y,s,12,2.21,UNCOMMON,True,,,,,,False,noun.attribute,the freshness and vitality characteristic of a young person,oewn2025
+youthquake,y,e,10,1.09,RARE,True,,,,,,False,,a shift in culture or politics driven by the young,domain:y_words
 youtuber,y,r,8,3.16,FAMILIAR,True,,,,,,False,,someone whose work is a video channel,manual-entry
+yowie,y,e,5,1.47,RARE,True,,,,,,False,,an ape-like creature said to live in the Australian bush,domain:y_words
 yowl,y,l,4,1.56,RARE,True,,,,,,False,noun.communication,a very loud utterance (like the sound of an animal),oewn2025
+yowler,y,r,6,0.0,OBSCURE,True,,,,,,False,,"a person, animal or thing that yowls",domain:y_words
 yowling,y,g,7,1.72,RARE,False,verb (not a noun),verb (not a noun),,VERB,yowl,False,,A sound that yowls.,pos-auto
 yoyo,y,o,4,2.59,UNCOMMON,True,,,,,,False,,a toy spool wound with string that rises and falls as the string unwinds,domain:everyday
 yp,y,p,2,2.57,UNCOMMON,False,proper noun or other non-noun (reviewed),possible name,,,,False,,Alternative form of Yp.,gaps-review
 yperite,y,e,7,0.0,OBSCURE,True,,,,,,False,,"mustard gas, a blistering agent used in chemical warfare",domain:y_words
+ypsilon,y,n,7,1.12,RARE,True,,,,,,False,,the Greek letter upsilon,domain:y_words
 yr,y,r,2,3.79,FAMILIAR,False,not a usable common noun (reviewed),possible abbreviation or clipping,,,,False,noun.time,a period of time containing 365 (or 366) days,oewn2025
 ytterbia,y,a,8,0.0,OBSCURE,True,,obscure,,,,False,,Ytterbium oxide.,scowl
 ytterbite,y,e,9,0.0,OBSCURE,True,,obscure,,,,False,noun.substance,a mineral that is a source of rare earths; consists of silicates of iron and beryllium and cerium and yttrium and erbium,oewn2025
