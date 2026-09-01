@@ -261,6 +261,13 @@ it has a row already, and the fix belonged in `variants-reviewed.csv`.
 `yeaning` is the one row that is not a `noun`: it is the bare gerund of `yean`, the act and not a
 thing, so it is ruled `verb` and rejected with a reason rather than left unexplained.
 
+### `domains/z_words.csv`
+
+One row: `zax`, the slater's hatchet. Wiktionary has it with a usable gloss and scores it zipf 1.53,
+below the cutoff, so it was never in a queue — the same miss as `yabby` and for the same reason, on
+the third letter a word-chain game runs short of. The sheet exists so the next `z` word has a home;
+`x_words.csv` and `y_words.csv` both started this way.
+
 ### `domains/typography.csv`
 
 20 rows, all `noun`. 15 are words no source had — `ogonek`, `kerning`, `interpunct`, `pilcrow`,

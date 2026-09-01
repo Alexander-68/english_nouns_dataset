@@ -1648,3 +1648,20 @@ row is a hand ruling that deserves re-reading rather than a bulk flip.
 
 Rows 61,537 -> 61,544; playable 51,895 -> 51,904 (`lutz`, `nunchaku`, `nunchuk`, `yabby`, `yomp`,
 `yuca`, `yutz` added; `adz` and `yack` flipped to playable).
+
+## `zax` and a third letter sheet (2026-09-01)
+
+`zax` — a slater's hatchet — reported from play, absent. Wiktionary has it with a usable gloss
+("A tool, similar to a hatchet, used to prepare slate for roofing."), SCOWL does not, and `wordfreq`
+scores it 1.53, under `ZIPF_MIN = 2.0`. The by-now familiar shape: below the cutoff means never in a
+queue, and a domain sheet is the remedy.
+
+It went to a new `reviews/domains/z_words.csv` rather than into an existing sheet. `z` is the third
+letter a word-chain game runs short of, after `x` and `y`, and both of those sheets started as a
+handful of rows; a one-row sheet with the right name is cheaper than filing the word somewhere it
+does not belong. No code change — `wx_join.py` globs `reviews/domains/*.csv`.
+
+`zax` is 3 letters, starts `z` and ends `x`, which for a chain game is two scarce letters in one
+word.
+
+Rows 61,544 -> 61,545; playable 51,904 -> 51,905.

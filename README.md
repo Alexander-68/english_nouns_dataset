@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-01.csv` — 61,544 rows, 51,904 of them playable.**
+**`sen-2026-09-01.csv` — 61,545 rows, 51,905 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -43,7 +43,7 @@ one filter if you want a friendly list.
 | `is_plural` | the word is a listed plural of another entry |
 | `lexfile` | WordNet lexicographer file (`noun.animal`, `noun.artifact`, …) |
 | `definition` | one gloss, for showing the player |
-| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,760) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:everyday` (58) · `domain:y_words` (51) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) |
+| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,760) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:everyday` (58) · `domain:y_words` (51) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:z_words` (1) |
 
 ## Playable words, by tier
 
@@ -53,15 +53,15 @@ one filter if you want a friendly list.
 | COMMON | 2,822 |
 | FAMILIAR | 7,359 |
 | UNCOMMON | 12,023 |
-| RARE | 13,115 |
+| RARE | 13,116 |
 | OBSCURE | 15,966 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
 * **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,800 words**. Barely moved this release, which
   is the point: almost everything added landed below it.
-* **defensible** — everything except OBSCURE: **35,938 words**.
-* **extra-wide** — all **51,904**, including the OBSCURE band. `wordfreq` has never seen these,
+* **defensible** — everything except OBSCURE: **35,939 words**.
+* **extra-wide** — all **51,905**, including the OBSCURE band. `wordfreq` has never seen these,
   which for `tokenomics` and `lootbox` means the frequency table is older than the word, and for
   `ophicleide` and `quitrent` means the word is genuinely rare. Both are in the same band and both
   carry `marks = "obscure"`; the dataset does not pretend to tell them apart.
@@ -279,6 +279,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | `domain:medical_imaging` | 45 | `reviews/domains/medical_imaging.csv` — one hand-ruled sheet |
 | `domain:electronics` | 37 | `reviews/domains/electronics.csv` — one hand-ruled sheet |
 | `domain:typography` | 15 | `reviews/domains/typography.csv` — one hand-ruled sheet |
+| `domain:z_words` | 1 | `reviews/domains/z_words.csv` — one hand-ruled sheet |
 
 SCOWL is cut at **size ≤ 70**, which is both where its quality falls off and where its licence
 changes; `sources/README.md` has the copyright notice and the reasoning. The released

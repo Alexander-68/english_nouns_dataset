@@ -4060,3 +4060,4 @@ date,sheet,item,verdict,note
 2026-09-01,variants-reviewed.csv,adz,both,"the US spelling of adze (Wiktionary tags adz US, adze nothing); rejecting it inverted US-first"
 2026-09-01,variants-reviewed.csv,yack,both,"the informal chatter/vomit sense; kept alongside yak"
 2026-09-01,uk_reviewed.csv,yack,keep (not a UK spelling variant),"Wiktionary tags the sense UK; it is current US informal usage too"
+2026-09-01,domains/z_words.csv,zax,noun,"a slater's hatchet; zipf 1.53, below the cutoff, never queued"
