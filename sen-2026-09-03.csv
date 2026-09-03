@@ -627,6 +627,7 @@ adequateness,a,s,12,0.0,OBSCURE,True,,obscure,,,,,False,noun.attribute,the quali
 adermin,a,n,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.substance,a B vitamin that is essential for metabolism of amino acids and starch,oewn2025
 adesite,a,e,7,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.substance,a dark grey volcanic rock,oewn2025
 adessive,a,e,8,0.0,OBSCURE,True,,obscure,,,,,False,,"The adessive case, or a word in that case.",scowl
+adfix,a,x,5,0.0,OBSCURE,True,,,,,,,False,,an affix attached to the outside of a word or root: a prefix or a suffix,domain:reported
 adherence,a,e,9,3.34,FAMILIAR,True,,,,,,,False,noun.act,faithful support for a cause or political party or religion,oewn2025
 adherent,a,t,8,2.6,UNCOMMON,True,,,,,,,False,noun.person,someone who believes and helps to spread the doctrine of another,oewn2025
 adhesion,a,n,8,3.14,FAMILIAR,True,,,,,,,False,noun.state,abnormal union of bodily tissues; most common in the abdomen,oewn2025
@@ -22419,6 +22420,7 @@ genethlialogy,g,y,13,0.0,OBSCURE,True,,obscure,,,,,False,,natal astrology,scowl
 geneticism,g,m,10,0.0,OBSCURE,True,,obscure,,,,,False,noun.cognition,the belief that all human characteristics are determined genetically,oewn2025
 geneticist,g,t,10,2.61,UNCOMMON,True,,,,,,,False,noun.person,a biologist who specializes in genetics,oewn2025
 genetics,g,s,8,3.84,FAMILIAR,True,,,,,,,False,noun.cognition,the branch of biology that studies heredity and variation in organisms,oewn2025
+genetrix,g,x,8,1.04,RARE,True,,,,,,,False,,"a female parent, progenitor, or mother",domain:reported
 geneva,g,a,6,4.0,COMMON,True,,possible name,,,,,False,noun.food,gin made in the Netherlands,oewn2025
 geniality,g,y,9,1.54,RARE,True,,,,,,,False,noun.attribute,a disposition to be friendly and approachable (easy to talk to),oewn2025
 genialness,g,s,10,0.0,OBSCURE,True,,obscure,,,,,False,,The quality of being genial; geniality.,scowl
@@ -22432,6 +22434,7 @@ genitalia,g,a,9,3.09,FAMILIAR,True,,,,,,,False,noun.body,external sex organ,oewn
 genitals,g,s,8,3.21,FAMILIAR,False,plural-only (Wiktionary),possible plural,,,,,False,noun.body,external sex organ,oewn2025
 genitive,g,e,8,2.57,UNCOMMON,True,,possible abbreviation or clipping,,,,,False,noun.communication,the case expressing ownership,oewn2025
 genitor,g,r,7,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,a natural father or mother,oewn2025
+genitrix,g,x,8,0.0,OBSCURE,True,,spelling variant of genetrix,,genetrix,,,False,,"a female parent, progenitor, or mother",domain:reported
 genius,g,s,6,4.33,COMMON,True,,,,,,,False,noun.person,someone who has exceptional intellectual ability and originality,oewn2025
 genlisea,g,a,8,0.0,OBSCURE,True,,"obscure; manual - not in Wiktionary, is it a real noun?",,,,,False,noun.plant,rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs,oewn2025
 genoa,g,a,5,3.18,FAMILIAR,False,proper noun or other non-noun (reviewed),possible name,,,,,False,,A staysail that resembles a jib but extends aft beyond the mast.,gaps-review
@@ -38989,6 +38992,8 @@ panir,p,r,5,0.0,OBSCURE,True,,obscure,,,,,False,,Alternative form of paneer.,sco
 panjandra,p,a,9,0.0,OBSCURE,False,inflected form (Wiktionary),obscure,,,,,False,,plural of panjandrum,scowl
 panjandrum,p,m,10,1.31,RARE,True,,,,,,,False,noun.person,an important or influential (and often overbearing) person,oewn2025
 panlogism,p,m,9,0.0,OBSCURE,True,,obscure,,,,,False,,"The Hegelian doctrine that the universe is the act or realization of Logos, and therefore logic and ontology are the same study.",scowl
+panmixia,p,a,8,0.0,OBSCURE,True,,,,,,,False,,random mating within a breeding population,domain:reported
+panmixis,p,s,8,0.0,OBSCURE,True,,spelling variant of panmixia,,panmixia,,,False,,random mating within a breeding population,domain:reported
 panne,p,e,5,1.73,RARE,True,,,,,,,False,,A lustrous finish applied to velvet and satin.,scowl
 pannier,p,r,7,2.0,UNCOMMON,True,,,,,,,False,noun.artifact,either of a pair of bags or boxes hung over the rear wheel of a vehicle (as a bicycle),oewn2025
 pannikin,p,n,8,0.0,OBSCURE,True,,obscure,,,,,False,noun.artifact,a small pan or cup (usually of tin),oewn2025
@@ -60519,7 +60524,7 @@ witticism,w,m,9,1.75,RARE,True,,,,,,,False,noun.communication,a message whose in
 wittiness,w,s,9,1.43,RARE,True,,,,,,,False,noun.communication,a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter,oewn2025
 wittol,w,l,6,0.0,OBSCURE,True,,obscure,,,,,False,noun.person,an archaic term for a cuckold who knows about his wife's infidelity but tolerates it,oewn2025
 wivern,w,n,6,0.0,OBSCURE,False,spelling variant of another word (reviewed),spelling variant of wyvern,wyvern,,,,False,noun.person,a fire-breathing dragon used in medieval heraldry; had the head of a dragon and the tail of a snake and a body with wings and two legs,oewn2025
-wiz,w,z,3,3.13,FAMILIAR,True,,,,,,,False,noun.person,someone who is dazzlingly skilled in any field,oewn2025
+wiz,w,z,3,3.13,FAMILIAR,True,,spelling variant of whiz,,whiz,,,False,noun.person,someone who is dazzlingly skilled in any field,oewn2025
 wizard,w,d,6,3.93,FAMILIAR,True,,,,,,,False,noun.person,someone who is dazzlingly skilled in any field,oewn2025
 wizarding,w,g,9,2.71,UNCOMMON,False,verb form (reviewed),verb (reviewed),,,,,False,,"The magical work of a wizard; sorcery, witchcraft.",gaps-review
 wizardry,w,y,8,2.74,UNCOMMON,True,,,,,,,False,noun.cognition,exceptional creative ability,oewn2025

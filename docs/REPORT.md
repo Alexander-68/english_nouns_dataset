@@ -1813,3 +1813,24 @@ it and let the same word be spent twice in one chain. It is now a `both` row in
 row to use the column, and the first added because of it rather than fixed by it.
 
 Rows 61,562 -> 61,568; playable 51,971 -> 51,977.
+
+## `wiz` is `whiz`, and five reported words (2026-09-03)
+
+**`wiz`/`whiz` re-ruled from `unrelated` to `both`.** The pair sat in `variants-reviewed.csv` as
+"not a spelling pair", which is true -- they are two clippings of `wizard`, not two spellings of one
+form -- and beside the point. OEWN gives both the one gloss, "someone who is dazzlingly skilled in
+any field", and a chain game that counts them as two words lets the same word be spent twice.
+`same_word_as` was built for exactly that hole, and nothing in it requires the doublet to be
+orthographic. `wiz` now carries `same_word_as = whiz`; `whizz` was already rejected in favour of
+`whiz` and is untouched.
+
+**Five rows on `domains/reported.csv`.** `adfix` came in glossed as "an affix attached to the middle
+of a word or root" -- that is an `infix`, which is already playable. Wiktionary's `adfix` is the
+opposite, the cover term for a prefix or a suffix, and the sheet note says so rather than repeating
+the report. `genetrix` and `panmixia` were reported; each has a doublet Wiktionary knows
+(`genitrix`, which it treats as the main form, and `panmixis`, glossed only as "Panmixia."), and
+each pair is a `both` row, playable on both sides and tied by `same_word_as`. `genetrix` is the
+canonical side because it is the reported word and the headword in Merriam-Webster; Wiktionary's
+preference runs the other way and the column does not care which side is named.
+
+Rows 61,568 -> 61,573; playable 51,977 -> 51,982. Eight rows now carry `same_word_as`.

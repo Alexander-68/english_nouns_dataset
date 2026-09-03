@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-02.csv` — 61,568 rows, 51,977 of them playable.**
+**`sen-2026-09-03.csv` — 61,573 rows, 51,982 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -44,7 +44,7 @@ one filter if you want a friendly list.
 | `is_plural` | the word is a listed plural of another entry |
 | `lexfile` | WordNet lexicographer file (`noun.animal`, `noun.artifact`, …) |
 | `definition` | one gloss, for showing the player |
-| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (70) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (3) · `domain:z_words` (1) |
+| `source` | `oewn2025` (42,586) · `scowl` (12,147) · `pos-auto` (4,327) · `gaps-review` (1,761) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (70) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (8) · `domain:z_words` (1) |
 
 ## Playable words, by tier
 
@@ -54,15 +54,15 @@ one filter if you want a friendly list.
 | COMMON | 2,822 |
 | FAMILIAR | 7,369 |
 | UNCOMMON | 12,034 |
-| RARE | 13,139 |
-| OBSCURE | 15,994 |
+| RARE | 13,140 |
+| OBSCURE | 15,998 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
 * **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,810 words**. Barely moved this release, which
   is the point: almost everything added landed below it.
-* **defensible** — everything except OBSCURE: **35,982 words**.
-* **extra-wide** — all **51,977**, including the OBSCURE band. `wordfreq` has never seen these,
+* **defensible** — everything except OBSCURE: **35,983 words**.
+* **extra-wide** — all **51,982**, including the OBSCURE band. `wordfreq` has never seen these,
   which for `tokenomics` and `lootbox` means the frequency table is older than the word, and for
   `ophicleide` and `quitrent` means the word is genuinely rare. Both are in the same band and both
   carry `marks = "obscure"`; the dataset does not pretend to tell them apart.
@@ -109,10 +109,11 @@ set on **`same_word_as or noun`** and the pair collapses to one word — `whisky
 `whiskey` maps to itself, and the second one played is a repeat. Chain letters are unaffected: they
 come from `start` and `end` of the word actually typed.
 
-Five rows carry it today — `adz` (adze), `aunty` (auntie), `whisky` (whiskey), `yachtman`
-(yachtsman), `yack` (yak) — every
-one of them a `both` ruling in `reviews/variants-reviewed.csv`, where a doublet is real and both
-spellings are current. The alternative, rejecting one side, is what the file did before and it costs
+Eight rows carry it today — `adz` (adze), `aunty` (auntie), `genitrix` (genetrix), `panmixis`
+(panmixia), `whisky` (whiskey), `wiz` (whiz), `yachtman` (yachtsman), `yack` (yak) — every one of
+them a `both` ruling in `reviews/variants-reviewed.csv`, where a doublet is real and both spellings
+are current. Not every pair is a spelling: `wiz` and `whiz` are two clippings of `wizard` with one
+gloss, and the column ties them the same way. The alternative, rejecting one side, is what the file did before and it costs
 a player a word they spell correctly. The mark stays too (`spelling variant of whiskey`), so a game
 that would rather ship one spelling per word can filter instead.
 
@@ -306,7 +307,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | `domain:medical_imaging` | 45 | `reviews/domains/medical_imaging.csv` — one hand-ruled sheet |
 | `domain:electronics` | 37 | `reviews/domains/electronics.csv` — one hand-ruled sheet |
 | `domain:typography` | 15 | `reviews/domains/typography.csv` — one hand-ruled sheet |
-| `domain:reported` | 3 | `reviews/domains/reported.csv` — one hand-ruled sheet |
+| `domain:reported` | 8 | `reviews/domains/reported.csv` — one hand-ruled sheet |
 | `domain:z_words` | 1 | `reviews/domains/z_words.csv` — one hand-ruled sheet |
 
 SCOWL is cut at **size ≤ 70**, which is both where its quality falls off and where its licence

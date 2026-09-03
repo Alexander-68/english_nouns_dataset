@@ -446,7 +446,7 @@ tung,tongue,variant,the variant column is the nonstandard spelling
 lat,latitude,unrelated,not a spelling pair
 preventative,preventive,variant,the variant column is the nonstandard spelling
 kilo,kilogram,unrelated,not a spelling pair
-wiz,whiz,unrelated,not a spelling pair
+wiz,whiz,both,"one word, two clippings of wizard; both play, and same_word_as ties them"
 millimeter,millimetre,reverse,the canonical column is the nonstandard spelling
 hippo,hippopotamus,unrelated,not a spelling pair
 pallet,palette,unrelated,not a spelling pair
@@ -2509,3 +2509,5 @@ yashmac,yashmak,variant,the variant column is the nonstandard spelling
 zumbooruck,zamburak,variant,the variant column is the nonstandard spelling
 zumbooruk,zamburak,variant,the variant column is the nonstandard spelling
 yachtman,yachtsman,both,"Wiktionary glosses yachtman as 'A yachtsman.'; both play, and same_word_as ties them"
+genitrix,genetrix,both,"Wiktionary files genetrix as an alternative form of genitrix; both play, same_word_as ties them"
+panmixis,panmixia,both,"Wiktionary glosses panmixis as 'Panmixia.'; both play, same_word_as ties them"

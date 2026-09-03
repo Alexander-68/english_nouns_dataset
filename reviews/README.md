@@ -290,6 +290,12 @@ diving gas a player means. `nitpick` is ruled **`verb`**, not `noun` — Wiktion
 carry the verb only, and a noun that rests on a sheet row alone is the weakest evidence in the file.
 It is still a row, so the game rejects it with a reason instead of "not in the database".
 
+Five more on 2026-09-03: `adfix`, `genetrix`, `genitrix`, `panmixia`, `panmixis` — 8 rows, 7 of them
+`noun`. `adfix` was reported with the gloss "an affix attached to the middle of a word", which is an
+`infix`; Wiktionary's `adfix` is the opposite, a prefix or a suffix, and the note says so. The other
+four are two doublets — `genetrix`/`genitrix` and `panmixia`/`panmixis` — each a `both` row in
+`variants-reviewed.csv`, so both sides play and `same_word_as` counts the pair once.
+
 ### `domains/z_words.csv`
 
 One row: `zax`, the slater's hatchet. Wiktionary has it with a usable gloss and scores it zipf 1.53,
