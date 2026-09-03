@@ -11,42 +11,26 @@ how,6.24,0,0,3,The means by which something is accomplished.,,closed-class funct
 him,6.11,0,0,1,A male person or animal.,,closed-class function word,pron:8;noun:1,pron,False,3897,OTHER,0.0,,False,False,False,NOUN,,,,,noun,35,n:2;pn:1,True
 where,6.0,0,0,1,The place in which something happens.,,closed-class function word,adv:8;conj:2;noun:1;pron:1,adv,False,2190,OTHER,0.0,,False,False,False,ADV;NOUN,,"noun, also adverb",,,noun,35,n:2;a:1;c:1,True
 many,5.91,0,0,2,A multitude; a great aggregate; a mass of people; the generality; the common herd.,,closed-class function word,det:2;noun:2;adj:1;pron:1,det,False,2370,ADJ,0.014,,False,False,False,NOUN,,,,,noun,35,n:1;aj:1,True
-long,5.81,0,0,9,A long vowel.,long vacation,adjective in practice (corpus),adj:20;noun:9;adv:6;verb:4,adj,True,1549,ADJ,0.001,,False,False,False,ADJ;ADV;NOUN;VERB,,"noun, also adjective/verb/adverb",,,noun,35,v:3;n:2;aj:2;av:2;abbr:1,True
 doing,5.6,1,1,1,"A deed or action, especially when somebody is held responsible for it.",,closed-class function word,intj:1;noun:1;verb:1,intj,False,678,VERB,0.006,,False,False,False,NOUN;VERB,,"noun, also verb",,,noun,35,n:2,True
-oh,5.43,0,0,3,"An utterance of oh; a spoken expression of surprise, acknowledgement, etc.",,intj in Wiktionary (not a noun),intj:10;noun:3;verb:1,intj,False,994,OTHER,0.003,,False,False,False,,,,,,noun,35,n:2;i:1,True
-international,5.36,0,0,3,Someone who has represented their country in a particular sport.,,adjective in practice (corpus),adj:7;noun:3,adj,False,554,ADJ,0.002,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
-federal,5.13,0,0,4,A federal agent or (chiefly law-enforcement) official.,,adjective in practice (corpus),noun:4;adj:3,noun,False,727,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
-wide,4.96,0,0,1,A ball that passes so far from the batsman that the umpire deems it unplayable; the arm signal used by an umpire to signal a wide; the extra run added to the batting side's score,,adjective in practice (corpus),adj:11;adv:4;noun:1,adj,False,218,ADJ,0.0,,False,False,False,ADJ;ADV;NOUN,,"noun, also adjective/adverb",,,noun,35,aj:2;av:2;n:1,True
 physical,4.94,0,0,2,A physical examination.,,adjective in practice (corpus),adj:10;noun:2,adj,False,216,ADJ,0.009,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
-illegal,4.68,0,0,4,An illegal act or technique.,illegal immigrant,adjective in practice (corpus),adj:5;noun:4,adj,True,57,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
-fail,4.61,1,1,5,"A failure, especially of a financial transaction (a termination of an action).",,verb in practice (corpus),verb:15;noun:5;adj:1,verb,False,82,VERB,0.0,,False,False,False,NOUN;VERB,,"noun, also verb",,,noun,35,n:2;v:2,True
 creative,4.6,1,1,2,A person directly involved in a creative process; a creator of creative content.,,adjective in practice (corpus),adj:5;noun:2,adj,False,110,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 brilliant,4.55,1,1,4,"A finely cut gemstone, especially a diamond, cut in a particular form with numerous facets so as to maximize light return through the top (called ""table"") of the stone.",,adjective in practice (corpus),adj:6;noun:4;verb:1,adj,False,64,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 visual,4.5,0,0,5,Any element of something that depends on sight.,,adjective in practice (corpus),noun:5;adj:2,noun,False,70,ADJ,0.014,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 practical,4.48,0,0,4,A part of an exam or series of exams in which the candidate has to demonstrate their practical ability,,adjective in practice (corpus),adj:5;noun:4,adj,False,97,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:1;aj:1,True
-municipal,4.24,0,0,1,"A financial instrument issued by a municipality (e.g., municipal bonds).",,adjective in practice (corpus),adj:2;noun:1,adj,False,59,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 casual,4.23,0,0,9,"A worker who is only working for a company occasionally, not as its permanent employee.",,,noun:9;adj:7,noun,False,32,ADJ,0.062,usually adjective (corpus),False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
-verbal,3.91,1,1,3,"A verb form which does not function as a predicate, or a word derived from a verb. In English, infinitives, participles and gerunds are verbals.",,adjective in practice (corpus),adj:9;noun:3;verb:1,adj,False,25,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 aye,3.89,0,0,1,An affirmative vote; one who votes in the affirmative.,,intj in Wiktionary (not a noun),intj:6;adv:1;noun:1;verb:1,intj,False,32,OTHER,0.0,,False,False,False,NOUN,,,,,noun,35,n:1;av:1,True
-tangible,3.66,0,0,2,A physical object; something that can be touched.,,adjective in practice (corpus),adj:4;noun:2,adj,False,23,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 simplex,2.97,0,0,4,"A generalization of a triangle or tetrahedron to an arbitrary dimension; more accurately, the convex hull of n+1 affinely independent points in n-dimensional space.",,,adj:7;noun:4,adj,False,1,PROPN,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:1;aj:1,True
 expendable,2.96,0,0,1,An expendable person or object; usually used in the plural.,,,adj:4;noun:1,adj,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 multitasking,2.93,0,1,2,The simultaneous execution of multiple tasks (programs) under the control of an interrupt-driven operating system.,,,noun:2;verb:1,noun,False,11,NOUN,0.636,,False,True,False,NOUN,,,,,noun,35,n:1;aj:1,True
-presto,2.92,0,1,1,A pair of fives as a starting hand in Texas hold 'em.,,,adv:1;intj:1;noun:1,adv,False,3,OTHER,0.0,,False,True,False,,,,,,noun,35,n:2;aj:1;av:1;i:1,True
 slog,2.87,1,1,4,"A long, tedious walk or march.",,,noun:4;verb:3,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,noun,35,n:1;v:1,True
-mindedness,2.86,1,1,1,"The state of being minded in a particular way (as in narrow-mindedness, absent-mindedness).",,,noun:1,noun,False,3,NOUN,1.0,,False,True,False,NOUN,,,,,noun,35,n:1,True
 chipper,2.84,0,0,10,Someone who or something which chips (e.g. wood).,,,noun:10;adj:1;verb:1,noun,False,1,ADJ,0.0,,False,True,False,NOUN,,,,,noun,35,n:2;aj:1,True
-underweight,2.83,1,1,3,The state or quality of being underweight.,,,adj:3;noun:3;verb:3,adj,False,17,NOUN,0.882,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:1;aj:1,True
 lymphatic,2.82,0,0,1,A vessel that transports lymph.,,,adj:3;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2;aj:1,True
 timescale,2.74,0,0,1,Alternative spelling of time scale.,time scale,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,NOUN,,,,,noun,35,n:1,True
-yuk,2.71,0,0,1,"Something, such as a joke, that causes such a laugh.",,intj in Wiktionary (not a noun),intj:2;noun:1;verb:1,intj,False,1,OTHER,0.0,,False,False,False,,,,,,noun,35,n:4;v:4;i:2,True
-ogle,2.69,0,0,2,"An impertinent, flirtatious, amorous or covetous stare.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,noun,35,n:1;v:1,True
 lowdown,2.63,0,1,2,"inside information, the story or truth.",,,adj:3;noun:2;adv:1,adj,False,1,ADJ,0.0,,False,True,False,NOUN,,,,,noun,35,n:1;aj:1,True
 redirection,2.58,1,1,2,The act of setting a new direction.,,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,35,n:2,True
 linker,2.57,0,0,6,That which links.,,,noun:6;verb:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,35,n:2,True
 typesetting,2.56,1,1,1,The setting of written material into type.,,,noun:1;verb:1,noun,False,2,NOUN,0.5,,False,True,False,NOUN,,,,,noun,35,n:1,True
 trapdoor,2.49,0,0,5,A hinged or sliding door set into a floor or ceiling.,,,noun:5;verb:2,noun,False,1,NOUN,1.0,,False,True,False,NOUN,,,,,noun,35,n:2,True
-cornflakes,2.47,0,0,1,A breakfast cereal made from toasted flakes of maize.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,35,n:1,True
 corrector,2.42,0,0,3,One who corrects.,,,noun:3,noun,False,0,,,,False,True,False,NOUN,,,,,noun,35,n:1,True
 structuralist,2.15,0,0,1,An advocate or follower of structuralism.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,35,n:2,True
 maintainability,2.13,1,1,1,The ease with which something can be maintained.,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,35,n:2,True
@@ -61,26 +45,19 @@ moisturizer,2.99,1,1,2,Something that causes moisture or a condition of wetness;
 reprise,2.96,0,0,7,A recurrence or resumption of an action.,,,noun:7;verb:3,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,noun,40,v:3;n:2,True
 troubleshooting,2.96,0,1,1,"The identification and resolution of problems, especially problems of a technical nature.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,NOUN;VERB,,"noun, also verb",,,noun,40,n:1,True
 coed,2.9,0,0,1,Alternative form of co-ed.,co-ed,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,2,NOUN,0.5,,False,False,False,NOUN,,,,,noun,40,n:1;aj:1,True
-wham,2.78,0,0,4,A forceful blow.,,,noun:4;verb:4;intj:2,noun,False,0,,,,False,True,False,,,,,,noun,40,n:2;v:2;i:1,True
 riverfront,2.76,0,0,1,The real estate located along the banks of a river.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,40,n:2,True
-bagpipes,2.74,0,0,1,"A musical wind instrument possessing a flexible bag inflated by bellows, a double-reed melody pipe and up to four drone pipes; any aerophone that produces sound using air from a reservoir to vibrate e",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,NOUN,bagpipe,,bagpipe,,noun,40,n:1,True
 pejorative,2.74,0,0,1,"A disparaging, belittling, or derogatory word or expression.",,,adj:1;noun:1,adj,False,3,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:2;aj:1,True
 lookalike,2.73,0,0,2,"Someone who, or something which, physically resembles (looks like) another.",,,noun:2,noun,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:1,True
 toolbar,2.73,0,0,1,"A row of buttons, usually marked with icons, used to activate the functions of an application or operating system.",,,noun:1,noun,False,2,NOUN,1.0,,False,True,False,,,,,,noun,40,n:1,True
 lunchbox,2.72,0,0,7,"A container for transporting meals, especially lunch.",,,noun:7,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,40,n:1,True
-munchies,2.72,0,0,3,"Food, especially convenience snack foods.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,40,n:1,True
-golly,2.71,0,0,5,Abbreviation of golliwog:.,,initialism or abbreviation (Wiktionary gloss),noun:5;intj:1;verb:1,noun,True,6,OTHER,0.0,,False,False,False,,,,,,noun,40,n:2;i:1,True
 indigent,2.68,0,0,1,"A person in need, or in poverty.",,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:2;aj:1,True
 truckload,2.68,0,0,2,The contents of a full truck or lorry.,,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:1,True
 recyclable,2.67,0,0,1,"An object that can be recycled, such as a soda can.",,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:2;aj:1,True
 upswing,2.66,0,0,2,An upward swing.,,,noun:2;verb:1,noun,False,2,NOUN,1.0,,False,True,False,NOUN,,,,,noun,40,n:1,True
 preppy,2.63,0,0,1,A student of a prep school.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,aj:2;n:1,True
-dreadlocks,2.62,0,0,1,"A hairstyle worn by Rastafarians and others in which the hair is left to grow long, and twisted into matted strings.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,dreadlock,,noun,40,n:1,True
-hallucinogenic,2.6,0,0,1,a substance that is a hallucinogen.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:2;aj:1,True
 expansionist,2.57,0,0,1,An advocate of expansionism.,,,adj:1;noun:1,adj,False,1,NOUN,1.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:1;aj:1,True
 aftershave,2.56,1,1,1,"a lotion, gel, or liquid used after finishing shaving",,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:2,True
 phobic,2.53,0,0,1,A person who has a phobia.,,,adj:2;noun:1,adj,False,1,ADJ,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,40,n:2;aj:1,True
-sideburns,2.53,0,0,1,Facial hair reaching from the top of the head down the side of the face to the side of the chin.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,sideburn,,noun,40,n:1,True
 synch,2.53,0,0,1,Alternative spelling of sync.,sync,spelling variant of another word (Wiktionary gloss),noun:1;verb:1,noun,False,1,NOUN,1.0,,False,False,False,NOUN,,,,,noun,40,v:2;n:1;aj:1,False
 moisturiser,2.51,0,0,1,Non-Oxford British English standard spelling of moisturizer.,moisturizer,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:1,False
 shortwave,2.51,0,0,4,"An electromagnetic wave with a relatively short wavelength; specifically, one with a wavelength generally between 10 and 100 metres, corresponding to a frequency between 3 and 30 megahertz.",,,noun:4;adj:2;adv:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:2;aj:1,True
@@ -107,16 +84,11 @@ wingtip,2.12,0,0,3,"The extreme tip of the wing of an aircraft, bird, flying ins
 tokenism,2.06,1,1,1,"A policy of formally complying with efforts to achieve a goal by making small, token gestures; especially to hire a minimal number of ethnically diverse or disadvantaged people.",,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:1,True
 workfare,2.04,0,1,1,A form of welfare in which people are required to work as a condition of receiving aid,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,40,n:1,True
 intel,4.07,0,1,1,Intelligence (secret information).,,,noun:1,noun,False,12,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,50,n:1,True
-baptist,3.86,0,0,1,A person who baptizes.,,,noun:1,noun,False,20,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,50,n:1,True
-noel,3.63,0,0,1,"A kind of hymn, or canticle, of mediaeval origin, sung in honor of the birth of Christ; a Christmas carol.",,,intj:1;noun:1,intj,False,19,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,50,n:2,True
-milf,3.39,0,0,1,Alternative letter-case form of MILF.,MILF,letter-case variant (Wiktionary gloss),noun:1,noun,False,1,PROPN,0.0,,False,False,False,,,,,,noun,50,n:1,True
 handheld,3.36,0,0,1,Alternative form of hand-held.,hand-held,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,2,ADJ,0.0,,False,False,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
-pooh,3.29,1,1,3,"An instance of saying ""pooh"".",poo,intj in Wiktionary (not a noun),intj:3;noun:3;verb:3,intj,False,0,,,,False,False,False,,,,,,noun,50,n:2;v:2;i:1,True
 palazzo,2.99,0,0,1,"A large, palatial urban building in Italy.",,,noun:1,noun,False,12,PROPN,0.25,,False,True,False,,,,,,noun,50,n:2,True
 ringtone,2.99,0,0,2,The sound made by a telephone when ringing.,,,noun:2;verb:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,50,n:2,True
 webcast,2.97,0,0,1,A video and/or audio broadcast transmitted via the Internet,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:2;v:1,True
 jihadist,2.96,0,0,3,"One who participates in a jihad, an Islamic holy war or conflict; a mujahid.",,,noun:3;adj:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,50,n:1,True
-wack,2.96,0,0,3,An eccentric; an oddball; a weirdo.,,,noun:3;adj:1,noun,False,3,VERB,0.333,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,aj:3;a:2;n:1,True
 constitutionality,2.94,0,1,1,The status of being constitutional; of being in accord with the provisions of the appropriate constitution.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,NOUN,,,,,noun,50,n:1,True
 slideshow,2.94,0,0,3,"A presentation of a series of photographic slides, usually with a spoken or recorded explanation.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,50,n:2,True
 firefighting,2.92,0,1,3,The extinguishing of a fire.,,,noun:3,noun,False,1,NOUN,1.0,,False,True,False,NOUN,,,,,noun,50,n:1,True
@@ -124,7 +96,6 @@ soulmate,2.92,0,0,1,"Someone, especially a romantic partner, with whom one is ex
 helpline,2.91,0,0,1,"A telephone service (or (by extension) one using email, SMS, or the Web) which offers help to those who call, as either a public emergency service or customer service.",,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:2,True
 antivirus,2.9,0,0,1,"A piece of software that is used to detect, delete and or neutralize computer-based viruses.",,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 carotid,2.9,0,0,1,Either of the two main arteries that supply blood to the head of which the left in humans arises from the arch of the aorta and the right by bifurcation of the brachiocephalic artery with each passing,,,adj:1;noun:1,adj,False,2,NOUN,1.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
-occidental,2.89,0,0,1,A Western Christian of the Latin rite,,,adj:2;noun:1,adj,False,5,PROPN,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
 underpinning,2.88,0,0,3,"A support or foundation, especially as a structure of masonry that supports a wall.",,,noun:3;verb:1,noun,False,3,VERB,0.333,,False,True,False,NOUN;VERB,,"noun, also verb",,,noun,50,n:2,True
 widescreen,2.88,0,0,1,"A screen with a wider aspect ratio than the ordinary 35-millimeter frame, making more effective use of the human field of view and producing a more immersive view experience.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,50,n:1;aj:1,True
 stepdad,2.86,0,0,1,A stepfather.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
@@ -173,7 +144,6 @@ prenup,2.5,0,0,2,A prenuptial agreement.,,,noun:2,noun,False,0,,,,False,True,Fal
 reconfiguration,2.5,1,1,2,A reconfigured state.,,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 flyby,2.49,0,0,5,A flight past a celestial object in order to make observations.,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 minuteman,2.49,0,0,1,Alternative form of minute man.,minute man,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,3,PROPN,0.0,,False,False,False,NOUN,,,,,noun,50,n:1,True
-shipboard,2.48,0,0,1,The side of a ship.,,,adj:2;noun:1,adj,False,2,NOUN,1.0,,False,True,False,NOUN,,,,,noun,50,n:2;aj:1,True
 alleluia,2.46,0,0,3,A liturgical form of hallelujah.,,,noun:3;intj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1;i:1,True
 masterwork,2.46,0,0,4,A piece done to prove possession of skill sufficient to be ranked a master.,,,noun:4,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 sidearm,2.46,0,0,1,"A personal weapon, either a firearm (handgun type) or a cold weapon (such as a sword), carried on the hip in a belt, sheath, holster, etc., for rapid access.",,,adv:1;noun:1;verb:1,adv,False,0,,,,False,True,False,ADV;NOUN,,"noun, also adverb",,,noun,50,n:1;aj:1;av:1,True
@@ -181,8 +151,6 @@ audiophile,2.45,0,0,1,A person with an interest in high fidelity music and/or so
 deniability,2.45,1,1,2,The condition of being deniable.,,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:2,True
 catatonic,2.43,0,0,1,A patient in a state of catatonia.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
 spacewalk,2.43,0,0,1,Any activity by an astronaut outside of a spacecraft or space station in space.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,50,v:2;n:1,True
-wacker,2.43,0,0,1,"A Liverpudlian; a resident of Liverpool, England.",,,adj:1;noun:1,adj,False,1,PROPN,0.0,,False,True,False,,,,,,noun,50,n:1,True
-elegiac,2.41,0,0,1,A poem composed in the couplet style of classical elegies: a line of dactylic hexameter followed by a line of dactylic pentameter.,,,adj:2;noun:1,adj,False,2,ADJ,0.0,,False,True,False,,,,,,noun,50,n:2;aj:1,True
 divisiveness,2.39,0,1,1,The characteristic of being divisive.,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 subhuman,2.38,0,0,2,Any sentient creature that is subhuman.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
 underarm,2.38,0,0,2,The armpit.,,,noun:2;adj:1;verb:1,noun,False,1,NOUN,1.0,,False,True,False,NOUN,,,,,noun,50,n:1;aj:1;av:1,True
@@ -196,7 +164,6 @@ nonwhite,2.35,0,0,1,A person who is not white.,,,adj:2;noun:1,adj,False,3,ADJ,0.
 birther,2.34,0,0,3,One who gives birth.,,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 birthstone,2.34,0,0,2,Any of twelve gemstones traditionally associated with the month of one's birth.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 unbeliever,2.34,0,0,1,"One who does not believe, particularly in a deity (used by believers to describe people who do not believe in the same deity or deities as themselves).",,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
-sequitur,2.32,0,0,1,A logical conclusion or consequence of facts.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 buzzkill,2.31,0,0,2,Something that or someone who spoils an otherwise enjoyable event.,,,noun:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,50,n:1,True
 slumdog,2.3,0,0,1,A person who lives in the slums of cities.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 bookmaking,2.29,0,1,2,"The art or profession of determining odds and receiving and paying off bets, especially bets on the outcome of sporting events.",,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
@@ -213,7 +180,6 @@ husker,2.25,0,0,2,"One who husks (as one who removes the husks, leaves, from ear
 offshoring,2.25,0,1,1,"The location of a business in another country for tax purposes or lowering production costs, as the labor.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,50,n:1,True
 paintwork,2.25,1,1,1,"The painted surface of a car, building, etc.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:2,True
 satay,2.24,1,1,1,"A dish made from small pieces of meat or fish grilled on a skewer and served with a spicy peanut sauce, originating from Indonesia and Malaysia.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,50,n:2,True
-hypoglycemic,2.23,0,0,1,A sufferer of hypoglycemia.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2;aj:1,True
 noddy,2.22,1,1,11,"A silly or stupid person; a fool, an idiot.",,,noun:11;adj:2;verb:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:2,True
 blackcurrant,2.21,0,0,2,"A shrub, Ribes nigrum, that produces small, very dark purple, edible berries.",,,noun:2,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:2,True
 discriminant,2.21,0,0,2,"An expression that gives information about the roots of a polynomial; for example, the expression D = b² - 4ac determines whether the roots of the quadratic equation ax² + bx + c = 0 are real and dist",,,noun:2;adj:1,noun,False,0,,,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,50,n:2,True
@@ -225,7 +191,6 @@ maharishi,2.18,0,0,1,A teacher of Hindu mysticism.,,,noun:1,noun,False,1,PROPN,0
 reappointment,2.18,1,1,1,An act of reappointing.,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 switchback,2.17,0,0,5,"A railway track on a steep slope in a zigzag formation, in which a train travels in a reverse direction at each switch.",,,noun:5;verb:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
 ducting,2.16,0,0,1,ductwork,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,50,n:2,True
-laze,2.16,1,1,3,An instance of lazing.,,,noun:3;verb:2,noun,False,1,VERB,0.0,,False,True,False,,,,,,noun,50,v:2;n:1,True
 archenemy,2.15,0,0,2,A principal enemy.,,,noun:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,50,n:1,True
 edamame,2.15,1,1,1,Fresh green soybeans boiled as a vegetable.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1,True
 explosiveness,2.14,0,1,1,The state of being explosive.,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,50,n:1,True
@@ -255,11 +220,8 @@ wingnut,2.01,0,0,5,A deciduous tree of the genus Pterocarya native to Asia.,wing
 homewrecker,2.0,0,0,1,Alternative form of home wrecker.,home wrecker,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,50,n:1,True
 polestar,2.0,0,0,1,Alternative form of pole star.,pole star,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,50,n:1,True
 upcountry,2.0,0,1,2,The interior of a country.,,,noun:2;adj:1;adv:1,noun,False,0,,,,False,True,False,,,,,,noun,50,n:1;aj:1,True
-ed,4.79,1,1,3,edition,,,noun:3,noun,False,51,PROPN,0.078,name in practice (corpus),True,True,True,,,,,,noun,60,abbr:1;n:1;suf:1,True
-ted,4.26,0,0,1,A Teddy boy.,,,noun:1;verb:1,noun,False,29,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,60,n:1,True
 hydro,3.63,1,1,9,Clipping of hydropower (“hydroelectric power”).,hydropower,clipping (Wiktionary gloss),noun:9;adj:3,noun,True,0,,,,False,False,False,,,,,,noun,60,n:1,True
 barney,3.54,0,0,8,"A lark, a romp, some fun.",,,noun:8;verb:2;adj:1,noun,False,12,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,60,n:1,True
-poo,3.54,1,1,8,"Alternative spelling of pooh: an instance of saying ""poo"".",pooh,spelling variant of another word (Wiktionary gloss),noun:8;verb:3;intj:2,noun,True,1,NOUN,1.0,,False,False,False,,,,,,noun,60,n:2;v:2,True
 creme,3.12,1,1,1,Alternative spelling of crème.,crème,spelling variant of another word (Wiktionary gloss),adj:1;noun:1;verb:1,adj,False,2,OTHER,0.0,,False,False,False,,,,,,noun,60,n:2,True
 barre,3.08,0,0,2,A handrail fixed to a wall used for ballet exercises.,barre chord,,noun:2;verb:1,noun,True,6,PROPN,0.167,,False,True,False,,,,,,noun,60,n:1,True
 runtime,3.08,1,1,1,Alternative spelling of run time.,run time,spelling variant of another word (Wiktionary gloss),adj:1;noun:1,adj,False,0,,,,False,False,False,,,,,,noun,60,n:1,True
@@ -269,9 +231,7 @@ airstrike,2.98,0,0,1,Alternative form of air strike.,air strike,spelling variant
 menswear,2.98,0,1,1,"Men's clothing (and accessories), particularly in a retail context.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 airtime,2.96,1,1,5,The duration during which a radio or television program (or part of one) is transmitted.,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 awesomeness,2.96,0,1,1,The quality of being awesome.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
-dona,2.94,0,0,1,Alternative form of donah.,donah,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,1,PROPN,0.0,,False,False,False,,,,,,noun,60,n:1,True
 installer,2.94,0,0,2,One who installs.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-tut,2.94,0,1,4,A tutorial.,,,noun:4;verb:3;intj:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;v:1;i:1,True
 pregame,2.93,0,0,3,"A social gathering of friends who get together to drink before going out to a party or a sports game, in order to generate a slight feeling of intoxication before going out for the night.",,,noun:3;adj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1,True
 concealer,2.92,1,1,3,"Something that, or someone who, conceals.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 goalscorer,2.92,0,0,1,"A person who scores a goal, or scores goals.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -279,7 +239,6 @@ masterclass,2.92,0,0,1,Alternative form of master class.,master class,spelling v
 reverb,2.92,0,1,1,An electronic effect which simulates echoes or reverberations in the sound signal being processed.,,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 relaunch,2.91,0,0,1,The act or fact of launching again.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;v:1,True
 highlander,2.9,0,1,4,A person who inhabits the Scottish Highlands.,,,noun:4,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,60,n:1,True
-slimmer,2.9,0,0,2,A person who is trying to become slim by dieting.,,,noun:2;adj:1,noun,False,2,ADJ,0.0,,False,True,False,ADJ;NOUN,slim,"noun, also adjective",,,noun,60,n:1,True
 subsurface,2.89,1,0,2,Something that is below the layer that is on the surface.,,,noun:2;adj:1,noun,False,1,ADJ,0.0,,False,True,False,,,,,,noun,60,n:1;aj:1,True
 zine,2.89,0,0,1,"A low-circulation, noncommercial publication of original or appropriated texts and images, especially one of minority interest.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 airbag,2.88,0,0,3,"A protective system in automobiles in which when a crash occurs, a bag containing nitrogen, formed by the explosive decomposition of sodium azide, quickly inflates in front of the driver or passenger,",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -288,7 +247,6 @@ firefight,2.88,0,0,2,A skirmish involving an exchange of gunfire.,,,noun:2;verb:
 kickboxing,2.88,0,1,1,"A hybrid martial art derived from Muay Thai, karate, and especially boxing during the 1960s to 1970s; more generally, any stand-up combat sport that combines kicks and punches.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,60,n:2,True
 dehydrogenase,2.87,0,0,1,Any of several enzymes that catalyze the removal of hydrogen (a proton) from biological compounds.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 realignment,2.87,1,1,1,The act of realigning or something realigned.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-spousal,2.87,0,0,1,Espousal; marriage; nuptials.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,60,n:2;aj:1,True
 carer,2.86,0,0,1,"Someone who regularly looks after another person, either as a job or often through family responsibilities.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 decider,2.86,0,0,3,"A person, divinity, or authoritative text which decides.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 airplay,2.85,0,1,1,"The playing of a particular song, band or genre on the radio, or the frequency with which it is played.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -317,9 +275,7 @@ homeschooling,2.74,0,1,1,Teaching children at home instead of sending them to sc
 dumbo,2.73,0,0,1,A stupid person.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 surrogacy,2.73,1,1,2,The state or condition of being a surrogate.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 bicep,2.72,0,0,1,A biceps.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,NOUN,,,,,noun,60,n:2,True
-cine,2.72,0,1,2,cinefilm,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 nightstand,2.72,0,0,1,"A small table or cabinet, often with one or more drawers or shelves, placed beside the head of a bed.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-toasty,2.72,0,0,1,Alternative form of toastie.,toastie,spelling variant of another word (Wiktionary gloss),adj:2;noun:1,adj,False,0,,,,False,False,False,,,,,,noun,60,aj:2;n:1,True
 lawnmower,2.7,0,0,3,"A device used for cutting grass to a chosen height, typically of landscaped lawns of residences or institutions.",,,noun:3,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 tracksuit,2.7,0,0,1,"A garment, usually consisting of a top and trousers (commonly known as tracksuit bottoms) worn as an outer layer by participants in sporting events such as athletics. The tracksuit is usually designed",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 wiretapping,2.7,1,1,1,The installation or monitoring of wiretaps.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,60,n:1,True
@@ -330,7 +286,6 @@ extender,2.68,0,0,6,One who extends.,,,noun:6,noun,False,0,,,,False,True,False,,
 goalkeeping,2.68,0,1,1,The art of a goalkeeper.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,60,n:1,True
 headteacher,2.68,0,0,1,The most senior teacher in a school who is responsible for its management and administration.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 ridership,2.68,1,1,2,The people who ride a form of transportation.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-theatrics,2.68,0,0,2,Theatrical appearance or character.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 divestment,2.67,0,1,1,The sale or other disposal of some kind of asset.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 equivalency,2.66,1,1,2,An equivalent thing.,,,noun:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:2,True
 exceptionalism,2.66,1,1,3,"The state of being special, exceptional or unique.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
@@ -341,7 +296,6 @@ superstore,2.66,0,0,2,An extremely large store; a hypermarket.,,,noun:2,noun,Fal
 tutti,2.66,0,0,1,A passage in which all members of an orchestra are playing,,,adj:1;adv:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1;av:1,True
 veganism,2.66,0,1,2,A way of life which strictly avoids animal products and services involving the use of living animals.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 crackhead,2.65,0,0,2,A person who is addicted to or regularly uses crack cocaine.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-dob,2.65,0,0,2,"A small amount of something, especially paste.",date of birth,,verb:3;noun:2,verb,True,0,,,,False,True,False,,,,,,noun,60,n:2;v:2,True
 pinewood,2.65,1,1,2,The wood of a pine.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 stuntman,2.65,0,0,1,"In films, someone who performs stunts that are deemed too dangerous or physically difficult for the main actors to attempt.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 ultralight,2.65,0,0,1,An aircraft that weighs very little.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1,True
@@ -351,7 +305,6 @@ regrowth,2.64,0,1,2,That which has been regrown after removal.,,,noun:2,noun,Fal
 reinvention,2.64,1,1,2,A reinventing of something.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 biomarker,2.63,0,0,2,"A substance used as an indicator of a biological state, most commonly disease.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 conman,2.63,0,0,1,A confidence trickster.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-performative,2.63,0,0,1,A performative utterance.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,60,n:2,True
 phenom,2.63,0,0,2,"Someone or something that is phenomenal, especially a promising young player in sports like baseball, American football, basketball, tennis, and golf.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 reintegration,2.63,1,1,1,The act or process of reintegrating.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 renegotiation,2.63,0,0,1,The act of negotiating again.,,,noun:1,noun,False,2,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
@@ -375,7 +328,6 @@ infill,2.58,1,1,3,"That which fills in a space, hole or gap.",infil,,noun:3;verb
 microfinance,2.58,0,1,1,Finance that is provided to unemployed or low-income people or groups.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 prioritization,2.58,1,1,1,The process of assigning priorities to things or tasks.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:3,True
 vocab,2.58,0,1,1,"Vocabulary, especially that acquired while learning a language.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2;abbr:1,True
-watchable,2.58,0,0,1,"Something to be watched, or worth watching.",,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,60,n:2,True
 hora,2.56,0,1,2,"A circle dance popular in the Balkans, Israel and Yiddish culture worldwide.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 hyperinflation,2.56,1,1,2,Excessive inflation.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 pappy,2.56,0,0,2,A father.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
@@ -406,7 +358,6 @@ cordillera,2.48,0,0,1,"An extensive, continent-wide chain of mountains, especial
 shoppe,2.48,0,0,1,"A fanciful spelling of shop, chiefly used in the names of businesses to give an air of old-fashionedness.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 biofilm,2.47,1,1,1,"A structured community of microorganisms, such as bacteria, that adhere to a surface and are embedded in a self-produced protective matrix of mucuslike extracellular material.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 evaporator,2.47,0,0,2,A piece of equipment used to evaporate the solvent from a solution.,,,noun:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
-huzzah,2.47,0,0,1,"A cheer often associated with sailors, shouted by a group in praise of a thing or event.",,intj in Wiktionary (not a noun),intj:2;noun:1;verb:1,intj,False,0,,,,False,False,False,,,,,,noun,60,n:1;v:1;i:1,True
 pyruvate,2.47,0,0,1,Any salt or ester of pyruvic acid.,,,noun:1,noun,False,2,NOUN,1.0,,False,True,False,,,,,,noun,60,n:2,True
 trainspotting,2.46,0,1,1,Alternative spelling of train spotting.,train spotting,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,"verb form (-ing, morphology)",,,noun,60,n:1,True
 trashcan,2.46,0,0,1,Alternative form of trash can.,trash can,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,60,n:1,True
@@ -429,7 +380,6 @@ afterword,2.4,0,0,3,an epilogue.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,
 coley,2.4,0,0,1,"coalfish, Pollachius virens",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 conflation,2.4,1,1,2,"A blowing or fusing together, as of many instruments in a concert, or of many fires in a foundry.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 historicity,2.4,0,1,2,Historical quality or authenticity based on fact.,,,noun:2,noun,False,2,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
-nowt,2.4,0,1,5,"Naught, nothing.",,,noun:5;adv:1;pron:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 superconductor,2.4,0,0,1,A substance that has no resistance to conducting an electric current,,,noun:1,noun,False,5,NOUN,0.8,,False,True,False,NOUN,,,,,noun,60,n:1,True
 checkbox,2.39,0,0,2,A space on a paper form that can be optionally filled with a check mark.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 conjunct,2.39,0,0,3,Either term of a conjunction.,,,noun:3;adj:2,noun,False,1,ADJ,0.0,,False,True,False,,,,,,noun,60,n:2;aj:1,True
@@ -451,7 +401,6 @@ interventionism,2.36,1,1,3,The political practice of intervening in a sovereign 
 quayside,2.36,0,0,1,An area alongside a quay.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 tandoori,2.36,0,0,3,A dish that was cooked in a tandoor.,,,noun:3;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1,True
 whitelist,2.36,0,0,1,"A list or collection of people or entities that are known, trusted, or explicitly permitted.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;v:1,True
-boohoo,2.35,0,0,1,The sailfish.,,,verb:2;intj:1;noun:1,verb,False,0,,,,False,True,False,,,,,,noun,60,n:2;v:2;i:1,True
 carryover,2.35,1,1,3,Something whose duration has been extended or that has been transferred to another time.,,,noun:3,noun,False,13,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 coulee,2.35,0,0,3,"A stream, especially one in the western US or Canada, generally smaller than a bayou; it may (or may not) run dry in summer, may be sluggish, shallow, and wide (forming in effect a pond or slough), or",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 driller,2.35,0,0,4,One who drills.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -492,7 +441,6 @@ gratin,2.3,0,0,1,"The top crust of a dish, consisting of breadcrumbs or grated c
 provolone,2.3,0,1,1,A semi-hard cheese made of whole milk from cows. It comes primarily from Southern Italy.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 rater,2.3,0,0,2,One who provides a rating or assessment.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 superwoman,2.3,0,0,2,A woman who looks after a home and children as well as being employed in a full-time job.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-widener,2.3,0,0,1,Any device used to widen something; especially a drill designed to produce a hole greater than its own diameter.,,,noun:1,noun,False,6,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,60,n:1,True
 bathwater,2.29,0,1,1,The water used in a bath (bathtub).,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 chanson,2.29,0,0,2,"Any song with French words, but more specifically a classic, lyric-driven French song.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 frosh,2.29,0,0,3,A frog.,frosh week,,noun:3;verb:2,noun,True,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -514,7 +462,6 @@ waterhole,2.27,0,0,3,"A depression in which water collects, especially one where
 worksite,2.27,0,0,1,A site where work occurs; usually used in reference to construction work.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 baler,2.26,0,0,2,"A machine for creating bales, e.g., of hay or cotton.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 insula,2.26,0,0,2,A block of buildings in a Roman town.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-uptempo,2.26,0,0,1,"An uptempo beat, especially in percussion.",,,adj:2;adv:2;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 gunfighter,2.25,0,0,1,A person who engages in gunfights; a gunslinger.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 misdiagnosis,2.25,1,1,1,An incorrect diagnosis.,,,noun:1,noun,False,0,,,,False,True,False,NOUN,,,,,noun,60,n:1,True
 perspex,2.25,0,1,1,"Any tough, transparent plastic that is used instead of glass for windows.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
@@ -536,7 +483,6 @@ awardee,2.21,0,0,1,The recipient of an award or special honor.,,,noun:1,noun,Fal
 comorbidity,2.21,1,1,3,The presence of one or more disorders (or diseases) in addition to a primary disease or disorder.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 graveside,2.21,0,0,1,The area immediately around a grave.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1,True
 phonon,2.21,0,0,2,"The quantum of acoustic or vibrational energy (sound), considered a discrete particle rather than a wave.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-prepubescent,2.21,0,0,1,A person who has not begun puberty.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,,,,noun,60,n:2;aj:1,True
 punditry,2.21,1,1,3,The state of being a pundit.,,,noun:3,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 tachyon,2.21,0,0,2,A hypothetical particle that travels faster than the speed of light.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 triplex,2.21,1,1,5,A building with three apartments or divisions.,,,noun:5;adj:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2;aj:1,True
@@ -588,7 +534,6 @@ cosponsor,2.13,0,0,1,A joint sponsor.,,,noun:1;verb:1,noun,False,0,,,,False,True
 czarist,2.13,0,0,1,Alternative spelling of tsarist.,tsarist,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,60,n:1;aj:1,True
 demonology,2.13,1,1,1,"The study of demons, especially the incantations required to summon and control them.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 embolization,2.13,1,1,1,"A nonsurgical, minimally invasive procedure that affects the selective occlusion of blood vessels by purposely introducing emboli.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
-schizo,2.13,0,0,2,Schizophrenic.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1;aj:1,True
 brander,2.12,0,0,2,A person who brands.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 grazer,2.12,0,0,3,"One who or that which grazes, in any sense.",,,noun:3,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 guv,2.12,0,0,2,"A form of address to a man, usually a stranger or a superior.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
@@ -614,7 +559,6 @@ senorita,2.1,0,0,1,"Alternative form of señorita, the character ñ being very r
 sportsperson,2.1,0,0,1,"Someone who plays sport, regardless of gender.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 tailbone,2.1,0,0,1,The final fused vertebrae at the base of the spine; the coccyx.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 wunderkind,2.1,0,0,2,A child prodigy; a wonderchild.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:3,True
-decennial,2.09,0,0,3,"Synonym of decade, a ten-year period.",,,noun:3;adj:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,60,n:2;aj:1,True
 flatland,2.09,0,0,2,Synonym of plain (“land of relatively constant altitude”).,,,noun:2,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 sideman,2.09,0,0,2,A soloist playing with a band or group of which he is not a regular member.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 windchill,2.09,1,1,1,Alternative form of wind chill.,wind chill,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,60,n:1,True
@@ -674,50 +618,26 @@ copay,2.0,0,0,1,A copayment.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,
 dazzler,2.0,0,0,1,One who or that which dazzles; something spectacular.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,60,n:1,True
 diffusivity,2.0,0,0,2,A tendency to diffuse,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,60,n:2,True
 hydrophone,2.0,0,0,1,"a transducer that converts underwater sound waves into electrical signals, rather like a microphone",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
-landowning,2.0,0,0,1,A portion of land belonging to a landowner; a smallholding.,,,adj:2;noun:1,adj,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,60,n:1;aj:1,True
-molluscan,2.0,0,0,1,A mollusc.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,60,n:2;aj:1,True
 soundbar,2.0,0,0,1,"A bar containing multiple speakers that can be mounted under or alongside a television, etc. instead of having separate speakers positioned around the room.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 telesales,2.0,0,1,1,telemarketing,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,60,n:1,True
 tuneup,2.0,0,0,1,Alternative form of tune-up.,tune-up,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,60,n:1,True
-german,4.95,0,0,3,A near relative.,,adjective in practice (corpus),adj:3;noun:3,adj,False,173,ADJ,0.006,,False,False,False,,,,,,noun,70,n:1,True
-joe,4.78,1,1,5,A male; a guy; a fellow.,jo,,noun:5,noun,False,131,PROPN,0.008,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 hong,4.53,0,0,1,A foreign trading company in China.,,,noun:1;verb:1,noun,False,223,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 dan,4.51,0,0,7,"A title of honour or respect similar to ""master"" or ""Sir"", used of historical and legendary figures of the past.",,,noun:7;prep:1,noun,False,79,PROPN,0.038,,False,True,False,,,,,,noun,70,n:1,True
-carl,4.24,0,0,2,"A rude, rustic man; a churl.",,,noun:2;verb:1,noun,False,58,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-jo,4.03,0,0,2,"Darling, sweetheart.",,,noun:2,noun,False,10,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-burton,3.8,0,0,2,"An arrangement of blocks and pulleys, especially for tightening rigging on a ship.",,,noun:2,noun,False,23,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-mel,3.8,0,1,2,A unit of pitch on a scale of pitches perceived by listeners to be equally spaced from one another.,,,noun:2,noun,False,11,PROPN,0.182,,False,True,False,,,,,,noun,70,n:1,True
-barton,3.61,0,0,3,A farmyard.,,,noun:3,noun,False,29,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-morse,3.52,0,0,2,"A clasp or fastening used to fasten a cope in the front, usually decorative.",,,noun:2,noun,False,32,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-hoo,3.38,0,0,2,An uttering of the cry 'hoo'.,,intj in Wiktionary (not a noun),intj:3;noun:2;pron:2;adv:1,intj,False,2,PROPN,0.0,,False,False,False,,,,,,noun,70,n:1,True
 frontline,3.35,0,0,1,Alternative form of front line.,front line,spelling variant of another word (Wiktionary gloss),adj:2;noun:1,adj,False,1,NOUN,1.0,,False,False,False,,,,,,noun,70,n:2,True
-garth,3.31,0,0,6,A grassy quadrangle surrounded by cloisters.,,,noun:6,noun,False,14,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-ami,3.3,0,0,1,Clipping of amigurumi.,amigurumi,clipping (Wiktionary gloss),noun:1,noun,True,5,PROPN,0.0,name in practice (corpus),True,False,True,,,,,,noun,70,n:1,True
 frontman,3.17,0,0,2,Alternative spelling of front man: a person acting as the public face of an organization.,front man,spelling variant of another word (Wiktionary gloss),noun:2,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 spinoff,3.16,0,0,1,Alternative form of spin-off.,spin-off,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,11,NOUN,1.0,,False,False,False,NOUN,,,,,noun,70,n:1,True
-bertha,3.15,0,0,1,A lace collar that covers the shoulders of a dress,,,noun:1,noun,False,7,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 aga,3.08,0,0,1,Alternative spelling of agha.,agha,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 voiceover,3.07,0,0,1,Alternative form of voice-over.,voice-over,spelling variant of another word (Wiktionary gloss),noun:1;verb:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
-dey,3.06,0,0,2,A servant who has charge of the dairy; a dairymaid.,,pron in Wiktionary (not a noun),pron:3;noun:2;intj:1,pron,False,2,PROPN,0.0,,False,False,False,,,,,,noun,70,n:1,True
 defenseman,3.03,0,0,1,Alternative spelling of defenceman.,defenceman,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 dojo,2.99,0,0,4,"A training facility, usually led by one or more sensei; a hall or room used for such training.",,,noun:4,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
-mong,2.99,0,0,6,"A mingling, mixture, or crowd.",mueang,,noun:6;prep:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 sora,2.99,0,0,1,"A rail (Porzana carolina) bird of North, Central, and northern South America.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-kamala,2.98,1,1,2,"A small or medium-sized tree (Mallotus philippensis) in the spurge family, found in Asia and Australia.",,,noun:2,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-tranny,2.98,1,1,7,"A transgender person, especially a trans woman, or (especially historically) anyone who cross-dresses, especially MTF: a transvestite, drag queen, transgender person, etc.",,,noun:7,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-diddy,2.97,0,0,4,A woman's breast.,didie,,noun:4;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-leno,2.97,1,1,1,"A type of weave used to make light, open cotton fabric used for window curtains.",,,noun:1,noun,False,3,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 standup,2.97,1,1,1,Alternative form of stand-up.,stand-up,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,3,PROPN,0.333,,False,False,False,,,,,,noun,70,n:1;a:1,True
 cade,2.96,0,0,3,An animal brought up or nourished by hand.,,,noun:3;adj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 culver,2.96,0,0,2,"A dove or pigeon, now specifically of the species Columba palumbus.",,,noun:2,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 maduro,2.96,0,0,1,"A cigar made with somewhat dark, medium-strength tobacco.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-didi,2.95,0,0,1,A respectful term of address to any familiar older female.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 sansa,2.95,0,0,1,Alternative spelling of zanza..,zanza,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 shithole,2.95,0,0,5,The anus.,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-birdman,2.94,0,0,3,A man who works with birds.,,,noun:3,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-libra,2.93,0,0,6,"A Roman unit of mass, usually equivalent to 327 g.",libbra,,noun:6,noun,False,3,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 twink,2.93,0,1,10,"One or more very small, short bursts of light.",,,noun:10;verb:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
-florentine,2.92,1,1,3,"A biscuit consisting mostly of nuts and preserved fruit, usually coated with chocolate on one side.",,,noun:3;adj:1,noun,False,4,ADJ,0.0,,False,True,False,,,,,,noun,70,n:1,True
 ballon,2.91,1,1,2,The quality of a jump by which a ballet dancer appears to pause in midair,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 melton,2.91,1,1,1,"A tough, short-napped material used for making overcoats.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 podesta,2.91,0,0,2,A chief magistrate of various Italian republics and city-states in the Middle Ages.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -725,32 +645,24 @@ pho,2.9,0,1,1,"A Vietnamese soup with a beef base, typically served with rice no
 barcode,2.89,0,0,3,"Any set of machine-readable parallel bars or concentric circles, varying in width, spacing, or height, encoding information according to a symbology.",,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hamza,2.89,0,0,1,"A sign used in the written Arabic language representing a glottal stop. Hamza may appear as a stand-alone letter (ء (ʔ)) or most commonly diacritically over or under other letters, e.g. أ (ʔ) (over an",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 masala,2.89,1,1,3,"Any of many blends of spices used in Indian cuisine, most often containing cardamom, coriander, mace together with pepper, nutmeg, fennel seeds, jeera etc.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-cabernet,2.88,1,1,1,"Cabernet Sauvignon, a wine.",,,noun:1,noun,False,10,PROPN,0.1,name in practice (corpus),True,True,True,,,,,,noun,70,n:2,True
 clough,2.88,0,0,5,"A narrow valley; a cleft in a hillside; a ravine, glen, or gorge.",cloff,,noun:5,noun,False,3,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 hidalgo,2.88,0,0,1,"A member of the Spanish nobility, especially one without a title.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 rebranding,2.88,0,0,1,"The association of a new brand, trademark, image, or appearance with a product or service.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
-campo,2.87,0,0,2,A police officer assigned to a university campus.,,,noun:2,noun,False,4,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 grinch,2.87,0,0,2,A grouch or killjoy.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 omer,2.87,0,1,4,A former small Hebrew unit of dry volume equal to about 2.3 L or 2.1 quarts.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 stroud,2.87,0,0,1,A kind of coarse wool used in blankets or for garment by Native Americans.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-ahold,2.86,0,1,1,"A hold, grip, grasp.",,,adv:1;noun:1,adv,False,3,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 barnet,2.86,0,0,1,hair (on one's head),,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 gaby,2.86,0,0,1,"A stupid, foolish person; a simpleton; a dunce.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 holm,2.86,0,0,6,"Small island, islet.",,,noun:6,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hydropower,2.86,0,1,1,hydroelectric power,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:2,True
-aggie,2.85,1,1,3,"Marble or a marble made of agate, or one that looks as if it were made of agate.",,,noun:3;adj:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 burley,2.85,1,1,2,"A tobacco grown mainly in Kentucky, used in making cigarettes.",,,noun:2;adj:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:2;aj:1,True
 cig,2.85,0,0,1,Cigarette.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 cotta,2.85,0,0,3,"A surplice, in England and America usually one shorter and less full than the ordinary surplice and with short sleeves, or sometimes none.",katha,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-laker,2.84,0,0,3,One engaged in sport; a player; an actor.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 tween,2.84,0,0,3,An action of tweening (inserting frames for continuity); a sequence of frames generated by tweening.,,,noun:3;adj:1;prep:1;verb:1,noun,False,3,PROPN,0.0,,False,True,False,,,,,,noun,70,c:1;n:1,True
 bilbo,2.83,0,0,2,A device for punishment. See bilboes.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 pandit,2.83,0,0,1,An honorary title for a learned man or scholar.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 getter,2.82,0,0,4,"One who, or that which, gets.",,,noun:4;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
-liber,2.82,1,1,2,phloem,,,noun:2,noun,False,2,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
-pelham,2.82,0,0,1,"A type of bit used on the bridle of a horse, consisting of a mouthpiece, a shank, and two rings on each side.",,,noun:1,noun,False,6,PROPN,0.167,,False,True,False,,,,,,noun,70,n:1,True
 summa,2.82,0,0,2,"A comprehensive summary of, or treatise on a subject, especially theology or philosophy.",,,noun:2,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
-tana,2.82,0,0,2,Alternative form of thana.,thana,spelling variant of another word (Wiktionary gloss),noun:2,noun,False,9,PROPN,0.0,name in practice (corpus),True,False,True,,,,,,noun,70,n:1,True
 moly,2.81,1,1,4,A magic herb or plant used by Odysseus to overcome Circe.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 subtype,2.81,0,0,2,"A group of specific things within a larger, more general group.",,,noun:2;verb:1,noun,False,3,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 belcher,2.8,0,0,2,Someone who belches.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -763,11 +675,9 @@ dor,2.78,0,0,3,Any of species Geotrupes stercorarius of large European dung beet
 parietal,2.78,0,0,4,"Either of the two parietal bones, on the top and side of the skull.",,,adj:4;noun:4,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,70,aj:1;n:1,True
 tig,2.78,0,0,3,A light touch; a tap or pat.,,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
 chica,2.77,0,1,2,A Latin-American girl; a Latina.,,,noun:2,noun,False,2,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
-juba,2.77,0,0,1,"An American dance of West African origin that involves stomping as well as slapping and patting the arms, legs, chest, and cheeks.",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 peloton,2.77,0,0,2,"A group of riders formed during a cycling road race; especially, the main group of riders; the pack.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 pushback,2.77,1,1,6,"The act of repelling an enemy, etc.",,,noun:6,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 tui,2.77,0,0,1,"A species of honeyeater, Prosthemadera novaeseelandiae, a bird which is endemic to New Zealand.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-abb,2.76,1,1,3,A type of yarn for the warp.,,,noun:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 ait,2.76,0,0,2,"An island in a river, especially the River Thames in England.",,,noun:2;intj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 gunter,2.76,0,0,2,"A device used in sailing, for two main configurations of rig:",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hatcher,2.76,0,0,2,"One who hatches, such as a chicken farmer.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -780,21 +690,15 @@ rishi,2.75,0,0,2,"A Vedic poet and seer who composed Rigvedic hymns, who alone o
 polis,2.74,1,1,3,A Greek city-state.,,,noun:3,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
 powerlifting,2.74,0,1,2,"A strength sport, consisting of three events: the squat, the bench press, and the deadlift. The maximum weight lifted in each event is totalled for a final score.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:2,True
 raff,2.74,1,1,5,A disorderly heap; a jumble; a large quantity,,,noun:5;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-redux,2.74,0,0,1,"A theme or topic that is redone, restored, brought back, or revisited.",,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-solano,2.74,0,0,1,A certain east wind of the Mediterranean.,,,noun:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 bahadur,2.73,0,0,2,"A warrior, especially a Turko-Mongol.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 deva,2.73,0,0,1,"A god in Vedic mythology, Hinduism and Buddhism.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hafiz,2.73,0,0,1,A Muslim who has memorized the whole Qur'an.,,,noun:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:2,True
 handjob,2.73,0,0,1,Alternative spelling of hand job.,hand job,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
-pere,2.73,0,0,1,Alternative spelling of père.,père,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 rath,2.73,0,0,2,"A walled enclosure, especially in Ireland; a ringfort built sometime between the Iron Age and the Viking Age.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,aj:2;n:1,True
-baguio,2.72,0,0,1,A typhoon.,,,noun:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-gogo,2.72,0,0,2,An elasticated hair band.,,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 curveball,2.71,0,0,2,"A forespin pitch thrown by rotating the index and middle fingers down and resulting in motion down ""curve""",,,noun:2;verb:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1;v:1,True
 workaround,2.71,0,0,3,"A means or method of circumventing an obstacle, particularly one arising from constraints, laws or regulatory requirements.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hansel,2.7,0,0,1,Alternative form of handsel.,handsel,spelling variant of another word (Wiktionary gloss),noun:1;verb:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1;v:1,True
 shockwave,2.7,0,0,1,Alternative spelling of shock wave.,shock wave,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,2,NOUN,1.0,,False,False,False,,,,,,noun,70,n:1,True
-sola,2.7,0,0,1,Alternative form of shola.,shola,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 frontrunner,2.69,0,0,1,Alternative form of front runner.,front runner,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 ghazi,2.69,0,0,1,"A Muslim warrior who fights in war against non-Muslims, especially one who has won renown as a martial champion; often used as a title.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 glutathione,2.69,1,1,1,"A tripeptide formed from glutamic acid, cysteine and glycine, that is active in many biological redox reactions.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -807,16 +711,13 @@ kaka,2.68,0,0,1,Any of four taxa of birds in the genus Nestor in the parrot fami
 thar,2.68,0,0,1,Alternative spelling of tahr.,tahr,spelling variant of another word (Wiktionary gloss),adv:1;noun:1,adv,False,2,ADV,0.0,,False,False,False,,,,,,noun,70,n:1,True
 bonne,2.67,0,0,1,A French nursemaid.,,,noun:1,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:2,True
 maidan,2.67,0,0,3,A marketplace or other open space in or by a city or town; an esplanade.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-tora,2.67,0,0,1,Synonym of tora hartebeest.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 videography,2.67,1,1,3,"The art and technology of producing moving (video) images on photosensitive surfaces, and its digital counterpart.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 caregiving,2.66,0,1,2,"The provision of care such as assistance with activities of daily living (e.g., feeding, bathing, dressing, transportation, household administration), usually by someone who is not a health care profe",,,noun:2,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 dodgeball,2.66,1,1,2,A team sport whose main objective is to dodge or catch balls thrown by the opposition.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 feu,2.66,0,0,1,Land held in feudal tenure.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-fico,2.66,0,0,2,a fig; an insignificant trifle,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 mignon,2.66,0,0,2,A cute or pretty person; a dandy; a pretty child.,,,noun:2;adj:1,noun,False,2,NOUN,0.5,,False,True,False,,,,,,noun,70,n:2,True
 parkin,2.66,1,1,2,"A traditional soft cake of Northern England, usually made with oatmeal and treacle.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 riddler,2.66,0,0,2,One who asks riddles; a puzzler.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-tilbury,2.66,0,0,2,A small open two-wheeled carriage.,,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 aldrin,2.65,0,1,1,An insecticide and persistent organic pollutant containing a naphthalene-derived compound.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 meister,2.65,0,0,1,A person of great skill or authority in a particular field.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 perp,2.65,0,0,3,A perpetrator.,,,noun:3;adj:1,noun,True,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
@@ -827,11 +728,8 @@ steelhead,2.65,0,0,2,"The anadromous form of the rainbow trout, Oncorhynchus myk
 burnet,2.64,0,1,2,"Any of the herbs of genus Sanguisorba (syn. Poterium), including salad burnet (Sanguisorba minor), an herb used in salads and herbal teas.",,,noun:2,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 grayling,2.64,0,0,9,"Any freshwater fish of the genus Thymallus or specifically Thymallus thymallus, of the salmon family, having a large dorsal fin.",,,noun:9,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 karting,2.64,0,1,1,An open-wheeled motorsport that uses small vehicles called karts or go-karts.,,,noun:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:2,True
-montero,2.64,0,0,1,"A round Spanish cap, with flaps at the back or sides, once used by hunters.",,,noun:1,noun,False,10,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
-wildwood,2.64,0,0,1,"Woodland that has developed naturally, especially where a suitable climate has developed with it.",,,noun:1,noun,False,4,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 boho,2.63,1,1,2,A bohemian.,,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 dobby,2.63,1,1,5,A device in some looms that allows the weaving of small geometric patterns.,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-kain,2.63,1,1,1,"poultry, etc., required by the lease to be paid in kind by a tenant to the landlord.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 oblast,2.63,0,0,1,A region or province in Slavic or Slavic-influenced countries.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 rance,2.63,1,1,3,A type of coloured marble from Belgium. Rance is red and often has white or blue graining.,,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
 rockaway,2.63,0,0,2,"A light, low, four-wheeled carriage with standing top, open at the sides, but with waterproof curtains for bad weather.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -842,10 +740,8 @@ portobello,2.61,0,0,1,"The large, mature form of the crimini mushroom (Agaricus 
 statist,2.61,0,0,3,A supporter of statism.,,,noun:3;adj:1,noun,False,1,ADJ,0.0,,False,True,False,,,,,,noun,70,n:1,True
 tass,2.61,0,0,4,"A heap, pile.",,,noun:4,noun,False,6,NOUN,0.5,,False,True,False,,,,,,noun,70,n:1,True
 dirtbag,2.6,0,0,2,"A dirty, grimy, sleazy, or disreputable person.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-esse,2.6,0,0,1,"Essence, essential nature.",,,noun:1,noun,False,3,OTHER,0.333,,False,True,False,,,,,,noun,70,n:1,True
 pec,2.6,0,1,3,The pectoralis major muscle.,pectoral sandpiper,,noun:3,noun,True,0,,,,False,True,False,,,,,,noun,70,n:1,True
 tanto,2.6,0,0,1,A traditional Japanese small sword or knife; often used as a secondary weapon to a katana.,,,adv:1;noun:1,adv,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-banc,2.59,0,0,3,"A bench; a high seat, or seat of distinction or judgment.",,,noun:3,noun,False,11,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 carpark,2.59,0,0,1,Alternative spelling of car park.,car park,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 ombre,2.59,1,1,3,"A Spanish card game, usually played by three people. It involves forty cards, omitting the ranks of 8, 9 and 10.",ombré,,noun:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:2,False
 reiki,2.59,1,1,1,A Japanese form of pseudomedicine that involves transferring chi through one's palms.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -861,12 +757,10 @@ disulfide,2.57,0,0,3,"A functional group with two sulfur atoms bonded to one ano
 drivetrain,2.57,0,0,1,"The mechanical parts of the powertrain, the gears and shafts, that connect the engine to the wheels in a vehicle.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 employability,2.57,1,1,2,The state or quality of being employable.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 narco,2.57,1,1,4,Narcotics.,narcotics control officer,,noun:4,noun,True,0,,,,False,True,False,,,,,,noun,70,n:1,True
-odeon,2.57,0,0,2,An ancient Greek or Roman building used for performances of music and poetry.,,,noun:2,noun,False,10,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 personalization,2.57,1,1,3,"The act of personalizing something, or adapting it for somebody's needs or tastes.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 piet,2.57,0,0,1,The magpie.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 soca,2.57,0,1,1,A genre of music that originated in Trinidad and Tobago in the early 1970s and developed into a range of styles during the 1980s and after which primarily includes influences of African and Indian rhy,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 debutant,2.56,0,0,1,"A person (especially a male) who débuts, or appears for the first time.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-frigging,2.56,0,0,1,Masturbation.,,,adj:1;adv:1;noun:1;verb:1,adj,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 mockup,2.56,0,0,1,Alternative form of mock-up.,mock-up,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 platformer,2.56,0,0,1,A platform game.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 roque,2.56,0,1,1,"A form of croquet using short-handled mallets, and played on a hard surface.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -881,33 +775,26 @@ creatinine,2.54,1,1,1,"A heterocyclic amine, 2-amino-1-methyl-5H-imidazol-4-one,
 favela,2.54,0,0,1,"A slum or shantytown, especially in Brazil.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 funder,2.54,0,0,1,One who funds.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 mandir,2.54,0,0,1,A Hindu temple.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-mise,2.54,0,0,3,The issue in a writ of right.,,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,False
 newswire,2.54,0,0,1,A service used for the transmission of breaking news to the media or to the public.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 reacher,2.54,0,0,4,A person who reaches.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 reauthorization,2.54,1,1,2,A second or subsequent authorization.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 sourcebook,2.54,0,0,2,A book consisting of a collection of writings on a particular subject.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-culpa,2.53,0,0,1,"Negligence or fault, as distinguishable from dolus (deceit, fraud), which implies intent, culpa being imputable to defect of intellect, dolus to defect of heart.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 kirkman,2.53,0,0,2,A clergyman or officer in a kirk.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-monteith,2.53,0,0,2,"A large 18th-century punchbowl, usually of silver, fluted and scalloped.",,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 righty,2.53,0,0,2,A right-handed person.,,,noun:2;intj:1,noun,False,5,NOUN,0.8,,False,True,False,,,,,,noun,70,n:1,True
 sherif,2.53,0,0,1,Alternative form of shereef.,shereef,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 thorp,2.53,0,0,1,A group of houses standing together in the country; a hamlet; a village.,,,noun:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 tikka,2.53,1,1,2,A marinade made from various aromatic spices usually with a yoghurt base; often used in Indian cuisine prior to grilling in a tandoor.,tilak,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 waterpark,2.53,0,0,1,Alternative spelling of water park.,water park,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 agha,2.52,0,0,1,An honorific for high officials used in Turkey and certain Muslim countries.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-carling,2.52,0,0,3,Alternative form of carline (“old woman”).,carline,spelling variant of another word (Wiktionary gloss),noun:3,noun,False,0,,,,False,False,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 karst,2.52,0,0,1,"A type of land formation, usually with many caves formed through the dissolving of limestone by underground drainage.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-shipman,2.52,0,0,3,Synonym of sailor.,,,noun:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 telnet,2.52,1,1,2,A network protocol that enables one computer to communicate with another via a local area network or the Internet.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2;v:2,True
 bodhisattva,2.51,0,0,2,"A person who has taken specific lay or monastic vows and who is on the road to perfect knowledge; specifically, one who foregoes personal nirvana in order to help others achieve enlightenment.",,,noun:2,noun,False,1,PROPN,0.0,,False,True,True,,,,,,noun,70,n:1,True
 doobie,2.51,1,0,2,A marijuana cigarette.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 lune,2.51,0,0,4,A fit of lunacy or madness; a period of frenzy; a crazy or unreasonable freak.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 polycarbonate,2.51,0,0,1,Any of a range of polymers of aromatic carbonates.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-sambo,2.51,0,1,2,A sandwich.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 swaraj,2.51,0,0,1,self-rule,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 archon,2.5,0,0,4,A chief magistrate of ancient Athens.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 arrondissement,2.5,0,0,2,An administrative division in some French- or Dutch-speaking countries.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-barret,2.5,0,0,3,A kind of fitted cap worn by medieval soldiers.,,,noun:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 dewan,2.5,0,0,1,"A holder of any of various offices in various (usually Islamic) countries, usually some sort of councillor.",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 droit,2.5,0,0,1,A legal right or entitlement.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 horseracing,2.5,0,1,1,Alternative form of horse racing.,horse racing,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,2,PROPN,0.0,,False,False,False,,,"verb form (-ing, morphology)",,,noun,70,n:2,True
@@ -938,11 +825,9 @@ plotline,2.47,0,0,2,The basic plot of a story or group of stories.,,,noun:2,noun
 boomtown,2.46,0,0,1,Alternative form of boom town.,boom town,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,3,NOUN,1.0,,False,False,False,,,,,,noun,70,n:1,True
 ceviche,2.46,1,1,1,"Raw seafood cured by marination in an acidic medium such as citrus, vinegar, or other souring agent, found primarily in Latin America.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:2,True
 combe,2.46,0,0,2,"A valley, often wooded and often with no river",,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-episcopalian,2.46,0,0,1,Episcopalian,,,adj:2;noun:1,adj,False,1,PROPN,0.0,,False,True,False,ADJ;NOUN,,"noun, also adjective",,,noun,70,n:1,True
 evangelization,2.46,1,1,1,The act of evangelizing; the state of being evangelized.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 kolo,2.46,0,0,2,"A national folk dance common in regions pertaining to South Slavic people, performed in a circle.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 lorimer,2.46,0,0,1,"A person who makes the bits and other metal parts of a horse's bridle, and other small metal pieces.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-psychometric,2.46,0,1,1,An individual capable of psychometry.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,70,aj:1;n:1,True
 skatepark,2.46,0,0,1,A recreational area designed for skateboarders.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 spearman,2.46,0,0,1,One who uses a spear; a soldier or warrior who fights with a spear; a person who hunts with a spear.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 cicely,2.45,0,1,2,"Myrrhis odorata, a plant in the genus Myrrhis, in the family Apiaceae.",,,noun:2,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,70,n:1,True
@@ -950,33 +835,26 @@ dop,2.45,0,0,5,A diving bird.,,,noun:5;verb:3,noun,False,0,,,,False,True,False,,
 fane,2.45,0,0,3,"A weathercock, a weather vane.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 phenyl,2.45,0,0,1,"A univalent hydrocarbon radical, C₆H₅ (benzene minus one hydrogen atom), and the basis of an immense number of aromatic derivatives.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 chowk,2.44,0,0,3,"An intersection or roundabout, where tracks or roads cross (often used in place names).",,,noun:3,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-dato,2.44,0,0,1,Alternative form of datto.,datto,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 ident,2.44,0,0,4,An identification.,,,noun:4;adj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 keef,2.44,0,1,1,Alternative spelling of kif.,kif,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 kiva,2.44,0,0,1,A ceremonial underground chamber in a Pueblo village.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-knickerbocker,2.44,0,1,2,Of or relating to knickerbockers.,,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 koa,2.44,0,0,1,A large tree of species Acacia koa (family Fabaceae) which is endemic to and common on the islands of Hawaii; or the wood of this tree.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 ladyboy,2.44,0,0,1,"A trans woman or transfeminine person in or from Asia, especially Thailand.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 oud,2.44,1,1,2,"A short-necked and fretless plucked stringed instrument of the lute family, of Arab and Turkish origin.",,,noun:2,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
 primavera,2.44,1,1,2,"Any of species Roseodendron donnell-smithii, of Central America.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 quatre,2.44,0,0,1,"A card, die, or domino with four spots or pips.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 refractor,2.44,0,0,2,A refracting telescope.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-selah,2.44,0,0,1,A pause or rest of a contemplative nature.,,,intj:1;noun:1,intj,False,5,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 subgenre,2.44,0,0,1,One of several categories within a particular genre.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 backcourt,2.43,0,0,3,A courtyard behind a housing block or tenement building.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 bassline,2.43,1,1,2,The relatively low-pitched instrumental part of a piece of popular music.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 belter,2.43,0,0,7,A maker or worker of belts.,,,noun:7;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 jarl,2.43,0,0,1,"A medieval Scandinavian nobleman, especially in Norway and Denmark.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-kudo,2.43,0,0,1,A compliment or praise.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 livre,2.43,0,0,3,"A unit of currency formerly used in France, divided into 20 sols or sous.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 udo,2.43,0,1,1,Japanese spikenard,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 bint,2.42,0,0,1,"A woman, a girl.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-intelligencer,2.42,0,0,1,"A bringer of intelligence (news, information); a spy or informant.",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 leptin,2.42,1,1,1,A protein hormone produced in adipose tissue; it plays a role in regulating appetite and metabolism.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 samadhi,2.42,1,1,3,A state of transcendent union supposed to be assumed by a holy man or yogi at his death.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-technic,2.42,0,0,3,Technique.,,,noun:3;adj:1,noun,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,noun,70,n:1,True
 capoeira,2.41,1,1,2,"A martial art developed in Brazil, involving complex acrobatic maneuvers and flowing movements.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-cutty,2.41,0,0,5,A short spoon.,,,noun:5;adj:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 disruptor,2.41,0,0,1,Alternative spelling of disrupter.,disrupter,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 filmography,2.41,0,0,1,"A selective list of movie titles that share a similar characteristic such as the same genre, the same director, the same actor etc.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 illuminator,2.41,0,0,2,Agent noun of illuminate:,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -989,7 +867,6 @@ ingle,2.4,0,0,2,An open fireplace.,,,noun:2;verb:1,noun,False,0,,,,False,True,Fa
 perfecto,2.4,0,0,2,"A large, tapered cigar.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 perron,2.4,0,0,2,"A stone block used as the base of a monument, marker, etc.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 soundstage,2.4,0,0,1,Alternative form of sound stage.,sound stage,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
-spaz,2.4,0,0,4,An incompetent or physically uncoordinated person; a spazmo.,,,noun:4;verb:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 stimulator,2.4,0,0,1,"A person, device or substance that stimulates.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 basher,2.39,0,0,7,"One who bashes something, figuratively or literally.",,,noun:7,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 breakeven,2.39,1,1,1,Alternative spelling of break-even.,break-even,spelling variant of another word (Wiktionary gloss),adj:1;noun:1;verb:1,adj,False,1,NOUN,1.0,,False,False,False,,,,,,noun,70,n:1;aj:1,True
@@ -1002,7 +879,6 @@ kish,2.38,0,1,2,"A basket used in Ireland, mainly for carrying turf.",,,noun:2,n
 mog,2.38,0,0,2,A cat.,,,verb:6;noun:2,verb,False,0,,,,False,True,False,,,,,,noun,70,v:2;n:1,True
 moonrise,2.38,1,1,1,The time of day or night when the moon begins to rise over the horizon.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 romcom,2.38,0,0,1,Clipping of romantic comedy.,romantic comedy,clipping (Wiktionary gloss),noun:1,noun,True,0,,,,False,False,False,,,,,,noun,70,n:1,True
-souter,2.38,0,0,1,A shoemaker or cobbler.,,,noun:1,noun,False,8,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 stepney,2.38,0,0,1,A spare wheel.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 umami,2.38,0,1,1,"One of the five basic tastes, the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 upwelling,2.38,0,0,2,An upward movement from a lower source.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
@@ -1024,13 +900,11 @@ gora,2.36,0,0,1,A white person; a European.,,,adj:1;noun:1,adj,False,0,,,,False,
 hackman,2.36,0,0,1,"The driver of a hack (a carriage, cab, or taxi).",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 retransmission,2.36,1,1,1,"The transmission of something again, especially over a different medium or at a different time.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 zilla,2.36,0,0,1,A subdivision of a province or state,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
-bibb,2.35,0,0,1,Synonym of bibcock.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 chacha,2.35,1,1,3,A traditional Georgian clear strong liquor distilled from pomace.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 cholo,2.35,0,0,1,"A Mexican or Hispanic gang member, or somebody perceived to embody similar characteristics.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 featurette,2.35,0,0,2,A relatively short feature film.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 heritability,2.35,1,1,2,The condition of being inheritable,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 imperator,2.35,0,0,1,An emperor.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
-quod,2.35,1,1,2,"A quadrangle or court, as of a prison; a prison.",,,noun:2;verb:2,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1,True
 ribcage,2.35,0,0,1,Alternative spelling of rib cage.,rib cage,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,1,NOUN,1.0,,False,False,False,,,,,,noun,70,n:1,True
 tain,2.35,0,1,2,Thin tin plate,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 airpower,2.34,1,1,1,Airborne military power; an air force.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -1042,7 +916,6 @@ flam,2.34,1,1,3,A freak or whim; an idle fancy.,,,noun:3;verb:2,noun,False,0,,,,
 jebel,2.34,0,0,1,"A hill, a mountain (especially in the Middle East or North Africa).",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 kajal,2.34,0,1,1,Kohl.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 mudstone,2.34,1,1,1,A fine-grained sedimentary rock whose original constituents were clays or muds.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-posada,2.34,0,0,2,A traditional Mexican Christmas procession.,,,noun:2,noun,False,15,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 vina,2.34,0,0,1,Alternative form of veena.,veena,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 bougie,2.33,0,0,4,"A tapered cylindrical instrument for introducing an object into a tubular anatomical structure, or to dilate such a structure, as with an esophageal bougie.",bowjy,,noun:4;adj:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 cassation,2.33,1,1,2,The abrogation of a law by a higher authority; annulment.,,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
@@ -1063,7 +936,6 @@ deadweight,2.32,0,0,1,Alternative form of dead weight.,dead weight,spelling vari
 dosa,2.32,0,0,1,"A type of thin south Indian pancake made from fermented lentils and rice blended with water, typically served with chutney or sambar.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 dux,2.32,0,0,3,"The top (male or female) academic student in a school, or in a year of school; the top student in a specified academic discipline.",,,noun:3,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 ecclesia,2.32,0,0,3,The public legislative assembly of the Athenians.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-erk,2.32,0,0,1,A member of the groundcrew in the RAF.,,intj in Wiktionary (not a noun),intj:2;noun:1,intj,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 favorability,2.32,0,1,2,The quality or degree of being viewed favorably,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 stalag,2.32,1,1,2,"A German prisoner-of-war camp, especially in World War II.",,,noun:2,noun,False,4,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 travertine,2.32,1,1,1,"A light, porous form of concretionary limestone (or calcite) deposited from solution, and sometimes quarried for building.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -1083,7 +955,6 @@ reconnection,2.31,0,0,1,A connection of things that have been previously severed
 scoresheet,2.31,0,0,2,A sheet of paper (or similar) on which score is kept.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 waitlist,2.31,0,0,1,A waiting list.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
 brutalist,2.3,0,0,1,Someone that follows brutalism.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
-cablevision,2.3,0,1,1,cable television,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:2,True
 changeup,2.3,0,0,1,Alternative form of change-up.,change-up,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 chappie,2.3,0,0,1,Alternative spelling of chappy.,chappy,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 playwriting,2.3,0,1,1,The writing of plays.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
@@ -1096,10 +967,8 @@ bogle,2.29,0,0,3,"A goblin, imp, bogeyman, bugbear or similar a frightful being 
 collegium,2.29,0,0,3,A committee or council.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 craic,2.29,0,1,1,"Often preceded by the: amusement, fun, especially through enjoyable company; also, pleasant conversation.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 designee,2.29,0,0,1,One who has been designated,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-gree,2.29,1,1,5,One of a flight of steps.,,,noun:5;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,v:2;n:1,True
 langue,2.29,0,1,1,"Language as a system rather than language in use, including the formal rules, structures, and limitations of language.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 lovelock,2.29,0,0,2,A lock of hair that hangs down and is worn apart from the hair that remains.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-matin,2.29,0,0,1,morning,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 pancetta,2.29,0,1,1,A cured belly or pork; bacon.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 ronde,2.29,0,1,1,"A kind of script in which the tails of the letters are curly, giving the characters a rounded look.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 cassis,2.28,0,1,3,A blackcurrant plant (Ribes nigrum); the flavor of its berries.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1108,7 +977,6 @@ franchisor,2.28,0,0,1,"A company which, or a person who, grants franchises.",,,n
 grift,2.28,0,0,1,A confidence game or swindle.,,,verb:3;noun:1,verb,False,0,,,,False,True,False,,,,,,noun,70,n:1;v:1,True
 jefe,2.28,0,0,2,"An officer with political influence; a head or chief in government, such as a sheriff, particularly where that person is Hispanic or of Mexican descent.",,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 kora,2.28,0,0,1,A type of harp or lute played in West Africa.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-riverhead,2.28,0,0,1,The head or source of a river.,,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 understory,2.28,0,0,2,A story of a building below the stories generally used for residence or work.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 vasculature,2.28,1,1,1,"The blood vessels or their arrangement in the body, or within an organ.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 wazir,2.28,0,0,2,Vizier.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1140,11 +1008,9 @@ parishad,2.25,0,0,1,A governmental assembly or council in India.,,,noun:1,noun,F
 seismicity,2.25,1,1,1,A measure or a degree of how seismic a region is or how prone it is to earthquakes.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 tedder,2.25,0,0,1,"A machine for stirring and spreading hay, to speed up its drying.",,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,v:2;n:1,True
 askari,2.24,0,0,1,"A member of a local African military or police unit, usually one serving in a European colonial force.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-aurum,2.24,0,1,2,"Gold (used in the names of various substances, see ""Derived terms"").",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 blacksmithing,2.24,0,1,1,the business of a blacksmith,,,noun:1;verb:1,noun,False,2,NOUN,1.0,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 bris,2.24,0,0,1,Ritual male circumcision; the ceremony in which this is performed.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 camelback,2.24,1,1,8,The backs of camels.,,,noun:8,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-feck,2.24,1,1,2,"Effect, value; vigor.",,,noun:2;verb:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 gasser,2.24,0,0,5,"One who gasses, or poisons with gas.",,,noun:5;adj:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 gaydar,2.24,1,1,1,"The supposed ability to detect whether or not a person is gay by observing that person's appearance, mannerisms, etc.",,,noun:1,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:2,True
 gowan,2.24,1,1,2,A common daisy (Bellis perennis).,,,noun:2,noun,False,1,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
@@ -1158,17 +1024,14 @@ talkback,2.24,1,1,2,"A system in broadcasting and recording studios that enables
 atman,2.23,0,0,1,"The true self of an individual beyond identification with worldly phenomena, the essence of an individual, an infinitesimal part of Brahman.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 microclimate,2.23,0,0,1,"A small, local region having a unique pattern of weather or weather effects that differ from the local climate.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 playdate,2.23,0,0,3,"The occasion of a child having a friend come over to play at their house, traditionally scheduled by both children's parents.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-robbin,2.23,0,0,3,A kind of package in which pepper and other dry commodities used to be exported from Southeast Asia.,ropeband,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 stovetop,2.23,0,0,1,The top of a stove; usually specifically the burners.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 streetscape,2.23,0,0,1,"The visual elements of a street, including the road, adjoining buildings, sidewalks, street furniture, trees and open spaces, etc, that combine to form the street's character.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 trackage,2.23,1,1,3,railway tracks collectively,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-varia,2.23,0,0,1,Alternative form of baria (“Greek diacritic”).,baria,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:2,True
 candyman,2.22,0,0,2,A male confectioner.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 carcinogenesis,2.22,1,1,1,The creation of cancer cells.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 infanta,2.22,0,0,1,The daughter of a king in Spain or Portugal.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 intendant,2.22,0,0,3,The administrator of an opera house or theater.,,,noun:3;adj:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 muti,2.22,1,1,1,Traditional African medicine.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-nudie,2.22,0,0,2,"Entertainment involving naked people, especially women.",,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 penna,2.22,0,0,1,a contour feather,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 basmati,2.21,1,1,1,"A variety of long-grain rice, notable for its fragrance.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 conservatorship,2.21,1,1,2,"The legal status of a conservator, similar to guardianship or trusteeship.",,,noun:2,noun,False,3,NOUN,1.0,,False,True,False,,,,,,noun,70,n:2,True
@@ -1180,7 +1043,6 @@ perlite,2.21,0,0,2,An amorphous volcanic glass formed by the hydration of obsidi
 shul,2.21,0,0,1,An Ashkenazi synagogue.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 snowmelt,2.21,0,1,1,Runoff from melting snow.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 succinate,2.21,0,0,1,Any salt or ester of succinic acid.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-tarnation,2.21,1,1,2,The act or process of damnation or reprobation; hell.,,,adj:2;noun:2;adv:1;intj:1,adj,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 bailie,2.2,0,0,3,A bailiff.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 bandaid,2.2,0,0,1,Alternative spelling of band-aid.,band-aid,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 boyo,2.2,0,0,2,A boy or lad.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1198,10 +1060,8 @@ tempeh,2.2,1,1,1,An Indonesian food made from partially-cooked soybeans fermente
 waterslide,2.2,0,0,1,Alternative form of water slide.,water slide,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 carvel,2.19,0,0,2,"Synonym of caravel (“a light, usually lateen-rigged sailing ship”).",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 chikungunya,2.19,0,1,1,"A viral fever caused by the Chikungunya virus, an alphavirus spread by mosquito bites.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-consol,2.19,0,0,2,"Abbreviation of consolidated annuity: A perpetual bond issued by the United Kingdom, from the 18th century.",consolidated annuity,initialism or abbreviation (Wiktionary gloss),noun:2;adj:1,noun,True,0,,,,False,False,False,,,,,,noun,70,n:2;abbr:1,True
 daimyo,2.19,0,0,1,A lord during the Japanese feudal period.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 dramedy,2.19,1,1,2,A genre of film or television that lies somewhere between drama and comedy.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-embarcadero,2.19,0,0,1,A quay; a wharf.,,,noun:1,noun,False,3,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 essentialism,2.19,1,1,5,The view that objects have properties that are essential to them.,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 freeride,2.19,0,1,1,"A form of mountain biking closely related to downhill biking and dirt jumping, focused on tricks, style, and technical trail features.",,,verb:2;noun:1,verb,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 marchesa,2.19,0,0,1,An Italian marchioness.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1254,7 +1114,6 @@ dialer,2.15,0,0,2,"A person or device that dials, as using a telephone.",,,noun:
 graben,2.15,0,0,1,"An elongated block of the Earth's crust, bounded by faults, that has dropped relative to the surrounding area.",,,noun:1,noun,False,4,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 homebuyer,2.15,0,0,1,A person who buys or plans to buy a house.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 impaler,2.15,0,0,1,One who impales.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-jehu,2.15,0,0,1,"A coachman; a driver; especially, one who drives furiously.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 subfield,2.15,0,0,2,"A smaller, more specialized area of study or occupation within a larger one",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 wendigo,2.15,0,0,2,"A malevolent and violent cannibal spirit found in Anishinaabe, Ojibwe, and Cree mythology, which is said to inhabit the body of a living person and possess him or her to commit murder.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 astrophotography,2.14,0,1,1,"The photography or imaging of astronomical objects, celestial events or areas of the night sky.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1280,7 +1139,6 @@ taverna,2.13,0,0,1,A small Greek restaurant.,,,noun:1,noun,False,0,,,,False,True
 terrane,2.13,0,0,1,"A block of the Earth's crust that differs from the surrounding material, and is separated from it by faults.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 accelerant,2.12,0,0,3,"Any substance that can bond or mix with, or disturb, another substance and cause an increase in the speed of a natural or artificial chemical process.",,,noun:3;adj:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 alginate,2.12,0,0,1,Any salt or ester of alginic acid.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-anta,2.12,0,0,1,"A kind of pier that terminates the walls of the naos, a kind of post or pillar on either side of a doorway or entrance of a Greek temple.",,,noun:1,noun,False,5,PROPN,0.0,name in practice (corpus),True,True,True,,,,,,noun,70,n:1,True
 catfight,2.12,0,0,2,A fight between cats.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 documentarian,2.12,0,0,4,A person whose profession is to create documentary films.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 judoka,2.12,0,0,1,A practitioner of the Japanese martial art of judo.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1293,7 +1151,6 @@ stroganoff,2.12,1,1,2,A dish of sautéed pieces of beef served in a sauce with s
 aloo,2.11,0,0,1,potato,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 handprint,2.11,0,0,1,"A visible mark left on a surface by the contact of a hand, not limited to fingerprints.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 interglacial,2.11,0,0,1,The relatively warm period between glacial periods.,,,adj:1;noun:1,adj,False,1,ADJ,0.0,,False,True,False,,,adjective-like (morphology),,,noun,70,n:2,True
-jocko,2.11,0,0,2,A lawn jockey.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 moonraker,2.11,0,0,2,Someone from Wiltshire.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 paraglider,2.11,0,0,3,One who paraglides.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 photog,2.11,0,0,1,"A photographer, especially a professional one.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1309,7 +1166,6 @@ lehr,2.1,0,0,1,"A long oven or kiln, often having a moving belt, used for anneal
 nonlinearity,2.1,1,1,2,The state of being nonlinear.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 pathogenicity,2.1,1,1,1,"The quality or state of causing, originating or producing disease.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 sepoy,2.1,0,0,2,"A native soldier of the East Indies, employed in the service of a European colonial power, notably the British India army (first under the British-chartered East India Company, later in the crown colo",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-sike,2.1,0,0,2,A gutter or ditch; a small stream that frequently dries up in the summer; the marshy ground or ditch through which such a stream flows.,,,noun:2;det:1;intj:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 thiol,2.1,0,0,1,A univalent organic radical (-SH) containing a sulphur and a hydrogen atom; a compound containing such a radical.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 allee,2.09,0,0,1,"A tree-lined avenue, often particularly one that is part of a landscaped garden.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 bopper,2.09,0,0,3,A person who dances the bop.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1317,7 +1173,6 @@ dihedral,2.09,0,0,3,An angle between two plane surfaces,,,adj:3;noun:3,adj,False
 dogfighting,2.09,0,1,2,A blood sport in which dogs fight with one another.,,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
 formwork,2.09,0,1,1,"A temporary mold, made from planks, into which concrete is poured.",,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:2,True
 klezmer,2.09,1,1,2,A Jewish folk musician.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-mene,2.09,0,0,1,"The high middle singing voice (especially as for a boy) or part in musical composition, corresponding roughly to the alto.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 metrosexual,2.09,0,0,2,"A man — typically urban, heterosexual, and affluent — who is concerned with personal appearance, such as personal grooming, fashion, and aesthetics in general.",,,noun:2;adj:1,noun,False,0,,,,False,True,False,,,adjective-like (morphology),,,noun,70,n:1,True
 polarizer,2.09,0,0,2,One who polarizes; one who divides a group or community into two extremes.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 scientism,2.09,1,1,3,"The belief that the scientific method and the assumptions and research methods of the physical sciences are applicable to all other disciplines (such as the humanities and social sciences), or that th",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -1334,7 +1189,6 @@ megafauna,2.08,0,0,2,"The large animals of a given region or time, considered as
 satcom,2.08,0,1,1,Alternative form of satcoms (“satellite communications”).,satcoms,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 taluka,2.08,0,0,1,Alternative form of taluk.,taluk,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 tosa,2.08,0,0,1,A Japanese breed of fighting dog,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-vav,2.08,0,0,2,"The sixth letter of the Hebrew alphabet, ו.",vaav,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 vermeil,2.08,0,0,3,Vermilion; bright red.,,,noun:3;adj:2,noun,False,1,OTHER,0.0,,False,True,False,,,,,,noun,70,n:1;v:1;m:1,True
 archrival,2.07,0,0,1,A chief rival.,,,noun:1,noun,False,2,NOUN,0.5,,False,True,False,,,adjective-like (morphology),,,noun,70,n:1,True
 arris,2.07,0,0,4,A sharp edge or ridge formed by the intersection of two surfaces,aris,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1352,7 +1206,6 @@ malthouse,2.07,0,0,1,A plant where malt is produced.,,,noun:1,noun,False,0,,,,Fa
 mirador,2.07,0,0,1,A tower that offers a panoramic view.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 overman,2.07,0,0,2,"A person who supervises others; a supervisor, especially in a mine.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 pash,2.07,0,0,7,A passionate kiss.,,,noun:7;verb:4,noun,False,0,,,,False,True,False,,,,,,noun,70,v:2;n:1,True
-preflight,2.07,0,0,2,An inspection of an aircraft before the start of a flight.,,,adj:2;noun:2;verb:1,adj,False,2,ADJ,0.0,,False,True,False,,,,,,noun,70,n:2;v:2,True
 pullup,2.07,0,0,2,"An exercise done for strengthening the arms and upper body, in which one lifts one's own weight while hanging from a bar.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 rocketeer,2.07,0,0,1,"Somebody who designs, launches, operates, or travels in a rocket.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 sorbitol,2.07,1,1,1,"A faintly sweet alcohol C₆H₁₄O₆ that occurs in some fruits, is made synthetically, and is used especially as a humectant and softener and in making ascorbic acid.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
@@ -1385,7 +1238,6 @@ groundout,2.05,0,0,1,Alternative form of ground out.,ground out,spelling variant
 piscina,2.05,0,0,2,A drained basin near a church's altar for the disposal of water from liturgical ablutions.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 signee,2.05,0,0,1,"One who is signed (signed up, enlisted) by someone else; thus, one who signs a contract, especially in athletic contexts.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 stereochemistry,2.05,1,1,2,"the branch of chemistry that involves the spatial arrangement of the atoms of molecules, and studies how this affects the physical and chemical properties of such species",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-abraxas,2.04,0,0,1,A transcription of Abrasax.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 alkylation,2.04,0,0,1,Any reaction in which an alkyl group is added to a molecule; used in the production of high-octane petroleum fuels.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 carryout,2.04,1,1,2,Food that is intended to be eaten off the premises from which it is bought.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,aj:1;n:1,True
 castellan,2.04,0,0,2,A feudal lord with a fortified manor.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1393,7 +1245,6 @@ estancia,2.04,0,0,1,A large rural estate in Latin America; a kind of ranch.,,,no
 firestarter,2.04,0,0,2,Someone who starts a fire or fires.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 hade,2.04,0,0,3,"State; order, estate, rank, degree, or quality.",,,noun:3;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2;v:1,True
 hance,2.04,0,0,2,"A curve or arc, especially in architecture or in the design of a ship.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-kanaka,2.04,0,0,2,A person of Hawaiian descent.,,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 kluge,2.04,0,0,2,"Something that should not work, but does.",,,noun:2;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 lactam,2.04,0,0,1,"Any of a class of cyclic amides that are the nitrogen analogs of lactones, formed by heating amino acids; the tautomeric enol forms are known as lactims.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 microblogging,2.04,0,1,1,The writing or publishing of a microblog.,,,noun:1;verb:1,noun,False,1,VERB,0.0,,False,True,False,,,"verb form (-ing, morphology)",,,noun,70,n:1,True
@@ -1408,15 +1259,12 @@ antisemite,2.03,0,0,1,Alternative form of anti-Semite.,anti-Semite,spelling vari
 bencher,2.03,0,0,5,A senior member of a law society in a Canadian province (except New Brunswick).,,,noun:5,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 bushcraft,2.03,1,1,1,"The skills needed to survive in the bush, and by extension in any natural environment.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 communitarian,2.03,0,0,2,An adherent of communitarianism.,,,adj:2;noun:2,adj,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-corder,2.03,0,0,1,One who prepares wood as cordwood.,,,noun:1,noun,False,2,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
 essentialist,2.03,0,0,1,An advocate of essentialism.,,,adj:1;noun:1,adj,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 fennec,2.03,0,0,1,"A small fox of the species Vulpes zerda, found in the Sahara (excluding the coast) and having distinctive oversized ears.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 frater,2.03,0,0,3,A monk.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 landform,2.03,0,0,1,"Any geological feature, such as a mountain or valley.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 lapa,2.03,0,0,2,"An open structure in South Africa, typically a thatched roof supported by wooden poles.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 misidentification,2.03,1,1,1,An instance of misidentifying; an erroneous identification.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-objet,2.03,0,0,1,Ellipsis of objet d'art.,objet d'art,,noun:1,noun,True,0,,,,False,True,False,,,,,,noun,70,n:2,True
-perdu,2.03,0,0,2,"One placed on watch, or in ambush.",,,adj:3;noun:2,adj,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 preventer,2.03,0,0,3,"One who, or that which, prevents.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 redfin,2.03,0,0,3,"A common shiner, a small North American dace of species Luxilus cornutus.",,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 tache,2.03,0,0,3,"Moustache, mustache.",,,noun:3,noun,False,4,PROPN,0.0,,False,True,False,,,,,,noun,70,n:1,True
@@ -1425,7 +1273,6 @@ wantage,2.03,0,1,1,want; lack; deficiency,,,noun:1,noun,False,0,,,,False,True,Fa
 antiterrorism,2.02,0,1,1,Activity aiming at opposing or preventing terrorism.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 broch,2.02,0,0,1,"A type of Iron Age stone tower with hollow double-layered walls found on Orkney, Shetland, in the Hebrides and parts of the Scottish mainland.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 evapotranspiration,2.02,1,1,1,"The transfer of water from the surface of the earth to the atmosphere by evaporation, sublimation and transpiration.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
-maundy,2.02,1,1,4,A commandment.,,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 mediumship,2.02,1,1,1,The state of being a medium (psychic conduit); purported ability to mediate communication between spirits of the dead and living human beings.,,,noun:1,noun,False,1,NOUN,1.0,,False,True,False,,,,,,noun,70,n:1,True
 multilateralism,2.02,1,1,2,"Unbiased trade between nations, in contrast to bilateralism.",,,noun:2,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 paan,2.02,1,1,1,"A psychoactive preparation of betel leaf combined with areca nut and/or cured tobacco, chewed recreationally in Asia; such a preparation served wrapped in the leaf.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
@@ -1443,10 +1290,7 @@ kitesurfing,2.01,0,1,1,"A type of kiteboarding that happens in the water, where 
 luciferase,2.01,0,0,1,Any one of a group of enzymes that produce bioluminescence by oxidizing luciferin.,,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2,True
 olio,2.01,1,1,4,"A rich, thick, Spanish stew consisting of meat and vegetables.",,,noun:4,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 periodization,2.01,1,1,3,The process of categorizing something (e.g. history) into named periods.,,,noun:3,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
-presbyterianism,2.01,0,1,1,"That form of church government which invests presbyters with all spiritual power, and admits no prelates over them; also, the faith and polity of the Presbyterian churches, taken collectively.",,,noun:1,noun,False,1,PROPN,0.0,,False,True,True,NOUN,,,,,noun,70,n:1,True
-ravin,2.01,1,1,6,"Property obtained or seized by force or violence; booty, plunder, spoils.",,,verb:10;noun:6;adj:1,verb,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 rencontre,2.01,0,0,1,A chance or unexpected meeting or encounter.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:2;v:1,False
-salop,2.01,1,1,1,Alternative form of saloop.,saloop,spelling variant of another word (Wiktionary gloss),noun:1,noun,False,0,,,,False,False,False,,,,,,noun,70,n:1,True
 samp,2.01,1,1,1,"An article of food consisting of coarse ground maize, or a porridge made from it.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 subdistrict,2.01,0,0,1,A district forming part of a larger district.,,,noun:1;verb:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True
 supercenter,2.01,0,0,1,"A big box, especially one that is even larger than normal.",,,noun:1,noun,False,0,,,,False,True,False,,,,,,noun,70,n:1,True

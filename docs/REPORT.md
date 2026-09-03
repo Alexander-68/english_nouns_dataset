@@ -1834,3 +1834,38 @@ canonical side because it is the reported word and the headword in Merriam-Webst
 preference runs the other way and the column does not care which side is named.
 
 Rows 61,568 -> 61,573; playable 51,977 -> 51,982. Eight rows now carry `same_word_as`.
+
+## The SCOWL-agrees queue was not a queue (2026-09-03)
+
+`work/gaps-scowl-noun.csv` was listed under "where it could get better" as 1,473 candidates two
+sources both call nouns. Reading it in one pass showed the premise was wrong: `apply_scowl.py`
+already adds every row as a playable `scowl` word. The file is produced at step 7, before the
+SCOWL stage at step 8, so it lists what that stage is about to accept -- a review list for an
+automatic step, not a supply of missing words.
+
+Ruling the 1,300-odd real nouns `noun` was tried and reverted. It adds nothing, and it moves each
+word from the `scowl` path to the `gaps-review` path, which does not carry SCOWL's
+`also a verb (SCOWL)` / `also an adjective (SCOWL)` marks -- 146 marks lost for no gain. So the
+sheet takes only the exceptions, 154 of them, and the SCOWL stage keeps adding the rest as before.
+
+**What the read caught, 137 playable rows rejected, none gained:**
+
+* `noise`, 82 -- interjections (`oh`, `huzzah`, `boohoo`, `presto`), plural-only forms
+  (`cornflakes`, `bagpipes`, `dreadlocks`, `sideburns`, `munchies`), fragments and bound forms
+  (`mindedness`, `sequitur`, `cine`, `vav`, `kudo`), foreign or single-sense words (`pere`, `culpa`,
+  `esse`, `objet`), and slurs (`tranny`, `spaz`, `mong`), which a game should not put in front of a
+  player as a word to type.
+* `name`, 47 -- `baptist`, `cabernet`, `episcopalian`, `presbyterianism`, `bertha`, `burton`,
+  `morse`, `odeon`, `tilbury`: each has a lowercase common-noun sense in Wiktionary and is a
+  capitalised name in nearly every use.
+* `adj`, 32 -- `long`, `federal`, `international`, `municipal`, `verbal`, `tangible`, `spousal`,
+  `hallucinogenic`, `slimmer`: the noun sense is a nominalisation a player would not reach for.
+  `brilliant`, `physical`, `practical`, `casual`, `creative`, `visual`, `pejorative`, `indigent`
+  stay playable -- the gemstone, the exam, the worker, the word are nouns in their own right.
+* `verb`, 6 -- `fail`, `ogle`, `laze`, `dob`, `gree`, `ravin`.
+
+The thirteen closed-class words at the top (`you`, `it`, `all`, `up`, `many`) were already
+rejected as function words and are left to that rule. `mise` was rejected as a British spelling
+and is now `noise`, which is the truer reason.
+
+Playable 51,982 -> 51,845; rows unchanged at 61,573. `gaps_verdicts.csv` 1,305 -> 1,458 rows.

@@ -4099,3 +4099,157 @@ date,sheet,item,verdict,note
 2026-09-03,domains/reported.csv,panmixis,noun,"same word as panmixia; Wiktionary glosses it 'Panmixia.'"
 2026-09-03,variants-reviewed.csv,genitrix,both,"same word as genetrix; both play, tied by same_word_as"
 2026-09-03,variants-reviewed.csv,panmixis,both,"same word as panmixia; both play, tied by same_word_as"
+2026-09-03,gaps_verdicts.csv,long,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,oh,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,international,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,federal,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,wide,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,illegal,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,fail,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,municipal,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,verbal,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,tangible,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,presto,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,mindedness,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,underweight,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,yuk,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,ogle,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,cornflakes,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,wham,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,bagpipes,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,munchies,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,golly,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,dreadlocks,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,hallucinogenic,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,sideburns,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,baptist,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,noel,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,milf,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,pooh,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,wack,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,occidental,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,shipboard,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,wacker,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,elegiac,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,sequitur,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,hypoglycemic,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,laze,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,ed,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,ted,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,dona,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,tut,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,slimmer,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,spousal,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,cine,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,toasty,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,theatrics,noise,plural-only; the dataset is singular nouns
+2026-09-03,gaps_verdicts.csv,dob,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,performative,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,watchable,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,huzzah,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,nowt,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,boohoo,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,widener,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,uptempo,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,prepubescent,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,schizo,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,decennial,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,landowning,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,molluscan,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,german,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,carl,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,jo,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,burton,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,mel,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,barton,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,morse,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,hoo,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,garth,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,ami,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,bertha,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,dey,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,mong,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,kamala,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,tranny,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,diddy,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,leno,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,didi,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,birdman,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,libra,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,florentine,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,cabernet,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,campo,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,ahold,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,aggie,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,laker,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,liber,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,pelham,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,tana,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,juba,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,abb,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,redux,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,solano,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,pere,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,baguio,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,gogo,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,sola,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,tora,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,fico,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,tilbury,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,montero,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,wildwood,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,kain,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,esse,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,banc,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,odeon,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,frigging,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,mise,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,culpa,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,monteith,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,carling,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,shipman,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,sambo,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,barret,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,episcopalian,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,psychometric,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,dato,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,knickerbocker,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,selah,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,kudo,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,intelligencer,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,technic,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,cutty,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,spaz,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,souter,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,bibb,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,quod,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,posada,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,erk,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,cablevision,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,gree,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,matin,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,riverhead,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,aurum,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,feck,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,robbin,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,varia,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,nudie,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,tarnation,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,consol,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,embarcadero,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,jehu,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,anta,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,"work/gaps-scowl-noun.csv (1,472 rows)",noun,"read in one pass; every row apply_scowl.py already adds as playable, so only the exceptions are written -- a noun ruling here would drop the SCOWL marks for nothing"
+2026-09-03,gaps_verdicts.csv,sike,noise,interjection; the noun sense is an utterance of it
+2026-09-03,gaps_verdicts.csv,mene,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,vav,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,preflight,adj,adjective in practice; the noun sense is a nominalisation
+2026-09-03,gaps_verdicts.csv,abraxas,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,kanaka,noise,slur or vulgar label; not shown to a player
+2026-09-03,gaps_verdicts.csv,corder,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,objet,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,perdu,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,maundy,noise,"fragment, letter name, abbreviation or bound form -- not a word a player uses alone"
+2026-09-03,gaps_verdicts.csv,presbyterianism,name,"a name, brand, denomination or place far more often than the common noun"
+2026-09-03,gaps_verdicts.csv,ravin,verb,verb in practice; the noun sense is thin
+2026-09-03,gaps_verdicts.csv,salop,noise,"foreign word, dialect or single obscure sense"

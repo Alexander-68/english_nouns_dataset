@@ -9,7 +9,7 @@ not crash anything — it just silently changes the output. Check the counts aft
 
 | file | rows | what it rules | read by |
 | --- | ---: | --- | --- |
-| `gaps_verdicts.csv` | 1,092 | `noun` / `name` / `verb` / `adj` / `noise`, for words **not** in the dataset | `wx_join.py`, `rank_gaps.py` |
+| `gaps_verdicts.csv` | 1,458 | `noun` / `name` / `verb` / `adj` / `noise`, for words **not** in the dataset | `wx_join.py`, `rank_gaps.py` |
 | `sen_word_verdicts.csv` | 63 | the same verdicts, for words that **are** in it | `wx_join.py` |
 | `variants-reviewed.csv` | 2,509 | `variant` / `reverse` / `plural` / `unrelated`, per spelling doublet | `wx_join.py` |
 | `variants_ing-reviewed.csv` | 99 | which side of an `-ing` doublet is British | `wx_join.py` |
