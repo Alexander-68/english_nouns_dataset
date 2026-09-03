@@ -9,9 +9,9 @@ not crash anything — it just silently changes the output. Check the counts aft
 
 | file | rows | what it rules | read by |
 | --- | ---: | --- | --- |
-| `gaps_verdicts.csv` | 1,458 | `noun` / `name` / `verb` / `adj` / `noise`, for words **not** in the dataset | `wx_join.py`, `rank_gaps.py` |
+| `gaps_verdicts.csv` | 3,152 | `noun` / `name` / `verb` / `adj` / `noise`, for words **not** in the dataset | `wx_join.py`, `rank_gaps.py` |
 | `sen_word_verdicts.csv` | 63 | the same verdicts, for words that **are** in it | `wx_join.py` |
-| `variants-reviewed.csv` | 2,509 | `variant` / `reverse` / `plural` / `unrelated`, per spelling doublet | `wx_join.py` |
+| `variants-reviewed.csv` | 2,512 | `variant` / `reverse` / `plural` / `unrelated`, per spelling doublet | `wx_join.py` |
 | `variants_ing-reviewed.csv` | 99 | which side of an `-ing` doublet is British | `wx_join.py` |
 | `uk_reviewed.csv` | 157 | words wrongly flagged as British spellings; keep them | `wx_join.py` |
 | `name_suspect-reviewed.csv` | 462 | confirmed non-nouns from the name-suspect band | `wx_join.py` |
@@ -298,10 +298,17 @@ four are two doublets — `genetrix`/`genitrix` and `panmixia`/`panmixis` — ea
 
 ### `domains/z_words.csv`
 
-One row: `zax`, the slater's hatchet. Wiktionary has it with a usable gloss and scores it zipf 1.53,
-below the cutoff, so it was never in a queue — the same miss as `yabby` and for the same reason, on
-the third letter a word-chain game runs short of. The sheet exists so the next `z` word has a home;
-`x_words.csv` and `y_words.csv` both started this way.
+45 rows, all `noun`. The first was `zax`, the slater's hatchet: Wiktionary has it with a usable
+gloss and scores it zipf 1.53, below the cutoff, so it was never in a queue — the same miss as
+`yabby` and for the same reason, on the third letter a word-chain game runs short of.
+
+44 more on 2026-09-03, read out of the 1,005 Wiktionary `z`-nouns below the cutoff that are in no
+source. The read kept the ones a player could plausibly know or reach for — `zoetrope`, `zester`,
+`zwitterion`, `zorse`, `zonkey`, `zebroid`, `zeitgeber`, `zemblanity`, `zwischenzug`, `zugunruhe`,
+`zircaloy`, `zopiclone`, `zouave`, `zythology` — and passed over the drug names, mineral names and
+`zoo-` compounds that make up most of the thousand. Every row carries a written gloss, because
+Wiktionary's are often a pointer ("A zoysia.") or a paragraph. `z` words at zipf 2.0 or better
+(`zika`, `zoot`, `zouk`, `zipline`, `zoomer`) were in the gaps queue and were ruled there.
 
 ### `domains/typography.csv`
 

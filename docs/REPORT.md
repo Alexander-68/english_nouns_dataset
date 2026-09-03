@@ -1869,3 +1869,38 @@ rejected as function words and are left to that rule. `mise` was rejected as a B
 and is now `noise`, which is the truer reason.
 
 Playable 51,982 -> 51,845; rows unchanged at 61,573. `gaps_verdicts.csv` 1,305 -> 1,458 rows.
+
+## The other two queues, `defenceman`, and 44 z-words (2026-09-03)
+
+**1,694 rulings on the two remaining SCOWL splits.** Unlike the noun bucket, these are real gaps:
+none of their words was in the file at all.
+
+* `work/gaps-scowl-nonnoun.csv` (515 rows, SCOWL says adjective/verb/other): 399 ruled. The
+  default followed Wiktionary's leading part of speech -- 258 `adj`, 47 `verb` -- and 50 were kept
+  as nouns because the noun sense stands on its own: `executable`, `hexadecimal`, `teletype`,
+  `counterfactual`, `backlight`, `preset`, `monocular`, `celiac`, `transgenic`, `remaster`. The
+  111 left are initialisms, interjections and spelling variants with nothing to add.
+* `work/gaps-scowl-absent.csv` (3,389 rows, Wiktionary only): 1,295 ruled. 958 `noun` -- the
+  words a player would actually type, which fall into three kinds: closed compounds Wiktionary
+  files as "alternative form of" a two-word phrase (`roadmap`, `videogame`, `timeframe`, `boardgame`,
+  `spacebar`, `hattrick`); modern vocabulary no older source carries (`jacuzzi`, `noob`, `burpee`,
+  `cooldown`, `tooltip`, `gamertag`, `livestreaming`, `mockumentary`, `qubit`); and loanwords now
+  ordinary in English (`udon`, `shawarma`, `halloumi`, `onsen`, `abuela`, `consigliere`). 237 `name`
+  -- `daniel`, `morgan`, `polaroid`, `amtrak`, `roomba` -- and 100 `noise`, mostly slurs and letter
+  names. 2,073 rows stay in the queue: foreign words with an English gloss, slang, the dictionary
+  tail. They are not wrong, just not worth a row each.
+
+**`defenceman` is a `both` row, and `apply_scowl.py` had to learn what that means.** The word was
+rejected as a British spelling with no replacement named, while `defenseman` sat playable. A
+`both` ruling in `variants-reviewed.csv` did nothing: `wx_join.py` reads those rulings for OEWN
+rows, but SCOWL supplies both `defenceman` and `defenseman`, and the SCOWL stage had its own
+British test with no way past it. It now loads the `both` rulings too, skips the British rejection
+for a word that carries one, and writes `same_word_as` and the `spelling variant of` mark the way
+`wx_join.py` does. Ninth row to carry the column.
+
+**44 z-words on `domains/z_words.csv`**, read out of the 1,005 Wiktionary `z`-nouns below the
+cutoff: `zoetrope`, `zester`, `zwitterion`, `zorse`, `zonkey`, `zeitgeber`, `zemblanity`,
+`zwischenzug`, `zugunruhe`, `zopiclone`, `zouave`, `zythology`, each with a written gloss. The
+other 960 are drug names, minerals and `zoo-` compounds.
+
+Rows 61,573 -> 63,311; playable 51,845 -> 52,898. `gaps_verdicts.csv` 1,458 -> 3,152 rows.

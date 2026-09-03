@@ -4253,3 +4253,7 @@ date,sheet,item,verdict,note
 2026-09-03,gaps_verdicts.csv,presbyterianism,name,"a name, brand, denomination or place far more often than the common noun"
 2026-09-03,gaps_verdicts.csv,ravin,verb,verb in practice; the noun sense is thin
 2026-09-03,gaps_verdicts.csv,salop,noise,"foreign word, dialect or single obscure sense"
+2026-09-03,gaps_verdicts.csv,work/gaps-scowl-nonnoun.csv (515 rows),mixed,"399 ruled: the adjective/verb default follows Wiktionary's leading part of speech; 50 nouns kept where the noun sense stands alone (executable, teletype, counterfactual, backlight)"
+2026-09-03,gaps_verdicts.csv,"work/gaps-scowl-absent.csv (3,389 rows)",mixed,"1295 ruled: nouns a player would type, names, and noise; the rest stay in the queue (foreign words, slang, the dictionary tail)"
+2026-09-03,variants-reviewed.csv,defenceman,both,"British and American spellings of one hockey word; both play, tied by same_word_as"
+2026-09-03,domains/z_words.csv,44 z-words,noun,"read out of the 1,005 Wiktionary z-nouns below the cutoff; the ones a player could know, with a written gloss each"

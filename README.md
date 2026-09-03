@@ -1,6 +1,6 @@
 # SEN — the Single English Nouns dataset
 
-**`sen-2026-09-03.csv` — 61,573 rows, 51,845 of them playable.**
+**`sen-2026-09-03.csv` — 63,311 rows, 52,898 of them playable.**
 
 A word list for a word-chain game, built from Open English WordNet 2025, the full Wiktextract dump
 of English Wiktionary and the SCOWL / English Speller Database, with a corpus of 2.26M POS-tagged
@@ -9,7 +9,7 @@ source had them.
 
 Its one unusual design decision: **rejected words stay in the file.** A game that only ships the
 playable words can say "not in the database" and nothing more. This one can say *why* a word is not
-allowed and *what to play instead* — 9,590 rejected rows, every one with a reason, 2,065 of them
+allowed and *what to play instead* — 10,413 rejected rows, every one with a reason, 2,066 of them
 naming a replacement.
 
     allowed=False  reason="british/commonwealth spelling variant"   suggest_instead="plow"
@@ -17,7 +17,7 @@ naming a replacement.
     allowed=False  reason="spelling variant of another word (reviewed)"  suggest_instead="yogurt"
 
 The second decision: **doubt is written down, not acted on.** The `marks` column carries what the
-dataset could not resolve, and it is present on *allowed* rows too (19,034 of them). Whether
+dataset could not resolve, and it is present on *allowed* rows too (19,024 of them). Whether
 `bollocks` (possible plural) or `federal` (usually an adjective) is a legal answer is a **game**
 rule. The dataset refuses to decide it for you and tells you what it knows instead.
 
@@ -44,7 +44,7 @@ one filter if you want a friendly list.
 | `is_plural` | the word is a listed plural of another entry |
 | `lexfile` | WordNet lexicographer file (`noun.animal`, `noun.artifact`, …) |
 | `definition` | one gloss, for showing the player |
-| `source` | `oewn2025` (42,586) · `scowl` (11,993) · `pos-auto` (4,327) · `gaps-review` (1,915) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (70) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (8) · `domain:z_words` (1) |
+| `source` | `oewn2025` (42,586) · `scowl` (11,993) · `pos-auto` (4,327) · `gaps-review` (3,609) · `domain:x_words` (193) · `manual-entry` (142) · `domain:initialisms` (99) · `domain:bioinformatics` (84) · `domain:y_words` (70) · `domain:everyday` (58) · `domain:medical_imaging` (45) · `domain:electronics` (37) · `domain:typography` (15) · `domain:reported` (8) · `domain:z_words` (45) |
 
 ## Playable words, by tier
 
@@ -52,17 +52,17 @@ one filter if you want a friendly list.
 | --- | ---: |
 | CORE | 615 |
 | COMMON | 2,814 |
-| FAMILIAR | 7,355 |
-| UNCOMMON | 11,923 |
-| RARE | 13,140 |
-| OBSCURE | 15,998 |
+| FAMILIAR | 7,361 |
+| UNCOMMON | 12,926 |
+| RARE | 13,160 |
+| OBSCURE | 16,022 |
 
 Three cuts, and the file is built so that picking one is a filter, not a rebuild:
 
-* **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,784 words**. Barely moved this release, which
+* **friendly** — `tier` in CORE/COMMON/FAMILIAR: **10,790 words**. Barely moved this release, which
   is the point: almost everything added landed below it.
-* **defensible** — everything except OBSCURE: **35,847 words**.
-* **extra-wide** — all **51,845**, including the OBSCURE band. `wordfreq` has never seen these,
+* **defensible** — everything except OBSCURE: **36,876 words**.
+* **extra-wide** — all **52,898**, including the OBSCURE band. `wordfreq` has never seen these,
   which for `tokenomics` and `lootbox` means the frequency table is older than the word, and for
   `ophicleide` and `quitrent` means the word is genuinely rare. Both are in the same band and both
   carry `marks = "obscure"`; the dataset does not pretend to tell them apart.
@@ -74,17 +74,17 @@ Three cuts, and the file is built so that picking one is a filter, not a rebuild
 | verb (not a noun) | 3,064 |
 | spelling variant of another word (reviewed) | 1,625 |
 | adjective (not a noun) | 1,163 |
-| proper noun or other non-noun (reviewed) | 1,073 |
-| british/commonwealth spelling variant | 705 |
+| proper noun or other non-noun (reviewed) | 1,316 |
+| british/commonwealth spelling variant | 704 |
 | inflected form (Wiktionary) | 450 |
 | not in Wiktionary | 411 |
 | plural-only (Wiktionary) | 409 |
-| adjective (reviewed) | 202 |
+| adjective (reviewed) | 460 |
 | adjective/verb (not a noun) | 121 |
 | initialism, not a common noun (reviewed) | 103 |
-| not a usable common noun (reviewed) | 153 |
+| not a usable common noun (reviewed) | 291 |
 | plural of listed word | 60 |
-| verb form (reviewed) | 63 |
+| verb form (reviewed) | 110 |
 | adjective/adverb (not a noun) | 55 |
 | adverb (not a noun) | 45 |
 | function word (not a noun) | 18 |
@@ -109,8 +109,9 @@ set on **`same_word_as or noun`** and the pair collapses to one word — `whisky
 `whiskey` maps to itself, and the second one played is a repeat. Chain letters are unaffected: they
 come from `start` and `end` of the word actually typed.
 
-Eight rows carry it today — `adz` (adze), `aunty` (auntie), `genitrix` (genetrix), `panmixis`
-(panmixia), `whisky` (whiskey), `wiz` (whiz), `yachtman` (yachtsman), `yack` (yak) — every one of
+Nine rows carry it today — `adz` (adze), `aunty` (auntie), `defenceman` (defenseman), `genitrix`
+(genetrix), `panmixis` (panmixia), `whisky` (whiskey), `wiz` (whiz), `yachtman` (yachtsman), `yack`
+(yak) — every one of
 them a `both` ruling in `reviews/variants-reviewed.csv`, where a doublet is real and both spellings
 are current. Not every pair is a spelling: `wiz` and `whiz` are two clippings of `wizard` with one
 gloss, and the column ties them the same way. The alternative, rejecting one side, is what the file did before and it costs
@@ -123,18 +124,18 @@ that would rather ship one spelling per word can filter instead.
 | --- | ---: |
 | obscure | 16,249 |
 | verb (not a noun) | 3,032 |
-| possible name | 2,234 |
+| possible name | 2,477 |
 | manual - not in Wiktionary, is it a real noun? | 1,378 |
-| possible abbreviation or clipping | 1,381 |
+| possible abbreviation or clipping | 1,420 |
 | adjective (not a noun) | 1,061 |
 | usually a verb (corpus) | 875 |
-| usually an adjective (corpus) | 872 |
-| UK/Commonwealth spelling | 755 |
-| possible plural | 617 |
+| usually an adjective (corpus) | 873 |
+| UK/Commonwealth spelling | 754 |
+| possible plural | 618 |
 | also a verb (SCOWL) | 239 |
 | also an adjective (SCOWL) | 190 |
-| usually a name (corpus) | 179 |
-| adjective (reviewed) | 202 |
+| usually a name (corpus) | 246 |
+| adjective (reviewed) | 460 |
 | noun in SCOWL, not in Wiktionary | 167 |
 | adjective/verb (not a noun) | 121 |
 | not in Wiktionary, glossed by hand | 112 |
@@ -297,7 +298,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | Open English WordNet 2025 | 42,586 | the spine: senses, lexfiles, glosses |
 | SCOWL / English Speller Database | 11,993 | a curated dictionary aggregate (12dicts, ENABLE2K, COCA) with POS, commonality bands and per-dialect spelling codes |
 | `pos-auto` | 4,327 | words recovered by the POS pass |
-| `gaps-review` | 1,915 | ruled by hand out of the Wiktionary-only queue |
+| `gaps-review` | 3,609 | ruled by hand out of the Wiktionary-only queue |
 | `domain:x_words` | 193 | `reviews/domains/x_words.csv` — one hand-ruled sheet |
 | `manual-entry` | 142 | typed in because no source had them |
 | `domain:initialisms` | 99 | `reviews/domains/initialisms.csv` — one hand-ruled sheet |
@@ -308,7 +309,7 @@ EWT and GUM treebanks into `sources/ud/` on its first run (~46 MB, once).
 | `domain:electronics` | 37 | `reviews/domains/electronics.csv` — one hand-ruled sheet |
 | `domain:typography` | 15 | `reviews/domains/typography.csv` — one hand-ruled sheet |
 | `domain:reported` | 8 | `reviews/domains/reported.csv` — one hand-ruled sheet |
-| `domain:z_words` | 1 | `reviews/domains/z_words.csv` — one hand-ruled sheet |
+| `domain:z_words` | 45 | `reviews/domains/z_words.csv` — one hand-ruled sheet |
 
 SCOWL is cut at **size ≤ 70**, which is both where its quality falls off and where its licence
 changes; `sources/README.md` has the copyright notice and the reasoning. The released
@@ -317,12 +318,15 @@ part of speech at all, so it cannot tell a noun from a verb.
 
 ## Where it could get better
 
-1. **`work/gaps-scowl-noun.csv` — 1,316 words two curated sources both call nouns.** Not a gap:
+1. **`work/gaps-scowl-noun.csv` — 1,313 words two curated sources both call nouns.** Not a gap:
    `apply_scowl.py` already adds every one of them as playable. The file is the review list for
    that automatic step, read in full on 2026-09-03; what it caught is in `docs/REPORT.md`. The
    rows left in it are the ones the read agreed with.
-2. **`work/gaps-scowl-nonnoun.csv` — 543 rows SCOWL calls something else**, naming what. Rulable in
-   bulk rather than one at a time.
+2. **`work/gaps-scowl-absent.csv` — 2,073 Wiktionary-only nouns at zipf 2.0 or better that no
+   second source confirms.** What is left after the 2026-09-03 read took 958 nouns, 237 names and
+   100 noise rows out of 3,389: foreign words with an English gloss, slang, and the dictionary
+   tail. `work/gaps-scowl-nonnoun.csv` is down to 111 rows, all initialisms, interjections and
+   spelling variants the read passed over.
 3. **`work/sen-v3.csv.unknown.csv` — 1,378 WordNet nouns Wiktionary has never heard of.** All
    excluded, all marked `manual - not in Wiktionary, is it a real noun?`. SCOWL confirms 239 and has
    never heard of 1,117, which corroborates leaving them out.

@@ -202,6 +202,7 @@ boxer,boxers,attributive,,3.74,FAMILIAR
 brachycephalism,brachycephaly,alt_of,,0.0,OBSCURE
 brahman,brahmin,alt_of,,2.81,UNCOMMON
 brasier,brazier,alt_of,,1.6,RARE
+break,breakpoint,alt_of,UK,5.18,CORE
 breathalyser,breathalyzer,alt_of,UK,1.6,RARE
 brent,brant,alt_of,,3.69,FAMILIAR
 brief,briefs,attributive,UK,4.52,COMMON
@@ -244,6 +245,7 @@ calorizator,calorisator,alt_of,,0.0,OBSCURE
 calpac,calpack,alt_of,,0.0,OBSCURE
 camass,camas,alt_of,US,0.0,OBSCURE
 camelia,camellia,alt_of,,1.94,RARE
+campong,kampung,alt_of,,0.0,OBSCURE
 canalization,canalisation,alt_of,,1.32,RARE
 candour,candor,alt_of,Canada;UK,2.46,UNCOMMON
 cannister,canister,alt_of,,1.61,RARE
@@ -380,6 +382,7 @@ commercialisation,commercialization,alt_of,,2.4,UNCOMMON
 communisation,communization,alt_of,UK,0.0,OBSCURE
 compartmentalisation,compartmentalization,alt_of,British,1.29,RARE
 complin,compline,alt_of,,0.0,OBSCURE
+con,conn,alt_of,,4.28,COMMON
 conceptualization,conceptualisation,alt_of,,2.48,UNCOMMON
 congo,congou,alt_of,,3.75,FAMILIAR
 conjuror,conjurer,alt_of,,1.68,RARE
@@ -525,6 +528,7 @@ disorganisation,disorganization,alt_of,UK,1.69,RARE
 dissyllable,disyllable,alt_of,,0.0,OBSCURE
 distention,distension,alt_of,,1.79,RARE
 distributer,distributor,alt_of,,1.74,RARE
+djinn,jinn,alt_of,,2.47,UNCOMMON
 djinni,djinn,alt_of,,1.51,RARE
 djinny,djinni,alt_of,,0.0,OBSCURE
 doggie,doggy,alt_of,,3.0,FAMILIAR
@@ -549,11 +553,13 @@ drosky,droshky,alt_of,,0.0,OBSCURE
 drouth,drought,alt_of,Scotland,0.0,OBSCURE
 dueller,dueler,alt_of,UK,0.0,OBSCURE
 duellist,duelist,alt_of,UK,1.44,RARE
+duff,daf,alt_of,Scotland;UK;US,3.36,FAMILIAR
 duffle,duffel,alt_of,,2.48,UNCOMMON
 durion,durian,alt_of,,0.0,OBSCURE
 dyarchy,diarchy,alt_of,,1.05,RARE
 dyspnoea,dyspnea,alt_of,UK,1.56,RARE
 eager,eagre,alt_of,,4.03,COMMON
+earmuff,earmuffs,attributive,,1.29,RARE
 economiser,economizer,alt_of,UK,0.0,OBSCURE
 effecter,effector,alt_of,,0.0,OBSCURE
 egis,aegis,alt_of,,1.32,RARE
@@ -751,6 +757,7 @@ grayness,greyness,alt_of,,1.4,RARE
 grey,gray,commonwealth,,4.48,COMMON
 griffon,griffin,alt_of,,2.37,UNCOMMON
 grille,grill,alt_of,,3.1,FAMILIAR
+grind,grindcore,alt_of,,3.94,FAMILIAR
 grossbeak,grosbeak,alt_of,,0.0,OBSCURE
 grotesquery,grotesquerie,alt_of,,0.0,OBSCURE
 groundkeeper,groundskeeper,alt_of,,0.0,OBSCURE
@@ -820,6 +827,7 @@ hemophilia,haemophilia,alt_of,US,2.41,UNCOMMON
 hemopoiesis,hematopoiesis,alt_of,,0.0,OBSCURE
 hermaphrodism,hermaphroditism,alt_of,,0.0,OBSCURE
 hesitator,hesitater,alt_of,,0.0,OBSCURE
+hex,hexadecimal,alt_of,,3.31,FAMILIAR
 hiccough,hiccup,dated,,1.14,RARE
 hierarchisation,hierarchization,alt_of,,0.0,OBSCURE
 highflyer,highflier,alt_of,,1.17,RARE
@@ -921,11 +929,13 @@ jagghery,jaggery,alt_of,,0.0,OBSCURE
 jaguarondi,jaguarundi,alt_of,,0.0,OBSCURE
 jailor,jailer,alt_of,,2.06,UNCOMMON
 jak,jack,alt_of,,2.7,UNCOMMON
+jeep,jeepney,alt_of,Australia,3.72,FAMILIAR
 jehad,jihad,alt_of,,1.59,RARE
 jessamine,jasmine,alt_of,,1.98,RARE
 jeweller,jeweler,alt_of,,2.65,UNCOMMON
 jewelry,jewellery,alt_of,US,4.12,COMMON
 jinnee,jinni,alt_of,,0.0,OBSCURE
+jinni,jinn,alt_of,,1.66,RARE
 jiujitsu,jujitsu,alt_of,,1.84,RARE
 jodhpur,jodhpurs,attributive,,2.59,UNCOMMON
 judgement,judgment,alt_of,Commonwealth,3.86,FAMILIAR
@@ -939,6 +949,7 @@ kainogenesis,caenogenesis,alt_of,,0.0,OBSCURE
 kalif,caliph,alt_of,,1.43,RARE
 kaliph,caliph,alt_of,,0.0,OBSCURE
 kaluresis,kaliuresis,alt_of,,0.0,OBSCURE
+kampong,kampung,dated,,2.06,UNCOMMON
 kanaf,kenaf,alt_of,,0.0,OBSCURE
 kaoline,kaolin,alt_of,,0.0,OBSCURE
 karabiner,carabiner,alt_of,,1.27,RARE
@@ -1016,6 +1027,7 @@ leukotomy,leucotomy,alt_of,,0.0,OBSCURE
 leveler,leveller,alt_of,American;US,1.9,RARE
 lexicalisation,lexicalization,alt_of,,0.0,OBSCURE
 liberalisation,liberalization,alt_of,UK,2.68,UNCOMMON
+licenser,licensor,alt_of,,1.14,RARE
 lichee,lychee,alt_of,,0.0,OBSCURE
 lichi,lychee,alt_of,,0.0,OBSCURE
 ligan,lagan,alt_of,,0.0,OBSCURE
@@ -1208,6 +1220,7 @@ normalisation,normalization,alt_of,UK,2.31,UNCOMMON
 normaliser,normalizer,alt_of,,0.0,OBSCURE
 novelisation,novelization,alt_of,,1.5,RARE
 noviciate,novitiate,alt_of,,0.0,OBSCURE
+nub,noob,alt_of,,2.55,UNCOMMON
 nucleole,nucleolus,alt_of,,0.0,OBSCURE
 nudnick,nudnik,alt_of,,0.0,OBSCURE
 nuna,noona,alt_of,,2.26,UNCOMMON
@@ -1344,6 +1357,7 @@ pipet,pipette,alt_of,US,1.17,RARE
 pipistrel,pipistrelle,alt_of,,0.0,OBSCURE
 pipul,peepul,alt_of,,0.0,OBSCURE
 pirana,piranha,alt_of,,0.0,OBSCURE
+pirogi,pierogi,alt_of,,0.0,OBSCURE
 piroshki,pirozhki,alt_of,,0.0,OBSCURE
 pitta,pita,alt_of,,2.42,UNCOMMON
 pixy,pixie,alt_of,,1.79,RARE
@@ -1397,6 +1411,7 @@ programme,program,uk,UK,4.57,COMMON
 prolapsus,prolapse,alt_of,,0.0,OBSCURE
 propellent,propellant,alt_of,,1.3,RARE
 propellor,propeller,alt_of,US,1.72,RARE
+proteosome,proteasome,alt_of,,0.0,OBSCURE
 prothalamium,prothalamion,alt_of,,0.0,OBSCURE
 protoactinium,protactinium,alt_of,,0.0,OBSCURE
 psilocyn,psilocin,alt_of,,0.0,OBSCURE
@@ -1406,6 +1421,7 @@ pummelo,pomelo,alt_of,,0.0,OBSCURE
 punchayet,panchayat,alt_of,,0.0,OBSCURE
 punkey,punkie,alt_of,,0.0,OBSCURE
 punky,punkie,alt_of,,2.34,UNCOMMON
+puree,puri,alt_of,,2.87,UNCOMMON
 pussly,pussley,alt_of,,0.0,OBSCURE
 pycnosis,pyknosis,alt_of,,0.0,OBSCURE
 pyemia,pyaemia,alt_of,,0.0,OBSCURE
@@ -1533,6 +1549,7 @@ secretariate,secretariat,alt_of,,0.0,OBSCURE
 secreter,secretor,alt_of,,0.0,OBSCURE
 sectionalisation,sectionalization,alt_of,,0.0,OBSCURE
 secularisation,secularization,alt_of,UK,1.79,RARE
+see,cee,alt_of,,6.1,CORE
 seedman,seedsman,alt_of,,0.0,OBSCURE
 selvedge,selvage,alt_of,,1.87,RARE
 sensitisation,sensitization,alt_of,UK,1.68,RARE
@@ -1850,6 +1867,7 @@ widgeon,wigeon,alt_of,,1.7,RARE
 wikiup,wickiup,alt_of,,0.0,OBSCURE
 willfulness,wilfulness,alt_of,US,1.62,RARE
 wistaria,wisteria,alt_of,,0.0,OBSCURE
+withe,wythe,alt_of,,2.11,UNCOMMON
 wivern,wyvern,alt_of,,0.0,OBSCURE
 wiz,whiz,alt_of,,3.13,FAMILIAR
 wolfbane,wolfsbane,alt_of,,0.0,OBSCURE
@@ -1870,8 +1888,11 @@ zamang,zaman,alt_of,,0.0,OBSCURE
 zikkurat,ziggurat,alt_of,,0.0,OBSCURE
 zikurat,ziggurat,alt_of,,0.0,OBSCURE
 zombi,zombie,alt_of,,1.72,RARE
+zoo,zoophile,alt_of,US,4.14,COMMON
+zoril,zorille,alt_of,,0.0,OBSCURE
 zumbooruck,zamburak,alt_of,,0.0,OBSCURE
 zumbooruk,zamburak,alt_of,,0.0,OBSCURE
+august,auguste,alt_of,,5.1,CORE
 lin,linn,alt_of,Ireland;Scotland,3.8,FAMILIAR
 dis,diss,alt_of,,3.73,FAMILIAR
 cain,kain,alt_of,,3.54,FAMILIAR
@@ -1879,6 +1900,12 @@ aum,om,alt_of,,2.6,UNCOMMON
 umma,ummah,alt_of,,2.26,UNCOMMON
 tawney,tawny,alt_of,,2.1,UNCOMMON
 stoke,stokes,alt_of,,3.73,FAMILIAR
+sammy,sammie,alt_of,,3.6,FAMILIAR
+trompe,tromp,alt_of,,2.21,UNCOMMON
+rando,randomizer,alt_of,,2.35,UNCOMMON
+erick,eric,alt_of,,2.89,UNCOMMON
+fina,finasteride,alt_of,,2.81,UNCOMMON
+jan,jinn,alt_of,,4.51,COMMON
 repo,repossession,alt_of,,3.1,FAMILIAR
 nanotech,nanotechnology,alt_of,,2.16,UNCOMMON
 crypto,cryptocurrency,alt_of,,3.6,FAMILIAR
@@ -1891,6 +1918,7 @@ yatagan,yataghan,alt_of,,0.0,OBSCURE
 yate,gate,alt_of,,1.87,RARE
 yogin,yogi,alt_of,,1.33,RARE
 ypsilon,upsilon,alt_of,,1.12,RARE
+adopt,adoptable,alt_of,,4.19,COMMON
 amuck,amok,alt_of,,2.05,UNCOMMON
 cozier,cosier,alt_of,,2.02,UNCOMMON
 homey,homie,alt_of,,2.75,UNCOMMON
@@ -1905,7 +1933,9 @@ phrenetic,frenetic,alt_of,,0.0,OBSCURE
 preventible,preventable,alt_of,,0.0,OBSCURE
 resistent,resistant,alt_of,,1.56,RARE
 royster,roister,alt_of,,1.95,RARE
+sad,saad,alt_of,,4.84,COMMON
 salable,saleable,alt_of,US,2.06,UNCOMMON
 scaley,scaly,alt_of,,1.42,RARE
 stanch,staunch,alt_of,US,1.93,RARE
 staunch,stanch,alt_of,,3.2,FAMILIAR
+woody,woodie,alt_of,,3.82,FAMILIAR

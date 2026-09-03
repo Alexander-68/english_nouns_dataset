@@ -70,7 +70,7 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wx_join import (  # noqa: E402  -- the rules live there; do not restate them
-    UK_US_IRREGULAR, corpus_mark, derived_american, tier,
+    UK_US_IRREGULAR, VARIANTS_REVIEWED_PATH, corpus_mark, derived_american, tier,
 )
 from rank_gaps import CLOSED_CLASS, NAME_LIST_PATH  # noqa: E402
 
@@ -164,7 +164,23 @@ def open_obscure(sen):
     return int(band.sum())
 
 
+def load_keep_both(path=VARIANTS_REVIEWED_PATH):
+    """word -> canonical for every `both` ruling in variants-reviewed.csv.
+
+    wx_join.py applies these to OEWN rows; a SCOWL row needs the same ruling
+    read here, or `defenceman` stays a British rejection no matter what the
+    reviewer wrote (2026-09-03).
+    """
+    try:
+        vr = pd.read_csv(path, keep_default_na=False, na_values=[])
+    except FileNotFoundError:
+        return {}
+    return {a: b for a, b, v in zip(vr['variant'], vr['canonical'], vr['verdict'])
+            if v == 'both'}
+
+
 def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_of):
+    keep_both = {w: c for w, c in load_keep_both().items() if c in have}
     rows = []
     for word in sorted(new_words):
         s = scowl[word]
@@ -183,7 +199,7 @@ def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_o
         # ---- rule the word, most authoritative signal last ---------------
         if word in CLOSED_CLASS:
             reason = 'function word (not a noun)'
-        elif not truthy(s['scowl_american_standard']):
+        elif not truthy(s['scowl_american_standard']) and word not in keep_both:
             reason = 'british/commonwealth spelling variant'
             suggest = american_form(word, have)
             marks.append('UK/Commonwealth spelling')
@@ -217,6 +233,8 @@ def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_o
                 marks = [m for m in marks if m != 'noun in SCOWL, unglossed']
 
         # ---- marks: everything still in doubt ----------------------------
+        if word in keep_both:
+            marks.append('spelling variant of ' + keep_both[word])
         if z <= 0.0:
             marks.append('obscure')
         if ({'name', 'upper'} & set(s['scowl_subtypes'].split(';'))
@@ -265,7 +283,8 @@ def build_rows(new_words, scowl, wnouns, wpos, dom, glosses, names, have, zipf_o
             'wikt_ing_reviewed_us': '', 'reviewed_variant_of': suggest,
             'reviewed_spelling_variant': bool(gl is not None
                                               and gl['verdict'] == 'variant'),
-            'reviewed_plural': False, 'reviewed_variant_kept': '',
+            'reviewed_plural': False,
+            'reviewed_variant_kept': keep_both.get(word, ''),
             'recommended': reason == '', 'suggest_instead': suggest,
             'excluded_because': reason,
             'corpus_dominant': d.dominant if d is not None else '',
